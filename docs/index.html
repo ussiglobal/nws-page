@@ -97,7 +97,7 @@
       font-size: .9rem;
     }
     .surf-item i {
-      font-size: 1rem;         /* uniform tiny icon */
+      font-size: 1rem;
       margin-right: .5rem;
       color: #0277bd;
     }
@@ -210,7 +210,7 @@
     <div class="surf-item">
       <i class="wi wi-thermometer-exterior"></i>
       <span class="label">Water Temp:</span>
-      <span class="value" id="s-water">--°</span>
+      <span class="value" id="s-water">--°F</span>
     </div>
     <div class="surf-item">
       <i class="wi wi-day-sunny"></i>
@@ -235,7 +235,7 @@
   <!-- Populate Weather & Surf Data -->
   <script>
   fetch('melbourne_fl_summary.txt')
-    .then(r => r.ok ? r.text() : Promise.reject('Failed to load'))
+    .then(r => r.ok ? r.text() : Promise.reject('Failed to load summary'))
     .then(txt => {
       const lines = txt.split('\n');
 
@@ -244,7 +244,7 @@
       const tMatch   = tempLine.match(/Temp: ([\d.]+)°F/);
       const hMatch   = tempLine.match(/Humidity: ([\d.]+)%/);
 
-      // Today's/tonight for max/min, rain, wind, forecast
+      // Forecast: today/tonight
       const todayLine   = lines.find(l => l.startsWith('• Today:'));
       const tonightLine = lines.find(l => l.startsWith('• Tonight:'));
       const rainMatch   = todayLine.match(/Rain: (\d+)%/);
@@ -254,45 +254,45 @@
       const minMatch    = tonightLine.match(/Low: (\d+)°F/);
 
       // Surf block
-      const surfStart  = lines.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
-      const surfEnd    = lines.findIndex((l,i) => i>surfStart && l.includes('Sunset'));
-      const surfBlock  = lines.slice(surfStart, surfEnd+1);
+      const surfStart = lines.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
+      const surfEnd   = lines.findIndex((l,i) => i > surfStart && l.includes('Sunset'));
+      const surfBlock = lines.slice(surfStart, surfEnd + 1);
 
       const riskLine     = surfBlock.find(l => l.startsWith('Rip Current Risk'));
       const heightLine   = surfBlock.find(l => l.startsWith('Surf Height'));
       const thunderLine  = surfBlock.find(l => l.includes('Thunderstorm Potential'));
-      const waterLine    = surfBlock.find(l => l.includes('Water Temperature'));
+      const waterLine    = surfBlock.find(l => /Water Temperature/i.test(l));
       const uvLine       = surfBlock.find(l => l.startsWith('UV Index'));
       const srLine       = surfBlock.find(l => l.trim().startsWith('Sunrise'));
       const ssLine       = surfBlock.find(l => l.trim().startsWith('Sunset'));
 
+      // Regex parsing
       const riskMatch    = riskLine.match(/Rip Current Risk.*?([A-Za-z]+)/);
-      const heightMatch  = heightLine.match(/(Around.*)/);
+      const heightMatch  = heightLine.match(/Around\s*([\d\s\w]+)/);
       const thunderMatch = thunderLine.match(/Thunderstorm Potential.*?([A-Za-z]+)/);
-      const waterMatch   = waterLine.match(/Water Temperature.*?([\d.]+)/);
+      const waterMatch   = waterLine.match(/Water Temperature.*?([\d.]+)/i);
       const uvMatch      = uvLine.match(/UV Index.*?([A-Za-z]+)/);
-      const srMatch      = srLine.match(/Sunrise:\s*(.*)/);
-      const ssMatch      = ssLine.match(/Sunset:\s*(.*)/);
+      const srMatch      = srLine.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
+      const ssMatch      = ssLine.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
 
-      const colorMap     = { Low:'#00FF00',Moderate:'#FFFF00',High:'#FF0000' };
+      const colorMap = { Low: '#00FF00', Moderate: '#FFFF00', High: '#FF0000' };
 
-      // Inject
-      if (tMatch)    document.getElementById('w-temp').textContent     = tMatch[1]+'°F';
-      if (hMatch)    document.getElementById('w-hum').textContent      = hMatch[1]+'%';
-      if (rainMatch) document.getElementById('w-rain').textContent     = rainMatch[1]+'%';
+      // Inject values
+      if (tMatch)    document.getElementById('w-temp').textContent     = tMatch[1] + '°F';
+      if (hMatch)    document.getElementById('w-hum').textContent      = hMatch[1] + '%';
+      if (rainMatch) document.getElementById('w-rain').textContent     = rainMatch[1] + '%';
       if (windMatch) document.getElementById('w-wind').textContent     = windMatch[1].trim();
-      if (foreMatch) document.getElementById('w-forecast').textContent = foreMatch[1].trim()+'.';
-      if (maxMatch)  document.getElementById('w-max').textContent      = maxMatch[1]+'°F';
-      if (minMatch)  document.getElementById('w-min').textContent      = minMatch[1]+'°F';
+      if (foreMatch) document.getElementById('w-forecast').textContent = foreMatch[1].trim() + '.';
+      if (maxMatch)  document.getElementById('w-max').textContent      = maxMatch[1] + '°F';
+      if (minMatch)  document.getElementById('w-min').textContent      = minMatch[1] + '°F';
 
       if (riskMatch) {
-        const risk = riskMatch[1];
-        document.getElementById('s-risk').textContent      = risk;
-        document.getElementById('s-flag').style.background = colorMap[risk]||'#ccc';
+        document.getElementById('s-risk').textContent  = riskMatch[1];
+        document.getElementById('s-flag').style.background = colorMap[riskMatch[1]] || '#ccc';
       }
-      if (heightMatch)  document.getElementById('s-height').textContent  = heightMatch[1];
+      if (heightMatch)  document.getElementById('s-height').textContent  = heightMatch[1].trim();
       if (thunderMatch) document.getElementById('s-thunder').textContent = thunderMatch[1];
-      if (waterMatch)   document.getElementById('s-water').textContent   = waterMatch[1]+'°';
+      if (waterMatch)   document.getElementById('s-water').textContent   = waterMatch[1] + '°F';
       if (uvMatch)      document.getElementById('s-uv').textContent      = uvMatch[1];
       if (srMatch)      document.getElementById('s-sunrise').textContent = srMatch[1];
       if (ssMatch)      document.getElementById('s-sunset').textContent  = ssMatch[1];
@@ -310,28 +310,28 @@
     const base = 'images/';
     const container = document.querySelector('.slideshow');
     const slides = [];
-    let idx=0, started=false;
+    let idx = 0, started = false;
 
-    filenames.forEach(name=>{
-      const img=new Image();
-      img.src=base+name;
-      img.onload=()=>{
+    filenames.forEach(name => {
+      const img = new Image();
+      img.src = base + name;
+      img.onload = () => {
         img.classList.add('slide');
         container.appendChild(img);
         slides.push(img);
-        if(!started) startSlideshow();
+        if (!started) startSlideshow();
       };
     });
 
-    function startSlideshow(){
-      started=true;
-      if(!slides.length) return;
+    function startSlideshow() {
+      started = true;
+      if (!slides.length) return;
       slides[0].classList.add('active');
-      setInterval(()=>{
+      setInterval(() => {
         slides[idx].classList.remove('active');
-        idx=(idx+1)%slides.length;
+        idx = (idx + 1) % slides.length;
         slides[idx].classList.add('active');
-      },10000);
+      }, 10000);
     }
   })();
   </script>
