@@ -26,7 +26,7 @@
 
     /* —— Weather Summary Styles —— */
     #weather-summary {
-      max-width: 800px;
+      max-width: 90%;
       margin: 1.5rem auto;
       padding: 1.5rem;
       background: #81d4fa;
@@ -41,43 +41,44 @@
     }
     .weather-card {
       display: grid;
-      grid-template-columns: repeat(5, 1fr);
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 1rem;
       margin-top: 1rem;
     }
     .weather-item {
       background: rgba(0,0,0,0.4);
       border-radius: 6px;
-      padding: 1rem;
+      padding: 1.5rem;             /* increased padding */
       text-align: center;
     }
     .weather-item i {
-      font-size: 2rem;
+      font-size: 2.5rem;           /* larger icon */
       display: block;
-      margin-bottom: .3rem;
+      margin-bottom: .5rem;
       color: #ffd54f;
     }
     .weather-item .label {
       display: block;
-      font-size: .8rem;
+      font-size: .9rem;
       opacity: .8;
     }
     .weather-item .value {
-      font-size: 1rem;
+      font-size: 1.1rem;
       font-weight: bold;
+      margin-top: .3rem;
     }
     .weather-item .subvalue {
       display: block;
-      font-size: .7rem;
+      font-size: .8rem;
       opacity: .7;
       margin-top: .5rem;
     }
 
     /* —— Surf Forecast Styles —— */
     #surf-forecast {
-      max-width: 800px;
+      max-width: 90%;
       margin: 1.5rem auto;
-      padding: 1rem;
+      padding: 1.2rem;
       background: #ffffffcc;
       border-radius: 8px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
@@ -93,12 +94,12 @@
     .surf-item {
       display: flex;
       align-items: center;
-      margin: .5rem 0;
-      font-size: .9rem;
+      margin: .6rem 0;
+      font-size: .95rem;
     }
     .surf-item i {
-      font-size: 1rem;
-      margin-right: .5rem;
+      font-size: 1.2rem;
+      margin-right: .6rem;
       color: #0277bd;
     }
     .surf-item .label {
@@ -120,7 +121,7 @@
     /* —— Slideshow Styles —— */
     .slideshow {
       position: relative;
-      max-width: 800px;
+      max-width: 90%;
       margin: 2rem auto;
       border: 4px solid #81d4fa;
       border-radius: 12px;
@@ -239,7 +240,7 @@
     .then(txt => {
       const lines = txt.split('\n');
 
-      // Temp & Humidity
+      // Current temp & humidity
       const tempLine = lines.find(l => l.startsWith('Temp:'));
       const tMatch   = tempLine.match(/Temp: ([\d.]+)°F/);
       const hMatch   = tempLine.match(/Humidity: ([\d.]+)%/);
@@ -275,20 +276,20 @@
       const srMatch      = srLine.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
       const ssMatch      = ssLine.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
 
-      const colorMap     = { Low:'#00FF00',Moderate:'#FFFF00',High:'#FF0000' };
+      const colorMap     = { Low: '#00FF00', Moderate: '#FFFF00', High: '#FF0000' };
 
       // Inject values
-      if (tMatch)    document.getElementById('w-temp').textContent           = tMatch[1] + '°F';
-      if (hMatch)    document.getElementById('w-hum').textContent            = hMatch[1] + '%';
-      if (rainMatch) document.getElementById('w-rain').textContent           = rainMatch[1] + '%';
-      if (windMatch) document.getElementById('w-wind').textContent           = windMatch[1].trim();
-      if (foreMatch) document.getElementById('w-forecast').textContent       = foreMatch[1].trim() + '.';
-      if (maxMatch)  document.getElementById('w-max').textContent            = maxMatch[1] + '°F';
-      if (minMatch)  document.getElementById('w-min').textContent            = minMatch[1] + '°F';
+      if (tMatch)    document.getElementById('w-temp').textContent          = tMatch[1] + '°F';
+      if (hMatch)    document.getElementById('w-hum').textContent           = hMatch[1] + '%';
+      if (rainMatch) document.getElementById('w-rain').textContent          = rainMatch[1] + '%';
+      if (windMatch) document.getElementById('w-wind').textContent          = windMatch[1].trim();
+      if (foreMatch) document.getElementById('w-forecast').textContent      = foreMatch[1].trim() + '.';
+      if (maxMatch)  document.getElementById('w-max').textContent           = maxMatch[1] + '°F';
+      if (minMatch)  document.getElementById('w-min').textContent           = minMatch[1] + '°F';
 
       if (riskMatch) {
-        document.getElementById('s-risk').textContent                        = riskMatch[1];
-        document.getElementById('s-flag').style.background                   = colorMap[riskMatch[1]] || '#ccc';
+        document.getElementById('s-risk').textContent                     = riskMatch[1];
+        document.getElementById('s-flag').style.background                = colorMap[riskMatch[1]] || '#ccc';
       }
       if (heightMatch)  document.getElementById('s-height').textContent      = heightMatch[1].trim();
       if (thunderMatch) document.getElementById('s-thunder').textContent     = thunderMatch[1];
