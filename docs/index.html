@@ -29,7 +29,7 @@
       max-width: 800px;
       margin: 1.5rem auto;
       padding: 1.5rem;
-      background: url('background-weather.jpg') center/cover no-repeat;
+      background: #81d4fa;          /* light blue matching slideshow border */
       border-radius: 10px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
       color: #fff;
@@ -37,7 +37,7 @@
     #weather-summary h2 {
       margin-top: 0;
       font-size: 1.6rem;
-      color: #fff;
+      color: #0d47a1;                /* dark blue title */
     }
     .weather-card {
       display: grid;
@@ -59,17 +59,16 @@
     }
     .weather-item .label {
       display: block;
-      font-size: .9rem;
+      font-size: .8rem;             /* smaller label */
       opacity: .8;
     }
     .weather-item .value {
-      font-size: 1.2rem;
+      font-size: 1rem;              /* smaller value font */
       font-weight: bold;
     }
-    /* Sub‐values for max/min */
     .weather-item .subvalue {
       display: block;
-      font-size: .8rem;
+      font-size: .7rem;
       opacity: .7;
       margin-top: .5rem;
     }
@@ -84,6 +83,7 @@
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
       text-align: left;
       font-family: "Segoe UI", sans-serif;
+      color: #333;
     }
     #surf-forecast h2 {
       margin-top: 0;
@@ -94,10 +94,11 @@
       display: flex;
       align-items: center;
       margin: 0.5rem 0;
+      font-size: .9rem;
     }
     .surf-item i {
       font-size: 1.5rem;
-      margin-right: 0.5rem;
+      margin-right: .5rem;
       color: #0277bd;
     }
     .surf-item .label {
@@ -211,10 +212,6 @@
   <!-- Slideshow -->
   <div class="slideshow"></div>
 
-  <footer>
-    Slides rotate every 10 seconds with a smooth fade.
-  </footer>
-
   <!-- Populate Weather & Surf Data -->
   <script>
   fetch('melbourne_fl_summary.txt')
@@ -224,23 +221,19 @@
 
       // Current temp & humidity
       const tempLine = lines.find(l => l.startsWith('Temp:'));
-      const tMatch = tempLine.match(/Temp: ([\d.]+)°F/);
-      const hMatch = tempLine.match(/Humidity: ([\d.]+)%/);
+      const tMatch   = tempLine.match(/Temp: ([\d.]+)°F/);
+      const hMatch   = tempLine.match(/Humidity: ([\d.]+)%/);
 
-      // Forecast lines
+      // Forecast: today/tonight for max & min + rain, wind, forecast text
       const todayLine   = lines.find(l => l.startsWith('• Today:'));
+      const tonightLine = lines.find(l => l.startsWith('• Tonight:'));
       const rainMatch   = todayLine.match(/Rain: (\d+)%/);
       const windMatch   = todayLine.match(/Wind: ([^;]+)/);
       const foreMatch   = todayLine.match(/—\s*([^.;]+)/);
       const maxMatch    = todayLine.match(/High: (\d+)°F/);
-
-      const tonightLine = lines.find(l => l.startsWith('• Tonight:'));
       const minMatch    = tonightLine.match(/Low: (\d+)°F/);
 
       // Surf block
-      // We assume the trimmed summary script left
-      // the zoneBlockLines in the DOM under #summary-content originally.
-      // Instead, we re-fetch here:
       const surfStart  = lines.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
       const surfEnd    = lines.findIndex((l,i) => i > surfStart && l.includes('Sunset'));
       const surfBlock  = lines.slice(surfStart, surfEnd+1);
@@ -249,16 +242,12 @@
       const uvLine     = surfBlock.find(l => l.startsWith('UV Index'));
 
       // Parse surf details
-      const riskMatch  = riskLine.match(/Rip Current Risk.*?([A-Za-z]+)/);
-      const heightMatch= heightLine.match(/Surf Height.*?\.\.\.(.*)/);
-      const uvMatch    = uvLine.match(/UV Index.*?([A-Za-z]+)/);
+      const riskMatch   = riskLine.match(/Rip Current Risk.*?([A-Za-z]+)/);
+      const heightMatch = heightLine.match(/Surf Height.*?\.\.\.(.*)/);
+      const uvMatch     = uvLine.match(/UV Index.*?([A-Za-z]+)/);
 
-      // Helper for flag color
-      const colorMap = {
-        Low: '#00FF00',
-        Moderate: '#FFFF00',
-        High: '#FF0000'
-      };
+      // Flag colors
+      const colorMap = { Low: '#00FF00', Moderate: '#FFFF00', High: '#FF0000' };
 
       // Inject values
       if (tMatch)    document.getElementById('w-temp').textContent    = tMatch[1] + '°F';
@@ -274,12 +263,10 @@
         document.getElementById('s-risk').textContent = risk;
         document.getElementById('s-flag').style.background = colorMap[risk]||'#ccc';
       }
-      if (heightMatch) document.getElementById('s-height').textContent= heightMatch[1].trim();
-      if (uvMatch)     document.getElementById('s-uv').textContent    = uvMatch[1];
+      if (heightMatch) document.getElementById('s-height').textContent = heightMatch[1].trim();
+      if (uvMatch)     document.getElementById('s-uv').textContent     = uvMatch[1];
     })
-    .catch(err => {
-      console.error('Weather parse error:', err);
-    });
+    .catch(err => console.error('Weather parse error:', err));
   </script>
 
   <!-- Slideshow Script -->
@@ -317,5 +304,6 @@
     }
   })();
   </script>
+
 </body>
 </html>
