@@ -97,7 +97,7 @@
     Slides rotate every 10 seconds with a smooth fade. 
   </footer>
 
- <script>
+<script>
 fetch('melbourne_fl_summary.txt')
   .then(r => {
     if (!r.ok) throw new Error('Network response was not ok');
@@ -106,31 +106,35 @@ fetch('melbourne_fl_summary.txt')
   .then(txt => {
     const lines = txt.split('\n');
 
-    // 1) Extract Forecast (up until Current Conditions)
+    // 1) Forecast section (up until "🌡️ Current Conditions:")
     const fStart = lines.findIndex(l => l.startsWith('📅 Forecast:'));
     const fEnd   = lines.findIndex((l,i) => i > fStart && l.startsWith('🌡️ Current Conditions:'));
     const forecastLines = lines.slice(fStart, fEnd);
 
-    // 2) Extract Current Conditions (just the heading + next line)
+    // 2) Current Conditions (heading + next line)
     const currLines = lines.slice(fEnd, fEnd + 2);
 
-    // 3) Extract Surf Forecast (from its header to the '&&' or blank line before footnotes)
-    const sStart = lines.findIndex(l => l.startsWith('🌊 Surf Forecast'));
-    // find the line index of the '&&' marker (or the first blank line followed by 'Rip Current Risk Category')
-    let sEnd = lines.findIndex((l,i) => i > sStart && l.trim() === '&&');
-    if (sEnd === -1) {
-      // fallback: stop when we hit "Rip Current Risk Category"
-      sEnd = lines.findIndex((l,i) => i > sStart && l.startsWith('Rip Current Risk Category'));
+    // 3) Surf Forecast: find second zone header "FLZ..."
+    const surfHeader = lines.findIndex(l => l.startsWith('🌊 Surf Forecast'));
+    // all "FLZ" indices after the surf header
+    const zoneIndices = lines
+      .map((l,i) => /^FLZ\d/.test(l.trim()) && i > surfHeader ? i : -1)
+      .filter(i => i >= 0);
+    let surfLines = [];
+    if (zoneIndices.length >= 2) {
+      const start = zoneIndices[1];  // second FLZ… block
+      // find the Sunset line after that
+      const sunsetIdx = lines.findIndex((l,i) => i > start && l.includes('Sunset'));
+      const end = sunsetIdx >= 0 ? sunsetIdx : lines.length - 1;
+      surfLines = lines.slice(start, end + 1);
     }
-    // slice up to (but not including) that marker
-    const surfLines = lines.slice(sStart, sEnd);
 
-    // combine and render
+    // 4) Combine and render
     const output = [
       ...forecastLines,
-      '',          // spacer
+      '', 
       ...currLines,
-      '',          // spacer
+      '',
       ...surfLines
     ].join('\n');
 
@@ -142,3 +146,4 @@ fetch('melbourne_fl_summary.txt')
     console.error(err);
   });
 </script>
+
