@@ -119,11 +119,7 @@
       const surfHeaderIdx  = lines.findIndex(l => l.startsWith('🌊 Surf Forecast'));
       const surfHeaderLine = lines[surfHeaderIdx];
 
-      // 4) Surf Zone title
-      const zoneTitleIdx   = lines.findIndex(l => l.trim() === 'Surf Zone Forecast');
-      const zoneTitleLine  = lines[zoneTitleIdx];
-
-      // 5) Southern Brevard Barrier Islands block
+      // 4) Southern Brevard Barrier Islands block
       const zoneNameIdx    = lines.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
       const sunsetIdx      = lines.findIndex((l,i) => i > zoneNameIdx && l.includes('Sunset'));
       const zoneBlockLines = lines.slice(zoneNameIdx, sunsetIdx + 1);
