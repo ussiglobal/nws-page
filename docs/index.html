@@ -94,59 +94,98 @@
   <div class="slideshow"></div>
 
   <footer>
-    Slides rotate every 10 seconds with a smooth fade. 
+    Slides rotate every 10 seconds with a smooth fade.
   </footer>
 
-<script>
-fetch('melbourne_fl_summary.txt')
-  .then(r => {
-    if (!r.ok) throw new Error('Network response was not ok');
-    return r.text();
-  })
-  .then(txt => {
-    const lines = txt.split('\n');
+  <!-- —— Weather Summary Fetch & Trim Script —— -->
+  <script>
+  fetch('melbourne_fl_summary.txt')
+    .then(r => {
+      if (!r.ok) throw new Error('Network response was not ok');
+      return r.text();
+    })
+    .then(txt => {
+      const lines = txt.split('\n');
 
-    // 1) Forecast block (up to Current Conditions)
-    const fStart = lines.findIndex(l => l.startsWith('📅 Forecast:'));
-    const fEnd   = lines.findIndex((l,i) => i > fStart && l.startsWith('🌡️ Current Conditions:'));
-    const forecastLines = lines.slice(fStart, fEnd);
+      // 1) Forecast block
+      const fStart = lines.findIndex(l => l.startsWith('📅 Forecast:'));
+      const fEnd   = lines.findIndex((l,i) => i > fStart && l.startsWith('🌡️ Current Conditions:'));
+      const forecastLines = lines.slice(fStart, fEnd);
 
-    // 2) Current Conditions (heading + value)
-    const currLines = lines.slice(fEnd, fEnd + 2);
+      // 2) Current Conditions
+      const currLines = lines.slice(fEnd, fEnd + 2);
 
-    // 3) Surf Forecast header
-    const surfHeaderIdx    = lines.findIndex(l => l.startsWith('🌊 Surf Forecast'));
-    const surfHeaderLine   = lines[surfHeaderIdx];
+      // 3) Surf header
+      const surfHeaderIdx  = lines.findIndex(l => l.startsWith('🌊 Surf Forecast'));
+      const surfHeaderLine = lines[surfHeaderIdx];
 
-    // 4) “Surf Zone Forecast” line
-    const zoneTitleIdx     = lines.findIndex(l => l.trim() === 'Surf Zone Forecast');
-    const zoneTitleLine    = lines[zoneTitleIdx];
+      // 4) Surf Zone title
+      const zoneTitleIdx   = lines.findIndex(l => l.trim() === 'Surf Zone Forecast');
+      const zoneTitleLine  = lines[zoneTitleIdx];
 
-    // 5) Find the “Southern Brevard Barrier Islands” start
-    const zoneNameIdx      = lines.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
-    // 6) Find the Sunset line after that
-    const sunsetIdx        = lines.findIndex((l,i) => i > zoneNameIdx && l.includes('Sunset'));
-    // 7) Slice only that block
-    const zoneBlockLines   = lines.slice(zoneNameIdx, sunsetIdx + 1);
+      // 5) Southern Brevard Barrier Islands block
+      const zoneNameIdx    = lines.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
+      const sunsetIdx      = lines.findIndex((l,i) => i > zoneNameIdx && l.includes('Sunset'));
+      const zoneBlockLines = lines.slice(zoneNameIdx, sunsetIdx + 1);
 
-    // 8) Combine and render
-    const output = [
-      ...forecastLines,
-      '', 
-      ...currLines,
-      '',
-      surfHeaderLine,
-      '',
-      zoneTitleLine,
-      '',
-      ...zoneBlockLines
-    ].join('\n');
+      // Combine and render
+      const output = [
+        ...forecastLines,
+        '',
+        ...currLines,
+        '',
+        surfHeaderLine,
+        '',
+        zoneTitleLine,
+        '',
+        ...zoneBlockLines
+      ].join('\n');
 
-    document.getElementById('summary-content').textContent = output;
-  })
-  .catch(err => {
-    document.getElementById('summary-content').textContent =
-      '⚠️ Unable to load weather summary.';
-    console.error(err);
-  });
-</script>
+      document.getElementById('summary-content').textContent = output;
+    })
+    .catch(err => {
+      document.getElementById('summary-content').textContent =
+        '⚠️ Unable to load weather summary.';
+      console.error(err);
+    });
+  </script>
+
+  <!-- —— Slideshow Initialization Script —— -->
+  <script>
+  (function() {
+    const filenames = [
+      '1.png','2.png','5.png','6.png','7.png',
+      'Climate.png','Forecast.png','KMLB_loop.gif'
+    ];
+    const base = 'images/';
+    const container = document.querySelector('.slideshow');
+    const slides = [];
+    let idx = 0;
+    let started = false;
+
+    filenames.forEach(name => {
+      const img = new Image();
+      img.src = base + name;
+      img.onload = () => {
+        img.classList.add('slide');
+        container.appendChild(img);
+        slides.push(img);
+        if (!started) startSlideshow();
+      };
+      // onerror: skip silently
+    });
+
+    function startSlideshow() {
+      started = true;
+      if (!slides.length) return;
+      slides[0].classList.add('active');
+      setInterval(() => {
+        slides[idx].classList.remove('active');
+        idx = (idx + 1) % slides.length;
+        slides[idx].classList.add('active');
+      }, 10000);
+    }
+  })();
+  </script>
+</body>
+</html>
