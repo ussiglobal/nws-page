@@ -3,6 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <title>🌤️ NWS Daily Weather Maps & Radar</title>
+
+  <!-- Weather Icons for dashboard -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
+
   <style>
     body {
       background: #f0f8ff;
@@ -27,31 +32,50 @@
     #weather-summary {
       max-width: 800px;
       margin: 1.5rem auto;
-      padding: 1rem 1.5rem;
-      background: #ffffffcc;
-      border: 2px solid #81d4fa;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      text-align: left;
-      font-family: "Consolas", "Courier New", monospace;
-      white-space: pre-wrap;
-      line-height: 1.4;
+      padding: 1.5rem;
+      background: url('background-weather.jpg') center/cover no-repeat;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      color: #fff;
     }
     #weather-summary h2 {
       margin-top: 0;
-      color: #0277bd;
-      font-size: 1.4rem;
+      color: #fff;
+      font-size: 1.6rem;
     }
-    #summary-content {
-      margin-top: 0.5rem;
-      color: #222;
+    .weather-card {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .weather-item {
+      background: rgba(0,0,0,0.4);
+      border-radius: 6px;
+      padding: 1rem;
+      text-align: center;
+    }
+    .weather-item i {
+      font-size: 2rem;
+      display: block;
+      margin-bottom: 0.3rem;
+      color: #ffd54f;
+    }
+    .weather-item .label {
+      display: block;
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+    .weather-item .value {
+      font-size: 1.2rem;
+      font-weight: bold;
     }
 
     /* —— Slideshow Styles —— */
     .slideshow {
       position: relative;
       max-width: 800px;
-      margin: 0 auto;
+      margin: 2rem auto;
       border: 4px solid #81d4fa;
       border-radius: 12px;
       overflow: hidden;
@@ -86,8 +110,34 @@
 
   <!-- —— Weather Summary Section —— -->
   <section id="weather-summary">
-    <h2>Current Weather Summary</h2>
-    <pre id="summary-content">Loading weather summary…</pre>
+    <h2>Current Weather</h2>
+    <div class="weather-card">
+      <div class="weather-item">
+        <i class="wi wi-thermometer"></i>
+        <span class="label">Temp</span>
+        <span class="value" id="w-temp">--°F</span>
+      </div>
+      <div class="weather-item">
+        <i class="wi wi-humidity"></i>
+        <span class="label">Humidity</span>
+        <span class="value" id="w-hum">--%</span>
+      </div>
+      <div class="weather-item">
+        <i class="wi wi-rain"></i>
+        <span class="label">Rain</span>
+        <span class="value" id="w-rain">--%</span>
+      </div>
+      <div class="weather-item">
+        <i class="wi wi-strong-wind"></i>
+        <span class="label">Wind</span>
+        <span class="value" id="w-wind">--</span>
+      </div>
+      <div class="weather-item wide">
+        <i class="wi wi-day-sunny"></i>
+        <span class="label">Forecast</span>
+        <span class="value" id="w-forecast">Loading…</span>
+      </div>
+    </div>
   </section>
 
   <!-- —— Slideshow —— -->
@@ -97,50 +147,30 @@
     Slides rotate every 10 seconds with a smooth fade.
   </footer>
 
-  <!-- —— Weather Summary Fetch & Trim Script —— -->
+  <!-- —— Weather Data Parsing & Injection —— -->
   <script>
   fetch('melbourne_fl_summary.txt')
-    .then(r => {
-      if (!r.ok) throw new Error('Network response was not ok');
-      return r.text();
-    })
+    .then(r => r.ok ? r.text() : Promise.reject('Failed to load'))
     .then(txt => {
       const lines = txt.split('\n');
+      // Temp & Humidity
+      const tempLine = lines.find(l => l.startsWith('Temp:'));
+      const tMatch = tempLine.match(/Temp: ([\d.]+)°F/);
+      const hMatch = tempLine.match(/Humidity: ([\d.]+)%/);
+      // Today's line for rain, wind & forecast
+      const todayLine = lines.find(l => l.startsWith('• Today:'));
+      const rainMatch = todayLine.match(/Rain: (\d+)%/);
+      const windMatch = todayLine.match(/Wind: ([^;]+)/);
+      const foreMatch = todayLine.match(/—\s*([^.;]+)/);
 
-      // 1) Forecast block
-      const fStart = lines.findIndex(l => l.startsWith('📅 Forecast:'));
-      const fEnd   = lines.findIndex((l,i) => i > fStart && l.startsWith('🌡️ Current Conditions:'));
-      const forecastLines = lines.slice(fStart, fEnd);
-
-      // 2) Current Conditions
-      const currLines = lines.slice(fEnd, fEnd + 2);
-
-      // 3) Surf Forecast header
-      const surfHeaderIdx  = lines.findIndex(l => l.startsWith('🌊 Surf Forecast'));
-      const surfHeaderLine = lines[surfHeaderIdx];
-
-      // 4) Southern Brevard Barrier Islands block
-      const zoneNameIdx    = lines.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
-      const sunsetIdx      = lines.findIndex((l,i) => i > zoneNameIdx && l.includes('Sunset'));
-      const zoneBlockLines = lines.slice(zoneNameIdx, sunsetIdx + 1);
-
-      // Combine and render
-      const output = [
-        ...forecastLines,
-        '',
-        ...currLines,
-        '',
-        surfHeaderLine,
-        '',
-        ...zoneBlockLines
-      ].join('\n');
-
-      document.getElementById('summary-content').textContent = output;
+      if (tMatch) document.getElementById('w-temp').textContent = tMatch[1] + '°F';
+      if (hMatch) document.getElementById('w-hum').textContent   = hMatch[1] + '%';
+      if (rainMatch) document.getElementById('w-rain').textContent = rainMatch[1] + '%';
+      if (windMatch) document.getElementById('w-wind').textContent = windMatch[1].trim();
+      if (foreMatch) document.getElementById('w-forecast').textContent = foreMatch[1].trim() + '.';
     })
     .catch(err => {
-      document.getElementById('summary-content').textContent =
-        '⚠️ Unable to load weather summary.';
-      console.error(err);
+      console.error('Weather summary error:', err);
     });
   </script>
 
@@ -154,8 +184,7 @@
     const base = 'images/';
     const container = document.querySelector('.slideshow');
     const slides = [];
-    let idx = 0;
-    let started = false;
+    let idx = 0, started = false;
 
     filenames.forEach(name => {
       const img = new Image();
@@ -166,7 +195,6 @@
         slides.push(img);
         if (!started) startSlideshow();
       };
-      // onerror: skip silently
     });
 
     function startSlideshow() {
