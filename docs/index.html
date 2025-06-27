@@ -11,8 +11,43 @@
       text-align: center;
       padding: 2rem 1rem;
     }
-    h1 { margin: 0; font-size: 2rem; color: #0277bd; }
-    h2 { margin: .2rem 0 1.5rem; font-size: 1.2rem; color: #555; font-style: italic; }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+      color: #0277bd;
+    }
+    h2.subtitle {
+      margin: 0.2rem 0 1.5rem;
+      font-size: 1.2rem;
+      color: #555;
+      font-style: italic;
+    }
+
+    /* —— Weather Summary Styles —— */
+    #weather-summary {
+      max-width: 800px;
+      margin: 1.5rem auto;
+      padding: 1rem 1.5rem;
+      background: #ffffffcc;
+      border: 2px solid #81d4fa;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: left;
+      font-family: "Consolas", "Courier New", monospace;
+      white-space: pre-wrap;
+      line-height: 1.4;
+    }
+    #weather-summary h2 {
+      margin-top: 0;
+      color: #0277bd;
+      font-size: 1.4rem;
+    }
+    #summary-content {
+      margin-top: 0.5rem;
+      color: #222;
+    }
+
+    /* —— Slideshow Styles —— */
     .slideshow {
       position: relative;
       max-width: 800px;
@@ -37,13 +72,25 @@
       opacity: 1;
       z-index: 1;
     }
-    footer { margin-top: 1.5rem; font-size: .9rem; color: #666; }
+
+    footer {
+      margin-top: 1.5rem;
+      font-size: .9rem;
+      color: #666;
+    }
   </style>
 </head>
 <body>
   <h1>☀️ Daily Weather Forecast</h1>
-  <h2>Melbourne, FL</h2>
+  <h2 class="subtitle">Melbourne, FL</h2>
 
+  <!-- —— Weather Summary Section —— -->
+  <section id="weather-summary">
+    <h2>Current Weather Summary</h2>
+    <pre id="summary-content">Loading weather summary…</pre>
+  </section>
+
+  <!-- —— Slideshow —— -->
   <div class="slideshow"></div>
 
   <footer>
@@ -51,6 +98,22 @@
   </footer>
 
   <script>
+  // Fetch and display the textual weather summary
+  fetch('melbourne_fl_summary.txt')
+    .then(response => {
+      if (!response.ok) throw new Error('Network response was not ok');
+      return response.text();
+    })
+    .then(text => {
+      document.getElementById('summary-content').textContent = text;
+    })
+    .catch(err => {
+      document.getElementById('summary-content').textContent =
+        '⚠️ Unable to load weather summary.';
+      console.error('Error fetching summary:', err);
+    });
+
+  // Slideshow logic
   (function() {
     const filenames = [
       '1.png','2.png','5.png','6.png','7.png',
@@ -69,7 +132,6 @@
         img.classList.add('slide');
         container.appendChild(img);
         slides.push(img);
-        // once at least one slide is loaded, start slideshow (only once)
         if (!started) startSlideshow();
       };
       // onerror: silent skip
@@ -78,7 +140,6 @@
     function startSlideshow() {
       started = true;
       if (!slides.length) return;
-      // show first
       slides[0].classList.add('active');
       setInterval(() => {
         slides[idx].classList.remove('active');
@@ -90,4 +151,3 @@
   </script>
 </body>
 </html>
-
