@@ -3,35 +3,64 @@
 <head>
   <meta charset="UTF-8">
   <title>🌤️ NWS Daily Weather Maps & Radar</title>
+
+  <!-- Weather Icons -->
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
+
   <style>
     body { background:#f0f8ff; font-family:"Segoe UI",sans-serif; color:#333; text-align:center; padding:2rem 1rem; }
     h1 { margin:0; font-size:2rem; color:#0277bd; }
     h2.subtitle { margin:.2rem 0 1.5rem; font-size:1.2rem; color:#555; font-style:italic; }
 
-    #weather-summary{max-width:800px;margin:1.5rem auto;padding:1.5rem;background:#81d4fa;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,0.15);color:#fff;}
-    #weather-summary h2{margin-top:0;font-size:1.6rem;color:#0d47a1;}
-    .weather-card{display:grid;grid-template-columns:repeat(5,1fr);gap:1rem;margin-top:1rem;}
-    .weather-item{background:rgba(0,0,0,0.4);border-radius:6px;padding:1rem;text-align:center;}
-    .weather-item i{font-size:2rem;display:block;margin-bottom:.3rem;color:#ffd54f;}
-    .weather-item .label{display:block;font-size:.8rem;opacity:.8;}
-    .weather-item .value{font-size:1rem;font-weight:bold;}
-    .weather-item .subvalue{display:block;font-size:.7rem;opacity:.7;margin-top:.5rem;}
+    /* Current Weather */
+    #weather-summary {
+      max-width:800px; margin:1.5rem auto; padding:1.5rem;
+      background:#81d4fa; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); color:#fff;
+    }
+    #weather-summary h2 { margin-top:0; font-size:1.6rem; color:#0d47a1; }
+    .weather-card {
+      display:grid; grid-template-columns:repeat(5,1fr); gap:1rem; margin-top:1rem;
+    }
+    .weather-item {
+      background:rgba(0,0,0,0.4); border-radius:6px; padding:1rem; text-align:center;
+    }
+    .weather-item i { font-size:2rem; display:block; margin-bottom:.3rem; color:#ffd54f; }
+    .weather-item .label { display:block; font-size:.8rem; opacity:.8; }
+    .weather-item .value { font-size:1rem; font-weight:bold; }
+    .weather-item .subvalue { display:block; font-size:.7rem; opacity:.7; margin-top:.5rem; }
 
-    #surf-forecast{max-width:800px;margin:1.5rem auto;padding:1rem;background:#ffffffcc;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.1);text-align:left;font-family:"Segoe UI",sans-serif;color:#333;}
-    #surf-forecast h2{margin-top:0;color:#0277bd;font-size:1.4rem;}
-    .surf-item{display:flex;align-items:center;margin:.5rem 0;font-size:.9rem;}
-    .surf-item i{font-size:1rem;margin-right:.5rem;color:#0277bd;}
-    .surf-item .label{font-weight:bold;margin-right:.5rem;}
-    .surf-item .value{margin-right:.5rem;}
-    .flag{display:inline-block;width:1rem;height:1rem;border-radius:50%;border:1px solid #999;vertical-align:middle;}
+    /* Surf Forecast */
+    #surf-forecast {
+      max-width:800px; margin:1.5rem auto; padding:1rem;
+      background:#ffffffcc; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);
+      text-align:left; font-family:"Segoe UI",sans-serif; color:#333;
+    }
+    #surf-forecast h2 { margin-top:0; color:#0277bd; font-size:1.4rem; }
+    .surf-item {
+      display:flex; align-items:center; margin:.5rem 0; font-size:.9rem;
+    }
+    .surf-item i { font-size:1rem; margin-right:.5rem; color:#0277bd; }
+    .surf-item .label { font-weight:bold; margin-right:.5rem; }
+    .surf-item .value { margin-right:.5rem; }
+    .flag {
+      display:inline-block; width:1rem; height:1rem; border-radius:50%;
+      border:1px solid #999; vertical-align:middle;
+    }
 
-    .slideshow{position:relative;max-width:800px;margin:2rem auto;border:4px solid #81d4fa;border-radius:12px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,0.15);background:white;height:450px;}
-    .slideshow img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:contain;opacity:0;transition:opacity 1s ease-in-out;}
-    .slideshow img.active{opacity:1;z-index:1;}
+    /* Slideshow */
+    .slideshow {
+      position:relative; max-width:800px; margin:2rem auto;
+      border:4px solid #81d4fa; border-radius:12px; overflow:hidden;
+      box-shadow:0 6px 18px rgba(0,0,0,0.15); background:white; height:450px;
+    }
+    .slideshow img {
+      position:absolute; top:0; left:0; width:100%; height:100%;
+      object-fit:contain; opacity:0; transition:opacity 1s ease-in-out;
+    }
+    .slideshow img.active { opacity:1; z-index:1; }
 
-    footer{margin-top:1.5rem;font-size:.9rem;color:#666;}
+    footer { margin-top:1.5rem; font-size:.9rem; color:#666; }
   </style>
 </head>
 <body>
@@ -76,7 +105,7 @@
   <section id="surf-forecast">
     <h2>Surf Forecast</h2>
     <div class="surf-item">
-      <i class="wi wi-exclamation-triangle"></i>
+      <i class="wi wi-ocean"></i>
       <span class="label">Rip Current Risk:</span>
       <span class="value" id="s-risk">--</span>
       <span id="s-flag" class="flag"></span>
@@ -111,36 +140,40 @@
   <!-- Slideshow -->
   <div class="slideshow"></div>
 
+  <!-- Data Injection -->
   <script>
   fetch('melbourne_fl_summary.txt')
-    .then(r => r.ok ? r.text() : Promise.reject('Failed to load summary'))
+    .then(r => r.ok ? r.text() : Promise.reject('Load failed'))
     .then(txt => {
-      const lines = txt.split('\n');
-      const tL = lines.find(l=>l.startsWith('Temp:')),
-            tM = tL.match(/Temp: ([\d.]+)°F/),
-            hM = tL.match(/Humidity: ([\d.]+)%/),
-            tod= lines.find(l=>l.startsWith('• Today:')),
-            ton= lines.find(l=>l.startsWith('• Tonight:')),
-            rM = tod.match(/Rain: (\d+)%/),
-            wM = tod.match(/Wind: ([^;]+)/),
-            fM = tod.match(/—\s*([^.;]+)/),
-            xM = tod.match(/High: (\d+)°F/),
-            nM = ton.match(/Low: (\d+)°F/),
-            sS = lines.findIndex(l=>l.startsWith('Southern Brevard Barrier Islands')),
-            sE = lines.findIndex((l,i)=>i>sS&&l.includes('Sunset')),
-            sB = lines.slice(sS,sE+1),
-            rL = sB.find(l=>l.startsWith('Rip Current Risk')),
-            hL = sB.find(l=>l.startsWith('Surf Height')),
-            tL2= sB.find(l=>l.includes('Thunderstorm Potential')),
-            uL = sB.find(l=>l.startsWith('UV Index')),
-            sr = sB.find(l=>l.trim().startsWith('Sunrise')),
-            ss = sB.find(l=>l.trim().startsWith('Sunset')),
-            rM2= rL.match(/Rip Current Risk.*?([A-Za-z]+)/),
-            hM2= hL.match(/Around\s*([\d\s\w]+)/),
-            tM2= tL2.match(/Thunderstorm Potential.*?([A-Za-z]+)/),
-            uM2= uL.match(/UV Index.*?([A-Za-z]+)/),
-            srM= sr.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/),
-            ssM= ss.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/),
+      const L = txt.split('\n');
+      // Current
+      const CL = L.find(l=>l.startsWith('Temp:'));
+      const tM = CL.match(/Temp: ([\d.]+)°F/),
+            hM = CL.match(/Humidity: ([\d.]+)%/);
+      // Forecast
+      const TD = L.find(l=>l.startsWith('• Today:')),
+            TG = L.find(l=>l.startsWith('• Tonight:'));
+      const rM = TD.match(/Rain: (\d+)%/),
+            wM = TD.match(/Wind: ([^;]+)/),
+            fM = TD.match(/—\s*([^.;]+)/),
+            xM = TD.match(/High: (\d+)°F/),
+            nM = TG.match(/Low: (\d+)°F/);
+      // Surf
+      const sS = L.findIndex(l=>l.startsWith('Southern Brevard Barrier Islands')),
+            sE = L.findIndex((l,i)=>i>sS&&l.includes('Sunset')),
+            SB = L.slice(sS,sE+1);
+      const rL = SB.find(l=>l.startsWith('Rip Current Risk')),
+            hL = SB.find(l=>l.startsWith('Surf Height')),
+            tL = SB.find(l=>l.includes('Thunderstorm Potential')),
+            uL = SB.find(l=>l.startsWith('UV Index')),
+            sRL= SB.find(l=>l.trim().startsWith('Sunrise')),
+            sSL= SB.find(l=>l.trim().startsWith('Sunset'));
+      const rM2 = rL.match(/Rip Current Risk.*?([A-Za-z]+)/),
+            hM2 = hL.match(/Around\s*([\d\s\w]+)/),
+            tM2 = tL.match(/Thunderstorm Potential.*?([A-Za-z]+)/),
+            uM2 = uL.match(/UV Index.*?([A-Za-z]+)/),
+            sRM = sRL.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/),
+            sSM = sSL.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/),
             cmap={Low:'#0f0',Moderate:'#ff0',High:'#f00'};
 
       if(tM) document.getElementById('w-temp').textContent=tM[1]+'°F';
@@ -151,36 +184,39 @@
       if(xM) document.getElementById('w-max').textContent=xM[1]+'°F';
       if(nM) document.getElementById('w-min').textContent=nM[1]+'°F';
 
-      if(rM2){
+      if(rM2) {
         document.getElementById('s-risk').textContent=rM2[1];
         document.getElementById('s-flag').style.background=cmap[rM2[1]];
       }
       if(hM2) document.getElementById('s-height').textContent=hM2[1].trim();
       if(tM2) document.getElementById('s-thunder').textContent=tM2[1];
       if(uM2) document.getElementById('s-uv').textContent=uM2[1];
-      if(srM) document.getElementById('s-sunrise').textContent=srM[1];
-      if(ssM) document.getElementById('s-sunset').textContent=ssM[1];
+      if(sRM) document.getElementById('s-sunrise').textContent=sRM[1];
+      if(sSM) document.getElementById('s-sunset').textContent=sSM[1];
     })
     .catch(console.error);
   </script>
 
+  <!-- Slideshow Script -->
   <script>
   (function(){
-    const fn=['1.png','2.png','5.png','6.png','7.png','Climate.png','Forecast.png','KMLB_loop.gif'],
-          base='images/',c=document.querySelector('.slideshow'),s=[];
-    let i=0,st=false;
-    fn.forEach(n=>{
+    const files=['1.png','2.png','5.png','6.png','7.png','Climate.png','Forecast.png','KMLB_loop.gif'],
+          base='images/',c=document.querySelector('.slideshow'),slides=[];
+    let idx=0,started=false;
+    files.forEach(n=>{
       const img=new Image();
       img.src=base+n;
       img.onload=()=>{
         img.classList.add('slide');
         c.appendChild(img);
-        s.push(img);
-        if(!st){st=true;img.classList.add('active');
+        slides.push(img);
+        if(!started){
+          started=true;
+          slides[0].classList.add('active');
           setInterval(()=>{
-            s[i].classList.remove('active');
-            i=(i+1)%s.length;
-            s[i].classList.add('active');
+            slides[idx].classList.remove('active');
+            idx=(idx+1)%slides.length;
+            slides[idx].classList.add('active');
           },10000);
         }
       };
