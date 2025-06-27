@@ -11,17 +11,8 @@
       text-align: center;
       padding: 2rem 1rem;
     }
-    h1 {
-      margin: 0;
-      font-size: 2rem;
-      color: #0277bd;
-    }
-    h2 {
-      margin: .2rem 0 1.5rem;
-      font-size: 1.2rem;
-      color: #555;
-      font-style: italic;
-    }
+    h1 { margin: 0; font-size: 2rem; color: #0277bd; }
+    h2 { margin: .2rem 0 1.5rem; font-size: 1.2rem; color: #555; font-style: italic; }
     .slideshow {
       position: relative;
       max-width: 800px;
@@ -31,62 +22,72 @@
       overflow: hidden;
       box-shadow: 0 6px 18px rgba(0,0,0,0.15);
       background: white;
+      height: 450px;
     }
     .slideshow img {
       position: absolute;
       top: 0; left: 0;
       width: 100%;
-      height: auto;
+      height: 100%;
+      object-fit: contain;
       opacity: 0;
       transition: opacity 1s ease-in-out;
-      border-radius: 8px;
     }
     .slideshow img.active {
       opacity: 1;
       z-index: 1;
     }
-    footer {
-      margin-top: 1.5rem;
-      font-size: .9rem;
-      color: #666;
-    }
+    footer { margin-top: 1.5rem; font-size: .9rem; color: #666; }
   </style>
 </head>
 <body>
-  <h1>☀️ Daily Weather Maps & Radar</h1>
+  <h1>☀️ Daily Weather Forecast</h1>
   <h2>Melbourne, FL</h2>
 
-  <div class="slideshow">
-    <img src="images/1.png"         alt="Map 1"          onerror="this.remove()">
-    <img src="images/2.png"         alt="Map 2"          onerror="this.remove()">
-    <img src="images/5.png"         alt="Map 5"          onerror="this.remove()">
-    <img src="images/6.png"         alt="Map 6"          onerror="this.remove()">
-    <img src="images/7.png"         alt="Map 7"          onerror="this.remove()">
-    <img src="images/Climate.png"   alt="Climate"        onerror="this.remove()">
-    <img src="images/Forecast.png"  alt="Forecast"       onerror="this.remove()">
-    <img src="images/KMLB_loop.gif" alt="Radar Loop"     onerror="this.remove()">
-  </div>
+  <div class="slideshow"></div>
 
   <footer>
-    Slides rotate every 10 seconds with a smooth fade. ❤️
+    Slides rotate every 10 seconds with a smooth fade. 
   </footer>
 
   <script>
-    window.addEventListener('load', () => {
-      // collect only the imgs that survived onerror()
-      const slides = Array.from(document.querySelectorAll('.slideshow img'));
-      if (!slides.length) return;
-      let idx = 0;
-      // hide them all, then show first
-      slides.forEach(img => img.classList.remove('active'));
-      slides[0].classList.add('active');
+  (function() {
+    const filenames = [
+      '1.png','2.png','5.png','6.png','7.png',
+      'Climate.png','Forecast.png','KMLB_loop.gif'
+    ];
+    const base = 'images/';
+    const container = document.querySelector('.slideshow');
+    const slides = [];
+    let idx = 0;
+    let started = false;
 
+    filenames.forEach(name => {
+      const img = new Image();
+      img.src = base + name;
+      img.onload = () => {
+        img.classList.add('slide');
+        container.appendChild(img);
+        slides.push(img);
+        // once at least one slide is loaded, start slideshow (only once)
+        if (!started) startSlideshow();
+      };
+      // onerror: silent skip
+    });
+
+    function startSlideshow() {
+      started = true;
+      if (!slides.length) return;
+      // show first
+      slides[0].classList.add('active');
       setInterval(() => {
         slides[idx].classList.remove('active');
         idx = (idx + 1) % slides.length;
         slides[idx].classList.add('active');
       }, 10000);
-    });
+    }
+  })();
   </script>
 </body>
 </html>
+
