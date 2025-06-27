@@ -115,7 +115,7 @@
       // 2) Current Conditions
       const currLines = lines.slice(fEnd, fEnd + 2);
 
-      // 3) Surf header
+      // 3) Surf Forecast header
       const surfHeaderIdx  = lines.findIndex(l => l.startsWith('🌊 Surf Forecast'));
       const surfHeaderLine = lines[surfHeaderIdx];
 
@@ -131,8 +131,6 @@
         ...currLines,
         '',
         surfHeaderLine,
-        '',
-        zoneTitleLine,
         '',
         ...zoneBlockLines
       ].join('\n');
