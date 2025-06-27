@@ -287,8 +287,8 @@
       if (minMatch)  document.getElementById('w-min').textContent            = minMatch[1] + '°F';
 
       if (riskMatch) {
-        document.getElementById('s-risk').textContent                        = riskMatch[1];
-        document.getElementById('s-flag').style.background                   = colorMap[riskMatch[1]] || '#ccc';
+        document.getElementById('s-risk').textContent    = riskMatch[1];
+        document.getElementById('s-flag').style.background = colorMap[riskMatch[1]] || '#ccc';
       }
       if (heightMatch)  document.getElementById('s-height').textContent      = heightMatch[1].trim();
       if (thunderMatch) document.getElementById('s-thunder').textContent     = thunderMatch[1];
