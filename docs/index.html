@@ -29,7 +29,7 @@
       max-width: 800px;
       margin: 1.5rem auto;
       padding: 1.5rem;
-      background: #81d4fa;          /* light blue matching slideshow border */
+      background: #81d4fa;
       border-radius: 10px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
       color: #fff;
@@ -37,11 +37,11 @@
     #weather-summary h2 {
       margin-top: 0;
       font-size: 1.6rem;
-      color: #0d47a1;                /* dark blue title */
+      color: #0d47a1;
     }
     .weather-card {
       display: grid;
-      grid-template-columns: repeat(5, 1fr); /* five equal columns */
+      grid-template-columns: repeat(5, 1fr);
       gap: 1rem;
       margin-top: 1rem;
     }
@@ -217,6 +217,16 @@
       <span class="label">UV Index:</span>
       <span class="value" id="s-uv">--</span>
     </div>
+    <div class="surf-item">
+      <i class="wi wi-sunrise"></i>
+      <span class="label">Sunrise:</span>
+      <span class="value" id="s-sunrise">--:--</span>
+    </div>
+    <div class="surf-item">
+      <i class="wi wi-sunset"></i>
+      <span class="label">Sunset:</span>
+      <span class="value" id="s-sunset">--:--</span>
+    </div>
   </section>
 
   <!-- Slideshow -->
@@ -253,23 +263,28 @@
       const thunderLine  = surfBlock.find(l => l.includes('Thunderstorm Potential'));
       const waterLine    = surfBlock.find(l => l.includes('Water Temperature'));
       const uvLine       = surfBlock.find(l => l.startsWith('UV Index'));
+      const sunriseLine  = surfBlock.find(l => l.trim().startsWith('Sunrise'));
+      const sunsetLine   = surfBlock.find(l => l.trim().startsWith('Sunset'));
 
+      // Parse surf details
       const riskMatch    = riskLine.match(/Rip Current Risk.*?([A-Za-z]+)/);
       const heightMatch  = heightLine.match(/Surf Height.*?\.\.\.(.*)/);
       const thunderMatch = thunderLine.match(/Thunderstorm Potential.*?([A-Za-z]+)/);
       const waterMatch   = waterLine.match(/Water Temperature.*?([\d.]+)/);
       const uvMatch      = uvLine.match(/UV Index.*?([A-Za-z]+)/);
+      const srMatch      = sunriseLine.match(/Sunrise:\s*(.*)/);
+      const ssMatch      = sunsetLine.match(/Sunset:\s*(.*)/);
 
-      const colorMap     = { Low: '#00FF00', Moderate: '#FFFF00', High: '#FF0000' };
+      const colorMap = { Low: '#00FF00', Moderate: '#FFFF00', High: '#FF0000' };
 
       // Inject values
-      if (tMatch)    document.getElementById('w-temp').textContent     = tMatch[1] + '°F';
-      if (hMatch)    document.getElementById('w-hum').textContent      = hMatch[1] + '%';
-      if (rainMatch) document.getElementById('w-rain').textContent     = rainMatch[1] + '%';
-      if (windMatch) document.getElementById('w-wind').textContent     = windMatch[1].trim();
-      if (foreMatch) document.getElementById('w-forecast').textContent = foreMatch[1].trim() + '.';
-      if (maxMatch)  document.getElementById('w-max').textContent      = maxMatch[1] + '°F';
-      if (minMatch)  document.getElementById('w-min').textContent      = minMatch[1] + '°F';
+      if (tMatch)    document.getElementById('w-temp').textContent      = tMatch[1] + '°F';
+      if (hMatch)    document.getElementById('w-hum').textContent       = hMatch[1] + '%';
+      if (rainMatch) document.getElementById('w-rain').textContent      = rainMatch[1] + '%';
+      if (windMatch) document.getElementById('w-wind').textContent      = windMatch[1].trim();
+      if (foreMatch) document.getElementById('w-forecast').textContent  = foreMatch[1].trim() + '.';
+      if (maxMatch)  document.getElementById('w-max').textContent       = maxMatch[1] + '°F';
+      if (minMatch)  document.getElementById('w-min').textContent       = minMatch[1] + '°F';
 
       if (riskMatch) {
         const risk = riskMatch[1];
@@ -280,6 +295,8 @@
       if (thunderMatch)  document.getElementById('s-thunder').textContent  = thunderMatch[1];
       if (waterMatch)    document.getElementById('s-water').textContent    = waterMatch[1] + '°';
       if (uvMatch)       document.getElementById('s-uv').textContent       = uvMatch[1];
+      if (srMatch)       document.getElementById('s-sunrise').textContent = srMatch[1];
+      if (ssMatch)       document.getElementById('s-sunset').textContent  = ssMatch[1];
     })
     .catch(err => console.error('Weather parse error:', err));
   </script>
