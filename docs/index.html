@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>🌤️ NWS Daily Weather Maps & Radar</title>
 
-  <!-- Weather Icons for dashboard -->
+  <!-- Weather Icons -->
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
 
@@ -16,13 +16,9 @@
       text-align: center;
       padding: 2rem 1rem;
     }
-    h1 {
-      margin: 0;
-      font-size: 2rem;
-      color: #0277bd;
-    }
+    h1 { margin: 0; font-size: 2rem; color: #0277bd; }
     h2.subtitle {
-      margin: 0.2rem 0 1.5rem;
+      margin: .2rem 0 1.5rem;
       font-size: 1.2rem;
       color: #555;
       font-style: italic;
@@ -40,8 +36,8 @@
     }
     #weather-summary h2 {
       margin-top: 0;
-      color: #fff;
       font-size: 1.6rem;
+      color: #fff;
     }
     .weather-card {
       display: grid;
@@ -58,17 +54,66 @@
     .weather-item i {
       font-size: 2rem;
       display: block;
-      margin-bottom: 0.3rem;
+      margin-bottom: .3rem;
       color: #ffd54f;
     }
     .weather-item .label {
       display: block;
-      font-size: 0.9rem;
-      opacity: 0.8;
+      font-size: .9rem;
+      opacity: .8;
     }
     .weather-item .value {
       font-size: 1.2rem;
       font-weight: bold;
+    }
+    /* Sub‐values for max/min */
+    .weather-item .subvalue {
+      display: block;
+      font-size: .8rem;
+      opacity: .7;
+      margin-top: .5rem;
+    }
+
+    /* —— Surf Forecast Styles —— */
+    #surf-forecast {
+      max-width: 800px;
+      margin: 1.5rem auto;
+      padding: 1rem;
+      background: #ffffffcc;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: left;
+      font-family: "Segoe UI", sans-serif;
+    }
+    #surf-forecast h2 {
+      margin-top: 0;
+      color: #0277bd;
+      font-size: 1.4rem;
+    }
+    .surf-item {
+      display: flex;
+      align-items: center;
+      margin: 0.5rem 0;
+    }
+    .surf-item i {
+      font-size: 1.5rem;
+      margin-right: 0.5rem;
+      color: #0277bd;
+    }
+    .surf-item .label {
+      font-weight: bold;
+      margin-right: .5rem;
+    }
+    .surf-item .value {
+      margin-right: .5rem;
+    }
+    .flag {
+      display: inline-block;
+      width: 1rem;
+      height: 1rem;
+      border-radius: 50%;
+      border: 1px solid #999;
+      vertical-align: middle;
     }
 
     /* —— Slideshow Styles —— */
@@ -108,7 +153,7 @@
   <h1>☀️ Daily Weather Forecast</h1>
   <h2 class="subtitle">Melbourne, FL</h2>
 
-  <!-- —— Weather Summary Section —— -->
+  <!-- Weather Summary -->
   <section id="weather-summary">
     <h2>Current Weather</h2>
     <div class="weather-card">
@@ -116,6 +161,8 @@
         <i class="wi wi-thermometer"></i>
         <span class="label">Temp</span>
         <span class="value" id="w-temp">--°F</span>
+        <span class="subvalue">Max: <span id="w-max">--°F</span></span>
+        <span class="subvalue">Min: <span id="w-min">--°F</span></span>
       </div>
       <div class="weather-item">
         <i class="wi wi-humidity"></i>
@@ -140,41 +187,102 @@
     </div>
   </section>
 
-  <!-- —— Slideshow —— -->
+  <!-- Surf Forecast -->
+  <section id="surf-forecast">
+    <h2>Surf Forecast</h2>
+    <div class="surf-item">
+      <i class="wi wi-raindrop"></i>
+      <span class="label">Rip Current Risk:</span>
+      <span class="value" id="s-risk">--</span>
+      <span id="s-flag" class="flag"></span>
+    </div>
+    <div class="surf-item">
+      <i class="wi wi-direction-up-right"></i>
+      <span class="label">Surf Height:</span>
+      <span class="value" id="s-height">--</span>
+    </div>
+    <div class="surf-item">
+      <i class="wi wi-day-sunny"></i>
+      <span class="label">UV Index:</span>
+      <span class="value" id="s-uv">--</span>
+    </div>
+  </section>
+
+  <!-- Slideshow -->
   <div class="slideshow"></div>
 
   <footer>
     Slides rotate every 10 seconds with a smooth fade.
   </footer>
 
-  <!-- —— Weather Data Parsing & Injection —— -->
+  <!-- Populate Weather & Surf Data -->
   <script>
   fetch('melbourne_fl_summary.txt')
     .then(r => r.ok ? r.text() : Promise.reject('Failed to load'))
     .then(txt => {
       const lines = txt.split('\n');
-      // Temp & Humidity
+
+      // Current temp & humidity
       const tempLine = lines.find(l => l.startsWith('Temp:'));
       const tMatch = tempLine.match(/Temp: ([\d.]+)°F/);
       const hMatch = tempLine.match(/Humidity: ([\d.]+)%/);
-      // Today's line for rain, wind & forecast
-      const todayLine = lines.find(l => l.startsWith('• Today:'));
-      const rainMatch = todayLine.match(/Rain: (\d+)%/);
-      const windMatch = todayLine.match(/Wind: ([^;]+)/);
-      const foreMatch = todayLine.match(/—\s*([^.;]+)/);
 
-      if (tMatch) document.getElementById('w-temp').textContent = tMatch[1] + '°F';
-      if (hMatch) document.getElementById('w-hum').textContent   = hMatch[1] + '%';
-      if (rainMatch) document.getElementById('w-rain').textContent = rainMatch[1] + '%';
-      if (windMatch) document.getElementById('w-wind').textContent = windMatch[1].trim();
-      if (foreMatch) document.getElementById('w-forecast').textContent = foreMatch[1].trim() + '.';
+      // Forecast lines
+      const todayLine   = lines.find(l => l.startsWith('• Today:'));
+      const rainMatch   = todayLine.match(/Rain: (\d+)%/);
+      const windMatch   = todayLine.match(/Wind: ([^;]+)/);
+      const foreMatch   = todayLine.match(/—\s*([^.;]+)/);
+      const maxMatch    = todayLine.match(/High: (\d+)°F/);
+
+      const tonightLine = lines.find(l => l.startsWith('• Tonight:'));
+      const minMatch    = tonightLine.match(/Low: (\d+)°F/);
+
+      // Surf block
+      // We assume the trimmed summary script left
+      // the zoneBlockLines in the DOM under #summary-content originally.
+      // Instead, we re-fetch here:
+      const surfStart  = lines.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
+      const surfEnd    = lines.findIndex((l,i) => i > surfStart && l.includes('Sunset'));
+      const surfBlock  = lines.slice(surfStart, surfEnd+1);
+      const riskLine   = surfBlock.find(l => l.startsWith('Rip Current Risk'));
+      const heightLine = surfBlock.find(l => l.startsWith('Surf Height'));
+      const uvLine     = surfBlock.find(l => l.startsWith('UV Index'));
+
+      // Parse surf details
+      const riskMatch  = riskLine.match(/Rip Current Risk.*?([A-Za-z]+)/);
+      const heightMatch= heightLine.match(/Surf Height.*?\.\.\.(.*)/);
+      const uvMatch    = uvLine.match(/UV Index.*?([A-Za-z]+)/);
+
+      // Helper for flag color
+      const colorMap = {
+        Low: '#00FF00',
+        Moderate: '#FFFF00',
+        High: '#FF0000'
+      };
+
+      // Inject values
+      if (tMatch)    document.getElementById('w-temp').textContent    = tMatch[1] + '°F';
+      if (hMatch)    document.getElementById('w-hum').textContent     = hMatch[1] + '%';
+      if (rainMatch) document.getElementById('w-rain').textContent    = rainMatch[1] + '%';
+      if (windMatch) document.getElementById('w-wind').textContent    = windMatch[1].trim();
+      if (foreMatch) document.getElementById('w-forecast').textContent= foreMatch[1].trim() + '.';
+      if (maxMatch)  document.getElementById('w-max').textContent     = maxMatch[1] + '°F';
+      if (minMatch)  document.getElementById('w-min').textContent     = minMatch[1] + '°F';
+
+      if (riskMatch) {
+        const risk = riskMatch[1];
+        document.getElementById('s-risk').textContent = risk;
+        document.getElementById('s-flag').style.background = colorMap[risk]||'#ccc';
+      }
+      if (heightMatch) document.getElementById('s-height').textContent= heightMatch[1].trim();
+      if (uvMatch)     document.getElementById('s-uv').textContent    = uvMatch[1];
     })
     .catch(err => {
-      console.error('Weather summary error:', err);
+      console.error('Weather parse error:', err);
     });
   </script>
 
-  <!-- —— Slideshow Initialization Script —— -->
+  <!-- Slideshow Script -->
   <script>
   (function() {
     const filenames = [
