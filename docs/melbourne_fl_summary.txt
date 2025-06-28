@@ -1,37 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 27, 2025 • 12:05 PM
+Generated: Jun 28, 2025 • 6:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Showers And Thunderstorms Likely. High: 89°F; Rain: 68% ; Wind: 5 to 10 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 50% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Saturday — High: 90°F; Low: 77°F; Rain: 72% ; Wind: 5 to 10 mph SSE
+• Today:    Today — Sunny then Showers And Thunderstorms Likely. High: 90°F; Rain: 57% ; Wind: 5 to 10 mph S
+• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 76°F; Rain: 66% ; Wind: 5 to 10 mph SSW
+• Tomorrow: Sunday — High: 88°F; Low: 76°F; Rain: 71% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 84.9°F (29.4°C) · Humidity: 65.3%
+Temp: 75°F (23.9°C) · Humidity: 93.6%
 
 🛥️ Marine Weather Statement:
-726
-FZUS72 KMLB 271539
+526
+FZUS72 KMLB 280010
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1139 AM EDT Fri Jun 27 2025
+810 PM EDT Fri Jun 27 2025
 
-AMZ550-552-271630-
-1139 AM EDT Fri Jun 27 2025
+AMZ555-280045-
+810 PM EDT Fri Jun 27 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A STRONG THUNDERSTORM APPROACHING THE INDIAN RIVER COUNTY
+WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 1138 AM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located near Playalinda Beach. The thunderstorm was nearly
-stationary.
+At 809 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Vero Beach South, moving northeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -41,13 +40,12 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2924 8063 2873 8027 2850 8020 2844 8068
-      2855 8065 2856 8067 2851 8069 2842 8069
-      2841 8077 2880 8089 2884 8085 2909 8098
+LAT...LON 2783 8048 2786 8033 2786 8032 2763 8023
+      2756 8036
 
 $$
 
-Schaper
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 757
