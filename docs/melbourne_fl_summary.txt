@@ -1,47 +1,48 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 28, 2025 • 12:00 PM
+Generated: Jun 29, 2025 • 6:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 90°F; Rain: 57% ; Wind: 5 to 10 mph SE
-• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 76°F; Rain: 66% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Sunday — High: 88°F; Low: 76°F; Rain: 71% ; Wind: 5 to 10 mph S
+• Today:    Today — Showers And Thunderstorms Likely. High: 89°F; Rain: 64% ; Wind: 5 to 10 mph SSE
+• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 77°F; Rain: 64% ; Wind: 5 to 10 mph SSW
+• Tomorrow: Monday — High: 89°F; Low: 77°F; Rain: 56% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 84.9°F (29.4°C) · Humidity: 74.5%
+Temp: 75.9°F (24.4°C) · Humidity: 76.5%
 
 🛥️ Marine Weather Statement:
-526
-FZUS72 KMLB 280010
+537
+FZUS72 KMLB 282324
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-810 PM EDT Fri Jun 27 2025
+724 PM EDT Sat Jun 28 2025
 
-AMZ555-280045-
-810 PM EDT Fri Jun 27 2025
+AMZ570-572-290100-
+724 PM EDT Sat Jun 28 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE INDIAN RIVER COUNTY
-WATERS...
+...STRONG THUNDERSTORMS OVER THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 809 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Vero Beach South, moving northeast at 20 knots.
+At 724 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 44 nm northeast of Apollo Beach
+to 28 nm east of Port Canaveral, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2783 8048 2786 8033 2786 8032 2763 8023
-      2756 8036
+LAT...LON 2947 7998 2916 7975 2901 7967 2869 7955
+      2847 7953 2847 7954 2843 8013 2947 8023
 
 $$
 
