@@ -22,6 +22,7 @@
     h1 { margin: 0; font-size: 2rem; color: #0277bd; }
     h2.subtitle { margin: .2rem 0 1.5rem; font-size: 1.2rem; color: #555; font-style: italic; }
 
+    /* Alert banner */
     #alert-banner {
       display: none;
       background: #ffcccc;
@@ -61,8 +62,11 @@
     .weather-item .subvalue {
       display:block; font-size:.7rem; opacity:.7; margin-top:.5rem;
     }
+
+    /* sparklines – now transparent */
     .sparkline {
-      width:100px; height:30px; margin:.5rem auto; display:block; background:#fff;
+      width:100px; height:30px; margin:.5rem auto; display:block;
+      background: transparent;
     }
 
     /* Surf Forecast */
@@ -79,9 +83,11 @@
       display:flex; align-items:center; margin:.5rem 0; font-size:.9rem;
     }
     .surf-item i { font-size:1rem; margin-right:.5rem; color:#0277bd; }
-    .surf-item i.flag { /* colored via JS */ }
+    .surf-item i.flag { /* styled dynamically */ }
     .surf-item .label { font-weight:bold; margin-right:.5rem; }
     .surf-item .value { margin-right:.5rem; }
+
+    /* UV pill */
     .uv-pill {
       display:inline-block; padding:.2rem .6rem; border-radius:4px;
       color:#fff; font-weight:bold; font-size:.9rem;
@@ -96,7 +102,7 @@
     #tide-times h2 { margin-top:0; font-size:1.4rem; color:#0277bd; }
     #tide-times p { margin:.3rem 0; font-size:.9rem; }
 
-    /* Plan Your Day */
+    /* Plan Your Day Tip */
     #plan-tip {
       max-width:800px; margin:1rem auto; padding:1rem;
       background:#e8f4fd; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);
@@ -177,7 +183,7 @@
       <i class="fas fa-water"></i>
       <span class="label">Rip Current Risk:</span>
       <span class="value" id="s-risk">--</span>
-      <span id="s-flag" class="flag"></span>
+      <i id="s-flag" class="fas fa-flag flag"></i>
     </div>
     <div class="surf-item">
       <i class="wi wi-tsunami"></i>
@@ -212,7 +218,7 @@
     <p id="tide-seb">Sebastian Inlet: --</p>
   </section>
 
-  <div id="plan-tip">Loading plan…</div>
+  <div id="plan-tip">Tip of the day: Loading…</div>
 
   <section id="flag-guide">
     <h2>Rip Current Flag Guide</h2>
@@ -308,7 +314,7 @@
               uvColorMap={Low:'#00FF00',Moderate:'#FFFF00',High:'#FF0000','Very High':'#FF4500'};
         if(ripM2){
           document.getElementById('s-risk').textContent=ripM2[1];
-          document.getElementById('s-flag').style.background=colorMap[ripM2[1]]||'#ccc';
+          document.getElementById('s-flag').style.color=colorMap[ripM2[1]]||'#ccc';
         }
         if(surfM2)document.getElementById('s-height').textContent=surfM2[1].trim();
         if(thM2)document.getElementById('s-thunder').textContent=thunderMap[thM2[1]]||thM2[1];
@@ -327,9 +333,7 @@
           const Z=L.slice(zStart,zEnd);
           const portLine=Z.find(l=>l.includes('Port Canaveral')),
                 sebLine=Z.find(l=>l.includes('Sebastian Inlet'));
-          if(portLine)document.getElementById('tide-port').textContent=portLine.trim();
-          if(sebLine)document.getElementById('tide-seb').textContent=sebLine.trim();
-        }
+          if(portLine)document.getElementById('tide-port').
 
         // Plan tip
         let tip='Have a great day!';
