@@ -57,26 +57,8 @@
       background:#ffffffcc; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);
       text-align:left; font-family:"Segoe UI",sans-serif; color:#333;
     }
-    #flag-guide h2 {
-      margin-top:0; color:#0277bd; font-size:1.4rem;
-    }
-    #flag-guide p {
-      margin:.5rem 0; font-size:.9rem;
-    }
-
-    /* Slideshow */
-    .slideshow {
-      position:relative; max-width:800px; margin:2rem auto;
-      border:4px solid #81d4fa; border-radius:12px; overflow:hidden;
-      box-shadow:0 6px 18px rgba(0,0,0,0.15); background:white; height:450px;
-    }
-    .slideshow img {
-      position:absolute; top:0; left:0; width:100%; height:100%;
-      object-fit:contain; opacity:0; transition:opacity 1s ease-in-out;
-    }
-    .slideshow img.active { opacity:1; z-index:1; }
-
-    footer { margin-top:1.5rem; font-size:.9rem; color:#666; }
+    #flag-guide h2 { margin-top:0; color:#0277bd; font-size:1.4rem; }
+    #flag-guide p { margin:.5rem 0; font-size:.9rem; }
   </style>
 </head>
 <body>
@@ -139,7 +121,7 @@
     <div class="surf-item">
       <i class="wi wi-day-sunny"></i>
       <span class="label">UV Index:</span>
-      <span class="value" id="s-uv">--</span>
+      <span class="value" id="s-uv">Extreme</span>
     </div>
     <div class="surf-item">
       <i class="wi wi-sunrise"></i>
@@ -156,9 +138,11 @@
   <!-- Rip Current Flag Guide -->
   <section id="flag-guide">
     <h2>Rip Current Flag Guide</h2>
-    <p><span class="flag" style="background:#00FF00;"></span> <strong>Green Flag</strong> – Low Risk: Rip currents are unlikely, but stay aware of local hazards.</p>
-    <p><span class="flag" style="background:#FFFF00;"></span> <strong>Yellow Flag</strong> – Moderate Risk: Dangerous currents possible; swim with caution.</p>
-    <p><span class="flag" style="background:#FF0000;"></span> <strong>Red Flag</strong> – High Risk: Strong, life-threatening currents; swimming is not recommended.</p>
+    <p><span class="flag" style="background:#00FF00;"></span> <strong>Green Flag</strong> – Low Risk: Rip currents unlikely.</p>
+    <p><span class="flag" style="background:#FFFF00;"></span> <strong>Yellow Flag</strong> – Moderate Risk: Dangerous currents possible.</p>
+    <p><span class="flag" style="background:#FF0000;"></span> <strong>Red Flag</strong> – High Risk: Life‐threatening currents; swimming not recommended.</p>
+    <p><span class="flag" style="background:#FF0000;border:none;margin-right:.2rem;"></span><span class="flag" style="background:#FF0000;"></span> <strong>Double Red Flag</strong> – Extreme Hazard: Water closed to public.</p>
+    <p><span class="flag" style="background:purple;"></span> <strong>Purple Flag</strong> – Marine Hazards: Dangerous marine life or water quality issues.</p>
   </section>
 
   <!-- Slideshow -->
@@ -174,7 +158,6 @@
       const curr = lines.find(l => l.startsWith('Temp:'));
       const tM   = curr.match(/Temp: ([\d.]+)°F/),
             hM   = curr.match(/Humidity: ([\d.]+)%/);
-
       // Forecast
       const today   = lines.find(l => l.startsWith('• Today:'));
       const tonight = lines.find(l => l.startsWith('• Tonight:'));
@@ -183,52 +166,46 @@
             foreM   = today.match(/—\s*([^.;]+)/),
             maxM    = today.match(/High: (\d+)°F/),
             minM    = tonight.match(/Low: (\d+)°F/);
-
       // Surf block
       const sStart = lines.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
       const sEnd   = lines.findIndex((l,i) => i>sStart && l.includes('Sunset'));
       const sBuf   = lines.slice(sStart, sEnd+1);
-
       const ripL    = sBuf.find(l=>l.startsWith('Rip Current Risk')),
             surfL   = sBuf.find(l=>l.startsWith('Surf Height')),
             thunL   = sBuf.find(l=>l.includes('Thunderstorm Potential')),
-            uvL     = sBuf.find(l=>l.startsWith('UV Index')),
             srL     = sBuf.find(l=>l.trim().startsWith('Sunrise')),
             ssL     = sBuf.find(l=>l.trim().startsWith('Sunset'));
-
       const ripM    = ripL.match(/Rip Current Risk.*?([A-Za-z]+)/),
             surfM   = surfL.match(/Around\s*([\d\s\w]+)/),
             thunM   = thunL.match(/Thunderstorm Potential.*?([A-Za-z]+)/),
-            // UV always Extreme
             srM     = srL.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/),
             ssM     = ssL.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
-
       const thunderMap = { Low:'Low chance', Moderate:'Moderate chance', High:'Very likely' },
             colorMap   = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000' };
 
       // Inject current
-      if(tM) document.getElementById('w-temp').textContent     = tM[1]+'°F';
-      if(hM) document.getElementById('w-hum').textContent      = hM[1]+'%';
-      if(rainM) document.getElementById('w-rain').textContent  = rainM[1]+'%';
-      if(windM) document.getElementById('w-wind').textContent  = windM[1].trim();
-      if(foreM){
+      if (tM) document.getElementById('w-temp').textContent     = tM[1]+'°F';
+      if (hM) document.getElementById('w-hum').textContent      = hM[1]+'%';
+      if (rainM) document.getElementById('w-rain').textContent  = rainM[1]+'%';
+      if (windM) document.getElementById('w-wind').textContent  = windM[1].trim();
+      if (foreM) {
         let txt = foreM[1].trim()+'.';
         txt = txt.replace(/^Chance\s+/,'Chance of ');
         document.getElementById('w-forecast').textContent = txt;
       }
-      if(maxM) document.getElementById('w-max').textContent     = maxM[1]+'°F';
-      if(minM) document.getElementById('w-min').textContent     = minM[1]+'°F';
+      if (maxM) document.getElementById('w-max').textContent     = maxM[1]+'°F';
+      if (minM) document.getElementById('w-min').textContent     = minM[1]+'°F';
 
       // Inject surf
-      if(ripM){
+      if (ripM) {
         document.getElementById('s-risk').textContent      = ripM[1];
         document.getElementById('s-flag').style.background = colorMap[ripM[1]]||'#ccc';
       }
-      if(surfM) document.getElementById('s-height').textContent  = surfM[1].trim();
-      if(thunM) document.getElementById('s-thunder').textContent = thunderMap[thunM[1]]||thunM[1];
+      if (surfM) document.getElementById('s-height').textContent  = surfM[1].trim();
+      if (thunM) document.getElementById('s-thunder').textContent = thunderMap[thunM[1]]||thunM[1];
       document.getElementById('s-uv').textContent                = 'Extreme';
-      if(srM) document.getElementById('s-sunrise').textContent    = srM[1];
-      if(ssM) document.getElementById('s-sunset').textContent     = ssM[1];
+      if (srM) document.getElementById('s-sunrise').textContent    = srM[1];
+      if (ssM) document.getElementById('s-sunset').textContent     = ssM[1];
     })
     .catch(console.error);
   </script>
