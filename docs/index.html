@@ -19,8 +19,17 @@
       text-align: center;
       padding: 2rem 1rem;
     }
-    h1 { margin: 0; font-size: 2rem; color: #0277bd; }
-    h2.subtitle { margin: .2rem 0 1.5rem; font-size: 1.2rem; color: #555; font-style: italic; }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+      color: #0277bd;
+    }
+    h2.subtitle {
+      margin: .2rem 0 1.5rem;
+      font-size: 1.2rem;
+      color: #555;
+      font-style: italic;
+    }
 
     /* Alert banner */
     #alert-banner {
@@ -38,100 +47,207 @@
 
     /* Current Weather */
     #weather-summary {
-      max-width: 800px; margin: 1.5rem auto; padding: 1.5rem;
-      background: #81d4fa; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      max-width: 800px;
+      margin: 1.5rem auto;
+      padding: 1.5rem;
+      background: #81d4fa;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
       color: #fff;
     }
-    #weather-summary h2 { margin: 0 0 .2rem 0; font-size: 1.6rem; color: #0d47a1; }
+    #weather-summary h2 {
+      margin: 0 0 .2rem 0;
+      font-size: 1.6rem;
+      color: #0d47a1;
+    }
     #weather-summary h3.date,
     #weather-summary h4.updated {
-      margin: .1rem 0 .8rem; font-size: 1rem;
-      color: rgba(255,255,255,0.85); font-style: italic;
+      margin: .1rem 0 .8rem;
+      font-size: 1rem;
+      color: rgba(255,255,255,0.85);
+      font-style: italic;
     }
     .weather-card {
-      display: grid; grid-template-columns: repeat(5,1fr); gap:1rem; margin-top:1rem;
+      display: grid;
+      grid-template-columns: repeat(5,1fr);
+      gap: 1rem;
+      margin-top: 1rem;
     }
     .weather-item {
-      background: rgba(0,0,0,0.4); border-radius:6px; padding:1rem; text-align:center;
+      background: rgba(0,0,0,0.4);
+      border-radius: 6px;
+      padding: 1rem;
+      text-align: center;
     }
     .weather-item i {
-      font-size:2rem; display:block; margin-bottom:.3rem; color:#ffd54f;
+      font-size: 2rem;
+      display: block;
+      margin-bottom: .3rem;
+      color: #ffd54f;
     }
-    .weather-item .label { display:block; font-size:.8rem; opacity:.8; }
-    .weather-item .value { font-size:1rem; font-weight:bold; }
+    .weather-item .label {
+      display: block;
+      font-size: .8rem;
+      opacity: .8;
+    }
+    .weather-item .value {
+      font-size: 1rem;
+      font-weight: bold;
+    }
     .weather-item .subvalue {
-      display:block; font-size:.7rem; opacity:.7; margin-top:.5rem;
+      display: block;
+      font-size: .7rem;
+      opacity: .7;
+      margin-top: .5rem;
     }
 
-    /* sparklines – now transparent */
+    /* Sparkline */
     .sparkline {
-      width:100px; height:30px; margin:.5rem auto; display:block;
+      width: 100px;
+      height: 30px;
+      margin: .5rem auto;
+      display: block;
       background: transparent;
     }
 
     /* Surf Forecast */
     #surf-forecast {
-      max-width:800px; margin:1.5rem auto; padding:1rem;
-      background:#ffffffcc; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);
-      text-align:left; color:#333;
+      max-width: 800px;
+      margin: 1.5rem auto;
+      padding: 1rem;
+      background: #ffffffcc;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: left;
+      color: #333;
     }
-    #surf-forecast h2 { margin:0 0 .2rem 0; font-size:1.4rem; color:#0277bd; }
+    #surf-forecast h2 {
+      margin: 0 0 .2rem 0;
+      font-size: 1.4rem;
+      color: #0277bd;
+    }
     #surf-forecast h3.subsubtitle {
-      margin:.1rem 0 .6rem; font-size:1rem; color:#555; font-style:italic;
+      margin: .1rem 0 .6rem;
+      font-size: 1rem;
+      color: #555;
+      font-style: italic;
     }
     .surf-item {
-      display:flex; align-items:center; margin:.5rem 0; font-size:.9rem;
+      display: flex;
+      align-items: center;
+      margin: .5rem 0;
+      font-size: .9rem;
     }
-    .surf-item i { font-size:1rem; margin-right:.5rem; color:#0277bd; }
-    .surf-item i.flag { /* styled dynamically */ }
-    .surf-item .label { font-weight:bold; margin-right:.5rem; }
-    .surf-item .value { margin-right:.5rem; }
-
-    /* UV pill */
+    .surf-item i {
+      font-size: 1rem;
+      margin-right: .5rem;
+      color: #0277bd;
+    }
+    .surf-item .label {
+      font-weight: bold;
+      margin-right: .5rem;
+    }
+    .surf-item .value {
+      margin-right: .5rem;
+    }
+    .surf-item i.flag {
+      /* colored via JS */
+    }
     .uv-pill {
-      display:inline-block; padding:.2rem .6rem; border-radius:4px;
-      color:#fff; font-weight:bold; font-size:.9rem;
+      display: inline-block;
+      padding: .2rem .6rem;
+      border-radius: 4px;
+      color: #fff;
+      font-weight: bold;
+      font-size: .9rem;
     }
 
     /* Tide Times */
     #tide-times {
-      max-width:800px; margin:1.5rem auto; padding:1rem;
-      background:#ffffffcc; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);
-      text-align:left; color:#333;
+      max-width: 800px;
+      margin: 1.5rem auto;
+      padding: 1rem;
+      background: #ffffffcc;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: left;
+      color: #333;
     }
-    #tide-times h2 { margin-top:0; font-size:1.4rem; color:#0277bd; }
-    #tide-times p { margin:.3rem 0; font-size:.9rem; }
+    #tide-times h2 {
+      margin-top: 0;
+      font-size: 1.4rem;
+      color: #0277bd;
+    }
+    #tide-times p {
+      margin: .3rem 0;
+      font-size: .9rem;
+    }
 
     /* Plan Your Day Tip */
     #plan-tip {
-      max-width:800px; margin:1rem auto; padding:1rem;
-      background:#e8f4fd; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);
-      color:#0277bd; font-size:1rem; font-style:italic;
+      max-width: 800px;
+      margin: 1rem auto;
+      padding: 1rem;
+      background: #e8f4fd;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      color: #0277bd;
+      font-size: 1rem;
+      font-style: italic;
     }
 
     /* Rip Current Flag Guide */
     #flag-guide {
-      max-width:800px; margin:1.5rem auto; padding:1rem;
-      background:#ffffffcc; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);
-      text-align:left; color:#333;
+      max-width: 800px;
+      margin: 1.5rem auto;
+      padding: 1rem;
+      background: #ffffffcc;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: left;
+      color: #333;
     }
-    #flag-guide h2 { margin-top:0; font-size:1.4rem; color:#0277bd; }
-    #flag-guide p { margin:.5rem 0; font-size:.9rem; }
+    #flag-guide h2 {
+      margin-top: 0;
+      font-size: 1.4rem;
+      color: #0277bd;
+    }
+    #flag-guide p {
+      margin: .5rem 0;
+      font-size: .9rem;
+    }
 
     /* Slideshow */
     .slideshow {
-      position:relative; max-width:800px; margin:2rem auto;
-      border:4px solid #81d4fa; border-radius:12px; overflow:hidden;
-      box-shadow:0 6px 18px rgba(0,0,0,0.15); background:white; height:450px;
+      position: relative;
+      max-width: 800px;
+      margin: 2rem auto;
+      border: 4px solid #81d4fa;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+      background: white;
+      height: 450px;
     }
     .slideshow img {
-      position:absolute; top:0; left:0; width:100%; height:100%;
-      object-fit:contain; opacity:0; transition:opacity 1s ease-in-out;
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      object-fit: contain;
+      opacity: 0;
+      transition: opacity 1s ease-in-out;
     }
-    .slideshow img.active { opacity:1; z-index:1; }
+    .slideshow img.active {
+      opacity: 1;
+      z-index: 1;
+    }
 
-    /* Footer */
-    #data-caption { font-size:.8rem; color:#666; margin-top:1.5rem; }
+    /* Footer Caption */
+    #data-caption {
+      font-size: .8rem;
+      color: #666;
+      margin-top: 1.5rem;
+    }
   </style>
 </head>
 <body>
@@ -140,6 +256,7 @@
 
   <div id="alert-banner"></div>
 
+  <!-- Current Weather -->
   <section id="weather-summary">
     <h2>Current Weather</h2>
     <h3 class="date">Date: <span id="current-date">--/--/----</span></h3>
@@ -176,6 +293,7 @@
     </div>
   </section>
 
+  <!-- Surf Forecast -->
   <section id="surf-forecast">
     <h2>Surf Forecast</h2>
     <h3 class="subsubtitle">Melbourne Beach</h3>
@@ -212,14 +330,17 @@
     </div>
   </section>
 
+  <!-- Tide Times -->
   <section id="tide-times">
     <h2>Tide Times</h2>
     <p id="tide-port">Port Canaveral: --</p>
     <p id="tide-seb">Sebastian Inlet: --</p>
   </section>
 
+  <!-- Plan Your Day Tip -->
   <div id="plan-tip">Tip of the day: Loading…</div>
 
+  <!-- Rip Current Flag Guide -->
   <section id="flag-guide">
     <h2>Rip Current Flag Guide</h2>
     <p><span style="color:#00FF00;"><i class="fas fa-flag"></i></span> <strong>Green Flag</strong> – Low Risk: Rip currents unlikely.</p>
@@ -233,8 +354,10 @@
     <p><span style="color:purple;"><i class="fas fa-flag"></i></span> <strong>Purple Flag</strong> – Marine Hazards: Dangerous marine life or water quality issues.</p>
   </section>
 
+  <!-- Slideshow -->
   <div class="slideshow"></div>
 
+  <!-- Scripts -->
   <script>
     document.addEventListener('DOMContentLoaded', () => {
       const now = new Date();
@@ -245,127 +368,152 @@
     });
 
     fetch('melbourne_fl_summary.txt')
-      .then(r=>r.ok? r.text(): Promise.reject('Load failed'))
-      .then(txt=> {
+      .then(r => r.ok ? r.text() : Promise.reject('Load failed'))
+      .then(txt => {
         const L = txt.split('\n');
+
         // Alert Banner
-        const hwoIdx = L.findIndex(l=>l.startsWith('⚠️ Hazardous Weather Outlook:'));
-        if(hwoIdx>-1){
-          let msg='';
-          for(let i=hwoIdx+1;i<L.length;i++){
-            if(!L[i].trim()||L[i].startsWith('🛥️ Marine Weather Statement')) break;
-            msg+=L[i]+'\n';
+        const hwoIdx = L.findIndex(l => l.startsWith('⚠️ Hazardous Weather Outlook:'));
+        if (hwoIdx > -1) {
+          let msg = '';
+          for (let i = hwoIdx+1; i < L.length; i++) {
+            if (!L[i].trim() || L[i].startsWith('🛥️ Marine Weather Statement')) break;
+            msg += L[i] + '\n';
           }
-          if(msg.trim()){
-            const b=document.getElementById('alert-banner');
-            b.textContent=msg.trim();
-            b.style.display='block';
+          if (msg.trim()) {
+            const b = document.getElementById('alert-banner');
+            b.textContent = msg.trim();
+            b.style.display = 'block';
           }
         }
+
         // Current & Sparkline
-        const curr=L.find(l=>l.startsWith('Temp:')),
-              tM=curr.match(/Temp: ([\d.]+)°F/),
-              hM=curr.match(/Humidity: ([\d.]+)%/),
-              today=L.find(l=>l.startsWith('• Today:')),
-              rainM=today.match(/Rain: (\d+)%/),
-              windM=today.match(/Wind: ([^;]+)/),
-              foreM=today.match(/—\s*([^.;]+)/),
-              maxM=today.match(/High: (\d+)°F/),
-              tonight=L.find(l=>l.startsWith('• Tonight:')),
-              minM=tonight.match(/Low: (\d+)°F/);
-        const highs=[maxM?+maxM[1]:null,minM?+minM[1]:null,
-                     (L.find(l=>l.startsWith('• Tomorrow:'))||'').match(/High: (\d+)°F/)?+RegExp.$1:null]
-                    .filter(v=>v!=null);
-        const c=document.getElementById('temp-sparkline').getContext('2d'),
-              w=100,h=30,minV=Math.min(...highs),maxV=Math.max(...highs);
+        const curr     = L.find(l => l.startsWith('Temp:')),
+              tM       = curr.match(/Temp: ([\d.]+)°F/),
+              hM       = curr.match(/Humidity: ([\d.]+)%/),
+              today    = L.find(l => l.startsWith('• Today:')),
+              rainM    = today.match(/Rain: (\d+)%/),
+              windM    = today.match(/Wind: ([^;]+)/),
+              foreM    = today.match(/—\s*([^.;]+)/),
+              maxM     = today.match(/High: (\d+)°F/),
+              tonight  = L.find(l => l.startsWith('• Tonight:')),
+              minM     = tonight.match(/Low: (\d+)°F/);
+
+        // Sparkline values
+        const highs = [
+          maxM ? +maxM[1] : null,
+          minM ? +minM[1] : null,
+          (L.find(l => l.startsWith('• Tomorrow:')) || '').match(/High: (\d+)°F/) ? +RegExp.$1 : null
+        ].filter(v => v != null);
+
+        // Draw sparkline
+        const c = document.getElementById('temp-sparkline').getContext('2d'),
+              w = 100, h = 30,
+              minV = Math.min(...highs), maxV = Math.max(...highs);
         c.clearRect(0,0,w,h);
-        c.strokeStyle='#ffd54f';c.lineWidth=2;c.beginPath();
-        highs.forEach((v,i)=>{
-          const x=i*(w/(highs.length-1)),
-                y=h-(v-minV)/(maxV-minV)*h;
-          i===0?c.moveTo(x,y):c.lineTo(x,y);
+        c.strokeStyle = '#ffd54f';
+        c.lineWidth = 2;
+        c.beginPath();
+        highs.forEach((v,i) => {
+          const x = i * (w/(highs.length-1));
+          const y = h - (v - minV)/(maxV-minV) * h;
+          i===0 ? c.moveTo(x,y) : c.lineTo(x,y);
         });
         c.stroke();
-        if(tM)document.getElementById('w-temp').textContent=tM[1]+'°F';
-        if(hM)document.getElementById('w-hum').textContent=hM[1]+'%';
-        if(rainM)document.getElementById('w-rain').textContent=rainM[1]+'%';
-        if(windM)document.getElementById('w-wind').textContent=windM[1].trim();
-        if(foreM)document.getElementById('w-forecast').textContent=foreM[1].trim()+'.';
-        if(maxM)document.getElementById('w-max').textContent=maxM[1]+'°F';
-        if(minM)document.getElementById('w-min').textContent=minM[1]+'°F';
 
-        // Surf & Tide
-        const surfS=L.findIndex(l=>l.startsWith('Southern Brevard Barrier Islands')),
-              surfE=L.findIndex((l,i)=>i>surfS&&l.includes('Sunset')),
-              S=L.slice(surfS,surfE+1);
-        const ripL=S.find(l=>l.startsWith('Rip Current Risk')),
-              surfL=S.find(l=>l.startsWith('Surf Height')),
-              thL=S.find(l=>l.includes('Thunderstorm Potential')),
-              uvL=S.find(l=>l.startsWith('UV Index')),
-              srL=S.find(l=>l.trim().startsWith('Sunrise')),
-              ssL=S.find(l=>l.trim().startsWith('Sunset'));
-        const ripM2=ripL.match(/Rip Current Risk.*?([A-Za-z]+)/),
-              surfM2=surfL.match(/Around\s*([\d\s\w]+)/),
-              thM2=thL.match(/Thunderstorm Potential.*?([A-Za-z]+)/),
-              srM2=srL.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/),
-              ssM2=ssL.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
-        const thunderMap={Low:'Low chance',Moderate:'Moderate chance',High:'Very likely'},
-              colorMap={Low:'#00FF00',Moderate:'#FFFF00',High:'#FF0000'},
-              uvColorMap={Low:'#00FF00',Moderate:'#FFFF00',High:'#FF0000','Very High':'#FF4500'};
-        if(ripM2){
-          document.getElementById('s-risk').textContent=ripM2[1];
-          document.getElementById('s-flag').style.color=colorMap[ripM2[1]]||'#ccc';
+        if (tM)    document.getElementById('w-temp').textContent     = tM[1] + '°F';
+        if (hM)    document.getElementById('w-hum').textContent      = hM[1] + '%';
+        if (rainM) document.getElementById('w-rain').textContent     = rainM[1] + '%';
+        if (windM) document.getElementById('w-wind').textContent     = windM[1].trim();
+        if (foreM) document.getElementById('w-forecast').textContent = foreM[1].trim() + '.';
+        if (maxM)  document.getElementById('w-max').textContent      = maxM[1] + '°F';
+        if (minM)  document.getElementById('w-min').textContent      = minM[1] + '°F';
+
+        // Surf Forecast block
+        const surfS = L.findIndex(l => l.startsWith('Southern Brevard Barrier Islands')),
+              surfE = L.findIndex((l,i) => i>surfS && l.includes('Sunset')),
+              S     = L.slice(surfS, surfE+1);
+
+        const ripL   = S.find(l => l.startsWith('Rip Current Risk')),
+              surfL  = S.find(l => l.startsWith('Surf Height')),
+              thL    = S.find(l => l.includes('Thunderstorm Potential')),
+              uvL    = S.find(l => l.startsWith('UV Index')),
+              srL    = S.find(l => l.trim().startsWith('Sunrise')),
+              ssL    = S.find(l => l.trim().startsWith('Sunset'));
+
+        const ripM2  = ripL.match(/Rip Current Risk.*?([A-Za-z]+)/),
+              surfM2 = surfL.match(/Around\s*([\d\s\w]+)/),
+              thM2   = thL.match(/Thunderstorm Potential.*?([A-Za-z]+)/),
+              srM2   = srL.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/),
+              ssM2   = ssL.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
+
+        const thunderMap = { Low:'Low chance', Moderate:'Moderate chance', High:'Very likely' },
+              colorMap   = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000' },
+              uvColorMap = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000', 'Very High':'#FF4500' };
+
+        if (ripM2) {
+          document.getElementById('s-risk').textContent = ripM2[1];
+          document.getElementById('s-flag').style.background = colorMap[ripM2[1]] || '#ccc';
         }
-        if(surfM2)document.getElementById('s-height').textContent=surfM2[1].trim();
-        if(thM2)document.getElementById('s-thunder').textContent=thunderMap[thM2[1]]||thM2[1];
-        const uvCat='Very High',
-              uvPill=document.getElementById('s-uv-pill');
-        uvPill.textContent=uvCat;uvPill.style.background=uvColorMap[uvCat];
-        if(srM2)document.getElementById('s-sunrise').textContent=srM2[1];
-        if(ssM2)document.getElementById('s-sunset').textContent=ssM2[1];
+        if (surfM2) document.getElementById('s-height').textContent   = surfM2[1].trim();
+        if (thM2)   document.getElementById('s-thunder').textContent = thunderMap[thM2[1]] || thM2[1];
 
-        // Tide from Indian River block
-        const zoneID='Coastal Indian River-Mainland Southern Brevard',
-              zStart=L.findIndex(l=>l.includes(zoneID));
-        if(zStart>-1){
-          let zEnd=L.findIndex((l,i)=>i>zStart&&l.trim()==='&&');
-          if(zEnd===-1)zEnd=L.length;
-          const Z=L.slice(zStart,zEnd);
-          const portLine=Z.find(l=>l.includes('Port Canaveral')),
-                sebLine=Z.find(l=>l.includes('Sebastian Inlet'));
-          if(portLine)document.getElementById('tide-port').
+        const uvCat = 'Very High',
+              uvPill = document.getElementById('s-uv-pill');
+        uvPill.textContent = uvCat;
+        uvPill.style.background = uvColorMap[uvCat];
 
-        // Plan tip
-        let tip='Have a great day!';
-        if(thM2&&thunderMap[thM2[1]]==='Very likely'){
-          tip='Afternoon storms likely—plan indoor or carry rain gear.';
-        } else if(uvCat==='Very High'){
-          tip='UV is very high—wear sunscreen and cover up.';
+        if (srM2) document.getElementById('s-sunrise').textContent = srM2[1];
+        if (ssM2) document.getElementById('s-sunset').textContent  = ssM2[1];
+
+        // Tide Times from Coastal Indian River-Mainland Southern Brevard
+        const zoneID = 'Coastal Indian River-Mainland Southern Brevard',
+              zStart = L.findIndex(l => l.includes(zoneID));
+        if (zStart > -1) {
+          let zEnd = L.findIndex((l,i) => i>zStart && l.trim()==='&&');
+          if (zEnd===-1) zEnd = L.length;
+          const Z = L.slice(zStart, zEnd);
+          const portLine = Z.find(l => l.includes('Port Canaveral')),
+                sebLine  = Z.find(l => l.includes('Sebastian Inlet'));
+          if (portLine) document.getElementById('tide-port').textContent = portLine.trim();
+          if (sebLine)  document.getElementById('tide-seb').textContent  = sebLine.trim();
         }
-        document.getElementById('plan-tip').textContent=tip;
+
+        // Plan Your Day
+        let tip = 'Have a great day!';
+        if (thM2 && thunderMap[thM2[1]] === 'Very likely') {
+          tip = 'Afternoon storms likely—plan indoor or carry rain gear.';
+        } else if (uvCat === 'Very High') {
+          tip = 'UV is very high—wear sunscreen and cover up.';
+        }
+        document.getElementById('plan-tip').textContent = 'Tip of the day: ' + tip;
       })
       .catch(console.error);
   </script>
 
+  <!-- Slideshow -->
   <script>
     (function(){
-      const files=['1.png','2.png','5.png','6.png','7.png','Climate.png','Forecast.png','KMLB_loop.gif'],
-            base='images/',container=document.querySelector('.slideshow'),slides=[];
-      let idx=0,started=false;
-      files.forEach(name=>{
-        const img=new Image();img.src=base+name;
-        img.onload=()=>{
+      const files     = ['1.png','2.png','5.png','6.png','7.png','Climate.png','Forecast.png','KMLB_loop.gif'],
+            base      = 'images/',
+            container = document.querySelector('.slideshow'),
+            slides    = [];
+      let idx = 0, started = false;
+      files.forEach(name => {
+        const img = new Image();
+        img.src = base + name;
+        img.onload = () => {
           img.classList.add('slide');
           container.appendChild(img);
           slides.push(img);
-          if(!started){
-            started=true;
+          if (!started) {
+            started = true;
             slides[0].classList.add('active');
-            setInterval(()=>{
+            setInterval(() => {
               slides[idx].classList.remove('active');
-              idx=(idx+1)%slides.length;
+              idx = (idx + 1) % slides.length;
               slides[idx].classList.add('active');
-            },10000);
+            }, 10000);
           }
         };
       });
@@ -377,4 +525,3 @@
   </div>
 </body>
 </html>
-
