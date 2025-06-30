@@ -19,17 +19,8 @@
       text-align: center;
       padding: 2rem 1rem;
     }
-    h1 {
-      margin: 0;
-      font-size: 2rem;
-      color: #0277bd;
-    }
-    h2.subtitle {
-      margin: .2rem 0 1.5rem;
-      font-size: 1.2rem;
-      color: #555;
-      font-style: italic;
-    }
+    h1 { margin: 0; font-size: 2rem; color: #0277bd; }
+    h2.subtitle { margin: .2rem 0 1.5rem; font-size: 1.2rem; color: #555; font-style: italic; }
 
     /* Alert banner */
     #alert-banner {
@@ -45,7 +36,7 @@
       font-size: .9rem;
     }
 
-    /* Current Weather */
+    /* —— Current Weather —— */
     #weather-summary {
       max-width: 800px;
       margin: 1.5rem auto;
@@ -85,23 +76,13 @@
       margin-bottom: .3rem;
       color: #ffd54f;
     }
-    .weather-item .label {
-      display: block;
-      font-size: .8rem;
-      opacity: .8;
-    }
-    .weather-item .value {
-      font-size: 1rem;
-      font-weight: bold;
-    }
+    .weather-item .label { display: block; font-size: .8rem; opacity: .8; }
+    .weather-item .value { font-size: 1rem; font-weight: bold; }
     .weather-item .subvalue {
-      display: block;
-      font-size: .7rem;
-      opacity: .7;
-      margin-top: .5rem;
+      display: block; font-size: .7rem; opacity: .7; margin-top: .5rem;
     }
 
-    /* Sparkline */
+    /* Sparkline (transparent) */
     .sparkline {
       width: 100px;
       height: 30px;
@@ -110,7 +91,7 @@
       background: transparent;
     }
 
-    /* Surf Forecast */
+    /* —— Surf Forecast —— */
     #surf-forecast {
       max-width: 800px;
       margin: 1.5rem auto;
@@ -147,12 +128,11 @@
       font-weight: bold;
       margin-right: .5rem;
     }
-    .surf-item .value {
-      margin-right: .5rem;
-    }
-    .surf-item i.flag {
-      /* colored via JS */
-    }
+    .surf-item .value { margin-right: .5rem; }
+    /* remove any background from the flag icon */
+    .surf-item i.flag { background: none; }
+
+    /* UV pill */
     .uv-pill {
       display: inline-block;
       padding: .2rem .6rem;
@@ -162,7 +142,7 @@
       font-size: .9rem;
     }
 
-    /* Tide Times */
+    /* —— Tide Times —— */
     #tide-times {
       max-width: 800px;
       margin: 1.5rem auto;
@@ -173,17 +153,10 @@
       text-align: left;
       color: #333;
     }
-    #tide-times h2 {
-      margin-top: 0;
-      font-size: 1.4rem;
-      color: #0277bd;
-    }
-    #tide-times p {
-      margin: .3rem 0;
-      font-size: .9rem;
-    }
+    #tide-times h2 { margin-top: 0; font-size: 1.4rem; color: #0277bd; }
+    #tide-times p { margin: .3rem 0; font-size: .9rem; }
 
-    /* Plan Your Day Tip */
+    /* —— Plan Your Day Tip —— */
     #plan-tip {
       max-width: 800px;
       margin: 1rem auto;
@@ -196,7 +169,7 @@
       font-style: italic;
     }
 
-    /* Rip Current Flag Guide */
+    /* —— Rip Current Flag Guide —— */
     #flag-guide {
       max-width: 800px;
       margin: 1.5rem auto;
@@ -207,17 +180,10 @@
       text-align: left;
       color: #333;
     }
-    #flag-guide h2 {
-      margin-top: 0;
-      font-size: 1.4rem;
-      color: #0277bd;
-    }
-    #flag-guide p {
-      margin: .5rem 0;
-      font-size: .9rem;
-    }
+    #flag-guide h2 { margin-top: 0; font-size: 1.4rem; color: #0277bd; }
+    #flag-guide p { margin: .5rem 0; font-size: .9rem; }
 
-    /* Slideshow */
+    /* —— Slideshow —— */
     .slideshow {
       position: relative;
       max-width: 800px;
@@ -233,16 +199,12 @@
       position: absolute;
       top: 0; left: 0;
       width: 100%; height: 100%;
-      object-fit: contain;
-      opacity: 0;
+      object-fit: contain; opacity: 0;
       transition: opacity 1s ease-in-out;
     }
-    .slideshow img.active {
-      opacity: 1;
-      z-index: 1;
-    }
+    .slideshow img.active { opacity: 1; z-index: 1; }
 
-    /* Footer Caption */
+    /* —— Footer Caption —— */
     #data-caption {
       font-size: .8rem;
       color: #666;
@@ -376,7 +338,7 @@
         const hwoIdx = L.findIndex(l => l.startsWith('⚠️ Hazardous Weather Outlook:'));
         if (hwoIdx > -1) {
           let msg = '';
-          for (let i = hwoIdx+1; i < L.length; i++) {
+          for (let i = hwoIdx + 1; i < L.length; i++) {
             if (!L[i].trim() || L[i].startsWith('🛥️ Marine Weather Statement')) break;
             msg += L[i] + '\n';
           }
@@ -429,7 +391,7 @@
         if (maxM)  document.getElementById('w-max').textContent      = maxM[1] + '°F';
         if (minM)  document.getElementById('w-min').textContent      = minM[1] + '°F';
 
-        // Surf Forecast block
+        // Surf & Tide
         const surfS = L.findIndex(l => l.startsWith('Southern Brevard Barrier Islands')),
               surfE = L.findIndex((l,i) => i>surfS && l.includes('Sunset')),
               S     = L.slice(surfS, surfE+1);
@@ -452,13 +414,13 @@
               uvColorMap = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000', 'Very High':'#FF4500' };
 
         if (ripM2) {
-          document.getElementById('s-risk').textContent = ripM2[1];
-          document.getElementById('s-flag').style.background = colorMap[ripM2[1]] || '#ccc';
+          document.getElementById('s-risk').textContent  = ripM2[1];
+          document.getElementById('s-flag').style.color  = colorMap[ripM2[1]] || '#ccc';
         }
-        if (surfM2) document.getElementById('s-height').textContent   = surfM2[1].trim();
-        if (thM2)   document.getElementById('s-thunder').textContent = thunderMap[thM2[1]] || thM2[1];
+        if (surfM2) document.getElementById('s-height').textContent  = surfM2[1].trim();
+        if (thM2)   document.getElementById('s-thunder').textContent= thunderMap[thM2[1]]||thM2[1];
 
-        const uvCat = 'Very High',
+        const uvCat  = 'Very High',
               uvPill = document.getElementById('s-uv-pill');
         uvPill.textContent = uvCat;
         uvPill.style.background = uvColorMap[uvCat];
@@ -466,7 +428,7 @@
         if (srM2) document.getElementById('s-sunrise').textContent = srM2[1];
         if (ssM2) document.getElementById('s-sunset').textContent  = ssM2[1];
 
-        // Tide Times from Coastal Indian River-Mainland Southern Brevard
+        // Tide from "Coastal Indian River-Mainland Southern Brevard"
         const zoneID = 'Coastal Indian River-Mainland Southern Brevard',
               zStart = L.findIndex(l => l.includes(zoneID));
         if (zStart > -1) {
