@@ -19,171 +19,67 @@
       text-align: center;
       padding: 2rem 1rem;
     }
-    h1 {
-      margin: 0;
-      font-size: 2rem;
-      color: #0277bd;
-    }
-    h2.subtitle {
-      margin: .2rem 0 1.5rem;
-      font-size: 1.2rem;
-      color: #555;
-      font-style: italic;
-    }
+    h1 { margin: 0; font-size: 2rem; color: #0277bd; }
+    h2.subtitle { margin: .2rem 0 1.5rem; font-size: 1.2rem; color: #555; font-style: italic; }
 
     /* —— Current Weather Styles —— */
     #weather-summary {
-      max-width: 800px;
-      margin: 1.5rem auto;
-      padding: 1.5rem;
-      background: #81d4fa;
-      border-radius: 10px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      max-width: 800px; margin: 1.5rem auto; padding: 1.5rem;
+      background: #81d4fa; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);
       color: #fff;
     }
-    #weather-summary h2 {
-      margin-top: 0;
-      margin-bottom: 0.2rem;  /* tighten below title */
-      font-size: 1.6rem;
-      color: #0d47a1;
-    }
-    #weather-summary h3.date {
-      margin: 0.1rem 0 0.8rem; /* tighten above/below date */
-      font-size: 1rem;
-      color: rgba(255,255,255,0.85);
-      font-style: italic;
-    }
+    #weather-summary h2 { margin: 0 0 .2rem 0; font-size: 1.6rem; color: #0d47a1; }
+    #weather-summary h3.date { margin: .1rem 0 .8rem; font-size: 1rem; color: rgba(255,255,255,0.85); font-style: italic; }
     .weather-card {
-      display: grid;
-      grid-template-columns: repeat(5, 1fr);
-      gap: 1rem;
-      margin-top: 1rem;
+      display: grid; grid-template-columns: repeat(5,1fr); gap:1rem; margin-top:1rem;
     }
     .weather-item {
-      background: rgba(0,0,0,0.4);
-      border-radius: 6px;
-      padding: 1rem;
-      text-align: center;
+      background: rgba(0,0,0,0.4); border-radius:6px; padding:1rem; text-align:center;
     }
-    .weather-item i {
-      font-size: 2rem;
-      display: block;
-      margin-bottom: .3rem;
-      color: #ffd54f;
-    }
-    .weather-item .label {
-      display: block;
-      font-size: .8rem;
-      opacity: .8;
-    }
-    .weather-item .value {
-      font-size: 1rem;
-      font-weight: bold;
-    }
-    .weather-item .subvalue {
-      display: block;
-      font-size: .7rem;
-      opacity: .7;
-      margin-top: .5rem;
-    }
+    .weather-item i { font-size:2rem; display:block; margin-bottom:.3rem; color:#ffd54f; }
+    .weather-item .label { display:block; font-size:.8rem; opacity:.8; }
+    .weather-item .value { font-size:1rem; font-weight:bold; }
+    .weather-item .subvalue { display:block; font-size:.7rem; opacity:.7; margin-top:.5rem; }
 
     /* —— Surf Forecast Styles —— */
     #surf-forecast {
-      max-width: 800px;
-      margin: 1.5rem auto;
-      padding: 1rem;
-      background: #ffffffcc;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      text-align: left;
-      color: #333;
+      max-width:800px; margin:1.5rem auto; padding:1rem;
+      background:#ffffffcc; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);
+      text-align:left; color:#333;
     }
-    #surf-forecast h2 {
-      margin-top: 0;
-      margin-bottom: 0.2rem;  /* tighten below title */
-      color: #0277bd;
-      font-size: 1.4rem;
-    }
-    #surf-forecast h3.subsubtitle {
-      margin: .1rem 0 .6rem;  /* tighten above/below subheader */
-      font-size: 1rem;
-      color: #555;
-      font-style: italic;
-    }
+    #surf-forecast h2 { margin:0 0 .2rem 0; font-size:1.4rem; color:#0277bd; }
+    #surf-forecast h3.subsubtitle { margin:.1rem 0 .6rem; font-size:1rem; color:#555; font-style:italic; }
     .surf-item {
-      display: flex;
-      align-items: center;
-      margin: .5rem 0;
-      font-size: .9rem;
+      display:flex; align-items:center; margin:.5rem 0; font-size:.9rem;
     }
-    .surf-item i {
-      font-size: 1rem;
-      margin-right: .5rem;
-      color: #0277bd;
-    }
-    .surf-item i.flag {
-      /* color set dynamically */
-    }
-    .surf-item .label {
-      font-weight: bold;
-      margin-right: .5rem;
-    }
-    .surf-item .value {
-      margin-right: .5rem;
-    }
+    .surf-item i { font-size:1rem; margin-right:.5rem; color:#0277bd; }
+    .surf-item i.flag { /* color set dynamically via JS */ }
+    .surf-item .label { font-weight:bold; margin-right:.5rem; }
+    .surf-item .value { margin-right:.5rem; }
 
     /* —— Rip Current Flag Guide —— */
     #flag-guide {
-      max-width: 800px;
-      margin: 1.5rem auto;
-      padding: 1rem;
-      background: #ffffffcc;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      text-align: left;
-      color: #333;
+      max-width:800px; margin:1.5rem auto; padding:1rem;
+      background:#ffffffcc; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);
+      text-align:left; color:#333;
     }
-    #flag-guide h2 {
-      margin-top: 0;
-      color: #0277bd;
-      font-size: 1.4rem;
-    }
-    #flag-guide p {
-      margin: .5rem 0;
-      font-size: .9rem;
-    }
+    #flag-guide h2 { margin-top:0; font-size:1.4rem; color:#0277bd; }
+    #flag-guide p { margin:.5rem 0; font-size:.9rem; }
 
     /* —— Slideshow Styles —— */
     .slideshow {
-      position: relative;
-      max-width: 800px;
-      margin: 2rem auto;
-      border: 4px solid #81d4fa;
-      border-radius: 12px;
-      overflow: hidden;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.15);
-      background: white;
-      height: 450px;
+      position:relative; max-width:800px; margin:2rem auto;
+      border:4px solid #81d4fa; border-radius:12px; overflow:hidden;
+      box-shadow:0 6px 18px rgba(0,0,0,0.15); background:white; height:450px;
     }
     .slideshow img {
-      position: absolute;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
-      object-fit: contain;
-      opacity: 0;
-      transition: opacity 1s ease-in-out;
+      position:absolute; top:0; left:0; width:100%; height:100%;
+      object-fit:contain; opacity:0; transition:opacity 1s ease-in-out;
     }
-    .slideshow img.active {
-      opacity: 1;
-      z-index: 1;
-    }
+    .slideshow img.active { opacity:1; z-index:1; }
 
     /* —— Footer Caption —— */
-    #data-caption {
-      font-size: .8rem;
-      color: #666;
-      margin-top: 1.5rem;
-    }
+    #data-caption { font-size:.8rem; color:#666; margin-top:1.5rem; }
   </style>
 </head>
 <body>
@@ -230,7 +126,8 @@
     <h2>Surf Forecast</h2>
     <h3 class="subsubtitle">Melbourne Beach</h3>
     <div class="surf-item">
-      <i class="wi wi-ocean"></i>
+      <!-- reverted to the earlier wave icon -->
+      <i class="fas fa-water"></i>
       <span class="label">Rip Current Risk:</span>
       <span class="value" id="s-risk">--</span>
       <i id="s-flag" class="fas fa-flag flag"></i>
@@ -327,30 +224,29 @@
         const thunderMap = { Low:'Low chance', Moderate:'Moderate chance', High:'Very likely' },
               colorMap   = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000' };
 
-        // Inject current
+        // inject current
         if (tM)   document.getElementById('w-temp').textContent     = tM[1]+'°F';
         if (hM)   document.getElementById('w-hum').textContent      = hM[1]+'%';
-
-        if (rainM)  document.getElementById('w-rain').textContent  = rainM[1]+'%';
-        if (windM)  document.getElementById('w-wind').textContent  = windM[1].trim();
-        if (foreM) {
+        if (rainM)document.getElementById('w-rain').textContent    = rainM[1]+'%';
+        if (windM)document.getElementById('w-wind').textContent    = windM[1].trim();
+        if (foreM){
           let txt = foreM[1].trim() + '.';
-          txt = txt.replace(/^Chance\s+/,'Chance of ');
+          txt = txt.replace(/^Chance\s+/, 'Chance of ');
           document.getElementById('w-forecast').textContent = txt;
         }
-        if (maxM)  document.getElementById('w-max').textContent     = maxM[1]+'°F';
-        if (minM)  document.getElementById('w-min').textContent     = minM[1]+'°F';
+        if (maxM) document.getElementById('w-max').textContent     = maxM[1]+'°F';
+        if (minM) document.getElementById('w-min').textContent     = minM[1]+'°F';
 
-        // Inject surf
+        // inject surf
         if (ripM2) {
-          document.getElementById('s-risk').textContent   = ripM2[1];
-          document.getElementById('s-flag').style.color   = colorMap[ripM2[1]] || '#ccc';
+          document.getElementById('s-risk').textContent  = ripM2[1];
+          document.getElementById('s-flag').style.color  = colorMap[ripM2[1]] || '#ccc';
         }
-        if (surfM) document.getElementById('s-height').textContent = surfM[1].trim();
-        if (thunM) document.getElementById('s-thunder').textContent = thunderMap[thunM[1]] || thunM[1];
+        if (surfM) document.getElementById('s-height').textContent  = surfM[1].trim();
+        if (thunM) document.getElementById('s-thunder').textContent= thunderMap[thunM[1]]||thunM[1];
         document.getElementById('s-uv').textContent               = 'Very High';
-        if (srM2)  document.getElementById('s-sunrise').textContent = srM2[1];
-        if (ssM2)  document.getElementById('s-sunset').textContent  = ssM2[1];
+        if (srM2)  document.getElementById('s-sunrise').textContent= srM2[1];
+        if (ssM2)  document.getElementById('s-sunset').textContent = ssM2[1];
       })
       .catch(console.error);
   </script>
@@ -385,7 +281,7 @@
   </script>
 
   <div id="data-caption">
-    Data extracted from the National Weather Service.
+    Data extracted from the National Weather Service (NWS).
   </div>
 </body>
 </html>
