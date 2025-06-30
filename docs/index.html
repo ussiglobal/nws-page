@@ -43,12 +43,12 @@
     }
     #weather-summary h2 {
       margin-top: 0;
-      margin-bottom: 0.2rem;      /* tighten space below title */
+      margin-bottom: 0.2rem;  /* tighten below title */
       font-size: 1.6rem;
       color: #0d47a1;
     }
     #weather-summary h3.date {
-      margin: 0.1rem 0 0.8rem;     /* tighten above and below date */
+      margin: 0.1rem 0 0.8rem; /* tighten above/below date */
       font-size: 1rem;
       color: rgba(255,255,255,0.85);
       font-style: italic;
@@ -100,12 +100,12 @@
     }
     #surf-forecast h2 {
       margin-top: 0;
-      margin-bottom: 0.2rem;      /* tighten space below title */
+      margin-bottom: 0.2rem;  /* tighten below title */
       color: #0277bd;
       font-size: 1.4rem;
     }
     #surf-forecast h3.subsubtitle {
-      margin: .1rem 0 .6rem;      /* tighten above and below subheader */
+      margin: .1rem 0 .6rem;  /* tighten above/below subheader */
       font-size: 1rem;
       color: #555;
       font-style: italic;
@@ -230,6 +230,7 @@
     <h2>Surf Forecast</h2>
     <h3 class="subsubtitle">Melbourne Beach</h3>
     <div class="surf-item">
+      <i class="wi wi-ocean"></i>
       <span class="label">Rip Current Risk:</span>
       <span class="value" id="s-risk">--</span>
       <i id="s-flag" class="fas fa-flag flag"></i>
@@ -247,7 +248,7 @@
     <div class="surf-item">
       <i class="wi wi-day-sunny"></i>
       <span class="label">UV Index:</span>
-      <span class="value" id="s-uv">--</span>
+      <span class="value" id="s-uv">Very High</span>
     </div>
     <div class="surf-item">
       <i class="wi wi-sunrise"></i>
@@ -278,7 +279,7 @@
   <!-- —— Slideshow —— -->
   <div class="slideshow"></div>
 
-  <!-- —— Data & Surf Injection & Date —— -->
+  <!-- —— Scripts —— -->
   <script>
     // set today's date
     document.addEventListener('DOMContentLoaded', () => {
@@ -291,60 +292,65 @@
       .then(r => r.ok ? r.text() : Promise.reject('Load failed'))
       .then(txt => {
         const L = txt.split('\n');
-        // Current
-        const c = L.find(l => l.startsWith('Temp:'));
-        const tM = c.match(/Temp: ([\d.]+)°F/),
-              hM = c.match(/Humidity: ([\d.]+)%/);
+
+        // Current conditions
+        const curr = L.find(l => l.startsWith('Temp:'));
+        const tM = curr.match(/Temp: ([\d.]+)°F/),
+              hM = curr.match(/Humidity: ([\d.]+)%/);
+
         // Forecast
-        const td = L.find(l => l.startsWith('• Today:'));
-        const tn = L.find(l => l.startsWith('• Tonight:'));
-        const rM = td.match(/Rain: (\d+)%/),
-              wM = td.match(/Wind: ([^;]+)/),
-              fM = td.match(/—\s*([^.;]+)/),
-              xM = td.match(/High: (\d+)°F/),
-              nM = tn.match(/Low: (\d+)°F/);
+        const todayLine   = L.find(l => l.startsWith('• Today:'));
+        const tonightLine = L.find(l => l.startsWith('• Tonight:'));
+        const rainM = todayLine.match(/Rain: (\d+)%/),
+              windM = todayLine.match(/Wind: ([^;]+)/),
+              foreM = todayLine.match(/—\s*([^.;]+)/),
+              maxM  = todayLine.match(/High: (\d+)°F/),
+              minM  = tonightLine.match(/Low: (\d+)°F/);
+
         // Surf block
-        const sS = L.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
-        const sE = L.findIndex((l,i) => i>sS && l.includes('Sunset'));
-        const B  = L.slice(sS, sE+1);
-        const rL = B.find(l => l.startsWith('Rip Current Risk')),
-              suL= B.find(l => l.startsWith('Surf Height')),
-              tL = B.find(l => l.includes('Thunderstorm Potential')),
-              sr = B.find(l => l.trim().startsWith('Sunrise')),
-              ss = B.find(l => l.trim().startsWith('Sunset'));
-        const rM2 = rL.match(/Rip Current Risk.*?([A-Za-z]+)/),
-              suM= suL.match(/Around\s*([\d\s\w]+)/),
-              tM2= tL.match(/Thunderstorm Potential.*?([A-Za-z]+)/),
-              srM= sr.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/),
-              ssM= ss.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
+        const startIdx = L.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
+        const endIdx   = L.findIndex((l,i) => i > startIdx && l.includes('Sunset'));
+        const block    = L.slice(startIdx, endIdx + 1);
+
+        const ripLine  = block.find(l => l.startsWith('Rip Current Risk')),
+              surfLine = block.find(l => l.startsWith('Surf Height')),
+              thunLine = block.find(l => l.includes('Thunderstorm Potential')),
+              srLine   = block.find(l => l.trim().startsWith('Sunrise')),
+              ssLine   = block.find(l => l.trim().startsWith('Sunset'));
+
+        const ripM2  = ripLine.match(/Rip Current Risk.*?([A-Za-z]+)/),
+              surfM  = surfLine.match(/Around\s*([\d\s\w]+)/),
+              thunM  = thunLine.match(/Thunderstorm Potential.*?([A-Za-z]+)/),
+              srM2   = srLine.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/),
+              ssM2   = ssLine.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
 
         const thunderMap = { Low:'Low chance', Moderate:'Moderate chance', High:'Very likely' },
               colorMap   = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000' };
 
-        // inject current
-        if (tM)  document.getElementById('w-temp').textContent  = tM[1]+'°F';
-        if (hM)  document.getElementById('w-hum').textContent   = hM[1]+'%';
-        if (rM)  document.getElementById('w-rain').textContent  = rM[1]+'%';
-        if (wM)  document.getElementById('w-wind').textContent  = wM[1].trim();
-        if (fM) {
-          let txt = fM[1].trim()+'.';
-          txt = txt.replace(/^Chance\s+/, 'Chance of ');
+        // Inject current
+        if (tM)   document.getElementById('w-temp').textContent     = tM[1]+'°F';
+        if (hM)   document.getElementById('w-hum').textContent      = hM[1]+'%';
+
+        if (rainM)  document.getElementById('w-rain').textContent  = rainM[1]+'%';
+        if (windM)  document.getElementById('w-wind').textContent  = windM[1].trim();
+        if (foreM) {
+          let txt = foreM[1].trim() + '.';
+          txt = txt.replace(/^Chance\s+/,'Chance of ');
           document.getElementById('w-forecast').textContent = txt;
         }
-        if (xM)  document.getElementById('w-max').textContent   = xM[1]+'°F';
-        if (nM)  document.getElementById('w-min').textContent   = nM[1]+'°F';
+        if (maxM)  document.getElementById('w-max').textContent     = maxM[1]+'°F';
+        if (minM)  document.getElementById('w-min').textContent     = minM[1]+'°F';
 
-        // inject surf
-        if (rM2) {
-          document.getElementById('s-risk').textContent  = rM2[1];
-          document.getElementById('s-flag').style.color  = colorMap[rM2[1]] || '#ccc';
+        // Inject surf
+        if (ripM2) {
+          document.getElementById('s-risk').textContent   = ripM2[1];
+          document.getElementById('s-flag').style.color   = colorMap[ripM2[1]] || '#ccc';
         }
-        if (suM) document.getElementById('s-height').textContent = suM[1].trim();
-        if (tM2) document.getElementById('s-thunder').textContent= thunderMap[tM2[1]] || tM2[1];
-        // change UV label to "Very High"
-        document.getElementById('s-uv').textContent = 'Very High';
-        if (srM) document.getElementById('s-sunrise').textContent= srM[1];
-        if (ssM) document.getElementById('s-sunset').textContent = ssM[1];
+        if (surfM) document.getElementById('s-height').textContent = surfM[1].trim();
+        if (thunM) document.getElementById('s-thunder').textContent = thunderMap[thunM[1]] || thunM[1];
+        document.getElementById('s-uv').textContent               = 'Very High';
+        if (srM2)  document.getElementById('s-sunrise').textContent = srM2[1];
+        if (ssM2)  document.getElementById('s-sunset').textContent  = ssM2[1];
       })
       .catch(console.error);
   </script>
@@ -358,18 +364,18 @@
             slides    = [];
       let idx=0, started=false;
       files.forEach(name=>{
-        const img=new Image();
-        img.src=base+name;
-        img.onload=()=>{
+        const img = new Image();
+        img.src = base + name;
+        img.onload = ()=>{
           img.classList.add('slide');
           container.appendChild(img);
           slides.push(img);
-          if(!started){
-            started=true;
+          if (!started) {
+            started = true;
             slides[0].classList.add('active');
             setInterval(()=>{
               slides[idx].classList.remove('active');
-              idx=(idx+1)%slides.length;
+              idx = (idx+1)%slides.length;
               slides[idx].classList.add('active');
             },10000);
           }
@@ -378,10 +384,8 @@
     })();
   </script>
 
-  <!-- —— Data Source Caption —— -->
   <div id="data-caption">
     Data extracted from the National Weather Service.
   </div>
-
 </body>
 </html>
