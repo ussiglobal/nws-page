@@ -1,0 +1,240 @@
+===============================
+🌤 Melbourne, FL WEATHER SUMMARY
+Generated: Jul 1, 2025 • 11:09 AM
+===============================
+
+📅 Forecast:
+• Today:    Today — Showers And Thunderstorms Likely. High: 88°F; Rain: 57% ; Wind: 5 to 15 mph SE
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 76°F; Rain: 53% ; Wind: 5 to 15 mph S
+• Tomorrow: Wednesday — High: 89°F; Low: 77°F; Rain: 69% ; Wind: 5 to 10 mph S
+🌡️ Current Conditions:
+Temp: 82.9°F (28.3°C) · Humidity: 60.8%
+
+🛥️ Marine Weather Statement:
+630
+FZUS72 KMLB 011305
+MWSMLB
+
+Marine Weather Statement
+National Weather Service Melbourne FL
+905 AM EDT Tue Jul 1 2025
+
+AMZ575-011400-
+905 AM EDT Tue Jul 1 2025
+
+A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+
+At 905 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+36 nm east of Jupiter Inlet, moving north at 15 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+&&
+
+LAT...LON 2698 7957 2740 7975 2755 7923 2729 7913
+      2698 7905
+
+$$
+
+Law
+
+🌊 Surf Forecast (rip-current, surf height, UV, etc.):
+690
+FZUS52 KMLB 011500
+SRFMLB
+
+Surf Zone Forecast
+National Weather Service Melbourne FL
+1100 AM EDT Tue Jul 1 2025
+
+FLZ141-347-447-012000-
+Coastal Volusia-Mainland Northern Brevard-
+Northern Brevard Barrier Islands-
+Including the beaches of Ormond Beach, Daytona Beach,
+New Smyrna Beach, and Canaveral National Seashore
+1100 AM EDT Tue Jul 1 2025
+
+.REST OF TODAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 2 feet.
+Thunderstorm Potential**....High.
+UV Index**..................Extreme.
+Water Temperature...........In the upper 70s.
+Weather.....................Mostly sunny. Showers and thunderstorms
+                            likely.
+High Temperature............In the mid 80s.
+Winds.......................Southeast winds 5 to 10 mph.
+Tides...
+   Daytona Beach............High 3.6 feet (MLLW) 01:35 PM EDT.
+   Port Canaveral...........High 2.9 feet (MLLW) 01:27 PM EDT.
+Sunrise.....................6:29 AM.
+Sunset......................8:28 PM.
+
+.WEDNESDAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 2 feet.
+Thunderstorm Potential**....High.
+Weather.....................Mostly sunny until 4 PM, then mostly
+                            cloudy. Showers and thunderstorms
+                            likely.
+High Temperature............In the upper 80s.
+Winds.......................South winds 5 to 10 mph.
+Tides...
+   Daytona Beach............Low 0.4 feet (MLLW) 08:09 AM EDT.
+                            High 3.6 feet (MLLW) 02:23 PM EDT.
+   Port Canaveral...........Low 0.0 feet (MLLW) 08:02 AM EDT.
+                            High 2.9 feet (MLLW) 02:18 PM EDT.
+Sunrise.....................6:29 AM.
+Sunset......................8:27 PM.
+
+.THURSDAY...Partly sunny. Showers and thunderstorms. Highs in the mid
+80s. Southwest winds around 10 mph.
+.INDEPENDENCE DAY...Partly sunny. Showers and thunderstorms likely.
+Highs in the mid 80s. South winds around 5 mph.
+.SATURDAY...Partly sunny. Showers and thunderstorms likely. Highs in
+the mid 80s. East winds around 10 mph.
+
+&&
+
+Rip Current Risk Category
+* Low Risk - The risk for rip currents is low, however,
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
+* Moderate Risk - Life-threatening rip currents are possible in the
+surf zone.
+* High Risk - Life-threatening rip currents are likely in the surf
+zone.
+
+** For thunderstorm, waterspout, and UV definitions see:
+https://www.weather.gov/beach/mlb
+
+$$
+
+FLZ154-647-747-012000-
+Coastal Indian River-Mainland Southern Brevard-
+Southern Brevard Barrier Islands-
+Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
+and Melbourne Beach
+1100 AM EDT Tue Jul 1 2025
+
+.REST OF TODAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 2 feet.
+Thunderstorm Potential**....High.
+UV Index**..................Extreme.
+Water Temperature...........In the upper 70s.
+Weather.....................Mostly sunny. Showers and thunderstorms
+                            likely.
+High Temperature............In the mid 80s.
+Winds.......................Southeast winds around 10 mph.
+Tides...
+   Port Canaveral...........High 2.9 feet (MLLW) 01:27 PM EDT.
+   Sebastian Inlet..........High 2.0 feet (MLLW) 01:19 PM EDT.
+Sunrise.....................6:30 AM.
+Sunset......................8:23 PM.
+
+.WEDNESDAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 2 feet.
+Thunderstorm Potential**....High.
+Weather.....................Partly sunny. Showers and thunderstorms
+                            likely.
+High Temperature............In the upper 80s.
+Winds.......................South winds around 10 mph.
+Tides...
+   Port Canaveral...........Low 0.0 feet (MLLW) 08:02 AM EDT.
+                            High 2.9 feet (MLLW) 02:18 PM EDT.
+   Sebastian Inlet..........Low 0.1 feet (MLLW) 08:12 AM EDT.
+                            High 1.9 feet (MLLW) 02:11 PM EDT.
+Sunrise.....................6:30 AM.
+Sunset......................8:23 PM.
+
+.THURSDAY...Partly sunny. Showers and thunderstorms. Highs in the mid
+80s. Southwest winds around 10 mph.
+.INDEPENDENCE DAY...Mostly sunny. Showers and thunderstorms. Highs in
+the mid 80s. South winds around 10 mph.
+.SATURDAY...Partly sunny. Showers and thunderstorms likely. Highs in
+the mid 80s. Southeast winds around 10 mph.
+
+&&
+
+Rip Current Risk Category
+* Low Risk - The risk for rip currents is low, however,
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
+* Moderate Risk - Life-threatening rip currents are possible in the
+surf zone.
+* High Risk - Life-threatening rip currents are likely in the surf
+zone.
+
+** For thunderstorm, waterspout, and UV definitions see:
+https://www.weather.gov/beach/mlb
+
+$$
+
+FLZ159-164-012000-
+Coastal Saint Lucie-Coastal Martin-
+Including the beaches of Fort Pierce Inlet, Jensen Beach,
+St Lucie Inlet, and Hobe Sound
+1100 AM EDT Tue Jul 1 2025
+
+.REST OF TODAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 2 feet.
+Thunderstorm Potential**....High.
+UV Index**..................Very High.
+Water Temperature...........In the upper 70s.
+Weather.....................Mostly sunny. Showers and thunderstorms
+                            likely.
+High Temperature............In the upper 80s.
+Winds.......................Southeast winds around 10 mph.
+Tides...
+   Fort Pierce Inlet........High 2.4 feet (MLLW) 01:36 PM EDT.
+Sunrise.....................6:30 AM.
+Sunset......................8:21 PM.
+
+.WEDNESDAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 2 feet.
+Thunderstorm Potential**....High.
+Weather.....................Partly sunny. Showers and thunderstorms
+                            likely.
+High Temperature............In the upper 80s.
+Winds.......................South winds 5 to 10 mph.
+Tides...
+   Fort Pierce Inlet........Low 0.2 feet (MLLW) 08:18 AM EDT.
+                            High 2.3 feet (MLLW) 02:28 PM EDT.
+Sunrise.....................6:30 AM.
+Sunset......................8:21 PM.
+
+.THURSDAY...Partly sunny. Showers and thunderstorms likely. Highs in
+the upper 80s. South winds around 10 mph.
+.INDEPENDENCE DAY...Partly sunny. Showers and thunderstorms. Highs in
+the upper 80s. South winds around 5 mph.
+.SATURDAY...Partly sunny. Showers and thunderstorms likely. Highs in
+the mid 80s. South winds around 5 mph.
+
+&&
+
+Rip Current Risk Category
+* Low Risk - The risk for rip currents is low, however,
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
+* Moderate Risk - Life-threatening rip currents are possible in the
+surf zone.
+* High Risk - Life-threatening rip currents are likely in the surf
+zone.
+
+** For thunderstorm, waterspout, and UV definitions see:
+https://www.weather.gov/beach/mlb
+
+
+$$
+
+
