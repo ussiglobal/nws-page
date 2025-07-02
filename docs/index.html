@@ -354,7 +354,7 @@ fetch('data/melbourne_fl_summary.txt')
 
         // Current & Sparkline
         const curr     = L.find(l => l.startsWith('Temp:')),
-              tM       = curr.match(/Temp: ([\d.]+)°F/),
+              tM    = curr.match(/Temp: ([\d.]+)°F/),
               hM       = curr.match(/Humidity: ([\d.]+)%/),
               today    = L.find(l => l.startsWith('• Today:')),
               rainM    = today.match(/Rain: (\d+)%/),
@@ -362,7 +362,7 @@ fetch('data/melbourne_fl_summary.txt')
               foreM    = today.match(/—\s*([^.;]+)/),
               maxM     = today.match(/High: (\d+)°F/),
               tonight  = L.find(l => l.startsWith('• Tonight:')),
-              minM     = tonight.match(/Low: (\d+)°F/);
+              minM  = tonight.match(/Low: (\d+)°F/);
 
         // Sparkline values
         const highs = [
@@ -392,7 +392,16 @@ fetch('data/melbourne_fl_summary.txt')
         if (windM) document.getElementById('w-wind').textContent     = windM[1].trim();
         if (foreM) document.getElementById('w-forecast').textContent = foreM[1].trim() + '.';
         if (maxM)  document.getElementById('w-max').textContent      = maxM[1] + '°F';
-        if (minM)  document.getElementById('w-min').textContent      = minM[1] + '°F';
+        if (minM)  document.getElementById('w-min').textContent = minM[1] + '°F';
+
+        if (tM && minM) {
+          const currVal    = +tM[1];
+          const forecastLow = +minM[1];
+          const displayMin = Math.min(currVal, forecastLow);
+          document.getElementById('w-min').textContent = displayMin + '°F';
+        } else if (minM) {
+          document.getElementById('w-min').textContent = minM[1] + '°F';
+        }
 
         // Surf & Tide
         const surfS = L.findIndex(l => l.startsWith('Southern Brevard Barrier Islands')),
