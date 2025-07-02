@@ -455,39 +455,66 @@
         if (srM2) document.getElementById('s-sunrise').textContent = srM2[1];
         if (ssM2) document.getElementById('s-sunset').textContent  = ssM2[1];
 
-        // Tide from "Coastal Indian River-Mainland Southern Brevard"
-      const zoneID = 'Coastal Indian River-Mainland Southern Brevard',
-        zStart = L.findIndex(l => l.includes(zoneID));
-      if (zStart > -1) {
-        let zEnd = L.findIndex((l,i) => i>zStart && l.trim()==='&&');
-        if (zEnd===-1) zEnd = L.length;
-        const Z = L.slice(zStart, zEnd);
+// —— Tide Times (High & Low) —— 
+;(function(){
+  const zoneID = 'Coastal Indian River-Mainland Southern Brevard',
+        start  = L.findIndex(l => l.includes(zoneID));
+  if (start > -1) {
+    let end = L.findIndex((l,i) => i>start && l.trim()==='&&');
+    if (end===-1) end = L.length;
+    const Z = L.slice(start, end);
 
-       // grab all Port Canaveral lines (both Low & High)
-      const portLines = Z.filter(l => l.includes('Port Canaveral'));
-        if (portLines.length) {
-        document.getElementById('tide-port').innerHTML =
-        portLines.map(l => l.trim()).join('<br>');
+    // Port Canaveral: High first, then Low
+    const pHigh = Z.filter(l => l.includes('Port Canaveral') && /High/i.test(l)).map(l => l.trim()),
+          pLow  = Z.filter(l => l.includes('Port Canaveral') && /Low /i.test(l)).map(l => l.trim());
+    if (pHigh.length || pLow.length) {
+      document.getElementById('tide-port').innerHTML =
+        [...pHigh, ...pLow].join('<br>');
     }
 
-     // grab all Sebastian Inlet lines
-     const sebLines = Z.filter(l => l.includes('Sebastian Inlet'));
-       if (sebLines.length) {
+    // Sebastian Inlet: High first, then Low
+    const sHigh = Z.filter(l => l.includes('Sebastian Inlet') && /High/i.test(l)).map(l => l.trim()),
+          sLow  = Z.filter(l => l.includes('Sebastian Inlet') && /Low /i.test(l)).map(l => l.trim());
+    if (sHigh.length || sLow.length) {
       document.getElementById('tide-seb').innerHTML =
-      sebLines.map(l => l.trim()).join('<br>');
+        [...sHigh, ...sLow].join('<br>');
     }
   }
-        // Plan Your Day
-        let tip = 'Have a great day!';
-        if (thM2 && thunderMap[thM2[1]] === 'Very likely') {
-          tip = 'Afternoon storms likely—plan indoor or carry rain gear.';
-        } else if (uvCat === 'Very High') {
-          tip = 'UV is very high—wear sunscreen and cover up.';
-        }
-        document.getElementById('plan-tip').textContent = 'Tip of the day: ' + tip;
-      })
-      .catch(console.error);
-  </script>
+})();
+
+// —— Plan Your Day Tip —— 
+;(function(){
+  let tip = 'Have a great day!';
+  
+  // 1) If storms are “Very likely”
+  if (thM2 && thunderMap[thM2[1]] === 'Very likely') {
+    tip = 'Afternoon storms likely—plan indoor activities or carry rain gear.';
+  }
+  // 2) Heavy rain chance (if Rain % >50)
+  else {
+    const rainLine = L.find(l => l.startsWith('• Today:'));
+    const rainMatch = rainLine && rainLine.match(/Rain: (\d+)%/);
+    if (rainMatch && +rainMatch[1] > 50) {
+      tip = 'High chance of rain—don’t forget your umbrella.';
+    }
+  }
+  // 3) UV caution
+  if (uvCat === 'Very High') {
+    tip = 'UV is very high—apply sunscreen and wear a hat.';
+  }
+  // 4) Rip current warning
+  const ripFlag = document.getElementById('s-risk').textContent;
+  if (ripFlag === 'High' || ripFlag === 'Extreme') {
+    tip = 'Rip currents are dangerous—avoid swimming today.';
+  }
+  // 5) Marine hazards (if you ever pull that)
+  // (assumes you set a variable marineHazard = true/false)
+  if (typeof marineHazard !== 'undefined' && marineHazard) {
+    tip = 'Marine hazard alert—use caution in the water.';
+  }
+
+  document.getElementById('plan-tip').textContent = 'Tip of the day: ' + tip;
+})();
 
   <!-- Slideshow -->
   <script>
