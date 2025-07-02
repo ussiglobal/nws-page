@@ -403,26 +403,44 @@
         if(srM) document.getElementById('s-sunrise').textContent=srM[1];
         if(ssM) document.getElementById('s-sunset').textContent=ssM[1];
 
-        // Tide times (High then Low)
-        (function(){
-          const zoneID='Coastal Indian River-Mainland Southern Brevard',
-                start=L.findIndex(l=>l.includes(zoneID));
-          if(start>-1){
-            let end=L.findIndex((l,i)=>i>start&&l.trim()==='&&');
-            if(end===-1) end=L.length;
-            const Z=L.slice(start,end);
-            const pHigh=Z.filter(l=>l.includes('Port Canaveral')&&/High/i.test(l)).map(l=>l.trim()),
-                  pLow= Z.filter(l=>l.includes('Port Canaveral')&&/Low /i.test(l)).map(l=>l.trim());
-            if(pHigh.length||pLow.length){
-              document.getElementById('tide-port').innerHTML=[...pHigh,...pLow].join('<br>');
-            }
-            const sHigh=Z.filter(l=>l.includes('Sebastian Inlet')&&/High/i.test(l)).map(l=>l.trim()),
-                  sLow= Z.filter(l=>l.includes('Sebastian Inlet')&&/Low /i.test(l)).map(l=>l.trim());
-            if(sHigh.length||sLow.length){
-              document.getElementById('tide-seb').innerHTML=[...sHigh,...sLow].join('<br>');
-            }
-          }
-        })();
+// —— Tide Times (High & Low) —— 
+;(function(){
+  const zoneID = 'Coastal Indian River-Mainland Southern Brevard',
+        start  = L.findIndex(l => l.includes(zoneID));
+  if (start > -1) {
+    let end = L.findIndex((l,i) => i>start && l.trim()==='&&');
+    if (end === -1) end = L.length;
+    const Z = L.slice(start, end);
+
+    // Port Canaveral
+    const pHigh = Z.filter(l => l.includes('Port Canaveral') && /High/i.test(l)).map(l => l.trim()),
+          pLow  = Z.filter(l => l.includes('Port Canaveral') && /Low /i.test(l)).map(l => l.trim());
+    let portLines = [];
+    if (pHigh.length) {
+      // we have highs, so show all highs then lows
+      portLines = [...pHigh, ...pLow];
+    } else if (pLow.length) {
+      // no highs, just show the first low
+      portLines = [pLow[0]];
+    }
+    if (portLines.length) {
+      document.getElementById('tide-port').innerHTML = portLines.join('<br>');
+    }
+
+    // Sebastian Inlet
+    const sHigh = Z.filter(l => l.includes('Sebastian Inlet') && /High/i.test(l)).map(l => l.trim()),
+          sLow  = Z.filter(l => l.includes('Sebastian Inlet') && /Low /i.test(l)).map(l => l.trim());
+    let sebLines = [];
+    if (sHigh.length) {
+      sebLines = [...sHigh, ...sLow];
+    } else if (sLow.length) {
+      sebLines = [sLow[0]];
+    }
+    if (sebLines.length) {
+      document.getElementById('tide-seb').innerHTML = sebLines.join('<br>');
+    }
+  }
+})();
 
         // Plan Your Day
         (function(){
