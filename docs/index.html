@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -130,7 +130,13 @@
     }
     .surf-item .value { margin-right: .5rem; }
     /* remove any background from the flag icon */
-    .surf-item i.flag { background: none; }
+    .surf-item i.flag {
+      background: none;
+      font-size: 1.5rem;         /* bigger flag */
+    }
+    /* darker “yellow” for Moderate risk */
+    .very-moderate-flag { color: #FFC107 !important; }
+
 
     /* UV pill */
     .uv-pill {
@@ -299,6 +305,7 @@
     <p id="tide-seb">Sebastian Inlet: --</p>
   </section>
 
+
   <!-- Plan Your Day Tip -->
   <div id="plan-tip">Tip of the day: Loading…</div>
 
@@ -427,13 +434,16 @@
               ssM2   = ssL.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
 
         const thunderMap = { Low:'Low chance', Moderate:'Moderate chance', High:'Very likely' },
-              colorMap   = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000' },
+              colorMap   = { Low:'#00FF00', Moderate:'#FFC107', High:'#FF0000' },
               uvColorMap = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000', 'Very High':'#FF4500' };
 
         if (ripM2) {
-          document.getElementById('s-risk').textContent  = ripM2[1];
-          document.getElementById('s-flag').style.color  = colorMap[ripM2[1]] || '#ccc';
-        }
+          const lvl = ripM2[1];
+          const flagEl = document.getElementById('s-flag');
+          document.getElementById('s-risk').textContent = lvl;
+          flagEl.style.color = colorMap[lvl] || '#ccc';
+        if (lvl === 'Moderate') flagEl.classList.add('very-moderate-flag');
+      }
         if (surfM2) document.getElementById('s-height').textContent  = surfM2[1].trim();
         if (thM2)   document.getElementById('s-thunder').textContent= thunderMap[thM2[1]]||thM2[1];
 
@@ -446,18 +456,27 @@
         if (ssM2) document.getElementById('s-sunset').textContent  = ssM2[1];
 
         // Tide from "Coastal Indian River-Mainland Southern Brevard"
-        const zoneID = 'Coastal Indian River-Mainland Southern Brevard',
-              zStart = L.findIndex(l => l.includes(zoneID));
-        if (zStart > -1) {
-          let zEnd = L.findIndex((l,i) => i>zStart && l.trim()==='&&');
-          if (zEnd===-1) zEnd = L.length;
-          const Z = L.slice(zStart, zEnd);
-          const portLine = Z.find(l => l.includes('Port Canaveral')),
-                sebLine  = Z.find(l => l.includes('Sebastian Inlet'));
-          if (portLine) document.getElementById('tide-port').textContent = portLine.trim();
-          if (sebLine)  document.getElementById('tide-seb').textContent  = sebLine.trim();
-        }
+      const zoneID = 'Coastal Indian River-Mainland Southern Brevard',
+        zStart = L.findIndex(l => l.includes(zoneID));
+      if (zStart > -1) {
+        let zEnd = L.findIndex((l,i) => i>zStart && l.trim()==='&&');
+        if (zEnd===-1) zEnd = L.length;
+        const Z = L.slice(zStart, zEnd);
 
+       // grab all Port Canaveral lines (both Low & High)
+      const portLines = Z.filter(l => l.includes('Port Canaveral'));
+        if (portLines.length) {
+        document.getElementById('tide-port').innerHTML =
+        portLines.map(l => l.trim()).join('<br>');
+    }
+
+     // grab all Sebastian Inlet lines
+     const sebLines = Z.filter(l => l.includes('Sebastian Inlet'));
+       if (sebLines.length) {
+      document.getElementById('tide-seb').innerHTML =
+      sebLines.map(l => l.trim()).join('<br>');
+    }
+  }
         // Plan Your Day
         let tip = 'Have a great day!';
         if (thM2 && thunderMap[thM2[1]] === 'Very likely') {
