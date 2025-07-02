@@ -320,22 +320,27 @@
   <div class="slideshow"></div>
 
   <!-- Scripts -->
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const now = new Date();
-      document.getElementById('current-date').textContent =
-        `${now.getMonth()+1}/${now.getDate()}/${now.getFullYear()}`;
-      document.getElementById('last-updated').textContent =
-        now.toLocaleTimeString([], { hour:'2-digit', minute:'2-digit' });
-    });
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('current-date').textContent =
+      `${new Date().getMonth()+1}/${new Date().getDate()}/${new Date().getFullYear()}`;
+  });
 
-fetch('data/melbourne_fl_summary.txt')
-  .then(r => {
-    if (!r.ok) throw new Error(`Load failed (${r.status})`);
-    return r.text();
-  })
-      .then(txt => {
-        const L = txt.split('\n');
+  fetch('data/melbourne_fl_summary.txt')
+    .then(r => {
+      if (!r.ok) throw new Error(`Load failed (${r.status})`);
+      return r.text();
+    })
+    .then(txt => {
+      const L = txt.split('\n');
+
+      // 1) Grab the Generated timestamp
+      const genLine = L.find(l => l.startsWith('Generated:'));
+      if (genLine) {
+        // strip off "Generated:" and display
+        document.getElementById('last-updated').textContent =
+          genLine.replace('Generated:', '').trim();
+      }
 
         // Alert Banner
         const hwoIdx = L.findIndex(l => l.startsWith('⚠️ Hazardous Weather Outlook:'));
