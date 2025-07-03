@@ -357,7 +357,26 @@
         if(hM) document.getElementById('w-hum').textContent  = hM[1]+'%';
         if(rainM) document.getElementById('w-rain').textContent = rainM[1]+'%';
         if(windM) document.getElementById('w-wind').textContent = windM[1].trim();
-        if(foreM) document.getElementById('w-forecast').textContent = foreM[1].trim()+'.';
+        if (foreM) {
+  // pull out the raw phrase, e.g. "Slight Chance Showers And Thunderstorms"
+  let raw = foreM[1].trim();
+  // normalize casing
+  let lc  = raw.toLowerCase();
+
+  // insert the missing "of" after any "chance" or "slight chance"
+  lc = lc.replace(/\bslight chance\b/, 'slight chance of')
+         .replace(/\bchance\b/,         'chance of');
+
+  // capitalize first letter again
+  lc = lc.charAt(0).toUpperCase() + lc.slice(1);
+
+  // build two sentences
+  const currentPhrase = `Currently ${lc}`;
+  const laterPhrase   = `Later ${lc}`;
+
+  document.getElementById('w-forecast').textContent = `${currentPhrase}. ${laterPhrase}.`;
+}
+
         if(maxM) document.getElementById('w-max').textContent = maxM[1]+'°F';
         // ensure min ≤ current
         if(tM&&minM) {
