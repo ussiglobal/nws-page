@@ -228,12 +228,13 @@
   <section id="surf-forecast">
     <h2>Surf Forecast</h2>
     <h3 class="subsubtitle">Melbourne Beach</h3>
-    <div class="surf-item">
-      <i class="fas fa-water"></i>
-      <span class="label">Rip Current Risk:</span>
-      <span class="value" id="s-risk">--</span>
-      <i id="s-flag" class="fas fa-flag flag"></i>
-    </div>
+  <div class="surf-item">
+    <i class="fas fa-water"></i>
+   <span class="label">Rip Current Risk:</span>
+    <span class="value" id="s-risk">--</span>
+    <img id="s-risk-img" alt="Rip risk flag" style="width:24px; height:auto; margin-left:4px;">
+  </div>
+
     <div class="surf-item">
       <i class="wi wi-tsunami"></i>
       <span class="label">Surf Height:</span>
@@ -401,9 +402,18 @@ if (foreM) {
         if(ripM) {
           const lvl=ripM[1],
                 fE=document.getElementById('s-flag');
-          document.getElementById('s-risk').textContent=lvl;
-          fE.style.color=colorMap[lvl]||'#ccc';
-          if(lvl==='Moderate') fE.classList.add('very-moderate-flag');
+    document.getElementById('s-risk').textContent = lvl;
+
+    const iconMap = {
+      Low:      'green.flag.png',
+      Moderate: 'yellow.flag.png',
+      High:     'red.flag.png',
+      Extreme:  'doublered.flag.png',
+      'Dangerous Marine Life': 'purple.flag.png'
+    };
+
+    const imgEl = document.getElementById('s-risk-img');
+    imgEl.src = 'images/flags/' + (iconMap[lvl] || 'green.flag.png');
         }
         if(surfM) document.getElementById('s-height').textContent = surfM[1].trim();
         if(thM)   document.getElementById('s-thunder').textContent= thunderMap[thM[1]]||thM[1];
