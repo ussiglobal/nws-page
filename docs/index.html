@@ -358,29 +358,17 @@
         if(rainM) document.getElementById('w-rain').textContent = rainM[1]+'%';
         if(windM) document.getElementById('w-wind').textContent = windM[1].trim();
         
-        // grab the “Today” & “Tonight” descriptions
-        const todayLine   = L.find(l => l.startsWith('• Today:'));
-        const tonightLine = L.find(l => l.startsWith('• Tonight:'));
+// Grab the Today line
+const todayLine = L.find(l => l.startsWith('• Today:'));
 
-        const todayMatch   = todayLine  && todayLine .match(/—\s*([^.;]+)/);
-        const tonightMatch = tonightLine && tonightLine.match(/—\s*([^.;]+)/);
+// Pull out just the short phrase after the “—” and before “.” or “;”
+let simpleForecast = 'Loading…';
+if (todayLine) {
+  const m = todayLine.match(/—\s*([^.;]+)/);
+  if (m) simpleForecast = m[1].trim() + '.';
+}
 
-        let forecastText = 'Loading…';
-
-        if (todayMatch && tonightMatch) {
-          const cur   = todayMatch[1].trim();
-          const later = tonightMatch[1].trim();
-
-           if (cur === later) {
-        // if both are identical, only show one
-           forecastText = cur + '.';
-        } else {
-        // otherwise show “Currently X. Later Y.”
-          forecastText = `Currently ${cur}. Later ${later}.`;
-       }
-      }
-
-        document.getElementById('w-forecast').textContent = forecastText;
+document.getElementById('w-forecast').textContent = simpleForecast;
 
          if(maxM) document.getElementById('w-max').textContent = maxM[1]+'°F';
         // ensure min ≤ current
