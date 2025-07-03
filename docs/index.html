@@ -358,17 +358,17 @@
         if(rainM) document.getElementById('w-rain').textContent = rainM[1]+'%';
         if(windM) document.getElementById('w-wind').textContent = windM[1].trim();
         
-// Grab the Today line
-const todayLine = L.find(l => l.startsWith('• Today:'));
+if (foreM) {
+  let f = foreM[1].trim();
 
-// Pull out just the short phrase after the “—” and before “.” or “;”
-let simpleForecast = 'Loading…';
-if (todayLine) {
-  const m = todayLine.match(/—\s*([^.;]+)/);
-  if (m) simpleForecast = m[1].trim() + '.';
+  // if it's "Chance Showers And Thunderstorms" (or any variant), insert "of"
+  f = f.replace(/(Chance)\s+(Showers.*Thunderstorms)/i, '$1 of $2');
+
+  // lower-case initial letter if you prefer
+  f = f.charAt(0).toUpperCase() + f.slice(1).toLowerCase();
+
+  document.getElementById('w-forecast').textContent = f + '.';
 }
-
-document.getElementById('w-forecast').textContent = simpleForecast;
 
          if(maxM) document.getElementById('w-max').textContent = maxM[1]+'°F';
         // ensure min ≤ current
