@@ -357,27 +357,32 @@
         if(hM) document.getElementById('w-hum').textContent  = hM[1]+'%';
         if(rainM) document.getElementById('w-rain').textContent = rainM[1]+'%';
         if(windM) document.getElementById('w-wind').textContent = windM[1].trim();
-        if (foreM) {
-  // pull out the raw phrase, e.g. "Slight Chance Showers And Thunderstorms"
-  let raw = foreM[1].trim();
-  // normalize casing
-  let lc  = raw.toLowerCase();
+        
+        // grab the “Today” & “Tonight” descriptions
+        const todayLine   = L.find(l => l.startsWith('• Today:'));
+        const tonightLine = L.find(l => l.startsWith('• Tonight:'));
 
-  // insert the missing "of" after any "chance" or "slight chance"
-  lc = lc.replace(/\bslight chance\b/, 'slight chance of')
-         .replace(/\bchance\b/,         'chance of');
+        const todayMatch   = todayLine  && todayLine .match(/—\s*([^.;]+)/);
+        const tonightMatch = tonightLine && tonightLine.match(/—\s*([^.;]+)/);
 
-  // capitalize first letter again
-  lc = lc.charAt(0).toUpperCase() + lc.slice(1);
+        let forecastText = 'Loading…';
 
-  // build two sentences
-  const currentPhrase = `Currently ${lc}`;
-  const laterPhrase   = `Later ${lc}`;
+        if (todayMatch && tonightMatch) {
+          const cur   = todayMatch[1].trim();
+          const later = tonightMatch[1].trim();
 
-  document.getElementById('w-forecast').textContent = `${currentPhrase}. ${laterPhrase}.`;
-}
+           if (cur === later) {
+        // if both are identical, only show one
+           forecastText = cur + '.';
+        } else {
+        // otherwise show “Currently X. Later Y.”
+          forecastText = `Currently ${cur}. Later ${later}.`;
+       }
+      }
 
-        if(maxM) document.getElementById('w-max').textContent = maxM[1]+'°F';
+        document.getElementById('w-forecast').textContent = forecastText;
+
+         if(maxM) document.getElementById('w-max').textContent = maxM[1]+'°F';
         // ensure min ≤ current
         if(tM&&minM) {
           const cv=+tM[1], fv=+minM[1];
