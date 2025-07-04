@@ -1,11 +1,11 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 3, 2025 • 11:00 PM
+Generated: Jul 4, 2025 • 12:00 AM
 ===============================
 
 📅 Forecast:
 • Today:    Independence Day — Chance Showers And Thunderstorms then Showers And Thunderstorms. High: 86°F; Rain: 80% ; Wind: 10 mph SSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 76°F; Rain: 45% ; Wind: 10 mph SSW
+• Tonight:  Overnight — Chance Showers And Thunderstorms. Low: 76°F; Rain: 45% ; Wind: 10 mph SSW
 • Tomorrow: Saturday — High: 87°F; Low: 76°F; Rain: 79% ; Wind: 10 mph S
 🌡️ Current Conditions:
 Temp: 75.9°F (24.4°C) · Humidity: 93.6%
