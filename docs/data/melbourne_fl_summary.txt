@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 4, 2025 • 2:01 PM
+Generated: Jul 4, 2025 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,28 +8,29 @@ Generated: Jul 4, 2025 • 2:01 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 76°F; Rain: 72% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Saturday — High: 90°F; Low: 77°F; Rain: 79% ; Wind: 10 mph SW
 🌡️ Current Conditions:
-Temp: 88°F (31.1°C) · Humidity: 65.6%
+Temp: 75.9°F (24.4°C) · Humidity: 90.8%
 
 🛥️ Marine Weather Statement:
-227
-FZUS72 KMLB 040917
+817
+FZUS72 KMLB 041809
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-517 AM EDT Fri Jul 4 2025
+209 PM EDT Fri Jul 4 2025
 
-AMZ575-040945-
-517 AM EDT Fri Jul 4 2025
+AMZ552-041945-
+209 PM EDT Fri Jul 4 2025
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 517 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 209 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-50 nm east of Jupiter Inlet, moving northeast at 10 knots.
+near Indian Harbour Beach, or near Satellite Beach, moving southeast
+at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,17 +38,21 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+Intense lightning is occurring with this storm. If caught on the open
+water stay below deck if possible, keep away from ungrounded metal
+objects.
 
 &&
 
-LAT...LON 2698 7943 2724 7942 2738 7916 2729 7913
-      2698 7905
+LAT...LON 2845 8069 2843 8069 2846 8068 2858 8022
+      2852 8020 2843 8020 2835 8021 2826 8027
+      2823 8026 2789 8009 2784 8044 2782 8043
+      2783 8044 2783 8048 2782 8046 2781 8050
+      2807 8065 2843 8078
 
 $$
 
-Tollefsen
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 823
