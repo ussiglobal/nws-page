@@ -1,50 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 4, 2025 • 5:00 AM
+Generated: Jul 4, 2025 • 6:00 AM
 ===============================
 
 📅 Forecast:
 • Today:    Independence Day — Chance Showers And Thunderstorms. High: 88°F; Rain: 82% ; Wind: 10 mph SSW
-• Tonight:  Overnight — Slight Chance Showers And Thunderstorms. Low: 76°F; Rain: 18% ; Wind: 10 mph SSW
-• Tomorrow: Saturday — High: 89°F; Low: 76°F; Rain: 81% ; Wind: 10 mph SW
+• Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 76°F; Rain: 72% ; Wind: 5 to 10 mph SW
+• Tomorrow: Saturday — High: 89°F; Low: 78°F; Rain: 81% ; Wind: 10 mph SW
 🌡️ Current Conditions:
-Temp: 75°F (23.9°C) · Humidity: 96.4%
+Temp: 75.9°F (24.4°C) · Humidity: 97%
 
 🛥️ Marine Weather Statement:
-856
-FZUS72 KMLB 032100
+227
+FZUS72 KMLB 040917
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-Issued by National Weather Service Tampa Bay Area Ruskin FL
-500 PM EDT Thu Jul 3 2025
+517 AM EDT Fri Jul 4 2025
 
-AMZ552-032200-
-500 PM EDT Thu Jul 3 2025
+AMZ575-040945-
+517 AM EDT Fri Jul 4 2025
 
-A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
-At 459 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Klondike Beach to 6 nm east of
-Melbourne Beach, moving east at 5 knots.
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+
+At 517 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+50 nm east of Jupiter Inlet, moving northeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2880 8089 2875 8044 2833 8024 2823 8026
-      2810 8019 2794 8023 2798 8060 2847 8079
+LAT...LON 2698 7943 2724 7942 2738 7916 2729 7913
+      2698 7905
 
 $$
 
-TBW
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 361
