@@ -1,54 +1,41 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 5, 2025 • 5:01 PM
+Generated: Jul 5, 2025 • 6:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 89°F; Rain: 71% ; Wind: 10 mph ESE
+• Today:    Sunday — Mostly Sunny then Showers And Thunderstorms Likely. High: 90°F; Rain: 59% ; Wind: 10 mph SSW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 77°F; Rain: 74% ; Wind: 5 to 10 mph S
-• Tomorrow: Sunday — High: 90°F; Low: 77°F; Rain: 59% ; Wind: 10 mph SSW
+• Tomorrow: Monday — High: 90°F; Low: 77°F; Rain: 34% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 72%
+Temp: 84°F (28.9°C) · Humidity: 71.8%
 
 🛥️ Marine Weather Statement:
-817
-FZUS72 KMLB 041809
+928
+FZUS72 KMLB 052145
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-209 PM EDT Fri Jul 4 2025
+545 PM EDT Sat Jul 5 2025
 
-AMZ552-041945-
-209 PM EDT Fri Jul 4 2025
+AMZ552-052154-
+/O.CAN.KMLB.MA.W.0130.000000T0000Z-250705T2200Z/
+545 PM EDT Sat Jul 5 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 209 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near Indian Harbour Beach, or near Satellite Beach, moving southeast
-at 10 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Intense lightning is occurring with this storm. If caught on the open
-water stay below deck if possible, keep away from ungrounded metal
-objects.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2845 8069 2843 8069 2846 8068 2858 8022
-      2852 8020 2843 8020 2835 8021 2826 8027
-      2823 8026 2789 8009 2784 8044 2782 8043
-      2783 8044 2783 8048 2782 8046 2781 8050
-      2807 8065 2843 8078
+LAT...LON 2836 8053 2804 8051 2803 8063 2807 8065
+      2828 8072
+TIME...MOT...LOC 2144Z 266DEG 7KT 2812 8062
 
 $$
 
