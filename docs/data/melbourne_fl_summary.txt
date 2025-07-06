@@ -1,38 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 6, 2025 • 1:00 PM
+Generated: Jul 6, 2025 • 2:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    This Afternoon — Chance Showers And Thunderstorms. High: 91°F; Rain: 54% ; Wind: 10 mph SSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 78°F; Rain: 43% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Monday — High: 90°F; Low: 79°F; Rain: 43% ; Wind: 5 to 10 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 77°F; Rain: 44% ; Wind: 5 to 10 mph SSW
+• Tomorrow: Monday — High: 89°F; Low: 78°F; Rain: 41% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
 Temp: 87.1°F (30.6°C) · Humidity: 67.5%
 
 🛥️ Marine Weather Statement:
-455
-FZUS72 KMLB 061649
+468
+FZUS72 KMLB 061740
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1249 PM EDT Sun Jul 6 2025
+140 PM EDT Sun Jul 6 2025
 
-AMZ555-575-061815-
-1249 PM EDT Sun Jul 6 2025
+AMZ552-572-061845-
+140 PM EDT Sun Jul 6 2025
 
-...STRONG THUNDERSTORMS APPROACHING THE WATERS...
+A Marine Weather Statement has been issued for the following areas...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
-
-At 1249 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 140 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 7 nm north of Sand Cut to 11 nm
-east of Canal Point to 13 nm west of Ocean Ridge, moving northeast at
-25 knots.
+located along a line extending from Merritt Island to 11 nm east of
+Melbourne Beach to 20 nm east of Sebastian Inlet State Park, moving
+northeast at 30 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,22 +38,16 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
-These strong thunderstorms will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required when these strong thunderstorms
-reaches the nearshore waters. Boaters should consider heading for
-shore before these strong thunderstorms arrives.
-
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2723 8035 2728 8035 2729 8032 2724 8026
-      2736 8032 2765 7995 2753 7982 2700 7959
-      2697 7963
+LAT...LON 2862 8068 2862 8064 2864 8067 2884 8053
+      2799 7949 2784 8043 2781 8044 2784 8044
+      2783 8048 2781 8046 2780 8050 2807 8065
+      2845 8079
 
 $$
 
-Leahy
+Law
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 355
