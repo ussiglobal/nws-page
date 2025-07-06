@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 6, 2025 • 12:00 PM
+Generated: Jul 6, 2025 • 1:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,29 +11,28 @@ Generated: Jul 6, 2025 • 12:00 PM
 Temp: 87.1°F (30.6°C) · Humidity: 67.5%
 
 🛥️ Marine Weather Statement:
-673
-FZUS72 KMLB 052343
+455
+FZUS72 KMLB 061649
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-743 PM EDT Sat Jul 5 2025
+1249 PM EDT Sun Jul 6 2025
 
-AMZ555-575-060115-
-743 PM EDT Sat Jul 5 2025
+AMZ555-575-061815-
+1249 PM EDT Sun Jul 6 2025
 
-...STRONG THUNDERSTORMS AND GUSTY OUTFLOW WINDS APPROACHING THE
-WATERS...
+...STRONG THUNDERSTORMS APPROACHING THE WATERS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 742 PM EDT, Doppler radar indicated strong thunderstorms and
-associated outflow, capable of producing winds to around 30 knots.
-These thunderstorms were located along a line extending from Vero
-Beach South to near Jonathan Dickinson State Park, moving northeast
-at 15 knots.
+At 1249 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 7 nm north of Sand Cut to 11 nm
+east of Canal Point to 13 nm west of Ocean Ridge, moving northeast at
+25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -41,17 +40,22 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
+These strong thunderstorms will likely produce winds to around 30
+knots, and could pose a serious hazard for boaters. A special marine
+warning may eventually be required when these strong thunderstorms
+reaches the nearshore waters. Boaters should consider heading for
+shore before these strong thunderstorms arrives.
+
 &&
 
 LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
       2723 8035 2728 8035 2729 8032 2724 8026
-      2746 8037 2765 8041 2785 8052 2785 8049
-      2783 8047 2784 8044 2786 8045 2784 8043
-      2793 7985 2705 7934 2697 7969
+      2736 8032 2765 7995 2753 7982 2700 7959
+      2697 7963
 
 $$
 
-Schaper
+Leahy
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 355
