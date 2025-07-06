@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 6, 2025 • 3:00 PM
+Generated: Jul 6, 2025 • 4:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,26 +11,28 @@ Generated: Jul 6, 2025 • 3:00 PM
 Temp: 84°F (28.9°C) · Humidity: 69.7%
 
 🛥️ Marine Weather Statement:
-468
-FZUS72 KMLB 061740
+096
+FZUS72 KMLB 061914
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-140 PM EDT Sun Jul 6 2025
+314 PM EDT Sun Jul 6 2025
 
-AMZ552-572-061845-
-140 PM EDT Sun Jul 6 2025
+AMZ550-552-570-062015-
+314 PM EDT Sun Jul 6 2025
 
-A Marine Weather Statement has been issued for the following areas...
+...STRONG THUNDERSTORMS APPROACHING THE WATERS...
+
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 140 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 314 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Merritt Island to 11 nm east of
-Melbourne Beach to 20 nm east of Sebastian Inlet State Park, moving
-northeast at 30 knots.
+located along a line extending from Ormond-By-the-Sea to near New
+Smyrna Beach, moving northeast at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,10 +42,10 @@ immediately until these storms pass.
 
 &&
 
-LAT...LON 2862 8068 2862 8064 2864 8067 2884 8053
-      2799 7949 2784 8043 2781 8044 2784 8044
-      2783 8048 2781 8046 2780 8050 2807 8065
-      2845 8079
+LAT...LON 2942 8113 2943 8110 2945 8113 2945 8111
+      2946 8113 2948 8072 2886 8033 2885 8036
+      2879 8031 2872 8081 2882 8087 2884 8085
+      2938 8113
 
 $$
 
