@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 6, 2025 • 4:00 PM
+Generated: Jul 6, 2025 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,44 +8,39 @@ Generated: Jul 6, 2025 • 4:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 77°F; Rain: 44% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Monday — High: 89°F; Low: 78°F; Rain: 41% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 84°F (28.9°C) · Humidity: 69.7%
+Temp: 91°F (32.8°C) · Humidity: 52.1%
 
 🛥️ Marine Weather Statement:
-096
-FZUS72 KMLB 061914
+372
+FZUS72 KMLB 062015
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-314 PM EDT Sun Jul 6 2025
+415 PM EDT Sun Jul 6 2025
 
-AMZ550-552-570-062015-
-314 PM EDT Sun Jul 6 2025
+AMZ550-570-062115-
+415 PM EDT Sun Jul 6 2025
 
-...STRONG THUNDERSTORMS APPROACHING THE WATERS...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 314 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Ormond-By-the-Sea to near New
-Smyrna Beach, moving northeast at 15 knots.
+At 414 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+near Ormond Beach, moving northeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2945 8113 2945 8111
-      2946 8113 2948 8072 2886 8033 2885 8036
-      2879 8031 2872 8081 2882 8087 2884 8085
-      2938 8113
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2946 8107 2948 8072 2948 8052
+      2911 8099 2938 8113
 
 $$
 
