@@ -1,48 +1,40 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 7, 2025 • 4:00 PM
+Generated: Jul 7, 2025 • 5:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 90°F; Rain: 47% ; Wind: 10 mph SSE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 90°F; Rain: 47% ; Wind: 10 mph SE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 77°F; Rain: 38% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Tuesday — High: 89°F; Low: 78°F; Rain: 26% ; Wind: 5 to 10 mph N
 🌡️ Current Conditions:
-Temp: 88°F (31.1°C) · Humidity: 63.3%
+Temp: 88°F (31.1°C) · Humidity: 57.4%
 
 🛥️ Marine Weather Statement:
-278
-FZUS72 KMLB 071925
+621
+FZUS72 KMLB 072058
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-325 PM EDT Mon Jul 7 2025
+458 PM EDT Mon Jul 7 2025
 
-AMZ550-072030-
-325 PM EDT Mon Jul 7 2025
+AMZ552-072108-
+/O.CAN.KMLB.MA.W.0134.000000T0000Z-250707T2115Z/
+458 PM EDT Mon Jul 7 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 324 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near Ormond-By-the-Sea, moving east at 25 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8104
-      2948 8075 2942 8073 2927 8064 2922 8105
-      2938 8113
+LAT...LON 2810 8044 2789 8039 2788 8054 2804 8063
+TIME...MOT...LOC 2053Z 264DEG 3KT 2796 8053
 
 $$
 
