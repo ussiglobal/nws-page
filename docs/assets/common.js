@@ -118,28 +118,31 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       // Tip of the Day
-      if (document.getElementById('plan-tip-text')) {
-        let tip = 'Have a great day!';
-        const thunderText = document.getElementById('s-thunder')?.textContent;
-        const rainLine = L.find(l=>l.startsWith('• Today:'));
-        const rainMatch = rainLine?.match(/Rain: (\d+)%/);
+if (document.getElementById('plan-tip-text')) {
+  let tip = 'Have a great day!';
+  const thunderText = document.getElementById('s-thunder')?.textContent;
+  const rainLine    = L.find(l => l.startsWith('• Today:'));
+  const rainMatch   = rainLine?.match(/Rain: (\d+)%/);
 
-        if (thunderText === 'Very likely') {
-          tip = 'Afternoon storms likely—plan indoor activities or carry rain gear.';
-        } else if (rainMatch && +rainMatch[1] > 50) {
-          tip = 'High chance of rain—don’t forget your umbrella.';
-        }
-        if (document.getElementById('s-uv-pill')?.textContent === 'Very High') {
-          tip = 'UV is very high—apply sunscreen and wear a hat.';
-        }
-        const rf = document.getElementById('s-risk')?.textContent;
-        if (rf === 'High' || rf === 'Extreme') {
-          tip = 'Rip currents are dangerous—avoid swimming today.';
-        }
-        document.getElementById('plan-tip-text').textContent = tip;
-      }
-    })
-    .catch(console.error);
+  if (thunderText === 'Very likely') {
+    tip = 'Afternoon storms likely—plan indoor activities or carry rain gear.';
+  } else if (rainMatch && +rainMatch[1] > 50) {
+    tip = 'High chance of rain—don’t forget your umbrella.';
+  }
+
+  // updated UV logic:
+  const uvText = document.getElementById('s-uv-pill')?.textContent || '';
+  if (uvText === 'Very High' || uvText === 'Extreme') {
+    tip = 'UV is very high—apply sunscreen and wear a hat.';
+  }
+
+  const rf = document.getElementById('s-risk')?.textContent;
+  if (rf === 'High' || rf === 'Extreme') {
+    tip = 'Rip currents are dangerous—avoid swimming today.';
+  }
+
+  document.getElementById('plan-tip-text').textContent = tip;
+}
 
   // Slideshow
   if (document.querySelector('.slideshow')) {
