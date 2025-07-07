@@ -408,14 +408,22 @@ if (foreM) {
   document.getElementById('w-forecast').textContent = f + '.';
 }
 
-         if(maxM) document.getElementById('w-max').textContent = maxM[1]+'°F';
-        // ensure min ≤ current
-        if(tM&&minM) {
-          const cv=+tM[1], fv=+minM[1];
-          document.getElementById('w-min').textContent = Math.min(cv,fv)+'°F';
-        } else if(minM) {
-          document.getElementById('w-min').textContent = minM[1]+'°F';
-        }
+// — Normalize Max Temp so it’s never below current Temp —
+if (maxM) {
+  const extractedMax = +maxM[1];
+  const currentVal   = tM ? +tM[1] : extractedMax;
+  const displayMax   = Math.max(currentVal, extractedMax);
+  document.getElementById('w-max').textContent = displayMax + '°F';
+}
+
+// — Normalize Min Temp so it’s never above current Temp —
+if (minM) {
+  const extractedMin = +minM[1];
+  const currentVal   = tM ? +tM[1] : extractedMin;
+  const displayMin   = Math.min(currentVal, extractedMin);
+  document.getElementById('w-min').textContent = displayMin + '°F';
+}
+
 
         // Surf & flags
         const surfS=L.findIndex(l=>l.startsWith('Southern Brevard Barrier Islands')),
