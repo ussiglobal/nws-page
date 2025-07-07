@@ -179,3 +179,44 @@ h2.subtitle {
 #surf-forecast .surf-graphic { flex: 0 0 250px; display: flex; align-items: center; justify-content: center; }
 #surf-forecast .surf-graphic img { max-width: 100%; max-height: 100%; object-fit: contain; }
 
+/* ─── Fill the full 16×9 viewport ─────────────────────────────────── */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+h1, h2.subtitle {
+  margin: 0.5rem 0;
+}
+section {
+  flex: 1;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 1rem;
+}
+#weather-summary,
+#surf-forecast,
+#tide-times,
+#plan-tip,
+#flag-guide,
+.slideshow {
+  max-width: none;
+  margin: 0;
+}
+.slideshow {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.slideshow img {
+  max-width: 100%;
+  max-height: 100%;
+}
+/* ─────────────────────────────────────────────────────────────────── */
+
