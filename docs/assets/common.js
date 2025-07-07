@@ -51,8 +51,14 @@ document.addEventListener('DOMContentLoaded', () => {
           f = f.charAt(0).toUpperCase()+f.slice(1).toLowerCase();
           document.getElementById('w-forecast').textContent = f + '.';
         }
-        if(maxM)  document.getElementById('w-max').textContent  = maxM[1]+'°F';
-        if(minM)  document.getElementById('w-min').textContent  = minM[1]+'°F';
+       
+       if (maxM) {const extractedMax = +maxM[1]; 
+            const currentVal   = tM ? +tM[1] : extractedMax; 
+            const actualMax    = Math.max(currentVal, extractedMax); 
+            document.getElementById('w-max').textContent = actualMax + '°F';
+        }
+       
+       if(minM)  document.getElementById('w-min').textContent  = minM[1]+'°F';
       }
 
       // Surf Forecast
@@ -87,7 +93,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if(surfM) document.getElementById('s-height').textContent    = surfM[1].trim();
         if(thM)   document.getElementById('s-thunder').textContent   = thunderMap[thM[1]]||thM[1];
 
-        const uvCat = uvL.match(/UV Index.*?([A-Za-z ]+)/)?.[1].trim() || 'Very High';
+        const uvCat = uvL.match(/UV Index.*?([A-Za-z ]+)/)?.[1].trim() || [, 'Very High'] [1].trim();
+        if (uvCat === 'Extreme') uvCat = 'Very High';
         const uvP = document.getElementById('s-uv-pill');
         uvP.textContent   = uvCat;
         uvP.style.background = uvColor[uvCat] || '#777';
