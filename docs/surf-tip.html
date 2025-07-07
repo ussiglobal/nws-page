@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🌊 Surf Forecast & Tip</title>
+
+  <!-- Weather Icons -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <!-- Shared styles -->
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <h1>🌊 Surf Forecast</h1>
+  <h2 class="subtitle">Melbourne Beach</h2>
+
+  <section id="surf-forecast">
+    <div class="surf-container">
+      <div class="surf-list">
+        <div class="surf-item">
+          <i class="fas fa-water"></i>
+          <span class="label">Rip Current Risk:</span>
+          <span class="value" id="s-risk">--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-tsunami"></i>
+          <span class="label">Surf Height:</span>
+          <span class="value" id="s-height">--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-storm-showers"></i>
+          <span class="label">Thunderstorm Potential:</span>
+          <span class="value" id="s-thunder">--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-day-sunny"></i>
+          <span class="label">UV Index:</span>
+          <span id="s-uv-pill" class="uv-pill">--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-sunrise"></i>
+          <span class="label">Sunrise:</span>
+          <span class="value" id="s-sunrise">--:--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-sunset"></i>
+          <span class="label">Sunset:</span>
+          <span class="value" id="s-sunset">--:--</span>
+        </div>
+      </div>
+      <div class="surf-graphic">
+        <img id="s-risk-img-large" src="" alt="Rip current risk flag">
+      </div>
+    </div>
+  </section>
+
+  <h1>☀️ Tip of the Day</h1>
+  <section id="plan-tip">
+    <p id="plan-tip-text">Loading…</p>
+  </section>
+
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    fetch('data/melbourne_fl_summary.txt')
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+      .then(txt => {
+        const L = txt.split('\n');
+
+        // —— Surf Forecast Logic —— 
+        const start = L.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
+        let end = L.findIndex((l,i) => i>start && l.includes('Sunset'));
+        if (end === -1) end = L.length;
+        const S = start > -1 ? L.slice(start, end+1) : [];
+
+        const ripL  = S.find(l => l.startsWith('Rip Current Risk'))     || '';
+        const surfL = S.find(l => l.startsWith('Surf Height'))           || '';
+        const thL   = S.find(l => l.includes('Thunderstorm Potential'))  || '';
+        const uvL   = S.find(l => l.startsWith('UV Index'))              || '';
+        const srL   = S.find(l => l.trim().startsWith('Sunrise'))        || '';
+        const ssL   = S.find(l => l.trim().startsWith('Sunset'))         || '';
+
+        const ripM  = ripL.match(/Rip Current Risk.*?([A-Za-z ]+)/);
+        const surfM = surfL.match(/Around\s*([\d\s\w]+)/);
+        const thM   = thL.match(/Thunderstorm Potential.*?([A-Za-z]+)/);
+        const srM   = srL.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
+        const ssM   = ssL.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
+
+        const thunderMap = { Low:'Low chance', Moderate:'Moderate chance', High:'Very likely' };
+        const uvColor    = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000','Very High':'#FF4500' };
+
+        if (ripM) {
+          const lvl = ripM[1].trim();
+          document.getElementById('s-risk').textContent = lvl;
+          const iconMap = {
+            Low:'green.flag.png', Moderate:'yellow.flag.png',
+            High:'red.flag.png', Extreme:'doublered.flag.png',
+            'Dangerous Marine Life':'purple.flag.png'
+          };
+          document.getElementById('s-risk-img-large').src =
+            'images/flags/' + (iconMap[lvl]||'green.flag.png');
+        }
+        if (surfM) document.getElementById('s-height').textContent = surfM[1].trim();
+        if (thM)   document.getElementById('s-thunder').textContent = thunderMap[thM[1]]||thM[1];
+        const uvCat = uvL.match(/UV Index.*?([A-Za-z ]+)/)?.[1].trim()||'Very High';
+        const uvP   = document.getElementById('s-uv-pill');
+        uvP.textContent = uvCat; uvP.style.background = uvColor[uvCat]||'#777';
+        if (srM) document.getElementById('s-sunrise').textContent = srM[1];
+        if (ssM) document.getElementById('s-sunset').textContent = ssM[1];
+
+        // —— Tip of the Day Logic —— 
+        let tip = 'Have a great day!';
+        const thunderMatch = thM && thunderMap[thM[1]]==='Very likely';
+        const rainLine = L.find(l=>l.startsWith('• Today:'));
+        const rainMatch = rainLine && rainLine.match(/Rain: (\d+)%/);
+
+        if (thunderMatch) {
+          tip = 'Afternoon storms likely—plan indoor activities or carry rain gear.';
+        } else if (rainMatch && +rainMatch[1]>50) {
+          tip = 'High chance of rain—don’t forget your umbrella.';
+        }
+        if (uvCat==='Very High') {
+          tip = 'UV is very high—apply sunscreen and wear a hat.';
+        }
+        const rf = document.getElementById('s-risk').textContent;
+        if (rf==='High' || rf==='Extreme') {
+          tip = 'Rip currents are dangerous—avoid swimming today.';
+        }
+        document.getElementById('plan-tip-text').textContent = tip;
+      })
+      .catch(console.error);
+  });
+  </script>
+</body>
+</html>
+
