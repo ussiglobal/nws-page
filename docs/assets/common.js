@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Shared data fetch
-  fetch('data/melbourne_fl_summary.txt')
+  fetch('./data/melbourne_fl_summary.txt')
     .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
     .then(txt => {
       const L = txt.split('\n');
@@ -96,7 +96,7 @@ if (minM) {
           const lvl = ripM[1].trim();
           document.getElementById('s-risk').textContent = lvl;
           const iconMap = { Low:'green.flag.png', Moderate:'yellow.flag.png', High:'red.flag.png', Extreme:'doublered.flag.png', 'Dangerous Marine Life':'purple.flag.png' };
-          document.getElementById('s-risk-img-large').src = 'images/flags/'+(iconMap[lvl]||'green.flag.png');
+          document.getElementById('s-risk-img-large').src = './images/flags/'+(iconMap[lvl]||'green.flag.png');
         }
         if(surfM) document.getElementById('s-height').textContent    = surfM[1].trim();
         if(thM)   document.getElementById('s-thunder').textContent   = thunderMap[thM[1]]||thM[1];
