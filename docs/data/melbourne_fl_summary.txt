@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 7, 2025 • 11:00 AM
+Generated: Jul 7, 2025 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Partly Sunny then Chance Showers And Thunderstorms. High: 90°F; Rain: 47% ; Wind: 5 to 10 mph SSE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 90°F; Rain: 47% ; Wind: 10 mph SSE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 77°F; Rain: 38% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Tuesday — High: 89°F; Low: 78°F; Rain: 37% ; Wind: 0 to 10 mph WNW
 🌡️ Current Conditions:
-Temp: 82.9°F (28.3°C) · Humidity: 79.4%
+Temp: 88°F (31.1°C) · Humidity: 63.3%
 
 🛥️ Marine Weather Statement:
 372
@@ -47,27 +47,27 @@ $$
 Law
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-984
-FZUS52 KMLB 071000
+906
+FZUS52 KMLB 071500
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EDT Mon Jul 7 2025
+1100 AM EDT Mon Jul 7 2025
 
 FLZ141-347-447-072000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EDT Mon Jul 7 2025
+1100 AM EDT Mon Jul 7 2025
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Low.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....Moderate.
 UV Index**..................Extreme.
-Water Temperature...........In the upper 70s.
+Water Temperature...........Around 80.
 Weather.....................Partly sunny. A chance of showers and
                             thunderstorms.
 High Temperature............In the upper 80s.
@@ -97,10 +97,10 @@ Sunrise.....................6:32 AM.
 Sunset......................8:27 PM.
 
 .WEDNESDAY...Mostly sunny. Showers likely and a chance of
-thunderstorms. Highs in the mid 80s. South winds around 5 mph.
+thunderstorms. Highs in the upper 80s. South winds around 5 mph.
 .THURSDAY...Mostly sunny. Showers likely and a chance of
 thunderstorms. Highs in the upper 80s. South winds around 5 mph.
-.FRIDAY...Partly sunny. Showers likely and a chance of thunderstorms.
+.FRIDAY...Mostly sunny. Showers likely and a chance of thunderstorms.
 Highs in the upper 80s. South winds around 5 mph.
 
 &&
@@ -124,16 +124,15 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EDT Mon Jul 7 2025
+1100 AM EDT Mon Jul 7 2025
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Low.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....Moderate.
 UV Index**..................Extreme.
 Water Temperature...........In the upper 70s.
-Weather.....................Mostly sunny until 3 PM, then mostly
-                            cloudy. A chance of showers and
+Weather.....................Partly sunny. A chance of showers and
                             thunderstorms.
 High Temperature............In the upper 80s.
 Winds.......................South winds 5 to 10 mph.
@@ -149,7 +148,7 @@ Surf Height.................Around 1 foot.
 Thunderstorm Potential**....Moderate.
 Weather.....................Mostly sunny. A chance of showers and
                             thunderstorms.
-High Temperature............In the mid 80s.
+High Temperature............In the upper 80s.
 Winds.......................West winds around 5 mph, becoming east
                             in the afternoon.
 Tides...
@@ -165,7 +164,7 @@ thunderstorms. Highs in the mid 80s. Southeast winds around 5 mph.
 .THURSDAY...Mostly sunny. Showers likely and a chance of
 thunderstorms. Highs in the upper 80s. South winds around 10 mph.
 .FRIDAY...Partly sunny. Showers likely and a chance of thunderstorms.
-Highs in the mid 80s. South winds around 10 mph.
+Highs in the upper 80s. South winds around 10 mph.
 
 &&
 
@@ -187,11 +186,12 @@ FLZ159-164-072000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EDT Mon Jul 7 2025
+1100 AM EDT Mon Jul 7 2025
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Low.
-Surf Height.................Around 2 feet.
+Surf Height.................Around 1 foot, building to around 2
+                            feet in the afternoon.
 Thunderstorm Potential**....Moderate.
 UV Index**..................Very High.
 Water Temperature...........In the upper 70s.
@@ -221,9 +221,9 @@ Sunrise.....................6:33 AM.
 Sunset......................8:20 PM.
 
 .WEDNESDAY...Mostly sunny. Showers likely and a chance of
-thunderstorms. Highs in the upper 80s. Southeast winds around 5 mph.
-.THURSDAY...Partly sunny. Showers likely and a chance of
-thunderstorms. Highs in the upper 80s. Southeast winds around 5 mph.
+thunderstorms. Highs in the upper 80s. East winds around 5 mph.
+.THURSDAY...Mostly sunny. Showers likely and a chance of
+thunderstorms. Highs in the upper 80s. Southeast winds around 10 mph.
 .FRIDAY...Partly sunny. Showers likely and a chance of thunderstorms.
 Highs in the upper 80s. Southeast winds around 10 mph.
 
