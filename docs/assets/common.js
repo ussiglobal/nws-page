@@ -52,14 +52,22 @@ document.addEventListener('DOMContentLoaded', () => {
           document.getElementById('w-forecast').textContent = f + '.';
         }
        
-       if (maxM) {const extractedMax = +maxM[1]; 
-            const currentVal   = tM ? +tM[1] : extractedMax; 
-            const actualMax    = Math.max(currentVal, extractedMax); 
-            document.getElementById('w-max').textContent = actualMax + '°F';
-        }
-       
-       if(minM)  document.getElementById('w-min').textContent  = minM[1]+'°F';
-      }
+// — Normalize Max Temp so it’s never below current Temp —
+if (maxM) {
+  const extractedMax = +maxM[1];
+  const currentVal   = tM ? +tM[1] : extractedMax;
+  const displayMax   = Math.max(currentVal, extractedMax);
+  document.getElementById('w-max').textContent = displayMax + '°F';
+}
+
+// — Normalize Min Temp so it’s never above current Temp —
+if (minM) {
+  const extractedMin = +minM[1];
+  const currentVal   = tM ? +tM[1] : extractedMin;
+  const displayMin   = Math.min(currentVal, extracSedMin);
+  document.getElementById('w-min').textContent = displayMin + '°F';
+}
+
 
       // Surf Forecast
       if (document.getElementById('surf-forecast')) {
