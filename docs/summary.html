@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🌤️ Current Weather</title>
+
+  <!-- Weather Icons -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <!-- Shared styles -->
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <h1>☀️ Daily Weather Forecast</h1>
+  <h2 class="subtitle">Melbourne, FL</h2>
+
+  <!-- Current Weather -->
+  <section id="weather-summary">
+    <h2>Current Weather</h2>
+    <h3 class="date">Date: <span id="current-date">--/--/----</span></h3>
+    <h4 class="updated">Last updated: <span id="last-updated">--:--</span></h4>
+    <div class="weather-card">
+      <div class="weather-item">
+        <i class="wi wi-thermometer"></i>
+        <span class="label">Temp</span>
+        <span class="value" id="w-temp">--°F</span>
+        <canvas id="temp-sparkline" class="sparkline"></canvas>
+        <span class="subvalue">Max: <span id="w-max">--°F</span></span>
+        <span class="subvalue">Min: <span id="w-min">--°F</span></span>
+      </div>
+      <div class="weather-item">
+        <i class="wi wi-humidity"></i>
+        <span class="label">Humidity</span>
+        <span class="value" id="w-hum">--%</span>
+      </div>
+      <div class="weather-item">
+        <i class="wi wi-rain"></i>
+        <span class="label">Rain</span>
+        <span class="value" id="w-rain">--%</span>
+      </div>
+      <div class="weather-item">
+        <i class="wi wi-strong-wind"></i>
+        <span class="label">Wind</span>
+        <span class="value" id="w-wind">--</span>
+      </div>
+      <div class="weather-item">
+        <i class="wi wi-day-sunny"></i>
+        <span class="label">Forecast</span>
+        <span class="value" id="w-forecast">Loading…</span>
+      </div>
+    </div>
+  </section>
+
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // 1) Set the current date
+    const now = new Date();
+    document.getElementById('current-date').textContent =
+      `${now.getMonth()+1}/${now.getDate()}/${now.getFullYear()}`;
+
+    // 2) Fetch and parse the NWS summary text
+    fetch('data/melbourne_fl_summary.txt')
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+      .then(txt => {
+        const L = txt.split('\n');
+
+        // Last-updated timestamp
+        const gen = L.find(l => l.startsWith('Generated:'));
+        if (gen) {
+          document.getElementById('last-updated').textContent =
+            gen.replace('Generated:','').trim();
+        }
+
+        // Extract current conditions
+        const curr    = L.find(l=>l.startsWith('Temp:')) || '',
+              tM      = curr.match(/Temp: ([\d.]+)°F/),
+              hM      = curr.match(/Humidity: ([\d.]+)%/),
+              today   = L.find(l=>l.startsWith('• Today:')) || '',
+              rainM   = today.match(/Rain: (\d+)%/),
+              windM   = today.match(/Wind: ([^;]+)/),
+              foreM   = today.match(/—\s*([^.;]+)/),
+              maxM    = today.match(/High: (\d+)°F/),
+              tonight = L.find(l=>l.startsWith('• Tonight:')) || '',
+              minM    = tonight.match(/Low: (\d+)°F/);
+
+        // 3) Draw the temp sparkline (today, tonight, tomorrow)
+        const highs = [
+          maxM && +maxM[1],
+          minM && +minM[1],
+          (L.find(l=>l.startsWith('• Tomorrow:'))||'')
+            .match(/High: (\d+)°F/)&&+RegExp.$1
+        ].filter(v=>v!=null);
+
+        const c = document.getElementById('temp-sparkline').getContext('2d'),
+              W = 100, H = 30,
+              minV = Math.min(...highs), maxV = Math.max(...highs);
+        c.clearRect(0,0,W,H);
+        c.strokeStyle = '#ffd54f';
+        c.lineWidth   = 2;
+        c.beginPath();
+        highs.forEach((v,i) => {
+          const x = i*(W/(highs.length-1)),
+                y = H - (v-minV)/(maxV-minV)*H;
+          i===0 ? c.moveTo(x,y) : c.lineTo(x,y);
+        });
+        c.stroke();
+
+        // 4) Populate each field if we have a match
+        if (tM)      document.getElementById('w-temp').textContent  = tM[1] + '°F';
+        if (hM)      document.getElementById('w-hum').textContent   = hM[1] + '%';
+        if (rainM)   document.getElementById('w-rain').textContent  = rainM[1] + '%';
+        if (windM)   document.getElementById('w-wind').textContent  = windM[1].trim();
+
+        if (foreM) {
+          let f = foreM[1].trim();
+          // Insert "of" in phrases like "Chance Showers And Thunderstorms"
+          f = f.replace(/(Chance)\s+(Showers.*Thunderstorms)/i, '$1 of $2');
+          // Normalize casing
+          f = f.charAt(0).toUpperCase() + f.slice(1).toLowerCase();
+          document.getElementById('w-forecast').textContent = f + '.';
+        }
+
+        if (maxM) document.getElementById('w-max').textContent = maxM[1] + '°F';
+
+        if (tM && minM) {
+          const cv = +tM[1], fv = +minM[1];
+          document.getElementById('w-min').textContent =
+            Math.min(cv,fv) + '°F';
+        } else if (minM) {
+          document.getElementById('w-min').textContent = minM[1] + '°F';
+        }
+      })
+      .catch(console.error);
+  });
+  </script>
+</body>
+</html>
+
