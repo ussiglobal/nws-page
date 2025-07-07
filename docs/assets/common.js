@@ -1,193 +1,140 @@
 document.addEventListener('DOMContentLoaded', () => {
-  // Shared data fetch
   fetch('./data/melbourne_fl_summary.txt')
     .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
     .then(txt => {
       const L = txt.split('\n');
 
-      // Current Weather
-      if (document.getElementById('weather-summary')) {
-        // Date & Updated
+      // — Current Date & Last Updated —
+      const dateEl = document.getElementById('current-date');
+      if (dateEl) {
         const now = new Date();
-        document.getElementById('current-date').textContent =
-          `${now.getMonth()+1}/${now.getDate()}/${now.getFullYear()}`;
-        const gen = L.find(l => l.startsWith('Generated:'));
-        if (gen) document.getElementById('last-updated').textContent =
-          gen.replace('Generated:','').trim();
-
-        // Extract values
-        const curr    = L.find(l=>l.startsWith('Temp:'))||'';
-        const tM      = curr.match(/Temp: ([\d.]+)°F/);
-        const hM      = curr.match(/Humidity: ([\d.]+)%/);
-        const today   = L.find(l=>l.startsWith('• Today:'))||'';
-        const rainM   = today.match(/Rain: (\d+)%/);
-        const windM   = today.match(/Wind: ([^;]+)/);
-        const foreM   = today.match(/—\s*([^.;]+)/);
-        const maxM    = curr.match(/High: (\d+)°F/);
-        const tonight = L.find(l=>l.startsWith('• Tonight:'))||'';
-        const minM    = tonight.match(/Low: (\d+)°F/);
-
-        // Sparkline
-        const highs = [ maxM&&+maxM[1], minM&&+minM[1], (L.find(l=>l.startsWith('• Tomorrow:'))||'').match(/High: (\d+)°F/)&&+RegExp.$1 ].filter(v=>v!=null);
-        const c = document.getElementById('temp-sparkline')?.getContext('2d');
-        if(c && highs.length){
-          const W=100, H=30, minV = Math.min(...highs), maxV = Math.max(...highs);
-          c.clearRect(0,0,W,H);
-          c.strokeStyle = '#ffd54f'; c.lineWidth=2; c.beginPath();
-          highs.forEach((v,i) => {
-            const x = i*(W/(highs.length-1));
-            const y = H - (v-minV)/(maxV-minV)*H;
-            i===0?c.moveTo(x,y):c.lineTo(x,y);
-          });
-          c.stroke();
-        }
-
-        if(tM)    document.getElementById('w-temp').textContent = tM[1]+'°F';
-        if(hM)    document.getElementById('w-hum').textContent  = hM[1]+'%';
-        if(rainM) document.getElementById('w-rain').textContent = rainM[1]+'%';
-        if(windM) document.getElementById('w-wind').textContent = windM[1].trim();
-        if(foreM){
-          let f = foreM[1].trim().replace(/(Chance)\s+(Showers.*Thunderstorms)/i,'$1 of $2');
-          f = f.charAt(0).toUpperCase()+f.slice(1).toLowerCase();
-          document.getElementById('w-forecast').textContent = f + '.';
-        }
-       
-// — Normalize Max Temp so it’s never below current Temp —
-if (maxM) {
-  const extractedMax = +maxM[1];
-  const currentVal   = tM ? +tM[1] : extractedMax;
-  const displayMax   = Math.max(currentVal, extractedMax);
-  document.getElementById('w-max').textContent = displayMax + '°F';
-}
-
-// — Normalize Min Temp so it’s never above current Temp —
-if (minM) {
-  const extractedMin = +minM[1];
-  const currentVal   = tM ? +tM[1] : extractedMin;
-  const displayMin   = Math.min(currentVal, extracSedMin);
-  document.getElementById('w-min').textContent = displayMin + '°F';
-}
-
-
-      // Surf Forecast
-      if (document.getElementById('surf-forecast')) {
-        const start = L.findIndex(l => l.startsWith('Southern Brevard Barrier Islands'));
-        let end    = L.findIndex((l,i) => i>start && l.includes('Sunset'));
-        if(end===-1) end=L.length;
-        const S = start>-1 ? L.slice(start,end+1) : [];
-
-        const ripL  = S.find(l=>l.startsWith('Rip Current Risk'))     || '';
-        const surfL = S.find(l=>l.startsWith('Surf Height'))         || '';
-        const thL   = S.find(l=>l.includes('Thunderstorm Potential'))|| '';
-        const uvL   = S.find(l=>l.startsWith('UV Index'))            || '';
-        const srL   = S.find(l=>l.trim().startsWith('Sunrise'))      || '';
-        const ssL   = S.find(l=>l.trim().startsWith('Sunset'))       || '';
-
-        const ripM  = ripL.match(/Rip Current Risk.*?([A-Za-z ]+)/);
-        const surfM = surfL.match(/Around\s*([\d\s\w]+)/);
-        const thM   = thL.match(/Thunderstorm Potential.*?([A-Za-z]+)/);
-        const srM   = srL.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
-        const ssM   = ssL.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
-
-        const thunderMap = { Low:'Low chance', Moderate:'Moderate chance', High:'Very likely' };
-        const uvColor    = { Low:'#00FF00', Moderate:'#FFFF00', High:'#FF0000','Very High':'#FF4500' };
-
-        if(ripM){
-          const lvl = ripM[1].trim();
-          document.getElementById('s-risk').textContent = lvl;
-          const iconMap = { Low:'green.flag.png', Moderate:'yellow.flag.png', High:'red.flag.png', Extreme:'doublered.flag.png', 'Dangerous Marine Life':'purple.flag.png' };
-          document.getElementById('s-risk-img-large').src = './images/flags/'+(iconMap[lvl]||'green.flag.png');
-        }
-        if(surfM) document.getElementById('s-height').textContent    = surfM[1].trim();
-        if(thM)   document.getElementById('s-thunder').textContent   = thunderMap[thM[1]]||thM[1];
-
-        const uvCat = uvL.match(/UV Index.*?([A-Za-z ]+)/)?.[1].trim() || [, 'Very High'] [1].trim();
-        if (uvCat === 'Extreme') uvCat = 'Very High';
-        const uvP = document.getElementById('s-uv-pill');
-        uvP.textContent   = uvCat;
-        uvP.style.background = uvColor[uvCat] || '#777';
-
-        if(srM) document.getElementById('s-sunrise').textContent  = srM[1];
-        if(ssM) document.getElementById('s-sunset').textContent   = ssM[1];
+        dateEl.textContent = `${now.getMonth()+1}/${now.getDate()}/${now.getFullYear()}`;
+      }
+      const gen = L.find(l => l.startsWith('Generated:'));
+      if (gen) {
+        const upd = document.getElementById('last-updated');
+        if (upd) upd.textContent = gen.replace('Generated:','').trim();
       }
 
-      // Tide Times
-      if (document.getElementById('tide-times')) {
-        const zoneID = 'Coastal Indian River-Mainland Southern Brevard';
-        const start  = L.findIndex(l => l.includes(zoneID));
-        if(start>-1){
-          let end = L.findIndex((l,i) => i>start && l.trim()==='&&');
-          if(end===-1) end=L.length;
-          const Z = L.slice(start,end);
+      // — Current Conditions —
+      const curr  = L.find(l => l.startsWith('Temp:')) || '';
+      const tM    = curr.match(/Temp: ([\d.]+)°F/);
+      const hM    = curr.match(/Humidity: ([\d.]+)%/);
+      const today = L.find(l => l.startsWith('• Today:')) || '';
+      const rainM = today.match(/Rain: (\d+)%/);
+      const windM = today.match(/Wind: ([^;]+)/);
+      const foreM = today.match(/—\s*([^.;]+)/);
+      const maxM  = today.match(/High: (\d+)°F/);
+      const tonight = L.find(l => l.startsWith('• Tonight:')) || '';
+      const minM    = tonight.match(/Low: (\d+)°F/);
 
-          const pHigh = Z.filter(l=>l.includes('Port Canaveral')&&/High/i.test(l)).map(l=>l.trim());
-          const pLow  = Z.filter(l=>l.includes('Port Canaveral')&&/Low /i.test(l)).map(l=>l.trim());
-          const portLines = pHigh.length ? [...pHigh,...pLow] : (pLow[0]?[pLow[0]]:[]);
-          if(portLines.length) document.getElementById('tide-port').innerHTML = portLines.join('<br>');
-
-          const sHigh = Z.filter(l=>l.includes('Sebastian Inlet')&&/High/i.test(l)).map(l=>l.trim());
-          const sLow  = Z.filter(l=>l.includes('Sebastian Inlet')&&/Low /i.test(l)).map(l=>l.trim());
-          const sebLines = sHigh.length ? [...sHigh,...sLow] : (sLow[0]?[sLow[0]]:[]);
-          if(sebLines.length) document.getElementById('tide-seb').innerHTML = sebLines.join('<br>');
-        }
+      // — Sparkline (High / Low / Tomorrow High) —
+      const tomorrow = L.find(l => l.startsWith('• Tomorrow:')) || '';
+      const tomM = tomorrow.match(/High: (\d+)°F/);
+      const highs = [maxM&&+maxM[1], minM&&+minM[1], tomM&&+tomM[1]].filter(v=>v!=null);
+      const c = document.getElementById('temp-sparkline');
+      if (c && c.getContext) {
+        const ctx = c.getContext('2d'), W=100, H=30;
+        const minV = Math.min(...highs), maxV = Math.max(...highs);
+        ctx.clearRect(0,0,W,H);
+        ctx.strokeStyle='#ffd54f'; ctx.lineWidth=2; ctx.beginPath();
+        highs.forEach((v,i) => {
+          const x = i*(W/(highs.length-1)), y = H - (v-minV)/(maxV-minV)*H;
+          i===0?ctx.moveTo(x,y):ctx.lineTo(x,y);
+        });
+        ctx.stroke();
       }
 
-      // Tip of the Day
-if (document.getElementById('plan-tip-text')) {
-  let tip = 'Have a great day!';
-  const thunderText = document.getElementById('s-thunder')?.textContent;
-  const rainLine    = L.find(l => l.startsWith('• Today:'));
-  const rainMatch   = rainLine?.match(/Rain: (\d+)%/);
+      // — Populate Current & Min/Max —
+      if (tM) document.getElementById('w-temp').textContent = tM[1]+'°F';
+      if (hM) document.getElementById('w-hum').textContent  = hM[1]+'%';
+      if (rainM) document.getElementById('w-rain').textContent = rainM[1]+'%';
+      if (windM) document.getElementById('w-wind').textContent = windM[1].trim();
+      if (foreM) {
+        let f = foreM[1].trim()
+                  .replace(/(Chance)\s+(Showers.*Thunderstorms)/i,'$1 of $2');
+        f = f.charAt(0).toUpperCase() + f.slice(1).toLowerCase();
+        document.getElementById('w-forecast').textContent = f + '.';
+      }
+      if (maxM) {
+        const ex = +maxM[1], cur = tM?+tM[1]:ex;
+        document.getElementById('w-max').textContent = Math.max(cur,ex) + '°F';
+      }
+      if (minM) {
+        const ex = +minM[1], cur = tM?+tM[1]:ex;
+        document.getElementById('w-min').textContent = Math.min(cur,ex) + '°F';
+      }
 
-  if (thunderText === 'Very likely') {
-    tip = 'Afternoon storms likely—plan indoor activities or carry rain gear.';
-  } else if (rainMatch && +rainMatch[1] > 50) {
-    tip = 'High chance of rain—don’t forget your umbrella.';
-  }
+      // — Surf Forecast —
+      const sStart = L.findIndex(l=>l.startsWith('Southern Brevard Barrier Islands'));
+      let sEnd = L.findIndex((l,i)=>i>sStart && l.includes('Sunset'));
+      if (sEnd===-1) sEnd=L.length;
+      const S = sStart>-1?L.slice(sStart,sEnd+1):[];
+      const ripL  = S.find(l=>l.startsWith('Rip Current Risk'))||'';
+      const surfL = S.find(l=>l.startsWith('Surf Height'))||'';
+      const thL   = S.find(l=>l.includes('Thunderstorm Potential'))||'';
+      const uvL   = S.find(l=>l.startsWith('UV Index'))||'';
+      const srL   = S.find(l=>l.trim().startsWith('Sunrise'))||'';
+      const ssL   = S.find(l=>l.trim().startsWith('Sunset'))||'';
+      const ripM2 = ripL.match(/Rip Current Risk.*?([A-Za-z ]+)/);
+      const surfM = surfL.match(/Around\s*([\d\s\w]+)/);
+      const thM   = thL.match(/Thunderstorm Potential.*?([A-Za-z]+)/);
+      const srM   = srL.match(/Sunrise.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
+      const ssM   = ssL.match(/Sunset.*?(\d{1,2}:\d{2}\s?(?:AM|PM))/);
+      const thunderMap = {Low:'Low chance',Moderate:'Moderate chance',High:'Very likely'};
+      const uvColor    = {Low:'#00FF00',Moderate:'#FFFF00',High:'#FF0000','Very High':'#FF4500'};
+      const iconMap    = {Low:'green.flag.png',Moderate:'yellow.flag.png',High:'red.flag.png','Dangerous Marine Life':'purple.flag.png'};
 
-  // updated UV logic:
-  const uvText = document.getElementById('s-uv-pill')?.textContent || '';
-  if (uvText === 'Very High' || uvText === 'Extreme') {
-    tip = 'UV is very high—apply sunscreen and wear a hat.';
-  }
+      if (ripM2) {
+        const lvl = ripM2[1].trim();
+        document.getElementById('s-risk').textContent = lvl;
+        document.getElementById('s-risk-img-large').src = './images/flags/'+(iconMap[lvl]||'green.flag.png');
+      }
+      if (surfM) document.getElementById('s-height').textContent = surfM[1].trim();
+      if (thM)   document.getElementById('s-thunder').textContent = thunderMap[thM[1]]||thM[1];
+      let uvCat = uvL.match(/UV Index.*?([A-Za-z ]+)/)?uvL.match(/UV Index.*?([A-Za-z ]+)/)[1].trim():'Very High';
+      if (uvCat==='Extreme') uvCat='Very High';
+      const uvP = document.getElementById('s-uv-pill');
+      if (uvP) { uvP.textContent = uvCat; uvP.style.background = uvColor[uvCat]||'#777'; }
+      if (srM) document.getElementById('s-sunrise').textContent = srM[1];
+      if (ssM) document.getElementById('s-sunset').textContent = ssM[1];
 
-  const rf = document.getElementById('s-risk')?.textContent;
-  if (rf === 'High' || rf === 'Extreme') {
-    tip = 'Rip currents are dangerous—avoid swimming today.';
-  }
+      // — Tide Times —
+      const zid = 'Coastal Indian River-Mainland Southern Brevard';
+      const z0 = L.findIndex(l=>l.includes(zid));
+      if (z0>-1) {
+        let z1 = L.findIndex((l,i)=>i>z0 && l.trim()==='&&');
+        if (z1===-1) z1=L.length;
+        const Z = L.slice(z0,z1);
+        const pH = Z.filter(l=>l.includes('Port Canaveral')&&/High/i.test(l)).map(l=>l.trim());
+        const pL = Z.filter(l=>l.includes('Port Canaveral')&&/Low /i.test(l)).map(l=>l.trim());
+        const portLines = pH.length?[...pH,...pL]:(pL[0]?[pL[0]]:[]);
+        if (portLines.length) document.getElementById('tide-port').innerHTML = portLines.join('<br>');
+        const sH = Z.filter(l=>l.includes('Sebastian Inlet')&&/High/i.test(l)).map(l=>l.trim());
+        const sL = Z.filter(l=>l.includes('Sebastian Inlet')&&/Low /i.test(l)).map(l=>l.trim());
+        const sebLines = sH.length?[...sH,...sL]:(sL[0]?[sL[0]]:[]);
+        if (sebLines.length) document.getElementById('tide-seb').innerHTML = sebLines.join('<br>');
+      }
 
-  document.getElementById('plan-tip-text').textContent = tip;
-}
-
-  // Slideshow
-  if (document.querySelector('.slideshow')) {
-    const files = [
-      '1.png','2.png','5.png','6.png','7.png',
-      'Climate.png','Forecast.png','KMLB_loop.gif'
-    ];
-    const base  = 'images/';
-    const cont  = document.querySelector('.slideshow');
-    const slides = [];
-    let idx = 0, started = false;
-
-    files.forEach(name => {
-      const img = new Image();
-      img.src = base + name;
-      img.onload = () => {
-        img.classList.add('slide');
-        cont.appendChild(img);
-        slides.push(img);
-        if (!started) {
-          started = true;
-          slides[0].classList.add('active');
-          setInterval(() => {
-            slides[idx].classList.remove('active');
-            idx = (idx + 1) % slides.length;
-            slides[idx].classList.add('active');
-          }, 10000);
+      // — Tip of the Day —
+      const tipEl = document.getElementById('plan-tip-text');
+      if (tipEl) {
+        let tip = 'Have a great day!';
+        if (thM && thunderMap[thM[1]]==='Very likely') {
+          tip = 'Afternoon storms likely—plan indoor activities or carry rain gear.';
+        } else if (rainM && +rainM[1]>50) {
+          tip = 'High chance of rain—don’t forget your umbrella.';
         }
-      };
-    });
-  }
+        if (uvCat==='Very High') {
+          tip = 'UV is very high—apply sunscreen and wear a hat.';
+        }
+        const rf = document.getElementById('s-risk')?.textContent;
+        if (rf==='High' || rf==='Extreme') {
+          tip = 'Rip currents are dangerous—avoid swimming today.';
+        }
+        tipEl.textContent = tip;
+      }
+    })
+    .catch(console.error);
 });
 

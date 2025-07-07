@@ -1,55 +1,46 @@
+/* Base page sizing at 90% of the TV screen */
+html {
+  height: 100%;
+}
 body {
+  margin: 5vh auto;
+  width: 90vw;
+  height: 90vh;
   background: #f0f8ff;
   font-family: "Segoe UI", sans-serif;
   color: #333;
   text-align: center;
-  padding: 2rem 1rem;
-}
-h1 { margin: 0; font-size: 2rem; color: #0277bd; }
-
-/* Subtitle */
-h2.subtitle {
-  margin: 0.2rem 0 1.5rem;
-  font-size: 1.2rem;
-  color: #555;
-  font-style: italic;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 1rem;
 }
 
-/* Alert banner */
-#alert-banner {
-  display: none;
-  background: #ffcccc;
-  color: #900;
-  padding: 0.75rem 1rem;
-  margin-bottom: 1rem;
-  border: 1px solid #f00;
-  border-radius: 4px;
-  text-align: left;
-  white-space: pre-wrap;
-  font-size: 0.9rem;
+/* Headings */
+h1 { margin: .5rem 0; font-size: 2rem; color: #0277bd; }
+h2.subtitle { margin: .25rem 0 1rem; font-size: 1.2rem; color: #555; font-style: italic; }
+
+/* Make sections fill the flex container */
+section, .slideshow {
+  flex: 1;
+  width: 100%;
+  padding: 1rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: auto;
 }
 
-/* Current Weather */
+/* —— Current Weather —— */
 #weather-summary {
-  max-width: 800px;
-  margin: 1.5rem auto;
-  padding: 1.5rem;
   background: #81d4fa;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   color: #fff;
 }
-#weather-summary h2 { margin: 0 0 0.2rem 0; font-size: 1.6rem; color: #0d47a1; }
-#weather-summary h3.date,
-#weather-summary h4.updated {
-  margin: 0.1rem 0 0.8rem;
-  font-size: 1rem;
-  color: rgba(255,255,255,0.85);
-  font-style: italic;
-}
+#weather-summary h2 { color: #0d47a1; }
 .weather-card {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(auto-fit,minmax(120px,1fr));
   gap: 1rem;
   margin-top: 1rem;
 }
@@ -57,157 +48,84 @@ h2.subtitle {
   background: rgba(0,0,0,0.4);
   border-radius: 6px;
   padding: 1rem;
-  text-align: center;
 }
-.weather-item i {
-  font-size: 2rem;
-  display: block;
-  margin-bottom: 0.3rem;
-  color: #ffd54f;
-}
-.weather-item .label { display: block; font-size: 0.8rem; opacity: 0.8; }
-.weather-item .value { font-size: 1rem; font-weight: bold; }
-.weather-item .subvalue {
-  display: block;
-  font-size: 0.7rem;
-  opacity: 0.7;
-  margin-top: 0.5rem;
-}
-.sparkline { width: 100px; height: 30px; margin: 0.5rem auto; }
+.weather-item i { font-size: 2rem; display:block; margin-bottom:.3rem; color:#ffd54f; }
+.weather-item .label { display: block; font-size:.8rem; opacity:.8; }
+.weather-item .value { font-size:1rem; font-weight:bold; }
+.weather-item .subvalue { display:block; font-size:.7rem; opacity:.7; margin-top:.5rem; }
+.sparkline { width:100px; height:30px; margin:.5rem auto; }
 
-/* Surf Forecast */
+/* —— Surf Forecast —— */
 #surf-forecast {
-  max-width: 800px;
-  margin: 1.5rem auto;
-  padding: 1rem;
-  background: rgba(255,255,255,0.8);
+  background: #ffffffcc;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  text-align: left;
   color: #333;
-}
-#surf-forecast h2 { margin: 0 0 0.2rem 0; font-size: 1.4rem; color: #0277bd; }
-#surf-forecast h3.subsubtitle { margin: 0.1rem 0 0.6rem; font-size: 1rem; color: #555; font-style: italic; }
-.surf-item { display: flex; align-items: center; margin: 0.5rem 0; font-size: 0.9rem; }
-.surf-item i { font-size: 1rem; margin-right: 0.5rem; color: #0277bd; }
-.surf-item .label { font-weight: bold; margin-right: 0.5rem; }
-.surf-item .value { margin-right: 0.5rem; }
-.surf-item i.flag { font-size: 1.5rem; }
-.very-moderate-flag { color: #FFC107 !important; }
-
-/* UV pill */
-.uv-pill {
-  display: inline-block;
-  padding: 0.2rem 0.6rem;
-  border-radius: 4px;
-  color: #fff;
-  font-weight: bold;
-  font-size: 0.9rem;
-}
-
-/* Tide Times */
-#tide-times {
-  max-width: 800px;
-  margin: 1.5rem auto;
-  padding: 1rem;
-  background: rgba(255,255,255,0.8);
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   text-align: left;
-  color: #333;
 }
-#tide-times h2 { margin-top: 0; font-size: 1.4rem; color: #0277bd; }
-#tide-times p { margin: 0.3rem 0; font-size: 0.9rem; }
-
-/* Plan Your Day Tip */
-#plan-tip, #plan-tip-text {
-  max-width: 800px;
-  margin: 1rem auto;
-  padding: 1rem;
-  background: #e8f4fd;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  color: #0277bd;
-  font-size: 1rem;
-  font-style: italic;
-}
-
-/* Rip Current Flag Guide */
-#flag-guide {
-  max-width: 800px;
-  margin: 1.5rem auto;
-  padding: 1rem;
-  background: rgba(255,255,255,0.8);
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  text-align: left;
-  color: #333;
-}
-#flag-guide h2 { margin-top: 0; font-size: 1.4rem; color: #0277bd; }
-#flag-guide p { margin: 0.5rem 0; font-size: 0.9rem; }
-
-/* Slideshow */
-.slideshow {
-  position: relative;
-  max-width: 800px;
-  margin: 2rem auto;
-  border: 4px solid #81d4fa;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
-  background: white;
-  height: 450px;
-}
-.slideshow img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-}
-.slideshow img.active { opacity: 1; z-index: 1; }
-
-/* Footer Caption */
-#data-caption { font-size: 0.8rem; color: #666; margin-top: 1.5rem; }
-
-/* Surf container layout tweaks */
-#surf-forecast .surf-container { display: flex; align-items: flex-start; gap: 1rem; }
-#surf-forecast .surf-list { flex: 1; }
-#surf-forecast .surf-graphic { flex: 0 0 250px; display: flex; align-items: center; justify-content: center; }
-#surf-forecast .surf-graphic img { max-width: 100%; max-height: 100%; object-fit: contain; }
-
-/* center a 90%×90% “slide” in the TV viewport */
-html {
-  height: 100%;
-}
-body {
-  margin: 5vh auto;        /* 5% top & bottom, auto left/right */
-  width: 90vw;             /* 90% of viewport width */
-  height: 90vh;            /* 90% of viewport height */
+.surf-container {
   display: flex;
-  flex-direction: column;
-  box-sizing: border-box;
+  gap: 1rem;
 }
-
-/* make each section flex to fill height, remove max-width caps */
-section, .slideshow {
+.surf-list {
   flex: 1;
-  width: 100%;
-  margin: 0;
-  padding: 1rem;
-  max-width: none;
-  box-sizing: border-box;
 }
-.slideshow {
+.surf-graphic {
+  flex: 0 0 200px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+.surf-item { display:flex; align-items:center; margin:.5rem 0; font-size:.9rem; }
+.surf-item i { margin-right:.5rem; color:#0277bd; }
+.uv-pill {
+  display:inline-block;
+  padding:.2rem .6rem;
+  border-radius:4px;
+  color:#fff;
+  font-weight:bold;
+  font-size:.9rem;
+}
+
+/* —— Tide Times —— */
+#tide-times {
+  background: #ffffffcc;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  color: #333;
+  text-align: left;
+}
+
+/* —— Tip of the Day —— */
+#plan-tip {
+  background: #e8f4fd;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  color: #0277bd;
+  font-style: italic;
+  text-align: left;
+}
+
+/* —— Rip-Current Flag Guide —— */
+#flag-guide {
+  background: #ffffffcc;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: left;
+  color: #333;
+}
+
+/* —— Slideshow —— */
+.slideshow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  overflow: hidden;
+}
 .slideshow img {
   max-width: 100%;
   max-height: 100%;
+  object-fit: contain;
 }
 
