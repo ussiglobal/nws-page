@@ -179,37 +179,29 @@ h2.subtitle {
 #surf-forecast .surf-graphic { flex: 0 0 250px; display: flex; align-items: center; justify-content: center; }
 #surf-forecast .surf-graphic img { max-width: 100%; max-height: 100%; object-fit: contain; }
 
-/* ─── Fill the full 16×9 viewport ─────────────────────────────────── */
-html, body {
-  margin: 0;
-  padding: 0;
-  width: 100vw;
-  height: 100vh;
+/* center a 90%×90% “slide” in the TV viewport */
+html {
+  height: 100%;
 }
 body {
+  margin: 5vh auto;        /* 5% top & bottom, auto left/right */
+  width: 90vw;             /* 90% of viewport width */
+  height: 90vh;            /* 90% of viewport height */
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
 }
-h1, h2.subtitle {
-  margin: 0.5rem 0;
-}
-section {
+
+/* make each section flex to fill height, remove max-width caps */
+section, .slideshow {
   flex: 1;
   width: 100%;
-  box-sizing: border-box;
-  padding: 1rem;
-}
-#weather-summary,
-#surf-forecast,
-#tide-times,
-#plan-tip,
-#flag-guide,
-.slideshow {
-  max-width: none;
   margin: 0;
+  padding: 1rem;
+  max-width: none;
+  box-sizing: border-box;
 }
 .slideshow {
-  flex: 1;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -218,5 +210,4 @@ section {
   max-width: 100%;
   max-height: 100%;
 }
-/* ─────────────────────────────────────────────────────────────────── */
 
