@@ -217,3 +217,26 @@ body#info #plan-tip {
   margin: 1rem 0;
 }
 
+/* — Tip of the Day: make it bigger & center it in its strip — */
+body#info #plan-tip {
+  font-size: 1.3rem;         /* larger text */
+  display: flex;
+  justify-content: center;   /* horizontal center */
+  align-items: center;       /* vertical center */
+  height: 4rem;              /* fixed height to give it room */
+  margin: 1rem 0;            /* keep some breathing */
+}
+body#info #plan-tip-text {
+  display: inline;           /* keep “Tip of the day:” on the same line */
+}
+/* — Rip-Current Flag Guide: larger, more spaced items — */
+body#info #flag-guide p {
+  font-size: 1.1rem;
+  margin: .75rem 0;
+}
+body#info #flag-guide h2 {
+  font-size: 1.5rem;
+  margin-bottom: .5rem;
+}
+
+
