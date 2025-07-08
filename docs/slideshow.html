@@ -3,50 +3,53 @@
 <head>
   <meta charset="UTF-8">
   <title>📊 Today's Forecast (NWS)</title>
+  <!-- Shared CSS -->
   <link rel="stylesheet" href="./assets/style.css">
 </head>
-<body>
+<body id="slideshow-page">
   <h1>📊 Today's Forecast (NWS)</h1>
   <h2 class="subtitle">Melbourne, FL</h2>
 
   <div class="slideshow"></div>
 
-
-  <p style="font-weight: normal; font-size: .9rem; color: #666; text-align: center; margin-top: 1rem;">
+  <p id="data-caption">
     Images retrieved from the National Weather Service (NWS)
   </p>
-  
+
   <script>
-    (function(){
-      const files = [
-        '1.png','2.png','5.png','6.png','7.png',
-        'Climate.png','Forecast.png','KMLB_loop.gif'
-      ];
-      const base = './images/';
-      const cont = document.querySelector('.slideshow');
-      const slides = [];
-      let idx = 0, started = false;
+  (function(){
+    const files = [
+      '1.png','2.png','5.png','6.png','7.png',
+      'Climate.png','Forecast.png','KMLB_loop.gif'
+    ];
+    const base = './images/';
+    const cont = document.querySelector('.slideshow');
+    const slides = [];
+    let idx = 0;
 
-      files.forEach(name => {
-        const img = new Image();
-        img.src = base + name;
-        img.onload = () => {
-          img.classList.add('slide');
-          cont.appendChild(img);
-          slides.push(img);
+    files.forEach(name => {
+      const img = new Image();
+      img.src = base + name;
+      img.classList.add('slide');
+      img.onload = () => {
+        cont.appendChild(img);
+        slides.push(img);
+      };
+    });
 
-          if (!started) {
-            started = true;
-            slides[0].classList.add('active');
-            setInterval(() => {
-              slides[idx].classList.remove('active');
-              idx = (idx + 1) % slides.length;
-              slides[idx].classList.add('active');
-            }, 10000);
-          }
-        };
-      });
-    })();
+    // once images are all appended, kick off the loop
+    // (give the browser a moment to lay them out)
+    setTimeout(() => {
+      if (!slides.length) return;
+      slides[0].classList.add('active');
+      setInterval(() => {
+        slides[idx].classList.remove('active');
+        idx = (idx + 1) % slides.length;
+        slides[idx].classList.add('active');
+      }, 10000);
+    }, 100);
+  })();
   </script>
 </body>
 </html>
+
