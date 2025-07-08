@@ -1,7 +1,5 @@
-/* Base page sizing at 90% of the TV screen */
-html {
-  height: 100%;
-}
+/* 90% of the 16×9 TV canvas, centered */
+html { height: 100%; }
 body {
   margin: 5vh auto;
   width: 90vw;
@@ -20,14 +18,50 @@ body {
 h1 { margin: .5rem 0; font-size: 2rem; color: #0277bd; }
 h2.subtitle { margin: .25rem 0 1rem; font-size: 1.2rem; color: #555; font-style: italic; }
 
-/* Make sections fill the flex container */
-section, .slideshow {
+/* Make each section fill the flex container */
+section {
   flex: 1;
   width: 100%;
   padding: 1rem;
   margin: 0;
   box-sizing: border-box;
   overflow: auto;
+}
+/* Slideshow container */
+.slideshow {
+  flex: 1;
+  width: 100%;
+  margin: 0;
+  box-sizing: border-box;
+  position: relative;
+  border: 4px solid #81d4fa;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  background: white;
+}
+.slideshow img {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+.slideshow img.active { opacity: 1; z-index: 1; }
+
+/* Alert banner */
+#alert-banner {
+  display: none;
+  background: #ffcccc;
+  color: #900;
+  padding: .75rem 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #f00;
+  border-radius: 4px;
+  text-align: left;
+  white-space: pre-wrap;
+  font-size: .9rem;
 }
 
 /* —— Current Weather —— */
@@ -36,8 +70,12 @@ section, .slideshow {
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   color: #fff;
+  margin: 0;
 }
-#weather-summary h2 { color: #0d47a1; }
+#weather-summary h2 { font-size: 1.6rem; color: #0d47a1; }
+#weather-summary h3.date, #weather-summary h4.updated {
+  font-size: 1rem; color: rgba(255,255,255,0.85); font-style: italic;
+}
 .weather-card {
   display: grid;
   grid-template-columns: repeat(auto-fit,minmax(120px,1fr));
@@ -48,11 +86,19 @@ section, .slideshow {
   background: rgba(0,0,0,0.4);
   border-radius: 6px;
   padding: 1rem;
+  text-align: center;
 }
-.weather-item i { font-size: 2rem; display:block; margin-bottom:.3rem; color:#ffd54f; }
-.weather-item .label { display: block; font-size:.8rem; opacity:.8; }
-.weather-item .value { font-size:1rem; font-weight:bold; }
-.weather-item .subvalue { display:block; font-size:.7rem; opacity:.7; margin-top:.5rem; }
+.weather-item i {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: .3rem;
+  color: #ffd54f;
+}
+.weather-item .label { display: block; font-size: .8rem; opacity: .8; }
+.weather-item .value { font-size: 1rem; font-weight: bold; }
+.weather-item .subvalue {
+  display: block; font-size: .7rem; opacity: .7; margin-top: .5rem;
+}
 .sparkline { width:100px; height:30px; margin:.5rem auto; }
 
 /* —— Surf Forecast —— */
@@ -62,29 +108,18 @@ section, .slideshow {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   color: #333;
   text-align: left;
+  margin: 0;
 }
-.surf-container {
-  display: flex;
-  gap: 1rem;
-}
-.surf-list {
-  flex: 1;
-}
-.surf-graphic {
-  flex: 0 0 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.surf-item { display:flex; align-items:center; margin:.5rem 0; font-size:.9rem; }
-.surf-item i { margin-right:.5rem; color:#0277bd; }
+#surf-forecast h2 { font-size: 1.4rem; color: #0277bd; }
+#surf-forecast h3.subsubtitle { font-size: 1rem; color: #555; font-style: italic; }
+.surf-container { display: flex; gap: 1rem; }
+.surf-list { flex: 1; }
+.surf-graphic { flex: 0 0 200px; display: flex; justify-content: center; align-items: center; }
+.surf-item { display: flex; align-items: center; margin: .5rem 0; font-size: .9rem; }
+.surf-item i { margin-right: .5rem; color: #0277bd; }
 .uv-pill {
-  display:inline-block;
-  padding:.2rem .6rem;
-  border-radius:4px;
-  color:#fff;
-  font-weight:bold;
-  font-size:.9rem;
+  display: inline-block; padding: .2rem .6rem;
+  border-radius: 4px; color: #fff; font-weight: bold; font-size: .9rem;
 }
 
 /* —— Tide Times —— */
@@ -92,8 +127,9 @@ section, .slideshow {
   background: #ffffffcc;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  color: #333;
   text-align: left;
+  color: #333;
+  margin: 0;
 }
 
 /* —— Tip of the Day —— */
@@ -104,6 +140,7 @@ section, .slideshow {
   color: #0277bd;
   font-style: italic;
   text-align: left;
+  margin: 0;
 }
 
 /* —— Rip-Current Flag Guide —— */
@@ -113,19 +150,9 @@ section, .slideshow {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   text-align: left;
   color: #333;
+  margin: 0;
 }
 
-/* —— Slideshow —— */
-.slideshow {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: white;
-  overflow: hidden;
-}
-.slideshow img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-}
+/* Flag icons in guide */
+#flag-guide p { margin: .5rem 0; font-size: .9rem; }
 
