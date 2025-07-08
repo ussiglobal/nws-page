@@ -173,7 +173,7 @@ body#forecast .weather-item {
 }
 /* bump up the current temp size */
 body#forecast .weather-item .value {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 
 /* spacing after the colon in surf labels */
@@ -193,11 +193,27 @@ body#forecast #surf-forecast .surf-graphic img {
 
 /* slightly larger surf text for better fill */
 body#forecast #surf-forecast .surf-item {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 /* add a gap between the blue weather box and the white surf box */
 body#forecast #weather-summary + #surf-forecast {
   margin-top: 1.5rem;
+}
+
+/* ─── Info-page specific overrides ──────────────────────────────────────── */
+/* bump up section text and titles */
+body#info section,
+body#info #plan-tip {
+  font-size: 1.2rem;           /* make body text a bit larger */
+}
+body#info section h2 {
+  font-size: 1.4rem;         /* make section headers larger */
+  margin-bottom: 0.5rem;     /* give a little breathing room under titles */
+}
+/* tip-strip full-width, one-line formatting */
+body#info #plan-tip {
+  max-width: none;
+  margin: 1rem 0;
 }
 

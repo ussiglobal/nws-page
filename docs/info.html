@@ -2,30 +2,35 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>🌊 Tides & Info</title>
+  <title>🌊 Tides & Flag Guide 🚩</title>
+
+  <!-- Shared CSS -->
   <link rel="stylesheet" href="./assets/style.css">
+  <!-- Icons -->
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 </head>
-<body>
-  <h1>🌊 Tides & Info</h1>
+<body id="info">
+  <h1>🌊 Tides & Flag Guide 🚩</h1>
   <h2 class="subtitle">Melbourne, FL</h2>
 
+  <!-- Tide Times -->
   <section id="tide-times">
-    <h2>Tide Times</h2>
+    <h2>🌊 Tide Times</h2>
     <p id="tide-port">Port Canaveral: --</p>
     <p id="tide-seb">Sebastian Inlet: --</p>
   </section>
 
-  <section id="plan-tip">
-    <h2>Tip of the Day</h2>
-    <p id="plan-tip-text">Loading…</p>
-  </section>
+  <!-- Tip of the Day (one-line strip) -->
+  <div id="plan-tip">
+    Tip of the day: <span id="plan-tip-text">Loading…</span>
+  </div>
 
+  <!-- Rip-Current Flag Guide -->
   <section id="flag-guide">
-    <h2>Rip-Current Flag Guide</h2>
+    <h2>🚩 Rip-Current Flag Guide</h2>
     <p><i class="fas fa-flag" style="color:#4CAF50;"></i>
        <strong>Green Flag</strong> – Low Risk: Rip currents unlikely.</p>
     <p><i class="fas fa-flag" style="color:#FFC107;"></i>
@@ -41,6 +46,7 @@
        <strong>Purple Flag</strong> – Marine Hazards: Dangerous marine life or water quality issues.</p>
   </section>
 
+  <!-- Shared fetch & render logic -->
   <script src="./assets/common.js"></script>
 </body>
 </html>
