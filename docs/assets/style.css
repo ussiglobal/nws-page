@@ -1,4 +1,4 @@
-/* 90% of the TV canvas, centered */
+/* ─── Layout: 90% of 16×9 canvas ───────────────────────────────── */
 html { height: 100%; }
 body {
   margin: 5vh auto;
@@ -13,14 +13,23 @@ body {
   box-sizing: border-box;
   padding: 1rem;
 }
-
-/* Headings */
 h1 { margin: .5rem 0; font-size: 2rem; color: #0277bd; }
 h2.subtitle { margin: .25rem 0 1rem; font-size: 1.2rem; color: #555; font-style: italic; }
 
-/* Sections fill available space, except tip strip */
+/* Sections fill available space, tip strip fixed-height */
 section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box; overflow: auto; }
-#plan-tip { flex: 0 0 auto; margin: 1rem auto; padding: 1rem; max-width: 800px; }
+#plan-tip {
+  flex: 0 0 auto;
+  max-width: 800px;
+  margin: 1rem auto;
+  padding: 1rem;
+  background: #e8f4fd;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  color: #0277bd;
+  font-style: italic;
+  text-align: left;
+}
 
 /* Alert banner */
 #alert-banner {
@@ -45,8 +54,7 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
   margin: 0;
 }
 #weather-summary h2 { font-size: 1.6rem; color: #0d47a1; }
-#weather-summary h3.date,
-#weather-summary h4.updated {
+#weather-summary h3.date, #weather-summary h4.updated {
   font-size: 1rem;
   color: rgba(255,255,255,0.85);
   font-style: italic;
@@ -72,10 +80,7 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
 .weather-item .label { display: block; font-size: .8rem; opacity: .8; }
 .weather-item .value { font-size: 1rem; font-weight: bold; }
 .weather-item .subvalue {
-  display: block;
-  font-size: .7rem;
-  opacity: .7;
-  margin-top: .5rem;
+  display: block; font-size: .7rem; opacity: .7; margin-top: .5rem;
 }
 .sparkline { width: 100px; height: 30px; margin: .5rem auto; }
 
@@ -84,25 +89,14 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
   background: #ffffffcc;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  color: #333;
   text-align: left;
+  color: #333;
   margin: 0;
 }
 #surf-forecast h2 { font-size: 1.4rem; color: #0277bd; }
 #surf-forecast h3.subsubtitle { font-size: 1rem; color: #555; font-style: italic; }
 .surf-container { display: flex; gap: 1rem; }
 .surf-list { flex: 1; }
-.surf-graphic {
-  flex: 0 0 250px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.surf-graphic img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-}
 .surf-item { display: flex; align-items: center; margin: .5rem 0; font-size: .9rem; }
 .surf-item i { margin-right: .5rem; color: #0277bd; }
 .uv-pill {
@@ -112,6 +106,18 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
   color: #fff;
   font-weight: bold;
   font-size: .9rem;
+}
+/* flag image sizing */
+.surf-graphic {
+  flex: 0 0 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.surf-graphic img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
 }
 
 /* —— Tide Times —— */
@@ -135,17 +141,17 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
 }
 #flag-guide p { margin: .5rem 0; font-size: .9rem; }
 
-/* —— Full-Screen Slideshow —— */
+/* —— Slideshow —— */
 .slideshow {
-  width: 100%;
-  aspect-ratio: 16 / 9;
+  position: relative;
+  max-width: 800px;
+  margin: 2rem auto;
   border: 4px solid #81d4fa;
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 6px 18px rgba(0,0,0,0.15);
   background: white;
-  margin: 1rem 0;
-  position: relative;
+  height: 450px;
 }
 .slideshow img {
   position: absolute;

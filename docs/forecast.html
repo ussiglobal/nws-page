@@ -2,54 +2,46 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>☀️ Forecast & Surf</title>
+  <title>📊 Slideshow</title>
   <link rel="stylesheet" href="./assets/style.css">
-  <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
-  <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 </head>
 <body>
-  <h1>☀️ Daily Weather Forecast</h1>
+  <h1>📊 Full-Screen Slideshow</h1>
   <h2 class="subtitle">Melbourne, FL</h2>
-  <div id="alert-banner"></div>
 
-  <section id="weather-summary">
-    <h2>Current Weather</h2>
-    <h3 class="date">Date: <span id="current-date">--/--/----</span></h3>
-    <h4 class="updated">Last updated: <span id="last-updated">--:--</span></h4>
-    <div class="weather-card">
-      <!-- …same as before… -->
-      <div class="weather-item">
-        <i class="wi wi-thermometer"></i>
-        <span class="label">Temp</span>
-        <span class="value" id="w-temp">--°F</span>
-        <canvas id="temp-sparkline" class="sparkline"></canvas>
-        <span class="subvalue">Max: <span id="w-max">--°F</span></span>
-        <span class="subvalue">Min: <span id="w-min">--°F</span></span>
-      </div>
-      <!-- …other items… -->
-    </div>
-  </section>
+  <div class="slideshow"></div>
 
-  <section id="surf-forecast">
-    <h2>Surf Forecast</h2>
-    <h3 class="subsubtitle">Melbourne Beach</h3>
-    <div class="surf-container">
-      <div class="surf-list">
-        <div class="surf-item">
-          <i class="fas fa-water"></i>
-          <span class="label">Rip Current Risk:</span> <span class="value" id="s-risk">--</span>
-        </div>
-        <!-- …other surf items… -->
-      </div>
-      <div class="surf-graphic">
-        <img id="s-risk-img-large" src="" alt="Rip current risk flag">
-      </div>
-    </div>
-  </section>
+  <script>
+    (function(){
+      const files = [
+        '1.png','2.png','5.png','6.png','7.png',
+        'Climate.png','Forecast.png','KMLB_loop.gif'
+      ];
+      const base = './images/';
+      const cont = document.querySelector('.slideshow');
+      const slides = [];
+      let idx=0, started=false;
 
-  <script src="./assets/common.js"></script>
+      files.forEach(name => {
+        const img = new Image();
+        img.src = base + name;
+        img.onload = () => {
+          img.classList.add('slide');
+          cont.appendChild(img);
+          slides.push(img);
+          if (!started) {
+            started = true;
+            slides[0].classList.add('active');
+            setInterval(() => {
+              slides[idx].classList.remove('active');
+              idx = (idx+1) % slides.length;
+              slides[idx].classList.add('active');
+            }, 10000);
+          }
+        };
+      });
+    })();
+  </script>
 </body>
 </html>
 
