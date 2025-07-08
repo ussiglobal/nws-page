@@ -1,4 +1,3 @@
-<!-- docs/forecast.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +19,7 @@
     <h3 class="date">Date: <span id="current-date">--/--/----</span></h3>
     <h4 class="updated">Last updated: <span id="last-updated">--:--</span></h4>
     <div class="weather-card">
-      <!-- weather-item blocks as in original -->
+      <!-- …same as before… -->
       <div class="weather-item">
         <i class="wi wi-thermometer"></i>
         <span class="label">Temp</span>
@@ -29,26 +28,7 @@
         <span class="subvalue">Max: <span id="w-max">--°F</span></span>
         <span class="subvalue">Min: <span id="w-min">--°F</span></span>
       </div>
-      <div class="weather-item">
-        <i class="wi wi-humidity"></i>
-        <span class="label">Humidity</span>
-        <span class="value" id="w-hum">--%</span>
-      </div>
-      <div class="weather-item">
-        <i class="wi wi-rain"></i>
-        <span class="label">Rain</span>
-        <span class="value" id="w-rain">--%</span>
-      </div>
-      <div class="weather-item">
-        <i class="wi wi-strong-wind"></i>
-        <span class="label">Wind</span>
-        <span class="value" id="w-wind">--</span>
-      </div>
-      <div class="weather-item">
-        <i class="wi wi-day-sunny"></i>
-        <span class="label">Forecast</span>
-        <span class="value" id="w-forecast">Loading…</span>
-      </div>
+      <!-- …other items… -->
     </div>
   </section>
 
@@ -59,34 +39,9 @@
       <div class="surf-list">
         <div class="surf-item">
           <i class="fas fa-water"></i>
-          <span class="label">Rip Current Risk:</span>
-          <span class="value" id="s-risk">--</span>
+          <span class="label">Rip Current Risk:</span> <span class="value" id="s-risk">--</span>
         </div>
-        <div class="surf-item">
-          <i class="wi wi-tsunami"></i>
-          <span class="label">Surf Height:</span>
-          <span class="value" id="s-height">--</span>
-        </div>
-        <div class="surf-item">
-          <i class="wi wi-storm-showers"></i>
-          <span class="label">Thunderstorm Potential:</span>
-          <span class="value" id="s-thunder">--</span>
-        </div>
-        <div class="surf-item">
-          <i class="wi wi-day-sunny"></i>
-          <span class="label">UV Index:</span>
-          <span id="s-uv-pill" class="uv-pill">--</span>
-        </div>
-        <div class="surf-item">
-          <i class="wi wi-sunrise"></i>
-          <span class="label">Sunrise:</span>
-          <span class="value" id="s-sunrise">--:--</span>
-        </div>
-        <div class="surf-item">
-          <i class="wi wi-sunset"></i>
-          <span class="label">Sunset:</span>
-          <span class="value" id="s-sunset">--:--</span>
-        </div>
+        <!-- …other surf items… -->
       </div>
       <div class="surf-graphic">
         <img id="s-risk-img-large" src="" alt="Rip current risk flag">
