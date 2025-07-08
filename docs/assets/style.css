@@ -239,4 +239,84 @@ body#info #flag-guide h2 {
   margin-bottom: .5rem;
 }
 
+/* Body ID for info.html */
+body#info {
+  background: #f0f8ff; /* ensure same bg */
+}
 
+/* Larger all-around text and headers */
+body#info section,
+body#info #plan-tip {
+  font-size: 1.1rem;
+}
+body#info section h2 {
+  font-size: 1.5rem;
+  margin-bottom: .75rem;
+}
+
+/* Tip Strip: multi-line, centered */
+body#info #plan-tip {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #e8f4fd;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  color: #0277bd;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  text-align: center;
+}
+body#info #plan-tip .tip-label {
+  font-weight: bold;
+  margin-bottom: .5rem;
+}
+body#info #plan-tip .tip-text {
+  margin: 0;
+}
+
+/* Tide Times + Image Side-by-Side */
+body#info .info-section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background: #ffffffcc;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+body#info .info-section .info-text {
+  flex: 1;
+}
+body#info .info-section .info-img {
+  flex: 0 0 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body#info .info-section .info-img img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* Tides section uses .info-section */
+#tide-times.info-section p {
+  margin: .3rem 0;
+}
+
+/* Flag Guide + Image Side-by-Side */
+#flag-guide.info-section {
+  flex-direction: column; /* text and image stack */
+}
+body#info #flag-guide.info-section .info-img {
+  margin-top: 1rem;
+}
+
+/* Larger flag-guide items */
+body#info #flag-guide p {
+  margin: .5rem 0;
+  font-size: 1.1rem;
+}

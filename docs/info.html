@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>🌊 Tides & Flag Guide 🚩</title>
-
+  <title>🌊 Tides & Info</title>
   <!-- Shared CSS -->
   <link rel="stylesheet" href="./assets/style.css">
   <!-- Icons -->
@@ -13,37 +12,48 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 </head>
 <body id="info">
-  <h1>🌊 Tides & Flag Guide 🚩</h1>
+  <h1>🌊 Tides & Info</h1>
   <h2 class="subtitle">Melbourne, FL</h2>
 
-  <!-- Tide Times -->
-  <section id="tide-times">
-    <h2>🌊 Tide Times</h2>
-    <p id="tide-port">Port Canaveral: --</p>
-    <p id="tide-seb">Sebastian Inlet: --</p>
+  <!-- Tide Times + Static Image -->
+  <section id="tide-times" class="info-section">
+    <div class="info-text">
+      <h2>🌊 Tide Times</h2>
+      <p id="tide-port">Port Canaveral: --</p>
+      <p id="tide-seb">Sebastian Inlet: --</p>
+    </div>
+    <div class="info-img">
+      <img src="./images/static/tide.png" alt="Tide graphic">
+    </div>
   </section>
 
-  <!-- Tip of the Day (one-line strip) -->
+  <!-- Tip of the Day (multi-line strip) -->
   <div id="plan-tip">
-    Tip of the day: <span id="plan-tip-text">Loading…</span>
+    <div class="tip-label">Tip of the day:</div>
+    <div class="tip-text" id="plan-tip-text">Loading…</div>
   </div>
 
-  <!-- Rip-Current Flag Guide -->
-  <section id="flag-guide">
-    <h2>🚩 Rip-Current Flag Guide</h2>
-    <p><i class="fas fa-flag" style="color:#4CAF50;"></i>
-       <strong>Green Flag</strong> – Low Risk: Rip currents unlikely.</p>
-    <p><i class="fas fa-flag" style="color:#FFC107;"></i>
-       <strong>Yellow Flag</strong> – Moderate Risk: Dangerous currents possible.</p>
-    <p><i class="fas fa-flag" style="color:#FF0000;"></i>
-       <strong>Red Flag</strong> – High Risk: Life-threatening currents; swim not recommended.</p>
-    <p>
-      <i class="fas fa-flag" style="color:#FF0000;"></i>
-      <i class="fas fa-flag" style="color:#FF0000;"></i>
-      <strong>Double Red Flag</strong> – Extreme Hazard: Water closed to public.
-    </p>
-    <p><i class="fas fa-flag" style="color:purple;"></i>
-       <strong>Purple Flag</strong> – Marine Hazards: Dangerous marine life or water quality issues.</p>
+  <!-- Rip-Current Flag Guide + Static Image -->
+  <section id="flag-guide" class="info-section">
+    <div class="info-text">
+      <h2>🚩 Rip-Current Flag Guide</h2>
+      <p><i class="fas fa-flag" style="color:#4CAF50;"></i>
+         <strong>Green Flag</strong> – Low Risk: Rip currents unlikely.</p>
+      <p><i class="fas fa-flag" style="color:#FFC107;"></i>
+         <strong>Yellow Flag</strong> – Moderate Risk: Dangerous currents possible.</p>
+      <p><i class="fas fa-flag" style="color:#FF0000;"></i>
+         <strong>Red Flag</strong> – High Risk: Life-threatening currents; swim not recommended.</p>
+      <p>
+        <i class="fas fa-flag" style="color:#FF0000;"></i>
+        <i class="fas fa-flag" style="color:#FF0000;"></i>
+        <strong>Double Red Flag</strong> – Extreme Hazard: Water closed to public.
+      </p>
+      <p><i class="fas fa-flag" style="color:purple;"></i>
+         <strong>Purple Flag</strong> – Marine Hazards: Dangerous marine life or water quality issues.</p>
+    </div>
+    <div class="info-img">
+      <img src="./images/static/flag-guide.png" alt="Flag guide graphic">
+    </div>
   </section>
 
   <!-- Shared fetch & render logic -->
