@@ -108,6 +108,20 @@ document.addEventListener('DOMContentLoaded', () => {
         if (ssM) document.getElementById('s-sunset').textContent = ssM[1];
       }
 
+// parse UV for tip logic on every page
+let uvCat = 'Very High';
+const uvLine = L.find(l => l.startsWith('UV Index')) || '';
+const uvMatch = uvLine.match(/UV Index.*?([A-Za-z ]+)/);
+if (uvMatch) {
+  uvCat = uvMatch[1].trim();
+  if (uvCat === 'Extreme') uvCat = 'Very High';
+}
+const uvP = document.getElementById('s-uv-pill');
+if (uvP) {
+  uvP.textContent = uvCat;
+  uvP.style.background = uvColor[uvCat] || '#777';
+}
+
       // — Tide Times —
       if (document.getElementById('tide-port')) {
         const zid = 'Coastal Indian River-Mainland Southern Brevard';
@@ -138,8 +152,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (rainMatch && +rainMatch[1]>50) {
           tip = 'High chance of rain—don’t forget your umbrella.';
         }
-        const uvText = document.getElementById('s-uv-pill')?.textContent;
-        if (uvText==='Very High') {
+        if (uvCat === 'Very High') {
           tip = 'UV is very high—apply sunscreen and wear a hat.';
         }
         const rf = document.getElementById('s-risk')?.textContent;
