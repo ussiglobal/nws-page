@@ -49,52 +49,47 @@
     </div>
   </section>
 
-<!-- Surf Forecast -->
-<section id="surf-forecast">
-  <h2>Surf Forecast</h2>
-  <h3 class="subsubtitle">Melbourne Beach</h3>
-
-  <div class="surf-container">
-    <!-- left column: all your surf-item rows -->
-    <div class="surf-list">
-      <div class="surf-item">
-        <i class="fas fa-water"></i>
-        <span class="label">Rip Current Risk:</span>
-        <span class="value" id="s-risk">--</span>
+  <section id="surf-forecast">
+    <h2>Surf Forecast</h2>
+    <h3 class="subsubtitle">Melbourne Beach</h3>
+    <div class="surf-container">
+      <div class="surf-list">
+        <div class="surf-item">
+          <i class="fas fa-water"></i>
+          <span class="label">Rip Current Risk:</span>
+          <span class="value" id="s-risk">--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-tsunami"></i>
+          <span class="label">Surf Height:</span>
+          <span class="value" id="s-height">--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-storm-showers"></i>
+          <span class="label">Thunderstorm Potential:</span>
+          <span class="value" id="s-thunder">--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-day-sunny"></i>
+          <span class="label">UV Index:</span>
+          <span id="s-uv-pill" class="uv-pill">--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-sunrise"></i>
+          <span class="label">Sunrise:</span>
+          <span class="value" id="s-sunrise">--:--</span>
+        </div>
+        <div class="surf-item">
+          <i class="wi wi-sunset"></i>
+          <span class="label">Sunset:</span>
+          <span class="value" id="s-sunset">--:--</span>
+        </div>
       </div>
-      <div class="surf-item">
-        <i class="wi wi-tsunami"></i>
-        <span class="label">Surf Height:</span>
-        <span class="value" id="s-height">--</span>
-      </div>
-      <div class="surf-item">
-        <i class="wi wi-storm-showers"></i>
-        <span class="label">Thunderstorm Potential:</span>
-        <span class="value" id="s-thunder">--</span>
-      </div>
-      <div class="surf-item">
-        <i class="wi wi-day-sunny"></i>
-        <span class="label">UV Index:</span>
-        <span id="s-uv-pill" class="uv-pill">--</span>
-      </div>
-      <div class="surf-item">
-        <i class="wi wi-sunrise"></i>
-        <span class="label">Sunrise:</span>
-        <span class="value" id="s-sunrise">--:--</span>
-      </div>
-      <div class="surf-item">
-        <i class="wi wi-sunset"></i>
-        <span class="label">Sunset:</span>
-        <span class="value" id="s-sunset">--:--</span>
+      <div class="surf-graphic">
+        <img id="s-risk-img-large" src="" alt="Rip current risk flag">
       </div>
     </div>
-
-    <!-- right column: big rip‐flag image -->
-    <div class="surf-graphic">
-      <img id="s-risk-img-large" src="" alt="Rip current risk flag">
-    </div>
-  </div>
-</section>
+  </section>
 
   <script src="./assets/common.js"></script>
 </body>
