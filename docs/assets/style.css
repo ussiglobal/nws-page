@@ -196,3 +196,8 @@ body#forecast #surf-forecast .surf-item {
   font-size: 1rem;
 }
 
+/* ─── tiny gap between Current Weather (blue) and Surf Forecast (white) ─── */
+body#forecast #weather-summary {
+  margin-bottom: 1rem;
+}
+
