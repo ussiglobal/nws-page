@@ -163,3 +163,36 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
 }
 .slideshow img.active { opacity: 1; z-index: 1; }
 
+/* ─── Forecast-page specific overrides ────────────────────────────────────── */
+
+/* only apply on forecast.html */
+body#forecast .weather-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* bump up the current temp size */
+body#forecast .weather-item .value {
+  font-size: 1.2rem;
+}
+
+/* spacing after the colon in surf labels */
+body#forecast #surf-forecast .surf-item .label {
+  margin-right: 0.5rem;
+}
+
+/* enlarge the flag image container & image */
+body#forecast #surf-forecast .surf-graphic {
+  flex: 0 0 250px;
+}
+body#forecast #surf-forecast .surf-graphic img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* slightly larger surf text for better fill */
+body#forecast #surf-forecast .surf-item {
+  font-size: 1rem;
+}
+
