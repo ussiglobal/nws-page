@@ -367,37 +367,38 @@ section {
   font-size: .9rem;
 }
 
-/* —— Slideshow container —— */
+/* —— Slideshow container at native 1920×1080 resolution —— */
 .slideshow {
-  flex: 1;
-  width: 100%;
-  margin: 0;
+  width: 1920px;
+  height: 1080px;
+  margin: 2rem auto;
   box-sizing: border-box;
   position: relative;
   border: 4px solid #81d4fa;
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
   background: white;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
 
-/* make images fill the box (no empty white bars) */
+/* Images contained at their aspect ratio inside the fixed border */
 .slideshow img {
   position: absolute;
   top: 0; left: 0;
-  width: 100%; height: 100%;
-  object-fit: cover;          /* was contain */
+  width: 100%;
+  height: 100%;
+  object-fit: contain;   /* <-- keep black bars rather than crop or stretch */
   opacity: 0;
   transition: opacity 1s ease-in-out;
 }
 
-/* fade in the active slide */
+/* Fade in the active slide */
 .slideshow img.active {
   opacity: 1;
   z-index: 1;
 }
 
-/* caption styling */
+/* Caption styling (unchanged) */
 #data-caption {
   text-align: center;
   font-size: .8rem;
