@@ -369,8 +369,8 @@ section {
 
 /* —— Slideshow container at native 1920×1080 resolution —— */
 .slideshow {
-  width: 1920px;
-  height: 1080px;
+  width: 1080px;
+  height: 1920px;
   margin: 2rem auto;
   box-sizing: border-box;
   position: relative;
