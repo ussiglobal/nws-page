@@ -1,11 +1,10 @@
+<!-- docs/slideshow.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>📊 Full-Screen Slideshow</title>
-
-  <!-- Shared styles (make sure your assets/style.css includes the .slideshow rules) -->
-  <link rel="stylesheet" href="assets/style.css">
+  <title>📊 Slideshow</title>
+  <link rel="stylesheet" href="./assets/style.css">
 </head>
 <body>
   <h1>📊 Full-Screen Slideshow</h1>
@@ -13,9 +12,9 @@
 
   <div class="slideshow"></div>
 
-   <script>
-  (function(){
-    const files = [
+  <script>
+    (function(){
+      const files = [
         '1.png','2.png','5.png','6.png','7.png',
         'Climate.png','Forecast.png','KMLB_loop.gif'
       ];
@@ -34,13 +33,16 @@
           if (!started) {
             started = true;
             slides[0].classList.add('active');
-            idx = (idx+1)%slides.length;
-            slides[idx].classList.add('active');
-            },10000);
-}
-};
-});
-})();
-</script>
+            setInterval(() => {
+              slides[idx].classList.remove('active');
+              idx = (idx+1)%slides.length;
+              slides[idx].classList.add('active');
+            }, 10000);
+          }
+        };
+      });
+    })();
+  </script>
 </body>
 </html>
+

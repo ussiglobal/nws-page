@@ -323,6 +323,26 @@ body#info #flag-guide p {
   font-size: 1.1rem;
 }
 
+/* 90% of the 16×9 TV canvas, centered */
+html { height: 100%; }
+body {
+  margin: 5vh auto;
+  width: 90vw;
+  height: 90vh;
+  background: #f0f8ff;
+  font-family: "Segoe UI", sans-serif;
+  color: #333;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 1rem;
+}
+
+/* Headings */
+h1 { margin: .5rem 0; font-size: 2rem; color: #0277bd; }
+h2.subtitle { margin: .25rem 0 1rem; font-size: 1.2rem; color: #555; font-style: italic; }
+
 /* Make each section fill the flex container */
 section {
   flex: 1;
@@ -368,3 +388,4 @@ section {
   white-space: pre-wrap;
   font-size: .9rem;
 }
+
