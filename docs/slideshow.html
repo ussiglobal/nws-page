@@ -3,27 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <title>📊 Full-Screen Slideshow</title>
+  <!-- Shared CSS (must include the .slideshow rules below) -->
   <link rel="stylesheet" href="./assets/style.css">
 </head>
 <body>
   <h1>📊 Full-Screen Slideshow</h1>
   <h2 class="subtitle">Melbourne, FL</h2>
 
+  <!-- Slideshow container -->
   <div class="slideshow"></div>
 
   <p id="data-caption">
     Images retrieved from the National Weather Service (NWS)
   </p>
 
+  <!-- Slideshow script (exactly as in index.html) -->
   <script>
   (function(){
     const files = [
       '1.png','2.png','5.png','6.png','7.png',
       'Climate.png','Forecast.png','KMLB_loop.gif'
     ];
-    // adjust this path if your images folder is somewhere else:
-    const base = './images/';  
-    const cont = document.querySelector('.slideshow');
+    const base  = './images/';
+    const cont  = document.querySelector('.slideshow');
     const slides = [];
     let idx = 0, started = false;
 
@@ -31,8 +33,10 @@
       const img = new Image();
       img.src = base + name;
       img.onload = () => {
+        img.classList.add('slide');
         cont.appendChild(img);
         slides.push(img);
+
         if (!started) {
           started = true;
           slides[0].classList.add('active');
