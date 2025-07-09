@@ -12,17 +12,6 @@ body {
   flex-direction: column;
   box-sizing: border-box;
   padding: 1rem;
-  
-  /* only for portrait & info pages */
-body#forecast,
-body#info {
-  margin: 5vh auto;
-  width: 90vw;
-  height: 90vh;
-  display: flex;
-  flex-direction: column;
-}
-
 }
 h1 { margin: .5rem 0; font-size: 2rem; color: #0277bd; }
 h2.subtitle { margin: .25rem 0 1rem; font-size: 1.2rem; color: #555; font-style: italic; }
@@ -338,6 +327,14 @@ body#info #flag-guide p {
 h1 { margin: .5rem 0; font-size: 2rem; color: #0277bd; }
 h2.subtitle { margin: .25rem 0 1rem; font-size: 1.2rem; color: #555; font-style: italic; }
 
+/* Caption styling (unchanged) */
+#data-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: #666;
+  margin-top: .5rem;
+} 
+
 /* —— Clean 16×9 Slideshow —— */
 .slideshow {
   width: 90vw;               /* fill 90% of viewport width */
@@ -365,13 +362,5 @@ h2.subtitle { margin: .25rem 0 1rem; font-size: 1.2rem; color: #555; font-style:
 .slideshow img.active {
   opacity: 1;
   z-index: 1;
-}
-
-/* Caption styling (unchanged) */
-#data-caption {
-  text-align: center;
-  font-size: .8rem;
-  color: #666;
-  margin-top: .5rem;
 }
 
