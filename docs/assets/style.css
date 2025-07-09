@@ -1,19 +1,22 @@
-/* ─── Layout: 90% of 16×9 canvas ───────────────────────────────── */
-html { height: 100%; }
+/* ─── Global Resets ───────────────────────────────────────────────────────── */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
 body {
-  margin: 5vh auto;
-  width: 90vw;
-  height: 90vh;
+  margin: 0;
+  padding: 0;
   background: #f0f8ff;
   font-family: "Segoe UI", sans-serif;
   color: #333;
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  box-sizing: border-box;
-  padding: 1rem;
-  
-  /* only for portrait & info pages */
+}
+
+/* ─── Portrait & Info Pages Layout ────────────────────────────────────────── */
 body#forecast,
 body#info {
   margin: 5vh auto;
@@ -21,28 +24,23 @@ body#info {
   height: 90vh;
   display: flex;
   flex-direction: column;
-}
-
-}
-h1 { margin: .5rem 0; font-size: 2rem; color: #0277bd; }
-h2.subtitle { margin: .25rem 0 1rem; font-size: 1.2rem; color: #555; font-style: italic; }
-
-/* Sections fill available space, tip strip fixed-height */
-section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box; overflow: auto; }
-#plan-tip {
-  flex: 0 0 auto;
-  max-width: 800px;
-  margin: 1rem auto;
   padding: 1rem;
-  background: #e8f4fd;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  color: #0277bd;
-  font-style: italic;
-  text-align: left;
 }
 
-/* Alert banner */
+/* Common Headings */
+h1 {
+  margin: .5rem 0;
+  font-size: 2rem;
+  color: #0277bd;
+}
+h2.subtitle {
+  margin: .25rem 0 1rem;
+  font-size: 1.2rem;
+  color: #555;
+  font-style: italic;
+}
+
+/* ─── Alert Banner ───────────────────────────────────────────────────────── */
 #alert-banner {
   display: none;
   background: #ffcccc;
@@ -56,7 +54,7 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
   font-size: .9rem;
 }
 
-/* —— Current Weather —— */
+/* ─── Current Weather (forecast.html) ─────────────────────────────────────── */
 #weather-summary {
   background: #81d4fa;
   border-radius: 10px;
@@ -64,8 +62,14 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
   color: #fff;
   margin: 0;
 }
-#weather-summary h2 { font-size: 1.6rem; color: #0d47a1; }
-#weather-summary h3.date, #weather-summary h4.updated {
+#weather-summary h2 {
+  margin: 0 0 .2rem;
+  font-size: 1.6rem;
+  color: #0d47a1;
+}
+#weather-summary h3.date,
+#weather-summary h4.updated {
+  margin: .1rem 0 .8rem;
   font-size: 1rem;
   color: rgba(255,255,255,0.85);
   font-style: italic;
@@ -80,22 +84,37 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
   background: rgba(0,0,0,0.4);
   border-radius: 6px;
   padding: 1rem;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .weather-item i {
   font-size: 2rem;
-  display: block;
   margin-bottom: .3rem;
   color: #ffd54f;
 }
-.weather-item .label { display: block; font-size: .8rem; opacity: .8; }
+.weather-item .label { font-size: .8rem; opacity: .8; }
 .weather-item .value { font-size: 1rem; font-weight: bold; }
 .weather-item .subvalue {
-  display: block; font-size: .7rem; opacity: .7; margin-top: .5rem;
+  font-size: .7rem;
+  opacity: .7;
+  margin-top: .5rem;
 }
-.sparkline { width: 100px; height: 30px; margin: .5rem auto; }
+.sparkline {
+  width: 100px;
+  height: 30px;
+  margin: .5rem auto;
+}
 
-/* —— Surf Forecast —— */
+/* Forecast tweaks */
+body#forecast .weather-item .value {
+  font-size: 1.4rem; /* larger current temp */
+}
+body#forecast #weather-summary + #surf-forecast {
+  margin-top: 1.5rem;
+}
+
+/* ─── Surf Forecast (forecast.html) ──────────────────────────────────────── */
 #surf-forecast {
   background: #ffffffcc;
   border-radius: 8px;
@@ -105,22 +124,33 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
   margin: 0;
 }
 #surf-forecast h2 { font-size: 1.4rem; color: #0277bd; }
-#surf-forecast h3.subsubtitle { font-size: 1rem; color: #555; font-style: italic; }
-.surf-container { display: flex; gap: 1rem; }
+#surf-forecast h3.subsubtitle {
+  font-size: 1rem;
+  color: #555;
+  font-style: italic;
+}
+.surf-container {
+  display: flex;
+  gap: 1rem;
+}
 .surf-list { flex: 1; }
-.surf-item { display: flex; align-items: center; margin: .5rem 0; font-size: .9rem; }
-.surf-item i { margin-right: .5rem; color: #0277bd; }
+.surf-item {
+  display: flex;
+  align-items: center;
+  margin: .5rem 0;
+  font-size: 1rem;
+}
+.surf-item .label { font-weight: bold; margin-right: .5rem; }
 .uv-pill {
   display: inline-block;
   padding: .2rem .6rem;
   border-radius: 4px;
-  color: #fff;
   font-weight: bold;
   font-size: .9rem;
+  color: #fff;
 }
-/* flag image sizing */
 .surf-graphic {
-  flex: 0 0 200px;
+  flex: 0 0 250px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -131,111 +161,12 @@ section { flex: 1; width: 100%; padding: 1rem; margin: 0; box-sizing: border-box
   object-fit: contain;
 }
 
-/* —— Tide Times —— */
-#tide-times {
-  background: #ffffffcc;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  text-align: left;
-  color: #333;
-  margin: 0;
-}
-
-/* —— Rip-Current Flag Guide —— */
-#flag-guide {
-  background: #ffffffcc;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  text-align: left;
-  color: #333;
-  margin: 0;
-}
-#flag-guide p { margin: .5rem 0; font-size: .9rem; }
-
-/* ─── Forecast-page specific overrides ────────────────────────────────────── */
-
-/* only apply on forecast.html */
-body#forecast .weather-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-/* bump up the current temp size */
-body#forecast .weather-item .value {
-  font-size: 1.4rem;
-}
-
-/* spacing after the colon in surf labels */
-body#forecast #surf-forecast .surf-item .label {
-  margin-right: 0.5rem;
-}
-
-/* enlarge the flag image container & image */
-body#forecast #surf-forecast .surf-graphic {
-  flex: 0 0 250px;
-}
-body#forecast #surf-forecast .surf-graphic img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-}
-
-/* slightly larger surf text for better fill */
-body#forecast #surf-forecast .surf-item {
-  font-size: 1.2rem;
-}
-
-/* add a gap between the blue weather box and the white surf box */
-body#forecast #weather-summary + #surf-forecast {
-  margin-top: 1.5rem;
-}
-
-/* ─── Info-page specific overrides ──────────────────────────────────────── */
-/* bump up section text and titles */
-body#info section,
-body#info #plan-tip {
-  font-size: 1.2rem;           /* make body text a bit larger */
-}
-body#info section h2 {
-  font-size: 1.4rem;         /* make section headers larger */
-  margin-bottom: 0.5rem;     /* give a little breathing room under titles */
-}
-/* tip-strip full-width, one-line formatting */
-body#info #plan-tip {
-  max-width: none;
-  margin: 1rem 0;
-}
-
-/* — Tip of the Day: make it bigger & center it in its strip — */
-body#info #plan-tip {
-  font-size: 1.3rem;         /* larger text */
-  display: flex;
-  justify-content: center;   /* horizontal center */
-  align-items: center;       /* vertical center */
-  height: 4rem;              /* fixed height to give it room */
-  margin: 1rem 0;            /* keep some breathing */
-}
-body#info #plan-tip-text {
-  display: inline;           /* keep “Tip of the day:” on the same line */
-}
-/* — Rip-Current Flag Guide: larger, more spaced items — */
-body#info #flag-guide p {
-  font-size: 1.1rem;
-  margin: .75rem 0;
-}
-body#info #flag-guide h2 {
-  font-size: 1.5rem;
-  margin-bottom: .5rem;
-}
-
-/* Body ID for info.html */
-body#info {
-  background: #f0f8ff; /* ensure same bg */
-}
-
-/* Larger all-around text and headers */
-body#info section,
-body#info #plan-tip {
+/* ─── Info Page Overrides ────────────────────────────────────────────────── */
+body#info section {
+  flex: 1;
+  width: 100%;
+  overflow: auto;
+  padding: 1rem;
   font-size: 1.1rem;
 }
 body#info section h2 {
@@ -243,8 +174,11 @@ body#info section h2 {
   margin-bottom: .75rem;
 }
 
-/* Tip Strip: multi-line, centered */
+/* Tip strip (info.html) */
 body#info #plan-tip {
+  flex: 0 0 auto;
+  margin: 1rem 0;
+  font-size: 1.3rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -254,7 +188,6 @@ body#info #plan-tip {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   color: #0277bd;
   padding: 1rem;
-  margin: 1.5rem 0;
   text-align: center;
 }
 body#info #plan-tip .tip-label {
@@ -265,7 +198,7 @@ body#info #plan-tip .tip-text {
   margin: 0;
 }
 
-/* Tide Times + Image Side-by-Side */
+/* Info sections with static images */
 body#info .info-section {
   display: flex;
   align-items: flex-start;
@@ -278,6 +211,7 @@ body#info .info-section {
 }
 body#info .info-section .info-text {
   flex: 1;
+  text-align: left;
 }
 body#info .info-section .info-img {
   flex: 0 0 200px;
@@ -291,62 +225,44 @@ body#info .info-section .info-img img {
   object-fit: contain;
 }
 
-/* Tides section uses .info-section */
-#tide-times.info-section p {
-  margin: .3rem 0;
-}
+/* Tide-times in info-section */
+#tide-times.info-section p { margin: .3rem 0; }
 
-/* Flag Guide + Static Image Side-by-Side */
-#flag-guide.info-section {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  background: #ffffffcc;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  padding: 1rem;
-  margin-bottom: 1.5rem;
+/* Flag guide in info-section */
+#flag-guide.info-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: .5rem;
 }
-
-/* text takes remaining space */
-#flag-guide.info-section .info-text {
-  flex: 1;
-}
-
-/* static image box, sized like forecast flag */
-#flag-guide.info-section .info-img {
-  flex: 0 0 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-/* constrain the PNG inside that box */
-#flag-guide.info-section .info-img img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-}
-
-/* preserve larger text size */
-body#info #flag-guide p {
+#flag-guide.info-section p {
   margin: .5rem 0;
   font-size: 1.1rem;
 }
 
-/* Headings */
-h1 { margin: .5rem 0; font-size: 2rem; color: #0277bd; }
-h2.subtitle { margin: .25rem 0 1rem; font-size: 1.2rem; color: #555; font-style: italic; }
-
-/* cancel the “90% canvas” on slideshow.html */
-body#slideshow {
-  margin: auto;
-  width: auto;
-  height: auto;
-  display: block;
+/* ─── Slideshow ─────────────────────────────────────────────────────────── */
+.slideshow {
+  margin: 2rem auto;
+  border: 4px solid #81d4fa;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  background: white;
+  position: relative;
+}
+.slideshow img {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+.slideshow img.active {
+  opacity: 1;
+  z-index: 1;
 }
 
-/* Caption styling (unchanged) */
+/* Caption below slideshow */
 #data-caption {
   text-align: center;
   font-size: .8rem;
