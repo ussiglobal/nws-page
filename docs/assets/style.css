@@ -363,32 +363,33 @@ body#info #flag-guide p {
   margin-top: .5rem;
 }
 
-/* —— Slideshow —— */
-.slideshow {
-  position: relative;
-  max-width: 800px; /* Maximum width for the slideshow */
-  margin: 2rem auto; /* Centered margin */
-  border: 4px solid #81d4fa; /* Light blue border */
-  border-radius: 12px; /* Rounded corners */
-  overflow: hidden; /* Prevent overflow of images */
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15); /* Shadow effect */
-  background: white; /* Background color */
-  height: 450px; /* Fixed height */
-}
-
+/* Image Styles */
 .slideshow img {
-  position: absolute; 
-  top: 0; 
-  left: 0;
-  width: 100%; /* Image will take full width */
-  height: 100%; /* Image will take full height */
-  object-fit: contain; /* Maintain aspect ratio and fit within box */
-  opacity: 0; /* Start with hidden images */
-  transition: opacity 1s ease-in-out; /* Smooth transition */
+    width: 100%; /* Adjust as necessary to maintain correct size */
+    max-width: 800px; /* Set a maximum width for the image */
+    border: 5px solid lightblue; /* Light blue border */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Box shadow */
+    opacity: 0; /* Start images as transparent for fade effect */
+    transition: opacity 1s ease-in-out; /* Fade transition */
 }
 
-.slideshow img.active { 
-  opacity: 1; /* Show active image */
-  z-index: 1; /* Ensure active image is on top */
+/* Show the current image */
+.slideshow img.active {
+    opacity: 1; /* Fully visible when active */
+}
+
+/* Optional: Additional styles for the slideshow container */
+.slideshow {
+    position: relative;
+    overflow: hidden; /* Hide overflow to maintain layout */
+}
+
+/* Optional: Hide all non-active images */
+.slideshow img {
+    display: none; /* Hide non-active images */
+}
+
+.slideshow img.active {
+    display: block; /* Only show the active image */
 }
 
