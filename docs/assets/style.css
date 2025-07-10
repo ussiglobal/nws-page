@@ -365,13 +365,15 @@ body#info #flag-guide p {
 
 /* Image Styles */
 .slideshow img {
-    height: 450px; /* Fixed height */
-    max-width: 800px; /* Maximum width */
+    height: 900px; /* Fixed height */
+    max-width: 1600px; /* Maximum width */
     border: 4px solid #81d4fa; /* Light blue border */
     border-radius: 12px; /* Border radius */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Box shadow */
     background: white;
-    opacity: 0; /* Start images as transparent for fade effect */
+    position:absolute; top:0; left:0;
+    width:100%; height:100%;
+    object-fit:contain; opacity:0; /* Start images as transparent for fade effect */
     transition: opacity 1s ease-in-out; /* Fade transition */
 }
 
