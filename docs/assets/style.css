@@ -365,9 +365,10 @@ body#info #flag-guide p {
 
 /* Image Styles */
 .slideshow img {
-    width: 100%; /* Adjust as necessary to maintain correct size */
-    max-width: 800px; /* Set a maximum width for the image */
-    border: 5px solid lightblue; /* Light blue border */
+    height: 250px; /* Fixed height */
+    max-width: 800px; /* Maximum width */
+    border: 4px solid #81d4fa; /* Light blue border */
+    border-radius: 12px; /* Border radius */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Box shadow */
     opacity: 0; /* Start images as transparent for fade effect */
     transition: opacity 1s ease-in-out; /* Fade transition */
@@ -380,7 +381,10 @@ body#info #flag-guide p {
 
 /* Optional: Additional styles for the slideshow container */
 .slideshow {
-    position: relative;
+    display: flex; /* Use flexbox to center */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full viewport height for vertical centering */
     overflow: hidden; /* Hide overflow to maintain layout */
 }
 
