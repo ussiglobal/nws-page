@@ -363,38 +363,41 @@ body#info #flag-guide p {
   margin-top: .5rem;
 }
 
-/* Image Styles */
-.slideshow img {
-    height: 450px; /* Fixed height */
-    max-width: 800px; /* Maximum width */
-    border: 4px solid #81d4fa; /* Light blue border */
-    border-radius: 12px; /* Border radius */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Box shadow */
-    background: white;
-    opacity: 0; /* Start images as transparent for fade effect */
-    transition: opacity 1s ease-in-out; /* Fade transition */
+/* ─── Slideshow Container ───────────────────────────────────────────── */
+body#slideshow .slideshow {
+  position: relative;
+  width: 90vw;                  /* nearly full width */
+  max-width: 1920px;            /* but never exceed 1080p sources */
+  margin: 1rem auto;            /* small gap above & below */
+  /* fill vertical space between header (~4rem) and caption (~2rem) */
+  height: calc(100vh - 6rem);
+  border: 4px solid #81d4fa;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  background: white;
 }
 
-/* Show the current image */
-.slideshow img.active {
-    opacity: 1; /* Fully visible when active */
+/* ─── Slides (stacked absolutely) ────────────────────────────────────── */
+body#slideshow .slideshow img {
+  position: absolute;
+  top: 0; left: 0;
+  width: auto;                  /* preserve aspect ratio */
+  height: 100%;                 /* fill container height */
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
 }
 
-/* Optional: Additional styles for the slideshow container */
-.slideshow {
-    display: flex; /* Use flexbox to center */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 100vh; /* Full viewport height for vertical centering */
-    overflow: hidden; /* Hide overflow to maintain layout */
+/* ─── Active Slide Cross-fade ─────────────────────────────────────────── */
+body#slideshow .slideshow img.active {
+  opacity: 1;
+  z-index: 1;
 }
 
-/* Optional: Hide all non-active images */
-.slideshow img {
-    display: none; /* Hide non-active images */
-}
-
-.slideshow img.active {
-    display: block; /* Only show the active image */
+/* ─── Caption Below ───────────────────────────────────────────────────── */
+body#slideshow #data-caption {
+  margin-top: 1rem;
+  font-size: .8rem;
+  color: #666;
 }
 
