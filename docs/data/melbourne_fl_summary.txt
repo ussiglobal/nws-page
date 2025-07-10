@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 10, 2025 • 5:00 PM
+Generated: Jul 10, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,52 +8,34 @@ Generated: Jul 10, 2025 • 5:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 31% ; Wind: 5 to 10 mph S
 • Tomorrow: Friday — High: 89°F; Low: 78°F; Rain: 39% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 88°F (31.1°C) · Humidity: 57.4%
+Temp: 79°F (26.1°C) · Humidity: 76.8%
 
 🛥️ Marine Weather Statement:
-558
-FZUS72 KMLB 102023
+533
+FZUS72 KMLB 102139
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-423 PM EDT Thu Jul 10 2025
+539 PM EDT Thu Jul 10 2025
 
-AMZ555-102145-
-423 PM EDT Thu Jul 10 2025
+AMZ555-102149-
+/O.CAN.KMLB.MA.W.0136.000000T0000Z-250710T2200Z/
+539 PM EDT Thu Jul 10 2025
 
-...GUSTY OUTFLOW FROM STRONG THUNDERSTORMS OVER THE MAINLAND
-APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The affected areas were...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 420 PM EDT, Doppler radar indicated strong thunderstorms over the
-mainland, capable of producing winds to around 30 knots. These
-thunderstorms were located over Winter Beach, moving east at 15
-knots. Outflow from these storms will push rapidly back to the coast
-well ahead of any potential precipitation. This outflow will spread
-southward down toward Fort Pierce over the next 30 to 60 minutes.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-This strong thunderstorm will likely produce winds to around 30
-knots, and lightning strikes, and could pose a serious hazard for
-boaters. A special marine warning may eventually be required when
-these strong thunderstorms reach the nearshore waters. Boaters
-should consider heading for shore before these strong thunderstorms
-arrive.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2746 8037 2765 8041 2783 8051 2784 8048
-      2783 8047 2784 8044 2785 8044 2784 8043
-      2789 8009 2784 8006 2777 8004 2774 8004
-      2772 8002 2749 7995 2742 8035
+LAT...LON 2746 8037 2765 8041 2783 8051 2788 8016
+      2744 7993 2734 8031
+TIME...MOT...LOC 2136Z 276DEG 19KT 2761 7997
 
 $$
 
