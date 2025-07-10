@@ -399,3 +399,34 @@ body#slideshow #data-caption {
   color: #666;
 }
 
+/* ─── Scale Up for Big Landscape Signage ────────────────────────────────── */
+
+/* 1) Bigger header & subtitle */
+body#slideshow h1 {
+  font-size: 3rem;          /* was ~2rem */
+  margin-bottom: 0.5rem;
+}
+body#slideshow h2.subtitle {
+  font-size: 1.8rem;        /* was ~1.2rem */
+  margin-bottom: 1.5rem;
+}
+
+/* 2) Enlarge the slideshow “frame” to fill more of the viewport */
+body#slideshow .slideshow {
+  width: 90vw;              /* fill 90% of the screen width */
+  max-width: none;          /* remove the 800px cap */
+  height: 65vh;             /* ~65% of viewport height */
+  margin: 1rem auto;
+}
+
+/* 3) Increase caption size */
+body#slideshow #data-caption {
+  font-size: 1rem;          /* up from .8rem */
+  margin-top: 2rem;
+}
+
+/* 4) Optional: remove body padding so the frame sits tighter */
+body#slideshow {
+  padding: 0.5rem;          /* shrink from 1rem */
+}
+
