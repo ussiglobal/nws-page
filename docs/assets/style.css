@@ -363,28 +363,33 @@ body#info #flag-guide p {
   margin-top: .5rem;
 }
 
-/* Slide show container */
+/* ─── Clean 16×9 Slideshow ─────────────────────────────── */
 .slideshow {
-    width: 80%;            /* Adjust the width (e.g., 80% of the container) */
-    max-width: 800px;     /* Maximum width to prevent it from getting too large */
-    margin: 0 auto;       /* Center the slideshow container */
-    overflow: hidden;      /* Hide overflow if images are larger */
-    position: relative;    /* Enable positioning of children elements if needed */
+  width: 90vw; /* fill 90% of viewport width */
+  max-width: 1920px; /* but never exceed native resolution */
+  aspect-ratio: 16 / 9; /* lock to 16×9 */
+  margin: 2rem auto; /* center with vertical space */
+  border: 4px solid #81d4fa; /* box color */
+  border-radius: 12px; /* rounded corners */
+  overflow: hidden; /* prevent overflow */
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15); /* box shadow */
+  background: white; /* background color */
+  position: relative; /* for absolutely‐positioned slides */
 }
 
-/* Slide images */
-.slide {
-    width: 100%;          /* Make each image fill the container */
-    height: auto;         /* Maintain aspect ratio */
-    display: none;        /* Initially hide images */
+.slideshow img {
+  position: absolute; /* absolute positioning of images */
+  top: 0; /* align to top */
+  left: 0; /* align to left */
+  width: 100%; /* full width */
+  height: 100%; /* full height */
+  object-fit: contain; /* preserve aspect */
+  opacity: 0; /* start hidden */
+  transition: opacity 1s ease-in-out; /* fade transition */
 }
 
-.slide.active {
-    display: block;       /* Show active slide */
-}
-
-/* Optional: Add a transition effect */
-.slide {
-    transition: opacity 1s ease-in-out; /* Smooth transition for the images */
+/* Add a class to show the image */
+.slideshow img.active {
+  opacity: 1; /* fully visible */
 }
 
