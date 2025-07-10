@@ -393,3 +393,21 @@ body#info #flag-guide p {
   z-index: 1;
 }
 
+/* Styles for the slideshow container */
+.slideshow {
+    display: flex;              /* Use Flexbox for layout */
+    justify-content: center;    /* Center-align images horizontally */
+    align-items: center;        /* Center-align images vertically */
+    overflow: hidden;           /* Hide overflow to eliminate white space */
+    width: 100%;                /* Full width */
+    height: auto;               /* Automatic height */
+    max-height: 1920px;        /* Set to max image height */
+}
+
+/* Styles for the images */
+.slide {
+    width: 1080px;             /* Set the width of the image */
+    height: 1920px;            /* Set the height of the image */
+    object-fit: cover;         /* Ensure images cover the container without distortion */
+}
+
