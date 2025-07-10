@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 10, 2025 • 2:00 PM
+Generated: Jul 10, 2025 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,45 +8,47 @@ Generated: Jul 10, 2025 • 2:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 31% ; Wind: 5 to 10 mph S
 • Tomorrow: Friday — High: 89°F; Low: 78°F; Rain: 39% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 91°F (32.8°C) · Humidity: 57.5%
+Temp: 84.9°F (29.4°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-470
-FZUS72 KMLB 092211
+915
+FZUS72 KMLB 101842
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-611 PM EDT Wed Jul 9 2025
+242 PM EDT Thu Jul 10 2025
 
-AMZ550-552-092315-
-611 PM EDT Wed Jul 9 2025
+AMZ552-101945-
+242 PM EDT Thu Jul 10 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
-
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+A Marine Weather Statement has been issued for the following areas...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 610 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Scottsmoor, moving east at 15 knots.
+At 242 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from Merritt Island Wildlife Refuge to
+Indialantic to near Sebastian Highlands, moving northeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
+
+Intense lightning is occurring with these storms. If caught on the
+open water stay below deck if possible, keep away from ungrounded
+metal objects.
 
 &&
 
-LAT...LON 2902 8056 2856 8033 2852 8066 2855 8065
-      2856 8067 2852 8069 2850 8080 2880 8089
-      2884 8085 2900 8093
+LAT...LON 2880 8033 2852 8020 2835 8021 2826 8027
+      2823 8026 2789 8009 2783 8051 2799 8060
+      2874 8088
 
 $$
 
-Schaper
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 998
