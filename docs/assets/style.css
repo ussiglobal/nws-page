@@ -363,38 +363,42 @@ body#info #flag-guide p {
   margin-top: .5rem;
 }
 
-/* ─── Slideshow Container ───────────────────────────────────────────── */
+/* ─── Slideshow Container (fills gap between header & caption) ───────── */
 body#slideshow .slideshow {
   position: relative;
-  width: 90vw;                  /* nearly full width */
-  max-width: 800px;            /* but never exceed 1080p sources */
-  margin: 1rem auto;            /* small gap above & below */
-  /* fill vertical space between header (~4rem) and caption (~2rem) */
-  height: calc(100vh - 6rem);
+  width: 90vw;                   /* nearly full width */
+  max-width: 800px;              /* cap if you like */
+  height: calc(100vh - 6rem);    /* fill vertical space between header & caption */
+  margin: 1rem auto;
   border: 4px solid #81d4fa;
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 6px 18px rgba(0,0,0,0.15);
   background: white;
+  display: flex;                 /* center the single active slide */
+  align-items: center;
+  justify-content: center;
 }
 
-/* ─── Slides (stacked absolutely) ────────────────────────────────────── */
+/* ─── Slides (absolute stack) ───────────────────────────────────────────── */
 body#slideshow .slideshow img {
   position: absolute;
-  top: 0; left: 0;
-  width: auto;                  /* preserve aspect ratio */
-  height: 100%;                 /* fill container height */
+  top: 0; left: 0; right: 0; bottom: 0;
+  margin: auto;                  /* center within container */
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;           /* preserve full image, no cropping */
   opacity: 0;
   transition: opacity 1s ease-in-out;
 }
 
-/* ─── Active Slide Cross-fade ─────────────────────────────────────────── */
+/* ─── Active Slide ──────────────────────────────────────────────────────── */
 body#slideshow .slideshow img.active {
   opacity: 1;
   z-index: 1;
 }
 
-/* ─── Caption Below ───────────────────────────────────────────────────── */
+/* ─── Caption Below ─────────────────────────────────────────────────────── */
 body#slideshow #data-caption {
   margin-top: 1rem;
   font-size: .8rem;
