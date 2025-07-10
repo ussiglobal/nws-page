@@ -363,33 +363,23 @@ body#info #flag-guide p {
   margin-top: .5rem;
 }
 
-/* ─── Clean 16×9 Slideshow ─────────────────────────────── */
-.slideshow {
-  width: 90vw; /* fill 90% of viewport width */
-  max-width: 1920px; /* but never exceed native resolution */
-  aspect-ratio: 16 / 9; /* lock to 16×9 */
-  margin: 2rem auto; /* center with vertical space */
-  border: 4px solid #81d4fa; /* box color */
-  border-radius: 12px; /* rounded corners */
-  overflow: hidden; /* prevent overflow */
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15); /* box shadow */
-  background: white; /* background color */
-  position: relative; /* for absolutely‐positioned slides */
-}
-
-.slideshow img {
-  position: absolute; /* absolute positioning of images */
-  top: 0; /* align to top */
-  left: 0; /* align to left */
-  width: 100%; /* full width */
-  height: 100%; /* full height */
-  object-fit: contain; /* preserve aspect */
-  opacity: 0; /* start hidden */
-  transition: opacity 1s ease-in-out; /* fade transition */
-}
-
-/* Add a class to show the image */
-.slideshow img.active {
-  opacity: 1; /* fully visible */
-}
+    /* —— Slideshow —— */
+    .slideshow {
+      position:relative;
+      max-width:800px;
+      margin:2rem auto;
+      border:4px solid #81d4fa;
+      border-radius:12px;
+      overflow:hidden;
+      box-shadow:0 6px 18px rgba(0,0,0,0.15);
+      background:white;
+      height:450px;
+    }
+    .slideshow img {
+      position:absolute; top:0; left:0;
+      width:100%; height:100%;
+      object-fit:contain; opacity:0;
+      transition:opacity 1s ease-in-out;
+    }
+    .slideshow img.active { opacity:1; z-index:1; }
 
