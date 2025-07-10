@@ -363,42 +363,58 @@ body#info #flag-guide p {
   margin-top: .5rem;
 }
 
-/* ─── Slideshow Container (fills gap between header & caption) ───────── */
+/* ─── Slideshow Page Full‐Screen Container ───────────────────────────── */
+body#slideshow {
+  margin: 0;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: #f0f8ff;
+}
+
+/* Keep header/subtitle & caption from flex‐stretching */
+body#slideshow h1,
+body#slideshow h2.subtitle,
+body#slideshow #data-caption {
+  flex: 0 0 auto;
+}
+
+/* Slideshow “frame” fills the gap, gets the blue border */
 body#slideshow .slideshow {
-  position: relative;
-  width: 90vw;                   /* nearly full width */
-  max-width: 800px;              /* cap if you like */
-  height: calc(100vh - 6rem);    /* fill vertical space between header & caption */
-  margin: 1rem auto;
+  flex: 1 1 auto;           /* fill remaining vertical space */
+  width: 100%;              /* span full (padded) width */
+  max-width: none;          /* no 800px cap any more */
   border: 4px solid #81d4fa;
   border-radius: 12px;
-  overflow: hidden;
   box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  overflow: hidden;
+  position: relative;
   background: white;
-  display: flex;                 /* center the single active slide */
+  display: flex;            /* center the active slide */
   align-items: center;
   justify-content: center;
 }
 
-/* ─── Slides (absolute stack) ───────────────────────────────────────────── */
+/* Slides themselves: no border, just scale inside container */
 body#slideshow .slideshow img {
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  margin: auto;                  /* center within container */
+  margin: auto;             /* center if smaller */
   max-width: 100%;
   max-height: 100%;
-  object-fit: contain;           /* preserve full image, no cropping */
+  object-fit: contain;      /* letterbox if needed, no crop */
   opacity: 0;
   transition: opacity 1s ease-in-out;
 }
 
-/* ─── Active Slide ──────────────────────────────────────────────────────── */
+/* Active slide fades in */
 body#slideshow .slideshow img.active {
   opacity: 1;
   z-index: 1;
 }
 
-/* ─── Caption Below ─────────────────────────────────────────────────────── */
+/* Caption styling */
 body#slideshow #data-caption {
   margin-top: 1rem;
   font-size: .8rem;
