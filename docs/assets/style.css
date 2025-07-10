@@ -365,7 +365,7 @@ body#info #flag-guide p {
 
 /* Image Styles */
 .slideshow img {
-    height: 250px; /* Fixed height */
+    height: 450px; /* Fixed height */
     max-width: 800px; /* Maximum width */
     border: 4px solid #81d4fa; /* Light blue border */
     border-radius: 12px; /* Border radius */
