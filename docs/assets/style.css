@@ -367,7 +367,7 @@ body#info #flag-guide p {
 body#slideshow .slideshow {
   position: relative;
   width: 90vw;                  /* nearly full width */
-  max-width: 1920px;            /* but never exceed 1080p sources */
+  max-width: 800px;            /* but never exceed 1080p sources */
   margin: 1rem auto;            /* small gap above & below */
   /* fill vertical space between header (~4rem) and caption (~2rem) */
   height: calc(100vh - 6rem);
