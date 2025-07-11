@@ -410,7 +410,7 @@ body#slideshow .slideshow {
   width: 90vw;              /* fill 90% of the screen width */
   max-width: 1200px;          /* remove the 800px cap */
   height: 65vh;             /* ~65% of viewport height */
-  max-height: 625px; 
+  max-height: 675px; 
   margin: 1rem auto;
 }
 
