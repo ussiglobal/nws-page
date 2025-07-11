@@ -132,11 +132,11 @@ section {
   margin: 0;
 }
 #surf-forecast h2 {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   color: #0277bd;
 }
 #surf-forecast h3.subsubtitle {
-  font-size: 1rem;
+  font-size: 1.4rem;
   color: #555;
   font-style: italic;
 }
@@ -151,7 +151,7 @@ section {
   display: flex;
   align-items: center;
   margin: .5rem 0;
-  font-size: .9rem;
+  font-size: 1.2rem;
 }
 .surf-item i {
   margin-right: .5rem;
@@ -163,7 +163,7 @@ section {
   border-radius: 4px;
   color: #fff;
   font-weight: bold;
-  font-size: .9rem;
+  font-size: 1.2rem;
 }
 /* Flag image sizing */
 .surf-graphic {
