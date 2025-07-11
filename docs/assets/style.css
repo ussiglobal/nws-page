@@ -1,4 +1,4 @@
-/* ─── Layout: 90% of 16×9 canvas ───────────────────────────────── */
+/* ─── Global Styles ───────────────────────────────────────────────────────── */
 html {
   height: 100%;
 }
@@ -40,34 +40,16 @@ section {
   overflow: auto;
 }
 
-/* ─── Updated Plan-Your-Day Tip Styling ───────────────────────────────── */
-#plan-tip {
-  display: flex;
-  flex-direction: column;
-  align-items: center;      /* center the strip contents */
-  text-align: left;         /* keep label & quote left-aligned within the centered box */
-  max-width: 800px;
-  margin: 1rem auto;
-  padding: 1rem;
-  background: #e8f4fd;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+/* Caption styling (used on all pages with #data-caption) */
+#data-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: #666;
+  margin-top: .5rem;
 }
 
-/* make “Tip of the day:” bold */
-#plan-tip .tip-label {
-  font-weight: bold;
-  font-size: 1.2rem;
-}
 
-/* the actual tip: normal weight, italic, indented */
-#plan-tip .tip-text {
-  font-weight: normal;
-  font-style: italic;
-  font-size: 1.1rem;
-  margin-top: 0.5rem;
-  padding-left: 1rem;       /* indent the quote line */
-}
+/* ─── Forecast-page Styles ────────────────────────────────────────────────── */
 
 /* Alert banner */
 #alert-banner {
@@ -83,7 +65,7 @@ section {
   font-size: .9rem;
 }
 
-/* ─── Current Weather ───────────────────────────────────── */
+/* Current Weather */
 #weather-summary {
   background: #81d4fa;
   border-radius: 10px;
@@ -91,65 +73,56 @@ section {
   color: #fff;
   margin: 0;
 }
-
 #weather-summary h2 {
   font-size: 1.6rem;
   color: #0d47a1;
 }
-
 #weather-summary h3.date,
 #weather-summary h4.updated {
   font-size: 1rem;
   color: rgba(255, 255, 255, 0.85);
   font-style: italic;
 }
-
 .weather-card {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 1rem;
   margin-top: 1rem;
 }
-
 .weather-item {
   background: rgba(0, 0, 0, 0.4);
   border-radius: 6px;
   padding: 1rem;
   text-align: center;
 }
-
 .weather-item i {
   font-size: 2rem;
   display: block;
   margin-bottom: .3rem;
   color: #ffd54f;
 }
-
 .weather-item .label {
   display: block;
   font-size: .8rem;
   opacity: .8;
 }
-
 .weather-item .value {
   font-size: 1rem;
   font-weight: bold;
 }
-
 .weather-item .subvalue {
   display: block;
   font-size: .7rem;
   opacity: .7;
   margin-top: .5rem;
 }
-
 .sparkline {
   width: 100px;
   height: 30px;
   margin: .5rem auto;
 }
 
-/* ─── Surf Forecast ─────────────────────────────────────── */
+/* Surf Forecast */
 #surf-forecast {
   background: #ffffffcc;
   border-radius: 8px;
@@ -158,39 +131,32 @@ section {
   color: #333;
   margin: 0;
 }
-
 #surf-forecast h2 {
   font-size: 1.4rem;
   color: #0277bd;
 }
-
 #surf-forecast h3.subsubtitle {
   font-size: 1rem;
   color: #555;
   font-style: italic;
 }
-
 .surf-container {
   display: flex;
   gap: 1rem;
 }
-
 .surf-list {
   flex: 1;
 }
-
 .surf-item {
   display: flex;
   align-items: center;
   margin: .5rem 0;
   font-size: .9rem;
 }
-
 .surf-item i {
   margin-right: .5rem;
   color: #0277bd;
 }
-
 .uv-pill {
   display: inline-block;
   padding: .2rem .6rem;
@@ -199,7 +165,6 @@ section {
   font-weight: bold;
   font-size: .9rem;
 }
-
 /* Flag image sizing */
 .surf-graphic {
   flex: 0 0 200px;
@@ -207,14 +172,13 @@ section {
   justify-content: center;
   align-items: center;
 }
-
 .surf-graphic img {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
 }
 
-/* ─── Tide Times ───────────────────────────────────────── */
+/* Tide Times */
 #tide-times {
   background: #ffffffcc;
   border-radius: 8px;
@@ -224,7 +188,7 @@ section {
   margin: 0;
 }
 
-/* ─── Rip-Current Flag Guide ───────────────────────────── */
+/* Rip-Current Flag Guide */
 #flag-guide {
   background: #ffffffcc;
   border-radius: 8px;
@@ -233,54 +197,76 @@ section {
   color: #333;
   margin: 0;
 }
-
 #flag-guide p {
   margin: .5rem 0;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
 }
 
-/* ─── Forecast-page specific overrides ─────────────────── */
+/* Forecast-page specific overrides */
 body#forecast .weather-item {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-
 body#forecast .weather-item .value {
   font-size: 1.4rem;
 }
-
 body#forecast #surf-forecast .surf-item .label {
   margin-right: 0.5rem;
 }
-
 body#forecast #surf-forecast .surf-graphic {
   flex: 0 0 250px;
 }
-
 body#forecast #surf-forecast .surf-item {
   font-size: 1.2rem;
 }
-
 body#forecast #weather-summary + #surf-forecast {
   margin-top: 1.5rem;
 }
 
-/* ─── Info-page specific overrides ─────────────────────── */
+
+/* ─── Info-page Styles ───────────────────────────────────────────────────── */
+
+/* Updated Plan-Your-Day Tip Styling */
+#plan-tip {
+  display: flex;
+  flex-direction: column;
+  align-items: center;      /* center the strip contents */
+  text-align: left;         /* keep label & quote left-aligned within the centered box */
+  max-width: 800px;
+  margin: 1rem auto;
+  padding: 1rem;
+  background: #e8f4fd;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+/* make “Tip of the day:” bold */
+#plan-tip .tip-label {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+/* the actual tip: normal weight, italic, indented */
+#plan-tip .tip-text {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  padding-left: 1rem;       /* indent the quote line */
+}
+
+/* Info-page specific overrides */
 body#info section,
 body#info #plan-tip {
-  font-size: 1.2rem; /* make body text a bit larger */
+  font-size: 1.4rem; /* make body text a bit larger */
 }
-
 body#info section h2 {
-  font-size: 1.4rem; /* make section headers larger */
+  font-size: 1.6rem; /* make section headers larger */
   margin-bottom: 0.5rem; /* give a little breathing room under titles */
 }
-
 body#info #plan-tip {
   max-width: none;
   margin: 1rem 0;
-  font-size: 1.3rem; /* larger text */
+  font-size: 1.5rem; /* larger text */
   display: flex;
   justify-content: center; /* horizontal center */
   align-items: center; /* vertical center */
@@ -292,16 +278,13 @@ body#info #plan-tip {
   padding: 1rem;
   text-align: center;
 }
-
 body#info #plan-tip .tip-label {
   font-weight: bold;
   margin-bottom: .5rem;
 }
-
 body#info #plan-tip .tip-text {
   margin: 0;
 }
-
 /* Tide Times + Image Side-by-Side */
 body#info .info-section {
   display: flex;
@@ -311,75 +294,32 @@ body#info .info-section {
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   padding: 1rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
-
 body#info .info-section .info-text {
   flex: 1;
 }
-
 body#info .info-section .info-img {
   flex: 0 0 200px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
 body#info .info-section .info-img img {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
 }
-
-/* Tides section uses .info-section */
-#tide-times.info-section p {
-  margin: .3rem 0;
-}
-
-/* Flag Guide + Static Image Side-by-Side */
-#flag-guide.info-section {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  background: #ffffffcc;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  padding: 1rem;
-  margin-bottom: 1.5rem;
-}
-
-#flag-guide.info-section .info-text {
-  flex: 1;
-}
-
-#flag-guide.info-section .info-img {
-  flex: 0 0 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#flag-guide.info-section .info-img img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-}
-
 /* Preserve larger text size */
 body#info #flag-guide p {
   margin: .5rem 0;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
 }
 
-/* Caption styling (unchanged) */
-#data-caption {
-  text-align: center;
-  font-size: .8rem;
-  color: #666;
-  margin-top: .5rem;
-}
 
-/* ─── Fixed-Size Slideshow Container ───────────────────────────────────── */
+/* ─── Slideshow-page Styles ───────────────────────────────────────────────── */
+
+/* Fixed-Size Slideshow Container */
 body#slideshow .slideshow {
   width: 800px;
   /* subtract approx. header (4rem) + caption (2rem) + margins from 100vh */
@@ -392,7 +332,7 @@ body#slideshow .slideshow {
   position: relative;
 }
 
-/* ─── Slide Images Fill That 800×450 Box ───────────────────────────────── */
+/* Slide Images Fill That 800×450 Box */
 body#slideshow .slideshow img {
   position: absolute;
   top: 0; left: 0;
@@ -403,13 +343,13 @@ body#slideshow .slideshow img {
   transition: opacity 1s ease-in-out;
 }
 
-/* ─── Active Slide Fades In ─────────────────────────────────────────────── */
+/* Active Slide Fades In */
 body#slideshow .slideshow img.active {
   opacity: 1;
   z-index: 1;
 }
 
-/* ─── Scale Up for Big Landscape Signage ────────────────────────────────── */
+/* Scale Up for Big Landscape Signage */
 
 /* 1) Bigger header & subtitle */
 body#slideshow h1 {
@@ -426,7 +366,7 @@ body#slideshow .slideshow {
   width: 90vw;              /* fill 90% of the screen width */
   max-width: 1200px;          /* remove the 800px cap */
   height: 65vh;             /* ~65% of viewport height */
-  max-height: 675px; 
+  max-height: 675px;
   margin: 1rem auto;
 }
 
