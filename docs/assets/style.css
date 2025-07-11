@@ -136,10 +136,10 @@ section {
   margin: 0 0 .5rem;
 }
 #surf-forecast h3.subsubtitle {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   color: #555;
   font-style: italic;
-  margin: .1rem 0 .3rem;
+  margin: .1rem 0 1rem;
 }
 .surf-container {
   display: flex;
@@ -302,7 +302,7 @@ body#slideshow .slideshow img.active {
 
 /* 1) Bigger header & subtitle */
 body#slideshow h1 {
-  font-size: 3rem;          /* was ~2rem */
+  font-size: 2.4rem;          /* was ~2rem */
   margin-bottom: 0.5rem;
 }
 body#slideshow h2.subtitle {
