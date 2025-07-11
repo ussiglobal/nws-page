@@ -408,9 +408,9 @@ body#slideshow h2.subtitle {
 /* 2) Enlarge the slideshow “frame” to fill more of the viewport */
 body#slideshow .slideshow {
   width: 90vw;              /* fill 90% of the screen width */
-  max-width: 850px;          /* remove the 800px cap */
+  max-width: 950px;          /* remove the 800px cap */
   height: 65vh;             /* ~65% of viewport height */
-  max-height: 500px; 
+  max-height: 600px; 
   margin: 1rem auto;
 }
 
