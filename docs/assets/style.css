@@ -136,6 +136,7 @@ section {
 #surf-forecast h2 {
   font-size: 1.8rem;
   color: #0277bd;
+  margin-bottom: .5rem;
 }
 #surf-forecast h3.subsubtitle {
   font-size: 1.2rem;
