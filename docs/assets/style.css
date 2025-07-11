@@ -142,7 +142,7 @@ section {
   font-size: 1.2rem;
   color: #555;
   font-style: italic;
-  margin: .1rem 0 .5rem;
+  margin: .1rem 0 .3rem;
 }
 .surf-container {
   display: flex;
@@ -182,6 +182,8 @@ section {
   max-height: 100%;
   object-fit: contain;
 }
+
+/* ─── Info-page Styles ────────────────────────────────────────────────── */
 
 /* Tide Times */
 #tide-times {
