@@ -366,7 +366,8 @@ body#info #flag-guide p {
 /* ─── Fixed-Size Slideshow Container ───────────────────────────────────── */
 body#slideshow .slideshow {
   width: 800px;
-  height: 450px;
+  /* subtract approx. header (4rem) + caption (2rem) + margins from 100vh */
+  height: calc(100vh - 6rem);
   margin: 1rem auto;               /* small gap above & below */
   border: 4px solid #81d4fa;
   border-radius: 12px;
@@ -414,7 +415,7 @@ body#slideshow h2.subtitle {
 /* 2) Enlarge the slideshow “frame” to fill more of the viewport */
 body#slideshow .slideshow {
   width: 90vw;              /* fill 90% of the screen width */
-  max-width: none;          /* remove the 800px cap */
+  max-width: 800;          /* remove the 800px cap */
   height: 65vh;             /* ~65% of viewport height */
   margin: 1rem auto;
 }
