@@ -209,7 +209,7 @@ body#info #plan-tip {
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   color: #0277bd;
-  font-size: 1.5rem;    /* you can adjust */
+  font-size: 1.6rem;    /* you can adjust */
 }
 body#info #plan-tip .tip-label {
   font-weight: bold;
@@ -252,10 +252,11 @@ body#info .info-section .info-text {
   flex: 1;
 }
 body#info .info-section .info-img {
-  flex: 0 0 200px;
+  flex: 0 0 250px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  padding-top: .3rem;
 }
 body#info .info-section .info-img img {
   max-width: 100%;
