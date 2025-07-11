@@ -136,7 +136,7 @@ section {
   margin: 0 0 .5rem;
 }
 #surf-forecast h3.subsubtitle {
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   color: #555;
   font-style: italic;
   margin: .1rem 0 .3rem;
@@ -150,7 +150,7 @@ section {
   display: flex;
   align-items: center;
   margin: .5rem 0;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 .surf-item i {
   margin-right: .5rem;
@@ -162,20 +162,22 @@ section {
   border-radius: 4px;
   color: #fff;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
-/* Flag image sizing (moved override here) */
-.surf-graphic {
-  flex: 0 0 250px;
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  padding-top: .3rem;
+
+/* ─── Flag image sizing */
+body#forecast #surf-forecast .surf-graphic {
+  flex: 0 0 250px;               /* fixed width */
+  display: flex;                 
+  justify-content: center;       /* center horizontally */
+  align-items: flex-start;       /* align to top of its column */
+  padding-top: .3rem;            /* small top offset */
 }
-.surf-graphic img {
-  max-width: 100%;
+
+body#forecast #surf-forecast .surf-graphic img {
+  max-width: 100%;               /* fill the 250px box */
   max-height: 100%;
-  object-fit: contain;
+  object-fit: contain;           /* maintain aspect ratio */
 }
 
 /* Forecast-page specific overrides */
@@ -189,7 +191,7 @@ body#forecast #surf-forecast .surf-item .label {
   margin-right: .5rem;
 }
 body#forecast #surf-forecast .surf-item {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 body#forecast #weather-summary + #surf-forecast {
   margin-top: 1.5rem;
@@ -246,7 +248,7 @@ body#info .info-section {
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   padding: 1rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: .5rem;
 }
 body#info .info-section .info-text {
   flex: 1;
