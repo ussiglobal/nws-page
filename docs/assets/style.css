@@ -136,7 +136,6 @@ section {
 #surf-forecast h2 {
   font-size: 1.8rem;
   color: #0277bd;
-  margin-bottom: .5rem;
 }
 #surf-forecast h3.subsubtitle {
   font-size: 1.2rem;
@@ -175,7 +174,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  padding-top: 0.5rem;
+  padding-top: 0.3rem;
 }
 .surf-graphic img {
   max-width: 100%;
