@@ -1,35 +1,33 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 12, 2025 • 5:00 PM
+Generated: Jul 12, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 90°F; Rain: 40% ; Wind: 10 mph ESE
+• Today:    Sunday — Showers And Thunderstorms Likely. High: 91°F; Rain: 65% ; Wind: 5 to 10 mph NW
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 44% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Sunday — High: 91°F; Low: 75°F; Rain: 65% ; Wind: 5 to 10 mph NW
+• Tomorrow: Monday — High: 88°F; Low: 75°F; Rain: 67% ; Wind: 5 to 10 mph N
 🌡️ Current Conditions:
-Temp: 89.1°F (31.7°C) · Humidity: 61.2%
+Temp: 32°F (0°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-111
-FZUS72 KMLB 122043
+007
+FZUS72 KMLB 122144
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-443 PM EDT Sat Jul 12 2025
+544 PM EDT Sat Jul 12 2025
 
-AMZ550-122145-
-443 PM EDT Sat Jul 12 2025
+AMZ550-122245-
+544 PM EDT Sat Jul 12 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 442 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 543 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-near Palm Coast, moving southeast at 10 knots.
+over Port Orange, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,21 +35,24 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-This strong thunderstorm will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required when this strong thunderstorm
-reaches the nearshore waters. Boaters should consider heading for
-shore before this strong thunderstorm arrives.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+Intense lightning is occurring with this storm. If caught on the open
+water stay below deck if possible, keep away from ungrounded metal
+objects.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8105
-      2948 8080 2912 8100 2938 8113
+LAT...LON 2935 8072 2904 8054 2891 8089 2926 8107
 
 $$
 
-Leahy
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 083
