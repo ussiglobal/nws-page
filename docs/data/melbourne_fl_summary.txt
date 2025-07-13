@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 13, 2025 • 2:00 PM
+Generated: Jul 13, 2025 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,47 +8,48 @@ Generated: Jul 13, 2025 • 2:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 75°F; Rain: 68% ; Wind: 5 to 10 mph SW
 • Tomorrow: Monday — High: 88°F; Low: 77°F; Rain: 72% ; Wind: 5 to 10 mph N
 🌡️ Current Conditions:
-Temp: 88°F (31.1°C) · Humidity: 63.3%
+Temp: 91°F (32.8°C) · Humidity: 55.8%
 
 🛥️ Marine Weather Statement:
-437
-FZUS72 KMLB 131755
+548
+FZUS72 KMLB 131852
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-155 PM EDT Sun Jul 13 2025
+252 PM EDT Sun Jul 13 2025
 
-AMZ550-131900-
-155 PM EDT Sun Jul 13 2025
+AMZ550-131930-
+252 PM EDT Sun Jul 13 2025
 
 A Marine Weather Statement has been issued for the following areas...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 154 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Daytona Beach Shores to 7 nm
-southwest of Daytona Beach to 16 nm west of Maytown, moving southeast
-at 10 knots.
+At 252 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Palm Coast, moving south at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
-Intense lightning is occurring with these storms. If caught on the
-open water stay below deck if possible, keep away from ungrounded
-metal objects.
+This strong thunderstorm will likely produce winds to around 30
+knots, and could pose a serious hazard for boaters. A special marine
+warning may eventually be required when this strong thunderstorm
+reaches the nearshore waters. Boaters should consider heading for
+shore before this strong thunderstorm arrives.
 
 &&
 
-LAT...LON 2942 8072 2925 8063 2886 8037 2881 8089
-      2884 8085 2934 8111
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8100
+      2947 8088 2929 8085 2925 8107 2938 8113
 
 $$
 
-Watson
+Leahy
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 160
