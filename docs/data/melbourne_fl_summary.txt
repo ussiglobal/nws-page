@@ -1,51 +1,42 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 13, 2025 • 5:00 PM
+Generated: Jul 13, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 91°F; Rain: 58% ; Wind: 5 mph NNE
+• Today:    Monday — Showers And Thunderstorms Likely. High: 88°F; Rain: 72% ; Wind: 5 to 10 mph N
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 75°F; Rain: 68% ; Wind: 5 to 10 mph SW
-• Tomorrow: Monday — High: 88°F; Low: 77°F; Rain: 72% ; Wind: 5 to 10 mph N
+• Tomorrow: Tuesday — High: 87°F; Low: 77°F; Rain: 76% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 91°F (32.8°C) · Humidity: 53.8%
+Temp: 32°F (0°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-478
-FZUS72 KMLB 132030
+675
+FZUS72 KMLB 132125
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-430 PM EDT Sun Jul 13 2025
+525 PM EDT Sun Jul 13 2025
 
-AMZ555-132130-
-430 PM EDT Sun Jul 13 2025
+AMZ552-572-132135-
+/O.EXP.KMLB.MA.W.0144.000000T0000Z-250713T2130Z/
+525 PM EDT Sun Jul 13 2025
 
-A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 530 PM EDT...
 
-At 430 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Walton, moving southeast at 5 knots.
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-This strong thunderstorm will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required when this strong thunderstorm
-reaches the nearshore waters. Boaters should consider heading for
-shore before this strong thunderstorm arrives.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2715 8022 2714 8025 2720 8034 2723 8035
-      2728 8035 2729 8032 2724 8026 2739 8034
-      2742 8032 2733 8004 2710 8017
+LAT...LON 2816 8007 2791 8000 2783 8048 2782 8047
+      2781 8050 2804 8063
+TIME...MOT...LOC 2125Z 327DEG 18KT 2785 8066
 
 $$
 
