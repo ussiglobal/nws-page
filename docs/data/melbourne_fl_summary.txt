@@ -1,48 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 13, 2025 • 4:00 PM
+Generated: Jul 13, 2025 • 5:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 91°F; Rain: 58% ; Wind: 5 mph ESE
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 91°F; Rain: 58% ; Wind: 5 mph NNE
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 75°F; Rain: 68% ; Wind: 5 to 10 mph SW
 • Tomorrow: Monday — High: 88°F; Low: 77°F; Rain: 72% ; Wind: 5 to 10 mph N
 🌡️ Current Conditions:
-Temp: 91°F (32.8°C) · Humidity: 57.5%
+Temp: 91°F (32.8°C) · Humidity: 53.8%
 
 🛥️ Marine Weather Statement:
-035
-FZUS72 KMLB 131938
+478
+FZUS72 KMLB 132030
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-338 PM EDT Sun Jul 13 2025
+430 PM EDT Sun Jul 13 2025
 
-AMZ552-555-132030-
-338 PM EDT Sun Jul 13 2025
+AMZ555-132130-
+430 PM EDT Sun Jul 13 2025
 
 A Marine Weather Statement has been issued for the following areas...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 337 PM EDT, Doppler radar indicated an outflow boundary from
-thunderstorms, capable of producing winds to around 30 knots. This
-boundary was located near Indian Harbour Beach, or near Satellite
-Beach, moving southeast at 25 knots.
+At 430 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Walton, moving southeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-This boundary will likely produce winds to around 30 knots, and
-could pose a serious hazard for boaters. A special marine warning
-may eventually be required when this front reaches the nearshore
-waters. Boaters should consider heading for shore before this
-boundary arrives.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+This strong thunderstorm will likely produce winds to around 30
+knots, and could pose a serious hazard for boaters. A special marine
+warning may eventually be required when this strong thunderstorm
+reaches the nearshore waters. Boaters should consider heading for
+shore before this strong thunderstorm arrives.
 
 &&
 
-LAT...LON 2805 8017 2784 8006 2771 8002 2767 8042
-      2796 8059 2802 8061
+LAT...LON 2715 8022 2714 8025 2720 8034 2723 8035
+      2728 8035 2729 8032 2724 8026 2739 8034
+      2742 8032 2733 8004 2710 8017
 
 $$
 
