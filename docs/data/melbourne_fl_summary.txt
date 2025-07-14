@@ -1,57 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 13, 2025 • 11:00 PM
+Generated: Jul 14, 2025 • 2:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Monday — Showers And Thunderstorms Likely. High: 88°F; Rain: 72% ; Wind: 5 to 10 mph N
-• Tonight:  Tonight — Slight Chance Showers And Thunderstorms. Low: 75°F; Rain: 21% ; Wind: 5 mph WSW
-• Tomorrow: Tuesday — High: 87°F; Low: 77°F; Rain: 76% ; Wind: 5 to 10 mph SSE
+• Today:    Monday — Showers And Thunderstorms Likely. High: 90°F; Rain: 72% ; Wind: 5 to 10 mph NNW
+• Tonight:  Overnight — Slight Chance Showers And Thunderstorms. Low: 76°F; Rain: 24% ; Wind: 5 to 10 mph WSW
+• Tomorrow: Tuesday — High: 87°F; Low: 76°F; Rain: 86% ; Wind: 5 to 15 mph SSW
 🌡️ Current Conditions:
 Temp: 75°F (23.9°C) · Humidity: 87.5%
 
 🛥️ Marine Weather Statement:
-688
-FZUS72 KMLB 140223
+280
+FZUS72 KMLB 140457
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1023 PM EDT Sun Jul 13 2025
+1257 AM EDT Mon Jul 14 2025
 
-AMZ550-552-570-572-140315-
-1023 PM EDT Sun Jul 13 2025
+AMZ572-140600-
+1257 AM EDT Mon Jul 14 2025
 
-...STRONG THUNDERSTORMS OVER THE WATERS...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1021 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located near Daytona Beach Shores, or near South Daytona, moving
-south at 15 knots. Additional showers and storms developing
-southward to near Cape Canaveral will also be capable of wind gusts
-to around 30 knots.
+At 1256 AM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 33 knots. This thunderstorm was
+located 27 nm east of Playalinda Beach, moving southeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+This strong thunderstorm will likely produce winds to around 33
+knots, and could pose a serious hazard for boaters. A special marine
+warning may eventually be required. Boaters should consider heading
+for shore.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2946 8113 2948 8072
-      2948 8043 2830 7985 2829 8072 2880 8089
-      2884 8085 2938 8113
+LAT...LON 2862 7970 2844 8000 2886 8030 2887 8027
+      2889 8009
 
 $$
 
-Leahy
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 160
