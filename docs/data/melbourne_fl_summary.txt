@@ -1,51 +1,47 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 15, 2025 • 4:00 AM
+Generated: Jul 15, 2025 • 6:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Tuesday — Chance Showers And Thunderstorms then Showers And Thunderstorms. High: 88°F; Rain: 87% ; Wind: 5 to 15 mph S
-• Tonight:  Overnight — Chance Showers And Thunderstorms. Low: 76°F; Rain: 48% ; Wind: 5 mph SW
-• Tomorrow: Wednesday — High: 89°F; Low: 78°F; Rain: 84% ; Wind: 10 to 15 mph SSE
+• Today:    Today — Chance Showers And Thunderstorms then Showers And Thunderstorms. High: 88°F; Rain: 87% ; Wind: 5 to 15 mph S
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 49% ; Wind: 10 to 15 mph SSE
+• Tomorrow: Wednesday — High: 89°F; Low: 80°F; Rain: 84% ; Wind: 10 to 15 mph SSE
 🌡️ Current Conditions:
 Temp: 75.9°F (24.4°C) · Humidity: 90.8%
 
 🛥️ Marine Weather Statement:
-407
-FZUS72 KMLB 150601
+833
+FZUS72 KMLB 150815
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-201 AM EDT Tue Jul 15 2025
+415 AM EDT Tue Jul 15 2025
 
-AMZ550-552-570-572-150800-
-201 AM EDT Tue Jul 15 2025
+AMZ572-150915-
+415 AM EDT Tue Jul 15 2025
 
-...STRONG THUNDERSTORMS OVER THE WATERS...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 200 AM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 23 nm northeast of Klondike Beach
-to 29 nm east of Port Canaveral to 34 nm east of Jetty Park, moving
-southeast at 10 knots.
+At 414 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+47 nm east of Sebastian Inlet State Park, moving northeast at 15
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-These strong thunderstorms will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required. Boaters should consider heading
-for shore before these strong thunderstorms arrive.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2937 8018 2822 7958 2800 8029 2934 8077
+LAT...LON 2791 7998 2810 8003 2835 7954 2829 7954
+      2820 7949 2812 7947 2806 7943 2804 7943
 
 $$
 
