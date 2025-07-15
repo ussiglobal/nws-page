@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 15, 2025 • 2:00 AM
+Generated: Jul 15, 2025 • 3:00 AM
 ===============================
 
 📅 Forecast:
@@ -11,37 +11,41 @@ Generated: Jul 15, 2025 • 2:00 AM
 Temp: 75.9°F (24.4°C) · Humidity: 90.8%
 
 🛥️ Marine Weather Statement:
-280
-FZUS72 KMLB 140457
+407
+FZUS72 KMLB 150601
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1257 AM EDT Mon Jul 14 2025
+201 AM EDT Tue Jul 15 2025
 
-AMZ572-140600-
-1257 AM EDT Mon Jul 14 2025
+AMZ550-552-570-572-150800-
+201 AM EDT Tue Jul 15 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...STRONG THUNDERSTORMS OVER THE WATERS...
 
 The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1256 AM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 33 knots. This thunderstorm was
-located 27 nm east of Playalinda Beach, moving southeast at 20 knots.
+At 200 AM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 23 nm northeast of Klondike Beach
+to 29 nm east of Port Canaveral to 34 nm east of Jetty Park, moving
+southeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-This strong thunderstorm will likely produce winds to around 33
+These strong thunderstorms will likely produce winds to around 30
 knots, and could pose a serious hazard for boaters. A special marine
 warning may eventually be required. Boaters should consider heading
-for shore.
+for shore before these strong thunderstorms arrive.
 
 &&
 
-LAT...LON 2862 7970 2844 8000 2886 8030 2887 8027
-      2889 8009
+LAT...LON 2937 8018 2822 7958 2800 8029 2934 8077
 
 $$
 
