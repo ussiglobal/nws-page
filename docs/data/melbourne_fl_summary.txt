@@ -1,51 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 15, 2025 • 9:00 PM
+Generated: Jul 15, 2025 • 10:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Showers And Thunderstorms Likely. High: 89°F; Rain: 67% ; Wind: 10 to 15 mph SE
-• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 78°F; Rain: 17% ; Wind: 10 to 15 mph SSE
+• Tonight:  Tonight — Partly Cloudy. Low: 78°F; Rain: 6% ; Wind: 10 to 15 mph SSE
 • Tomorrow: Thursday — High: 89°F; Low: 81°F; Rain: 68% ; Wind: 10 to 15 mph SE
 🌡️ Current Conditions:
-Temp: 82.9°F (28.3°C) · Humidity: 72.1%
+Temp: 82°F (27.8°C) · Humidity: 67%
 
 🛥️ Marine Weather Statement:
-833
-FZUS72 KMLB 150815
+600
+FZUS72 KMLB 160158
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-415 AM EDT Tue Jul 15 2025
+958 PM EDT Tue Jul 15 2025
 
-AMZ572-150915-
-415 AM EDT Tue Jul 15 2025
+AMZ550-160300-
+958 PM EDT Tue Jul 15 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
-
-At 414 AM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-47 nm east of Sebastian Inlet State Park, moving northeast at 15
-knots.
+At 957 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from Ormond Beach to Port Orange to
+New Smyrna Beach, moving north at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2791 7998 2810 8003 2835 7954 2829 7954
-      2820 7949 2812 7947 2806 7943 2804 7943
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8112 2946 8113
+      2947 8103 2947 8092 2905 8074 2899 8093
+      2938 8113
 
 $$
 
-Sedlock
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 846
