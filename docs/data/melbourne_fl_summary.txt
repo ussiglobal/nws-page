@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 21, 2025 • 3:00 PM
+Generated: Jul 21, 2025 • 4:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,26 +8,27 @@ Generated: Jul 21, 2025 • 3:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 79°F; Rain: 36% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Tuesday — High: 90°F; Low: 77°F; Rain: 73% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 95°F (35°C) · Humidity: 49.3%
+Temp: 93°F (33.9°C) · Humidity: 57.7%
 
 🛥️ Marine Weather Statement:
-737
-FZUS72 KMLB 202221
+938
+FZUS72 KMLB 211955
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-621 PM EDT Sun Jul 20 2025
+355 PM EDT Mon Jul 21 2025
 
-AMZ552-202300-
-621 PM EDT Sun Jul 20 2025
+AMZ550-212130-
+355 PM EDT Mon Jul 21 2025
 
 A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 620 PM EDT, Doppler radar indicated gusty thunderstorm outflow,
-capable of producing winds to around 30 knots was located over
-Cocoa, moving east at 20 knots.
+At 354 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+9 nm southeast of Marineland, or 9 nm east of Palm Coast, moving
+southeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,13 +38,13 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2852 8080 2853 8069 2843 8069 2853 8066
-      2855 8040 2841 8032 2829 8044 2825 8071
-      2850 8080
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8113 2946 8113 2948 8075
+      2929 8066 2903 8049 2896 8092 2938 8113
 
 $$
 
-Kelly
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 063
