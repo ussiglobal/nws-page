@@ -1,50 +1,62 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 22, 2025 • 3:00 PM
+Generated: Jul 22, 2025 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 86°F; Rain: 66% ; Wind: 10 mph S
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 86°F; Rain: 62% ; Wind: 10 mph S
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 77°F; Rain: 57% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Wednesday — High: 89°F; Low: 79°F; Rain: 67% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 32°F (0°C) · Humidity: 0%
+Temp: 75.9°F (24.4°C) · Humidity: 93.6%
 
 🛥️ Marine Weather Statement:
-394
-FZUS72 KMLB 221814
+966
+FZUS72 KMLB 221925
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-214 PM EDT Tue Jul 22 2025
+325 PM EDT Tue Jul 22 2025
 
-AMZ555-221915-
-214 PM EDT Tue Jul 22 2025
+AMZ555-222130-
+325 PM EDT Tue Jul 22 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...STRONG THUNDERSTORMS PUSHING SOUTH THROUGH THE TREASURE COAST
+INTRACOASTAL AND NEARSHORE ATLANTIC WATERS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 214 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Jonathan Dickinson State Park, or over Jupiter Island. The
-thunderstorm was nearly stationary.
+At 325 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots and small hail. These
+thunderstorms were located along a line extending from 17 nm
+northeast of Sebastian Inlet State Park to Gifford to near Fort
+Pierce South, moving south at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+These strong thunderstorms will likely produce winds to around 30
+knots, and could pose a serious hazard for boaters. A special marine
+warning may eventually be required when these strong thunderstorms
+reaches the nearshore waters. Boaters should consider heading for
+shore before these strong thunderstorms arrives.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2714 8003 2697 7998
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2718 8032 2723 8035 2728 8035 2729 8032
+      2729 8031 2724 8026 2746 8037 2765 8041
+      2780 8050 2784 8045 2786 8045 2784 8043
+      2789 8009 2697 7973
 
 $$
 
-Schaper
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 688
