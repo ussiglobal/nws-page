@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 23, 2025 • 2:00 PM
+Generated: Jul 23, 2025 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,31 +8,32 @@ Generated: Jul 23, 2025 • 2:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Clear. Low: 79°F; Rain: 69% ; Wind: 5 to 10 mph S
 • Tomorrow: Thursday — High: 91°F; Low: 81°F; Rain: 60% ; Wind: 5 to 15 mph SE
 🌡️ Current Conditions:
-Temp: 87.1°F (30.6°C) · Humidity: 67.5%
+Temp: 88°F (31.1°C) · Humidity: 65.6%
 
 🛥️ Marine Weather Statement:
-966
-FZUS72 KMLB 221925
+593
+FZUS72 KMLB 231824
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-325 PM EDT Tue Jul 22 2025
+224 PM EDT Wed Jul 23 2025
 
-AMZ555-222130-
-325 PM EDT Tue Jul 22 2025
+AMZ552-555-231930-
+224 PM EDT Wed Jul 23 2025
 
-...STRONG THUNDERSTORMS PUSHING SOUTH THROUGH THE TREASURE COAST
-INTRACOASTAL AND NEARSHORE ATLANTIC WATERS...
+...STRONG THUNDERSTORMS AND OUTFLOW PRODUCING GUSTY WINDS PUSHING
+NORTH ALONG THE NORTHERN TREASURE AND SOUTHERN SPACE COASTS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 325 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots and small hail. These
-thunderstorms were located along a line extending from 17 nm
-northeast of Sebastian Inlet State Park to Gifford to near Fort
-Pierce South, moving south at 20 knots.
+At 223 PM EDT, Doppler radar indicated strong thunderstorms and
+outflow, capable of producing winds to around 30 knots. These
+thunderstorms and outflow were located along a line extending from 7
+nm west of Vero Lake Estates to 6 nm west of Vero Beach South to
+Queens Cove, moving north at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,19 +41,11 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
-These strong thunderstorms will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required when these strong thunderstorms
-reaches the nearshore waters. Boaters should consider heading for
-shore before these strong thunderstorms arrives.
-
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2718 8032 2723 8035 2728 8035 2729 8032
-      2729 8031 2724 8026 2746 8037 2765 8041
-      2780 8050 2784 8045 2786 8045 2784 8043
-      2789 8009 2697 7973
+LAT...LON 2825 8027 2818 8024 2784 8006 2758 7998
+      2748 7992 2740 8034 2746 8037 2765 8041
+      2807 8065 2815 8068
 
 $$
 
