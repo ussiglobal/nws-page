@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 30, 2025 • 2:00 PM
+Generated: Jul 30, 2025 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,45 +11,7 @@ Generated: Jul 30, 2025 • 2:00 PM
 Temp: 90°F (32.2°C) · Humidity: 61.6%
 
 🛥️ Marine Weather Statement:
-593
-FZUS72 KMLB 231824
-MWSMLB
 
-Marine Weather Statement
-National Weather Service Melbourne FL
-224 PM EDT Wed Jul 23 2025
-
-AMZ552-555-231930-
-224 PM EDT Wed Jul 23 2025
-
-...STRONG THUNDERSTORMS AND OUTFLOW PRODUCING GUSTY WINDS PUSHING
-NORTH ALONG THE NORTHERN TREASURE AND SOUTHERN SPACE COASTS...
-
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-
-At 223 PM EDT, Doppler radar indicated strong thunderstorms and
-outflow, capable of producing winds to around 30 knots. These
-thunderstorms and outflow were located along a line extending from 7
-nm west of Vero Lake Estates to 6 nm west of Vero Beach South to
-Queens Cove, moving north at 25 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
-
-&&
-
-LAT...LON 2825 8027 2818 8024 2784 8006 2758 7998
-      2748 7992 2740 8034 2746 8037 2765 8041
-      2807 8065 2815 8068
-
-$$
-
-Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 799
