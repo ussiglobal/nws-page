@@ -1,35 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 1, 2025 • 12:00 PM
+Generated: Aug 1, 2025 • 1:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Chance Showers And Thunderstorms. High: 92°F; Rain: 47% ; Wind: 5 to 10 mph SE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 47% ; Wind: 5 to 10 mph ESE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 37% ; Wind: 5 to 10 mph S
 • Tomorrow: Saturday — High: 92°F; Low: 79°F; Rain: 45% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 82°F (27.8°C) · Humidity: 79.4%
+Temp: 89.1°F (31.7°C) · Humidity: 67.7%
 
 🛥️ Marine Weather Statement:
-293
-FZUS72 KMLB 302356
+007
+FZUS72 KMLB 011626
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-756 PM EDT Wed Jul 30 2025
+1226 PM EDT Fri Aug 1 2025
 
-AMZ550-310100-
-756 PM EDT Wed Jul 30 2025
+AMZ552-011730-
+1226 PM EDT Fri Aug 1 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+A Marine Weather Statement has been issued for the following areas...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-
-At 756 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over New Smyrna Beach, moving northeast at 20 knots.
+At 1224 PM EDT, Doppler radar indicated developing thunderstorms,
+capable of producing winds to around 30 knots, located 7 nm north of
+Port Canaveral, moving northeast at 5 knots. Additional storms will
+develop across north Brevard, including the intracoastal waters as
+the sea breeze pushes westward.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,16 +37,18 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
+
 &&
 
-LAT...LON 2933 8068 2886 8037 2883 8075 2882 8075
-      2880 8074 2881 8075 2880 8075 2880 8076
-      2881 8077 2882 8076 2882 8081 2880 8079
-      2879 8082 2922 8104
+LAT...LON 2879 8063 2844 8041 2827 8058 2827 8072
+      2864 8085 2873 8087
 
 $$
 
-Sedlock
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 768
