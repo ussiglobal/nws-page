@@ -1,45 +1,52 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 1, 2025 • 6:00 PM
+Generated: Aug 1, 2025 • 7:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Saturday — Mostly Sunny then Showers And Thunderstorms Likely. High: 93°F; Rain: 55% ; Wind: 5 to 10 mph SSE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 37% ; Wind: 5 to 10 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 26% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Sunday — High: 93°F; Low: 79°F; Rain: 48% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
 Temp: 81°F (27.2°C) · Humidity: 82.2%
 
 🛥️ Marine Weather Statement:
-800
-FZUS72 KMLB 011931
+563
+FZUS72 KMLB 012204
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-331 PM EDT Fri Aug 1 2025
+604 PM EDT Fri Aug 1 2025
 
-AMZ552-011939-
-/O.CAN.KMLB.MA.W.0154.000000T0000Z-250801T1945Z/
-331 PM EDT Fri Aug 1 2025
+AMZ552-012300-
+604 PM EDT Fri Aug 1 2025
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+At 603 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Indian Harbour Beach, or over Melbourne, moving north at 20
+knots. Outflow from this thunderstorm will be gusty well out ahead
+of any precipitation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2829 8064 2823 8034 2788 8048 2793 8057
-      2807 8065 2819 8069
-TIME...MOT...LOC 1928Z 293DEG 6KT 2807 8060
+LAT...LON 2845 8069 2843 8069 2845 8068 2849 8045
+      2803 8028 2794 8057 2807 8065 2843 8078
 
 $$
 
-Kelly
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 768
