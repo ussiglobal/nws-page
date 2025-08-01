@@ -1,35 +1,34 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 1, 2025 • 1:00 PM
+Generated: Aug 1, 2025 • 2:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 47% ; Wind: 5 to 10 mph ESE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 37% ; Wind: 5 to 10 mph S
-• Tomorrow: Saturday — High: 92°F; Low: 79°F; Rain: 45% ; Wind: 5 to 10 mph SSE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 47% ; Wind: 10 mph ESE
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 37% ; Wind: 5 to 10 mph SSW
+• Tomorrow: Saturday — High: 93°F; Low: 79°F; Rain: 55% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
 Temp: 89.1°F (31.7°C) · Humidity: 67.7%
 
 🛥️ Marine Weather Statement:
-007
-FZUS72 KMLB 011626
+077
+FZUS72 KMLB 011732
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1226 PM EDT Fri Aug 1 2025
+132 PM EDT Fri Aug 1 2025
 
-AMZ552-011730-
-1226 PM EDT Fri Aug 1 2025
+AMZ552-011830-
+132 PM EDT Fri Aug 1 2025
 
 A Marine Weather Statement has been issued for the following areas...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 1224 PM EDT, Doppler radar indicated developing thunderstorms,
-capable of producing winds to around 30 knots, located 7 nm north of
-Port Canaveral, moving northeast at 5 knots. Additional storms will
-develop across north Brevard, including the intracoastal waters as
-the sea breeze pushes westward.
+At 132 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Merritt Island Wildlife Refuge, or near Titusville, moving east
+at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,18 +36,13 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
-
 &&
 
-LAT...LON 2879 8063 2844 8041 2827 8058 2827 8072
-      2864 8085 2873 8087
+LAT...LON 2871 8087 2878 8055 2833 8041 2825 8071
 
 $$
 
-Kelly
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 768
