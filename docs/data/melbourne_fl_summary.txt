@@ -1,37 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 1, 2025 • 7:00 PM
+Generated: Aug 1, 2025 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Saturday — Mostly Sunny then Showers And Thunderstorms Likely. High: 93°F; Rain: 55% ; Wind: 5 to 10 mph SSE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 26% ; Wind: 5 to 10 mph SSW
+• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 15% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Sunday — High: 93°F; Low: 79°F; Rain: 48% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 81°F (27.2°C) · Humidity: 82.2%
+Temp: 78.1°F (25.6°C) · Humidity: 84.5%
 
 🛥️ Marine Weather Statement:
-563
-FZUS72 KMLB 012204
+511
+FZUS72 KMLB 012330
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-604 PM EDT Fri Aug 1 2025
+730 PM EDT Fri Aug 1 2025
 
-AMZ552-012300-
-604 PM EDT Fri Aug 1 2025
+AMZ552-020030-
+730 PM EDT Fri Aug 1 2025
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 603 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 729 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Indian Harbour Beach, or over Melbourne, moving north at 20
-knots. Outflow from this thunderstorm will be gusty well out ahead
-of any precipitation.
+over Titusville Airport, moving northeast at 10 knots. Another
+strong thunderstorm was near Lagrange.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -41,8 +40,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2845 8069 2843 8069 2845 8068 2849 8045
-      2803 8028 2794 8057 2807 8065 2843 8078
+LAT...LON 2883 8077 2884 8054 2841 8031 2839 8076
+      2860 8084 2879 8089
 
 $$
 
