@@ -1,47 +1,57 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 3, 2025 • 11:00 PM
+Generated: Aug 4, 2025 • 1:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Monday — Sunny then Chance Showers And Thunderstorms. High: 91°F; Rain: 40% ; Wind: 5 to 10 mph SSE
-• Tonight:  Tonight — Slight Chance Showers And Thunderstorms. Low: 80°F; Rain: 19% ; Wind: 5 to 10 mph S
-• Tomorrow: Tuesday — High: 91°F; Low: 81°F; Rain: 44% ; Wind: 5 to 10 mph SSE
+• Today:    Monday — Sunny then Chance Showers And Thunderstorms. High: 91°F; Rain: 41% ; Wind: 5 to 10 mph SSE
+• Tonight:  Overnight — Mostly Clear. Low: 80°F; Rain: 16% ; Wind: 5 to 10 mph S
+• Tomorrow: Tuesday — High: 91°F; Low: 81°F; Rain: 51% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 72%
+Temp: 82.9°F (28.3°C) · Humidity: 79.4%
 
 🛥️ Marine Weather Statement:
-369
-FZUS72 KMLB 032042
+432
+FZUS72 KMLB 040433
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-442 PM EDT Sun Aug 3 2025
+1233 AM EDT Mon Aug 4 2025
 
-AMZ550-032051-
-/O.CAN.KMLB.MA.W.0156.000000T0000Z-250803T2115Z/
-442 PM EDT Sun Aug 3 2025
+AMZ550-552-570-572-040530-
+1233 AM EDT Mon Aug 4 2025
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...STRONG THUNDERSTORMS OVER THE WATERS ATLANTIC WATERS FROM CAPE
+CANAVERAL TO OFFSHORE OF DAYTONA BEACH...
 
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+At 1232 AM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 16 nm east of Daytona Beach
+Shores to 17 nm east of Apollo Beach to near Playalinda Beach to near
+Titusville, moving northeast at 15 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8106
-      2948 8084 2922 8061 2919 8059 2910 8099
-      2938 8113
-TIME...MOT...LOC 2039Z 313DEG 11KT 2941 8105
+LAT...LON 2947 7998 2921 7980 2874 8019 2853 8066
+      2855 8065 2856 8067 2851 8069 2847 8079
+      2880 8089 2884 8085 2903 8095 2948 8070
 
 $$
 
-Tollefsen
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 811
