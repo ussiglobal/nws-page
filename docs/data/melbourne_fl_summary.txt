@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 4, 2025 • 2:00 PM
+Generated: Aug 4, 2025 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,33 +8,29 @@ Generated: Aug 4, 2025 • 2:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 32% ; Wind: 5 to 10 mph S
 • Tomorrow: Tuesday — High: 92°F; Low: 81°F; Rain: 39% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 55.8%
+Temp: 89.6°F (32°C) · Humidity: 70.7%
 
 🛥️ Marine Weather Statement:
-220
-FZUS72 KMLB 040529
+657
+FZUS72 KMLB 041816
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-129 AM EDT Mon Aug 4 2025
+216 PM EDT Mon Aug 4 2025
 
-AMZ550-552-570-040630-
-129 AM EDT Mon Aug 4 2025
+AMZ550-041915-
+216 PM EDT Mon Aug 4 2025
 
-...STRONG THUNDERSTORMS CONTINUE OVER THE ATLANTIC WATERS FROM CAPE
-CANAVERAL TO OFFSHORE OF DAYTONA BEACH...
+...STRONG THUNDERSTORMS APPROACHING THE WATERS...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 128 AM EDT, Doppler radar indicated strong thunderstorms, capable
+At 215 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Ormond-By-the-Sea to 35 nm
-east of Daytona Beach Shores to near Merritt Island Wildlife Refuge
-to near Mims, moving east at 25 knots.
+located along a line extending from near Ormond-By-the-Sea to Ormond
+Beach to South Daytona, moving northeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -44,14 +40,14 @@ immediately until these storms pass.
 
 &&
 
-LAT...LON 2947 7998 2931 7987 2887 8023 2885 8037
-      2878 8031 2857 8048 2849 8067 2855 8065
-      2856 8067 2848 8069 2844 8078 2880 8089
-      2884 8085 2933 8110 2947 8104
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8112 2946 8113
+      2947 8103 2947 8093 2907 8079 2903 8095
+      2938 8113
 
 $$
 
-Haley
+Law
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 547
