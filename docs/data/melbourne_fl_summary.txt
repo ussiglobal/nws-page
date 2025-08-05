@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 4, 2025 • 9:00 PM
+Generated: Aug 4, 2025 • 10:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,50 +8,42 @@ Generated: Aug 4, 2025 • 9:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 27% ; Wind: 5 to 10 mph S
 • Tomorrow: Wednesday — High: 92°F; Low: 81°F; Rain: 45% ; Wind: 5 to 10 mph NNE
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 74.3%
+Temp: 73.4°F (23°C) · Humidity: 88.5%
 
 🛥️ Marine Weather Statement:
-019
-FZUS72 KMLB 050012
+556
+FZUS72 KMLB 050114
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-812 PM EDT Mon Aug 4 2025
+914 PM EDT Mon Aug 4 2025
 
-AMZ552-555-050115-
-812 PM EDT Mon Aug 4 2025
+AMZ550-552-570-572-050215-
+914 PM EDT Mon Aug 4 2025
 
-...STRONG THUNDERSTORMS APPROACHING THE COAST FROM BREVARD TO ST
-LUCIE COUNTIES...
+...A STRONG THUNDERSTORM OVER THE BREVARD COAST, MOVING OFFSHORE...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 812 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 13 nm southwest of Maytown to
-near Port Saint Lucie, moving northeast at 15 knots.
+At 913 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+7 nm southeast of Playalinda Beach, moving northeast at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
-
-These strong thunderstorms will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required when these strong thunderstorms
-reaches the nearshore waters. Boaters should consider heading for
-shore before these strong thunderstorms arrives.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2722 8035 2728 8035 2729 8032 2724 8026
-      2746 8037 2765 8041 2807 8065 2881 8089
-      2885 8037 2878 8031 2852 8020 2835 8021
-      2822 8026 2784 8006 2717 7984 2716 8031
+LAT...LON 2884 8085 2891 8089 2914 8020 2802 7982
+      2795 8058 2807 8065 2860 8084 2880 8089
 
 $$
 
