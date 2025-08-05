@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 4, 2025 • 8:00 PM
+Generated: Aug 4, 2025 • 9:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,29 +8,31 @@ Generated: Aug 4, 2025 • 8:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 27% ; Wind: 5 to 10 mph S
 • Tomorrow: Wednesday — High: 92°F; Low: 81°F; Rain: 45% ; Wind: 5 to 10 mph NNE
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-657
-FZUS72 KMLB 041816
+019
+FZUS72 KMLB 050012
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-216 PM EDT Mon Aug 4 2025
+812 PM EDT Mon Aug 4 2025
 
-AMZ550-041915-
-216 PM EDT Mon Aug 4 2025
+AMZ552-555-050115-
+812 PM EDT Mon Aug 4 2025
 
-...STRONG THUNDERSTORMS APPROACHING THE WATERS...
+...STRONG THUNDERSTORMS APPROACHING THE COAST FROM BREVARD TO ST
+LUCIE COUNTIES...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 215 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 812 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Ormond-By-the-Sea to Ormond
-Beach to South Daytona, moving northeast at 10 knots.
+located along a line extending from 13 nm southwest of Maytown to
+near Port Saint Lucie, moving northeast at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,16 +40,22 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
+These strong thunderstorms will likely produce winds to around 30
+knots, and could pose a serious hazard for boaters. A special marine
+warning may eventually be required when these strong thunderstorms
+reaches the nearshore waters. Boaters should consider heading for
+shore before these strong thunderstorms arrives.
+
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8112 2946 8113
-      2947 8103 2947 8093 2907 8079 2903 8095
-      2938 8113
+LAT...LON 2722 8035 2728 8035 2729 8032 2724 8026
+      2746 8037 2765 8041 2807 8065 2881 8089
+      2885 8037 2878 8031 2852 8020 2835 8021
+      2822 8026 2784 8006 2717 7984 2716 8031
 
 $$
 
-Law
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 547
