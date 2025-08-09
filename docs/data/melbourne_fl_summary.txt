@@ -1,34 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 9, 2025 • 7:00 AM
+Generated: Aug 9, 2025 • 8:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Chance Showers And Thunderstorms then Showers And Thunderstorms Likely. High: 90°F; Rain: 74% ; Wind: 5 to 15 mph SSE
+• Today:    Today — Showers And Thunderstorms Likely. High: 90°F; Rain: 74% ; Wind: 5 to 15 mph SSE
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 79°F; Rain: 72% ; Wind: 10 to 15 mph SSE
 • Tomorrow: Sunday — High: 92°F; Low: 80°F; Rain: 60% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 94.1%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-871
-FZUS72 KMLB 090020
+633
+FZUS72 KMLB 091158
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-820 PM EDT Fri Aug 8 2025
+758 AM EDT Sat Aug 9 2025
 
-AMZ550-090100-
-820 PM EDT Fri Aug 8 2025
+AMZ555-091300-
+758 AM EDT Sat Aug 9 2025
 
-A Marine Weather Statement has been issued for the following areas...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
-At 820 PM EDT, Doppler radar indicated a cluster of strong
-thunderstorms, capable of producing winds to around 30 knots,
-located near and offshore New Smyrna Beach, moving northwest at 10
-knots.
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+
+At 758 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+near Saint Lucie Nuclear Power Plant, moving north at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,12 +39,14 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2928 8106 2928 8092 2923 8080 2908 8063
-      2893 8077 2895 8089 2903 8095 2916 8102
+LAT...LON 2746 8037 2765 8041 2785 8052 2785 8049
+      2783 8047 2784 8044 2786 8046 2786 8045
+      2785 8037 2789 8009 2779 8004 2774 8004
+      2758 7998 2733 7986 2725 8026
 
 $$
 
-Kelly
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 106
