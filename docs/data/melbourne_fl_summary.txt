@@ -1,54 +1,45 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 13, 2025 • 5:00 PM
+Generated: Aug 13, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 92°F; Rain: 21% ; Wind: 15 mph SE
+• Today:    Thursday — Mostly Sunny then Chance Showers And Thunderstorms. High: 92°F; Rain: 26% ; Wind: 5 to 10 mph SE
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 23% ; Wind: 5 to 10 mph S
-• Tomorrow: Thursday — High: 92°F; Low: 80°F; Rain: 26% ; Wind: 5 to 10 mph SE
+• Tomorrow: Friday — High: 92°F; Low: 80°F; Rain: 22% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 59%
+Temp: 89.6°F (32°C) · Humidity: 62.7%
 
 🛥️ Marine Weather Statement:
-923
-FZUS72 KMLB 132039
+042
+FZUS72 KMLB 132148
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-439 PM EDT Wed Aug 13 2025
+548 PM EDT Wed Aug 13 2025
 
-AMZ550-132115-
-439 PM EDT Wed Aug 13 2025
+AMZ550-132158-
+/O.CAN.KMLB.MA.W.0164.000000T0000Z-250813T2200Z/
+548 PM EDT Wed Aug 13 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE ATLANTIC AND
-INTRACOASTAL WATERS NEAR DAYTONA AND NEW SMYRNA BEACHES...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 439 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Daytona Beach, moving south at 5 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Intense lightning is occurring with this storm. If caught on the open
-water stay below deck if possible, keep away from ungrounded metal
-objects.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2934 8096 2903 8078 2897 8092 2929 8109
+LAT...LON 2932 8094 2912 8084 2905 8096 2926 8107
+      2927 8106
+TIME...MOT...LOC 2147Z 322DEG 9KT 2908 8099
 
 $$
 
-Haley
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 403
