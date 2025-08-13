@@ -1,34 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 13, 2025 • 4:00 PM
+Generated: Aug 13, 2025 • 5:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 92°F; Rain: 22% ; Wind: 15 mph SE
+• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 92°F; Rain: 21% ; Wind: 15 mph SE
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 23% ; Wind: 5 to 10 mph S
 • Tomorrow: Thursday — High: 92°F; Low: 80°F; Rain: 26% ; Wind: 5 to 10 mph SE
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 59.3%
+Temp: 89.6°F (32°C) · Humidity: 59%
 
 🛥️ Marine Weather Statement:
-723
-FZUS72 KMLB 102238
+923
+FZUS72 KMLB 132039
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-638 PM EDT Sun Aug 10 2025
+439 PM EDT Wed Aug 13 2025
 
-AMZ550-102315-
-638 PM EDT Sun Aug 10 2025
+AMZ550-132115-
+439 PM EDT Wed Aug 13 2025
 
-A Marine Weather Statement has been issued for the following areas...
+...A STRONG THUNDERSTORM APPROACHING THE ATLANTIC AND
+INTRACOASTAL WATERS NEAR DAYTONA AND NEW SMYRNA BEACHES...
+
+The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 637 PM EDT, Doppler radar indicated a thunderstorm, capable of
-producing winds to around 30 knots. This thunderstorm was located
-near Daytona Beach Shores, or near South Daytona, moving north at 20
-knots.
+At 439 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Daytona Beach, moving south at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -36,14 +38,17 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Intense lightning is occurring with this storm. If caught on the open
+water stay below deck if possible, keep away from ungrounded metal
+objects.
+
 &&
 
-LAT...LON 2942 8113 2945 8076 2889 8053 2884 8086
-      2937 8113
+LAT...LON 2934 8096 2903 8078 2897 8092 2929 8109
 
 $$
 
-Law
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 403
