@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 20, 2025 • 3:01 PM
+Generated: Aug 20, 2025 • 5:01 PM
 ===============================
 
 📅 Forecast:
@@ -8,26 +8,26 @@ Generated: Aug 20, 2025 • 3:01 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Clear. Low: 80°F; Rain: 37% ; Wind: 5 to 15 mph NW
 • Tomorrow: Thursday — High: 95°F; Low: 80°F; Rain: 59% ; Wind: 10 mph WSW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 58.8%
+Temp: 84.2°F (29°C) · Humidity: 70.1%
 
 🛥️ Marine Weather Statement:
-614
-FZUS72 KMLB 201850
+420
+FZUS72 KMLB 201929
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-250 PM EDT Wed Aug 20 2025
+329 PM EDT Wed Aug 20 2025
 
-AMZ552-201930-
-250 PM EDT Wed Aug 20 2025
+AMZ552-202000-
+329 PM EDT Wed Aug 20 2025
 
 A Marine Weather Statement has been issued for the following areas...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 250 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 329 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Port Saint John, moving southeast at 20 knots.
+over Patrick Air Force Base, moving southeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,8 +37,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2860 8076 2855 8068 2851 8069 2843 8069
-      2853 8066 2831 8033 2815 8067 2860 8084
+LAT...LON 2831 8055 2799 8023 2792 8057 2807 8065
+      2828 8072
 
 $$
 
