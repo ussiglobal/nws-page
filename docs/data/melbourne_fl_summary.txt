@@ -1,35 +1,33 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 20, 2025 • 2:00 PM
+Generated: Aug 20, 2025 • 3:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 53% ; Wind: 15 mph N
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 47% ; Wind: 15 mph N
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Clear. Low: 80°F; Rain: 37% ; Wind: 5 to 15 mph NW
 • Tomorrow: Thursday — High: 95°F; Low: 80°F; Rain: 59% ; Wind: 10 mph WSW
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 55.8%
+Temp: 87.8°F (31°C) · Humidity: 58.8%
 
 🛥️ Marine Weather Statement:
-908
-FZUS72 KMLB 192257
+614
+FZUS72 KMLB 201850
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-657 PM EDT Tue Aug 19 2025
+250 PM EDT Wed Aug 20 2025
 
-AMZ552-200000-
-657 PM EDT Tue Aug 19 2025
+AMZ552-201930-
+250 PM EDT Wed Aug 20 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 657 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 250 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-12 nm east of Port Canaveral, moving southwest at 20 knots.
+over Port Saint John, moving southeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,13 +37,12 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2856 8022 2852 8020 2835 8021 2825 8027
-      2818 8024 2816 8022 2805 8017 2792 8056
-      2807 8065 2825 8071
+LAT...LON 2860 8076 2855 8068 2851 8069 2843 8069
+      2853 8066 2831 8033 2815 8067 2860 8084
 
 $$
 
-Schaper
+Leahy
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 260
