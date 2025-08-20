@@ -1,50 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 19, 2025 • 3:01 PM
+Generated: Aug 20, 2025 • 6:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 91°F; Rain: 50% ; Wind: 15 mph NNE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Clear. Low: 80°F; Rain: 28% ; Wind: 10 to 15 mph N
-• Tomorrow: Wednesday — High: 93°F; Low: 79°F; Rain: 54% ; Wind: 15 mph NNW
+• Today:    Today — Chance Showers And Thunderstorms. High: 93°F; Rain: 54% ; Wind: 15 mph NNW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Clear. Low: 79°F; Rain: 37% ; Wind: 5 to 15 mph NW
+• Tomorrow: Thursday — High: 95°F; Low: 79°F; Rain: 60% ; Wind: 10 mph WSW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-680
-FZUS72 KMLB 151122
+908
+FZUS72 KMLB 192257
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-722 AM EDT Fri Aug 15 2025
+657 PM EDT Tue Aug 19 2025
 
-AMZ555-575-151145-
-722 AM EDT Fri Aug 15 2025
+AMZ552-200000-
+657 PM EDT Tue Aug 19 2025
 
-...FUNNEL CLOUD REPORTED FROM A SHOWER OFF ST LUCIE INLET...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 721 AM EDT, emergency management reported a shower producing
-funnel clouds. This shower was located 14 nm northeast of Hobe Sound
-Beach, or 15 nm northeast of Jupiter Island. The shower was nearly
-stationary.
+At 657 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+12 nm east of Port Canaveral, moving southwest at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2701 7996 2725 8004 2747 7982 2720 7966
+LAT...LON 2856 8022 2852 8020 2835 8021 2825 8027
+      2818 8024 2816 8022 2805 8017 2792 8056
+      2807 8065 2825 8071
 
 $$
 
-Heil
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 188
