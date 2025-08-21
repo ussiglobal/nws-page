@@ -1,48 +1,73 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 21, 2025 • 3:01 PM
+Generated: Aug 21, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 96°F; Rain: 65% ; Wind: 10 mph SSW
+• Today:    Friday — Showers And Thunderstorms Likely. High: 93°F; Rain: 69% ; Wind: 5 to 10 mph SW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 79°F; Rain: 65% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Friday — High: 93°F; Low: 79°F; Rain: 69% ; Wind: 5 to 10 mph SW
+• Tomorrow: Saturday — High: 93°F; Low: 79°F; Rain: 74% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 93.2°F (34°C) · Humidity: 49.7%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-420
-FZUS72 KMLB 201929
+037
+FZUS72 KMLB 212141
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-329 PM EDT Wed Aug 20 2025
+541 PM EDT Thu Aug 21 2025
 
-AMZ552-202000-
-329 PM EDT Wed Aug 20 2025
+AMZ552-212215-
+/O.CON.KMLB.MA.W.0169.000000T0000Z-250821T2215Z/
+541 PM EDT Thu Aug 21 2025
 
-A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 615 PM EDT...
 
-At 329 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Patrick Air Force Base, moving southeast at 20 knots.
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+
+At 541 PM EDT, a severe thunderstorm capable of producing waterspouts
+was located near Indialantic, moving east at 15 knots.
+
+HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+SOURCE...Radar indicated.
+
+IMPACT...Waterspouts can can quickly form and capsize boats, damage
+         vessels and create locally hazardous seas. Make sure all on
+         board are wearing life jackets. Expect wind gusts in excess
+         of 34 knots, suddenly higher waves, lightning and heavy
+         downpours. Make sure all on board are wearing life jackets.
+         Return to safe harbor if possible.
+
+Locations impacted include...
+Indialantic, Melbourne Beach, Indian Harbour Beach, Satellite Beach,
+and Spessard Holland Park.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
 
 &&
 
-LAT...LON 2831 8055 2799 8023 2792 8057 2807 8065
-      2828 8072
+LAT...LON 2845 8029 2796 8022 2794 8057 2807 8065
+      2836 8075
+TIME...MOT...LOC 2141Z 264DEG 13KT 2814 8048
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
 
 $$
 
-Leahy
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 138
