@@ -1,35 +1,57 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 21, 2025 • 6:00 PM
+Generated: Aug 21, 2025 • 7:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Friday — Showers And Thunderstorms Likely. High: 93°F; Rain: 69% ; Wind: 5 to 10 mph SW
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 79°F; Rain: 65% ; Wind: 5 to 10 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 52% ; Wind: 5 to 10 mph SW
 • Tomorrow: Saturday — High: 93°F; Low: 79°F; Rain: 74% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 88.6%
+Temp: 77°F (25°C) · Humidity: 88.7%
 
 🛥️ Marine Weather Statement:
-037
-FZUS72 KMLB 212141
+820
+FZUS72 KMLB 212242
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-541 PM EDT Thu Aug 21 2025
+642 PM EDT Thu Aug 21 2025
 
-AMZ552-212215-
-/O.CON.KMLB.MA.W.0169.000000T0000Z-250821T2215Z/
-541 PM EDT Thu Aug 21 2025
+AMZ552-212252-
+/O.CAN.KMLB.MA.W.0170.000000T0000Z-250821T2300Z/
+642 PM EDT Thu Aug 21 2025
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 615 PM EDT...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-For the following areas...
+The affected areas were...
 Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 541 PM EDT, a severe thunderstorm capable of producing waterspouts
-was located near Indialantic, moving east at 15 knots.
+The thunderstorm has weakened and moved out of the warned area and
+no longer poses a significant threat to boaters.
+
+&&
+
+LAT...LON 2832 8022 2835 8021 2838 8021 2843 8020
+      2847 8020 2853 8003 2828 7992 2817 8024
+      2818 8025 2826 8027
+TIME...MOT...LOC 2242Z 247DEG 19KT 2829 8004
+
+$$
+
+AMZ572-212300-
+/O.CON.KMLB.MA.W.0170.000000T0000Z-250821T2300Z/
+642 PM EDT Thu Aug 21 2025
+
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 700 PM EDT...
+
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+
+At 642 PM EDT, a severe thunderstorm capable of producing waterspouts
+was located 30 nm east of Port Canaveral, moving northeast at 20
+knots.
 
 HAZARD...Waterspouts and wind gusts 34 knots or greater.
 
@@ -42,24 +64,19 @@ IMPACT...Waterspouts can can quickly form and capsize boats, damage
          downpours. Make sure all on board are wearing life jackets.
          Return to safe harbor if possible.
 
-Locations impacted include...
-Indialantic, Melbourne Beach, Indian Harbour Beach, Satellite Beach,
-and Spessard Holland Park.
+The severe thunderstorm will remain over mainly open waters.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Move to safe harbor immediately as gusty winds and high waves are
 expected.
 
-Thunderstorms can produce sudden waterspouts. Waterspouts can easily
-overturn boats and create locally hazardous seas. Seek safe harbor
-immediately.
-
 &&
 
-LAT...LON 2845 8029 2796 8022 2794 8057 2807 8065
-      2836 8075
-TIME...MOT...LOC 2141Z 264DEG 13KT 2814 8048
+LAT...LON 2832 8022 2835 8021 2838 8021 2843 8020
+      2847 8020 2853 8003 2828 7992 2817 8024
+      2818 8025 2826 8027
+TIME...MOT...LOC 2242Z 247DEG 19KT 2829 8004
 
 WATERSPOUT...POSSIBLE
 HAIL...0.00IN
