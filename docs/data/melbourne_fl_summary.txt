@@ -1,90 +1,55 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 22, 2025 • 11:01 AM
+Generated: Aug 22, 2025 • 1:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Showers And Thunderstorms Likely. High: 94°F; Rain: 72% ; Wind: 5 to 10 mph WSW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 94°F; Rain: 72% ; Wind: 5 to 10 mph WSW
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 79°F; Rain: 70% ; Wind: 5 mph SSW
 • Tomorrow: Saturday — High: 92°F; Low: 79°F; Rain: 73% ; Wind: 5 to 10 mph SW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 86°F (30°C) · Humidity: 70.3%
 
 🛥️ Marine Weather Statement:
-820
-FZUS72 KMLB 212242
+444
+FZUS72 KMLB 221645
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-642 PM EDT Thu Aug 21 2025
+1245 PM EDT Fri Aug 22 2025
 
-AMZ552-212252-
-/O.CAN.KMLB.MA.W.0170.000000T0000Z-250821T2300Z/
-642 PM EDT Thu Aug 21 2025
+AMZ550-552-221815-
+1245 PM EDT Fri Aug 22 2025
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-
-The thunderstorm has weakened and moved out of the warned area and
-no longer poses a significant threat to boaters.
-
-&&
-
-LAT...LON 2832 8022 2835 8021 2838 8021 2843 8020
-      2847 8020 2853 8003 2828 7992 2817 8024
-      2818 8025 2826 8027
-TIME...MOT...LOC 2242Z 247DEG 19KT 2829 8004
-
-$$
-
-AMZ572-212300-
-/O.CON.KMLB.MA.W.0170.000000T0000Z-250821T2300Z/
-642 PM EDT Thu Aug 21 2025
-
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 700 PM EDT...
-
-For the following areas...
-Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
-
-At 642 PM EDT, a severe thunderstorm capable of producing waterspouts
-was located 30 nm east of Port Canaveral, moving northeast at 20
+At 1245 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from near Bethune Beach to South
+Patrick Shores to 8 nm west of Vero Lake Estates, moving east at 15
 knots.
-
-HAZARD...Waterspouts and wind gusts 34 knots or greater.
-
-SOURCE...Radar indicated.
-
-IMPACT...Waterspouts can can quickly form and capsize boats, damage
-         vessels and create locally hazardous seas. Make sure all on
-         board are wearing life jackets. Expect wind gusts in excess
-         of 34 knots, suddenly higher waves, lightning and heavy
-         downpours. Make sure all on board are wearing life jackets.
-         Return to safe harbor if possible.
-
-The severe thunderstorm will remain over mainly open waters.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Move to safe harbor immediately as gusty winds and high waves are
-expected.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2832 8022 2835 8021 2838 8021 2843 8020
-      2847 8020 2853 8003 2828 7992 2817 8024
-      2818 8025 2826 8027
-TIME...MOT...LOC 2242Z 247DEG 19KT 2829 8004
-
-WATERSPOUT...POSSIBLE
-HAIL...0.00IN
-WIND...>34KTS
+LAT...LON 2923 8061 2869 8026 2852 8020 2834 8021
+      2826 8027 2789 8009 2783 8051 2807 8065
+      2865 8085 2881 8089 2884 8085 2910 8099
 
 $$
 
-Tollefsen
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 244
