@@ -1,57 +1,42 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 22, 2025 • 2:01 PM
+Generated: Aug 22, 2025 • 3:20 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms. High: 94°F; Rain: 75% ; Wind: 10 mph W
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 94°F; Rain: 71% ; Wind: 10 mph W
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 79°F; Rain: 51% ; Wind: 5 mph SW
 • Tomorrow: Saturday — High: 92°F; Low: 78°F; Rain: 75% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 77°F (25°C) · Humidity: 88.7%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-436
-FZUS72 KMLB 221800
+981
+FZUS72 KMLB 221855
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-200 PM EDT Fri Aug 22 2025
+255 PM EDT Fri Aug 22 2025
 
-AMZ552-555-570-572-575-221930-
-200 PM EDT Fri Aug 22 2025
+AMZ555-221904-
+/O.CAN.KMLB.MA.W.0174.000000T0000Z-250822T1915Z/
+255 PM EDT Fri Aug 22 2025
 
-...STRONG THUNDERSTORMS AND GUSTY WINDS FROM OUTFLOW OVER THE
-ATLANTIC WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+The affected areas were...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 200 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 14 nm east of Playalinda Beach to
-21 nm east of Port Canaveral to 17 nm northeast of Sebastian Inlet to
-20 nm east of South Beach, moving east at 25 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+The thunderstorm has weakened, but gusty winds to 30 knots and
+frequent cloud to water lightning remain possible.
 
 &&
 
-LAT...LON 2735 8031 2765 8041 2807 8065 2833 8074
-      2885 8041 2886 8037 2890 8038 2899 7966
-      2866 7955 2829 7954 2748 7920
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2723 8035 2728 8035 2729 8032 2724 8026
+      2737 8032 2757 7997 2729 7984 2697 7973
+TIME...MOT...LOC 1853Z 237DEG 9KT 2727 8002
 
 $$
 
