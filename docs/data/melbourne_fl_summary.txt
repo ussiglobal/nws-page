@@ -1,42 +1,54 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 22, 2025 • 3:20 PM
+Generated: Aug 22, 2025 • 4:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 94°F; Rain: 71% ; Wind: 10 mph W
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 94°F; Rain: 59% ; Wind: 10 mph W
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 79°F; Rain: 51% ; Wind: 5 mph SW
 • Tomorrow: Saturday — High: 92°F; Low: 78°F; Rain: 75% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 88.6%
+Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-981
-FZUS72 KMLB 221855
+413
+FZUS72 KMLB 221921
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-255 PM EDT Fri Aug 22 2025
+321 PM EDT Fri Aug 22 2025
 
-AMZ555-221904-
-/O.CAN.KMLB.MA.W.0174.000000T0000Z-250822T1915Z/
-255 PM EDT Fri Aug 22 2025
+AMZ550-570-222015-
+321 PM EDT Fri Aug 22 2025
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFF VOLUSIA...
 
-The affected areas were...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-The thunderstorm has weakened, but gusty winds to 30 knots and
-frequent cloud to water lightning remain possible.
+At 318 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line from near Daytona Beach Shores to 6 nm north of
+Bethune Beach, extending to 16 nm northeast of South Daytona, moving
+northeast at 5 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2723 8035 2728 8035 2729 8032 2724 8026
-      2737 8032 2757 7997 2729 7984 2697 7973
-TIME...MOT...LOC 1853Z 237DEG 9KT 2727 8002
+LAT...LON 2942 8113 2943 8110 2946 8113 2948 8072
+      2947 7998 2916 7975 2893 7964 2882 8075
+      2881 8075 2879 8073 2882 8079 2880 8079
+      2938 8113
 
 $$
 
