@@ -1,36 +1,42 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 22, 2025 • 1:01 PM
+Generated: Aug 22, 2025 • 2:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 94°F; Rain: 72% ; Wind: 5 to 10 mph WSW
-• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 79°F; Rain: 70% ; Wind: 5 mph SSW
-• Tomorrow: Saturday — High: 92°F; Low: 79°F; Rain: 73% ; Wind: 5 to 10 mph SW
+• Today:    This Afternoon — Showers And Thunderstorms. High: 94°F; Rain: 75% ; Wind: 10 mph W
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 79°F; Rain: 51% ; Wind: 5 mph SW
+• Tomorrow: Saturday — High: 92°F; Low: 78°F; Rain: 75% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 70.3%
+Temp: 77°F (25°C) · Humidity: 88.7%
 
 🛥️ Marine Weather Statement:
-444
-FZUS72 KMLB 221645
+436
+FZUS72 KMLB 221800
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1245 PM EDT Fri Aug 22 2025
+200 PM EDT Fri Aug 22 2025
 
-AMZ550-552-221815-
-1245 PM EDT Fri Aug 22 2025
+AMZ552-555-570-572-575-221930-
+200 PM EDT Fri Aug 22 2025
 
-A Marine Weather Statement has been issued for the following areas...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+...STRONG THUNDERSTORMS AND GUSTY WINDS FROM OUTFLOW OVER THE
+ATLANTIC WATERS...
+
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1245 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 200 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Bethune Beach to South
-Patrick Shores to 8 nm west of Vero Lake Estates, moving east at 15
-knots.
+located along a line extending from 14 nm east of Playalinda Beach to
+21 nm east of Port Canaveral to 17 nm northeast of Sebastian Inlet to
+20 nm east of South Beach, moving east at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -43,13 +49,13 @@ case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2923 8061 2869 8026 2852 8020 2834 8021
-      2826 8027 2789 8009 2783 8051 2807 8065
-      2865 8085 2881 8089 2884 8085 2910 8099
+LAT...LON 2735 8031 2765 8041 2807 8065 2833 8074
+      2885 8041 2886 8037 2890 8038 2899 7966
+      2866 7955 2829 7954 2748 7920
 
 $$
 
-Watson
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 244
