@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 23, 2025 • 12:00 PM
+Generated: Aug 23, 2025 • 1:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,31 +8,34 @@ Generated: Aug 23, 2025 • 12:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 78°F; Rain: 58% ; Wind: 10 mph SW
 • Tomorrow: Sunday — High: 93°F; Low: 78°F; Rain: 82% ; Wind: 10 to 15 mph SW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 82.4°F (28°C) · Humidity: 78.9%
 
 🛥️ Marine Weather Statement:
-973
-FZUS72 KMLB 231451
+835
+FZUS72 KMLB 231653
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1051 AM EDT Sat Aug 23 2025
+1253 PM EDT Sat Aug 23 2025
 
-AMZ550-552-231615-
-1051 AM EDT Sat Aug 23 2025
+AMZ552-555-572-575-231830-
+1253 PM EDT Sat Aug 23 2025
 
-...STRONG THUNDERSTORMS APPROACHING THE ATLANTIC AND INTRACOASTAL
-WATERS FROM NEAR DAYTONA BEACH TO PLAYALINDA BEACH...
+...A LINE OF STRONG THUNDERSTORMS EXTENDING FROM THE CAPE TO NEAR
+PORT PIERCE INLET...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1051 AM EDT, Doppler radar indicated strong thunderstorms, capable
+At 1253 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Holly Hill to near Scottsmoor,
-moving east at 15 knots.
+located along a line extending from 11 nm east of Port Canaveral to 6
+nm east of Melbourne Beach to Saint Lucie Nuclear Power Plant, moving
+east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,12 +43,16 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
+These strong thunderstorms will likely produce winds to around 30
+knots, and could pose a serious hazard for boaters. A special marine
+warning may eventually be required when these strong thunderstorms
+reaches the nearshore waters. Boaters should consider heading for
+shore before these strong thunderstorms arrives.
+
 &&
 
-LAT...LON 2938 8070 2897 8045 2878 8031 2866 8026
-      2862 8064 2867 8073 2866 8075 2863 8074
-      2862 8066 2860 8084 2880 8089 2884 8085
-      2932 8110 2933 8107
+LAT...LON 2718 7910 2729 8028 2765 8041 2808 8065
+      2882 8087 2893 7964 2866 7955 2829 7954
 
 $$
 
