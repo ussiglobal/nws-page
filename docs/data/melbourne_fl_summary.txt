@@ -1,54 +1,55 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 23, 2025 • 10:00 AM
+Generated: Aug 23, 2025 • 11:01 AM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Showers And Thunderstorms Likely. High: 92°F; Rain: 80% ; Wind: 5 to 10 mph WSW
+• Today:    Today — Showers And Thunderstorms Likely. High: 92°F; Rain: 80% ; Wind: 10 mph WSW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 78°F; Rain: 58% ; Wind: 10 mph SW
 • Tomorrow: Sunday — High: 93°F; Low: 78°F; Rain: 82% ; Wind: 10 to 15 mph SW
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 74.5%
+Temp: 87.8°F (31°C) · Humidity: 70.5%
 
 🛥️ Marine Weather Statement:
-852
-FZUS72 KMLB 222011
+973
+FZUS72 KMLB 231451
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-411 PM EDT Fri Aug 22 2025
+1051 AM EDT Sat Aug 23 2025
 
-AMZ550-570-222100-
-411 PM EDT Fri Aug 22 2025
+AMZ550-552-231615-
+1051 AM EDT Sat Aug 23 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...STRONG THUNDERSTORMS APPROACHING THE ATLANTIC AND INTRACOASTAL
+WATERS FROM NEAR DAYTONA BEACH TO PLAYALINDA BEACH...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 410 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-26 nm northeast of Bethune Beach, moving east at 20 knots.
+At 1051 AM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from Holly Hill to near Scottsmoor,
+moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2947 7998 2916 7975 2893 7964 2883 8070
-      2930 8094 2948 8071
+LAT...LON 2938 8070 2897 8045 2878 8031 2866 8026
+      2862 8064 2867 8073 2866 8075 2863 8074
+      2862 8066 2860 8084 2880 8089 2884 8085
+      2932 8110 2933 8107
 
 $$
 
-Tollefsen
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 269
