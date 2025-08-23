@@ -1,29 +1,29 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 23, 2025 • 1:00 PM
+Generated: Aug 23, 2025 • 3:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 92°F; Rain: 80% ; Wind: 10 mph WSW
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 78°F; Rain: 58% ; Wind: 10 mph SW
-• Tomorrow: Sunday — High: 93°F; Low: 78°F; Rain: 82% ; Wind: 10 to 15 mph SW
+• Today:    This Afternoon — Showers And Thunderstorms. High: 92°F; Rain: 80% ; Wind: 10 mph W
+• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 79°F; Rain: 58% ; Wind: 10 mph SW
+• Tomorrow: Sunday — High: 93°F; Low: 78°F; Rain: 80% ; Wind: 10 to 15 mph WSW
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 78.9%
+Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-835
-FZUS72 KMLB 231653
+614
+FZUS72 KMLB 231826
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1253 PM EDT Sat Aug 23 2025
+226 PM EDT Sat Aug 23 2025
 
-AMZ552-555-572-575-231830-
-1253 PM EDT Sat Aug 23 2025
+AMZ552-555-572-575-232000-
+226 PM EDT Sat Aug 23 2025
 
-...A LINE OF STRONG THUNDERSTORMS EXTENDING FROM THE CAPE TO NEAR
-PORT PIERCE INLET...
+...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF THE
+SPACE AND TREASURE COASTS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
@@ -31,11 +31,11 @@ The areas affected include...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1253 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 225 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 11 nm east of Port Canaveral to 6
-nm east of Melbourne Beach to Saint Lucie Nuclear Power Plant, moving
-east at 20 knots.
+located along a line extending from 57 nm east of Port Canaveral to 9
+nm east of Sebastian Inlet State Park to 28 nm east of Indian River
+Shores to 13 nm east of Jupiter Inlet, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -43,16 +43,13 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
-These strong thunderstorms will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required when these strong thunderstorms
-reaches the nearshore waters. Boaters should consider heading for
-shore before these strong thunderstorms arrives.
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2718 7910 2729 8028 2765 8041 2808 8065
-      2882 8087 2893 7964 2866 7955 2829 7954
+LAT...LON 2697 7999 2789 8040 2880 7959 2862 7954
+      2829 7954 2732 7914 2698 7905
 
 $$
 
