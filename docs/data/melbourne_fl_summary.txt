@@ -1,56 +1,57 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 24, 2025 • 1:00 PM
+Generated: Aug 24, 2025 • 2:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms. High: 89°F; Rain: 75% ; Wind: 15 mph SW
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 48% ; Wind: 10 to 15 mph SW
-• Tomorrow: Monday — High: 91°F; Low: 77°F; Rain: 81% ; Wind: 10 mph SW
+• Today:    This Afternoon — Showers And Thunderstorms. High: 89°F; Rain: 76% ; Wind: 15 mph WSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 49% ; Wind: 10 to 15 mph SW
+• Tomorrow: Monday — High: 91°F; Low: 78°F; Rain: 81% ; Wind: 10 mph SW
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 83.7%
+Temp: 80.1°F (26.7°C) · Humidity: 87.2%
 
 🛥️ Marine Weather Statement:
-287
-FZUS72 KMLB 241544
+599
+FZUS72 KMLB 241749
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1144 AM EDT Sun Aug 24 2025
+149 PM EDT Sun Aug 24 2025
 
-AMZ552-555-572-575-241745-
-1144 AM EDT Sun Aug 24 2025
+AMZ550-552-555-570-572-575-241945-
+149 PM EDT Sun Aug 24 2025
 
-...HEAVY SHOWERS AND LIGHTNING STORMS PRODUCING GUSTY WINDS ACROSS
-THE SPACE AND TREASURE COAST ATLANTIC AND INTRACOASTAL WATERS...
+...HEAVY SHOWERS AND LIGHTNING STORMS CONTINUE TO PRODUCE GUSTY
+WINDS ACROSS MUCH OF THE CENTRAL FLORIDA ATLANTIC AND INTRACOASTAL
+WATERS...
 
 The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Sebastian Inlet to Jupiter Inlet 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1142 AM EDT, Doppler radar indicated heavy showers and
-thunderstorms, capable of producing winds to around 30 knots. These
-showers and thunderstorms were located along a line extending from
-near Titusville to 6 nm north of Port Canaveral to 27 nm northeast
-of Sebastian Inlet to Saint Lucie Airport to 7 nm northeast of
-Buckhead Ridge, moving east at 20 knots.
+At 149 PM EDT, Doppler radar indicated shower and thunderstorms,
+capable of producing winds to around 33 knots. These showers and
+thunderstorms were located along a line extending from near Port
+Orange to near Canaveral Groves to 16 nm northeast of Sebastian
+Inlet to 11 nm northeast of Saint Lucie Nuclear Power Plant, moving
+northeast at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
+Mariners can expect gusty winds to around 33 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2716 8031 2723 8035
-      2729 8032 2729 8031 2724 8026 2808 8065
-      2865 8085 2890 8088 2891 8083 2882 8078
-      2887 8080 2887 8079 2883 8075 2893 7964
-      2866 7955 2829 7954 2698 7905
+LAT...LON 2893 7964 2866 7955 2829 7954 2712 7908
+      2731 8029 2807 8065 2865 8085 2884 8085
+      2915 8101 2947 7998
 
 $$
 
