@@ -1,55 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 24, 2025 • 5:00 PM
+Generated: Aug 24, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 89°F; Rain: 51% ; Wind: 15 mph WSW
+• Today:    Monday — Chance Showers And Thunderstorms. High: 91°F; Rain: 81% ; Wind: 10 mph SW
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 49% ; Wind: 10 to 15 mph SW
-• Tomorrow: Monday — High: 91°F; Low: 78°F; Rain: 81% ; Wind: 10 mph SW
+• Tomorrow: Tuesday — High: 90°F; Low: 78°F; Rain: 72% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 80.1°F (26.7°C) · Humidity: 81.7%
 
 🛥️ Marine Weather Statement:
-489
-FZUS72 KMLB 241945
+161
+FZUS72 KMLB 242124
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-345 PM EDT Sun Aug 24 2025
+524 PM EDT Sun Aug 24 2025
 
-AMZ550-570-242115-
-345 PM EDT Sun Aug 24 2025
+AMZ552-555-242230-
+524 PM EDT Sun Aug 24 2025
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF
-VOLUSIA...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 344 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 49 nm northeast of Bethune Beach
-to 16 nm northeast of Daytona Beach Shores to 6 nm east of Apollo
-Beach, moving east at 20 knots.
+At 523 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over West Melbourne, or near Indialantic, moving northeast at 25
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2946 8113 2948 8072
-      2947 7998 2916 7975 2893 7964 2882 8087
-      2884 8085 2938 8113
+LAT...LON 2836 8021 2826 8027 2822 8026 2784 8006
+      2758 7998 2750 7993 2741 8035 2765 8041
+      2807 8065 2823 8070
 
 $$
 
-Haley
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 820
