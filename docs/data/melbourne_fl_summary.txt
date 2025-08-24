@@ -1,57 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 24, 2025 • 3:00 PM
+Generated: Aug 24, 2025 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 89°F; Rain: 67% ; Wind: 15 mph WSW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 89°F; Rain: 59% ; Wind: 15 mph SW
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 49% ; Wind: 10 to 15 mph SW
 • Tomorrow: Monday — High: 91°F; Low: 78°F; Rain: 81% ; Wind: 10 mph SW
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 78.9%
+Temp: 84.2°F (29°C) · Humidity: 79.1%
 
 🛥️ Marine Weather Statement:
-599
-FZUS72 KMLB 241749
+489
+FZUS72 KMLB 241945
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-149 PM EDT Sun Aug 24 2025
+345 PM EDT Sun Aug 24 2025
 
-AMZ550-552-555-570-572-575-241945-
-149 PM EDT Sun Aug 24 2025
+AMZ550-570-242115-
+345 PM EDT Sun Aug 24 2025
 
-...HEAVY SHOWERS AND LIGHTNING STORMS CONTINUE TO PRODUCE GUSTY
-WINDS ACROSS MUCH OF THE CENTRAL FLORIDA ATLANTIC AND INTRACOASTAL
-WATERS...
+...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF
+VOLUSIA...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 149 PM EDT, Doppler radar indicated shower and thunderstorms,
-capable of producing winds to around 33 knots. These showers and
-thunderstorms were located along a line extending from near Port
-Orange to near Canaveral Groves to 16 nm northeast of Sebastian
-Inlet to 11 nm northeast of Saint Lucie Nuclear Power Plant, moving
-northeast at 15 knots.
+At 344 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 49 nm northeast of Bethune Beach
+to 16 nm northeast of Daytona Beach Shores to 6 nm east of Apollo
+Beach, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 33 knots, locally higher
+Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
 &&
 
-LAT...LON 2893 7964 2866 7955 2829 7954 2712 7908
-      2731 8029 2807 8065 2865 8085 2884 8085
-      2915 8101 2947 7998
+LAT...LON 2942 8113 2943 8110 2946 8113 2948 8072
+      2947 7998 2916 7975 2893 7964 2882 8087
+      2884 8085 2938 8113
 
 $$
 
