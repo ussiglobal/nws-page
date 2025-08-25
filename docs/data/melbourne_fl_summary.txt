@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2025 • 2:00 PM
+Generated: Aug 25, 2025 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,22 +8,22 @@ Generated: Aug 25, 2025 • 2:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 77°F; Rain: 65% ; Wind: 5 to 10 mph WSW
 • Tomorrow: Tuesday — High: 91°F; Low: 77°F; Rain: 72% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 83.6%
+Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-192
-FZUS72 KMLB 251718
+414
+FZUS72 KMLB 251839
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-118 PM EDT Mon Aug 25 2025
+239 PM EDT Mon Aug 25 2025
 
-AMZ550-552-570-572-251815-
-118 PM EDT Mon Aug 25 2025
+AMZ550-552-570-572-251945-
+239 PM EDT Mon Aug 25 2025
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC AND INTRACOASTAL WATERS
-FROM NEAR PONCE INLET TO SEBASTIAN INLET...
+...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF VOLUSIA
+AND NORTHERN BREVARD COUNTIES...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
@@ -31,11 +31,10 @@ The areas affected include...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 117 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 239 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near New Smyrna Beach to 17 nm
-northeast of Klondike Beach to near Melbourne Beach, moving east at
-15 knots.
+located along a line extending from near Daytona Beach Shores to Oak
+Hill to 26 nm east of Playalinda Beach, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -45,10 +44,9 @@ immediately until these storms pass.
 
 &&
 
-LAT...LON 2926 8056 2896 7993 2790 8006 2784 8044
-      2780 8042 2780 8043 2783 8044 2783 8048
-      2781 8044 2779 8049 2808 8065 2865 8085
-      2881 8089 2884 8085 2916 8102
+LAT...LON 2947 7998 2901 7967 2857 7954 2876 8088
+      2881 8089 2884 8085 2942 8113 2943 8110
+      2946 8112 2948 8066
 
 $$
 
