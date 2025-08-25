@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2025 • 3:00 PM
+Generated: Aug 25, 2025 • 4:01 PM
 ===============================
 
 📅 Forecast:
@@ -8,45 +8,42 @@ Generated: Aug 25, 2025 • 3:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 77°F; Rain: 65% ; Wind: 5 to 10 mph WSW
 • Tomorrow: Tuesday — High: 91°F; Low: 77°F; Rain: 72% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 88.8%
+Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-414
-FZUS72 KMLB 251839
+327
+FZUS72 KMLB 251940
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-239 PM EDT Mon Aug 25 2025
+340 PM EDT Mon Aug 25 2025
 
-AMZ550-552-570-572-251945-
-239 PM EDT Mon Aug 25 2025
+AMZ552-555-572-575-252045-
+340 PM EDT Mon Aug 25 2025
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF VOLUSIA
-AND NORTHERN BREVARD COUNTIES...
+...A STRONG THUNDERSTORM OVER THE ATLANTIC WATERS OFFSHORE OF
+SEBASTIAN TO FORT PIERCE INLETS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 239 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Daytona Beach Shores to Oak
-Hill to 26 nm east of Playalinda Beach, moving east at 20 knots.
+At 340 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+21 nm east of Sebastian Inlet State Park, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2947 7998 2901 7967 2857 7954 2876 8088
-      2881 8089 2884 8085 2942 8113 2943 8110
-      2946 8112 2948 8066
+LAT...LON 2750 8023 2798 8028 2817 7977 2741 7960
 
 $$
 
