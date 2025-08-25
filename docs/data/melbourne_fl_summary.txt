@@ -1,50 +1,54 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2025 • 1:01 PM
+Generated: Aug 25, 2025 • 2:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 89°F; Rain: 76% ; Wind: 10 mph WSW
+• Today:    This Afternoon — Showers And Thunderstorms. High: 91°F; Rain: 76% ; Wind: 10 mph WSW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 77°F; Rain: 65% ; Wind: 5 to 10 mph WSW
-• Tomorrow: Tuesday — High: 91°F; Low: 78°F; Rain: 73% ; Wind: 5 to 10 mph SW
+• Tomorrow: Tuesday — High: 91°F; Low: 77°F; Rain: 72% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 62.5%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-777
-FZUS72 KMLB 251627
+192
+FZUS72 KMLB 251718
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1227 PM EDT Mon Aug 25 2025
+118 PM EDT Mon Aug 25 2025
 
-AMZ552-251730-
-1227 PM EDT Mon Aug 25 2025
+AMZ550-552-570-572-251815-
+118 PM EDT Mon Aug 25 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE INTRACOASTAL AND
-ATLANTIC WATERS NEAR MELBOURNE...
+...STRONG THUNDERSTORMS OVER THE ATLANTIC AND INTRACOASTAL WATERS
+FROM NEAR PONCE INLET TO SEBASTIAN INLET...
 
 The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1226 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located 9 nm northwest of West Melbourne, or 10 nm west of Melbourne,
-moving east at 20 knots.
+At 117 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from near New Smyrna Beach to 17 nm
+northeast of Klondike Beach to near Melbourne Beach, moving east at
+15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2844 8069 2843 8069 2845 8063 2848 8020
-      2835 8021 2826 8027 2823 8026 2789 8009
-      2785 8040 2783 8043 2784 8043 2784 8047
-      2782 8047 2781 8051 2807 8065 2843 8077
+LAT...LON 2926 8056 2896 7993 2790 8006 2784 8044
+      2780 8042 2780 8043 2783 8044 2783 8048
+      2781 8044 2779 8049 2808 8065 2865 8085
+      2881 8089 2884 8085 2916 8102
 
 $$
 
