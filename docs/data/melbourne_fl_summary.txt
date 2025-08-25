@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2025 • 12:01 PM
+Generated: Aug 25, 2025 • 1:01 PM
 ===============================
 
 📅 Forecast:
@@ -8,28 +8,30 @@ Generated: Aug 25, 2025 • 12:01 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 77°F; Rain: 65% ; Wind: 5 to 10 mph WSW
 • Tomorrow: Tuesday — High: 91°F; Low: 78°F; Rain: 73% ; Wind: 5 to 10 mph SW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 87.8°F (31°C) · Humidity: 62.5%
 
 🛥️ Marine Weather Statement:
-945
-FZUS72 KMLB 242240
+777
+FZUS72 KMLB 251627
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-640 PM EDT Sun Aug 24 2025
+1227 PM EDT Mon Aug 25 2025
 
-AMZ550-242345-
-640 PM EDT Sun Aug 24 2025
+AMZ552-251730-
+1227 PM EDT Mon Aug 25 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...A STRONG THUNDERSTORM APPROACHING THE INTRACOASTAL AND
+ATLANTIC WATERS NEAR MELBOURNE...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 640 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-11 nm east of Ormond-By-the-Sea, moving southeast at 15 knots.
+At 1226 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located 9 nm northwest of West Melbourne, or 10 nm west of Melbourne,
+moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,14 +41,14 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8104
-      2948 8075 2942 8073 2926 8064 2917 8102
-      2938 8113
+LAT...LON 2844 8069 2843 8069 2845 8063 2848 8020
+      2835 8021 2826 8027 2823 8026 2789 8009
+      2785 8040 2783 8043 2784 8043 2784 8047
+      2782 8047 2781 8051 2807 8065 2843 8077
 
 $$
 
-Schaper
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 421
