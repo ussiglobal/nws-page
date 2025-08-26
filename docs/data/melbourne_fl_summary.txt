@@ -1,52 +1,49 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 26, 2025 • 2:00 PM
+Generated: Aug 26, 2025 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 90°F; Rain: 67% ; Wind: 5 mph WSW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 90°F; Rain: 67% ; Wind: 5 mph WSW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 77°F; Rain: 56% ; Wind: 5 mph WSW
 • Tomorrow: Wednesday — High: 90°F; Low: 80°F; Rain: 37% ; Wind: 5 to 10 mph NNW
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 74.3%
+Temp: 82°F (27.8°C) · Humidity: 81.8%
 
 🛥️ Marine Weather Statement:
-994
-FZUS72 KMLB 261756
+675
+FZUS72 KMLB 261820
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-156 PM EDT Tue Aug 26 2025
+220 PM EDT Tue Aug 26 2025
 
-AMZ552-555-572-575-261900-
-156 PM EDT Tue Aug 26 2025
+AMZ552-261915-
+220 PM EDT Tue Aug 26 2025
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC AND INTRACOASTAL WATERS
-FROM NEAR SATELLITE BEACH TO FORT PIERCE INLET...
+...A STRONG THUNDERSTORM OVER THE NORTH BREVARD INTRACOASTAL
+WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 155 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Indialantic to 14 nm
-northeast of South Beach to 13 nm west of Saint Lucie West, moving
-east at 20 knots.
+At 220 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Cocoa, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2746 8037 2765 8041 2807 8065 2825 8071
-      2845 7988 2740 7952 2729 8028
+LAT...LON 2876 8056 2831 8042 2824 8071 2869 8086
 
 $$
 
