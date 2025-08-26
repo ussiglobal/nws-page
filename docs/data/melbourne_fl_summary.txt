@@ -1,53 +1,50 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 26, 2025 • 4:00 PM
+Generated: Aug 26, 2025 • 5:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 90°F; Rain: 67% ; Wind: 5 mph WSW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 90°F; Rain: 64% ; Wind: 5 mph WSW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 77°F; Rain: 56% ; Wind: 5 mph WSW
 • Tomorrow: Wednesday — High: 90°F; Low: 80°F; Rain: 37% ; Wind: 5 to 10 mph NNW
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 83.6%
+Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-675
-FZUS72 KMLB 261820
+962
+FZUS72 KMLB 262018
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-220 PM EDT Tue Aug 26 2025
+418 PM EDT Tue Aug 26 2025
 
-AMZ552-261915-
-220 PM EDT Tue Aug 26 2025
+AMZ550-552-262115-
+418 PM EDT Tue Aug 26 2025
 
-...A STRONG THUNDERSTORM OVER THE NORTH BREVARD INTRACOASTAL
-WATERS...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 220 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 418 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Cocoa, moving east at 10 knots.
+over Mims, moving south at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
 
 &&
 
-LAT...LON 2876 8056 2831 8042 2824 8071 2869 8086
+LAT...LON 2883 8085 2887 8087 2897 8078 2850 8047
+      2848 8067 2855 8065 2856 8067 2848 8070
+      2847 8079 2881 8089
 
 $$
 
-Haley
+Leahy
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 746
