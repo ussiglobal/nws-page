@@ -1,39 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2025 • 5:01 PM
+Generated: Aug 26, 2025 • 3:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 91°F; Rain: 76% ; Wind: 10 mph WSW
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 77°F; Rain: 65% ; Wind: 5 to 10 mph WSW
-• Tomorrow: Tuesday — High: 91°F; Low: 77°F; Rain: 72% ; Wind: 5 to 10 mph WSW
+• Today:    Tuesday — Showers And Thunderstorms Likely. High: 88°F; Rain: 74% ; Wind: 10 mph SW
+• Tonight:  Overnight — Partly Cloudy. Low: 77°F; Rain: 2% ; Wind: 10 mph WSW
+• Tomorrow: Wednesday — High: 89°F; Low: 77°F; Rain: 47% ; Wind: 5 to 15 mph N
 🌡️ Current Conditions:
-Temp: 77°F (25°C) · Humidity: 94.2%
+Temp: 73.4°F (23°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-327
-FZUS72 KMLB 251940
+267
+FZUS72 KMLB 260055
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-340 PM EDT Mon Aug 25 2025
+855 PM EDT Mon Aug 25 2025
 
-AMZ552-555-572-575-252045-
-340 PM EDT Mon Aug 25 2025
+AMZ555-575-260200-
+855 PM EDT Mon Aug 25 2025
 
-...A STRONG THUNDERSTORM OVER THE ATLANTIC WATERS OFFSHORE OF
-SEBASTIAN TO FORT PIERCE INLETS...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Sebastian Inlet to Jupiter Inlet 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 340 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 855 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-21 nm east of Sebastian Inlet State Park, moving east at 10 knots.
+16 nm east of Jupiter Island, moving southeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -43,11 +40,11 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2750 8023 2798 8028 2817 7977 2741 7960
+LAT...LON 2704 8006 2736 7957 2698 7933 2697 8004
 
 $$
 
-Haley
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 421
