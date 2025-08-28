@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 28, 2025 • 4:00 PM
+Generated: Aug 28, 2025 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,42 +8,38 @@ Generated: Aug 28, 2025 • 4:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 77°F; Rain: 56% ; Wind: 5 to 10 mph S
 • Tomorrow: Friday — High: 90°F; Low: 78°F; Rain: 64% ; Wind: 5 to 10 mph NNE
 🌡️ Current Conditions:
-Temp: 78.1°F (25.6°C) · Humidity: 84.5%
+Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-243
-FZUS72 KMLB 281943
+562
+FZUS72 KMLB 282040
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-343 PM EDT Thu Aug 28 2025
+440 PM EDT Thu Aug 28 2025
 
-AMZ552-282045-
-343 PM EDT Thu Aug 28 2025
+AMZ552-282049-
+/O.CAN.KMLB.MA.W.0182.000000T0000Z-250828T2100Z/
+440 PM EDT Thu Aug 28 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 343 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Melbourne Beach, or over Indialantic, moving east at 10 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2815 8067 2820 8037 2787 8022 2783 8051
+LAT...LON 2854 8081 2863 8071 2862 8064 2863 8065
+      2865 8069 2877 8057 2849 8049 2833 8073
+TIME...MOT...LOC 2036Z 220DEG 17KT 2858 8064
 
 $$
 
-Weitlich
+Ulrich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 179
