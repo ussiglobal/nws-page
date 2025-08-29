@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 28, 2025 • 10:00 PM
+Generated: Aug 28, 2025 • 11:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Friday — Slight Chance Rain Showers then Showers And Thunderstorms Likely. High: 90°F; Rain: 64% ; Wind: 5 to 10 mph NNE
+• Today:    Friday — Showers And Thunderstorms Likely. High: 90°F; Rain: 64% ; Wind: 5 to 10 mph NNE
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 43% ; Wind: 5 mph SSW
 • Tomorrow: Saturday — High: 89°F; Low: 78°F; Rain: 80% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 83.7%
+Temp: 77°F (25°C) · Humidity: 94.2%
 
 🛥️ Marine Weather Statement:
 951
