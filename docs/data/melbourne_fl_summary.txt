@@ -1,41 +1,46 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 28, 2025 • 9:00 PM
+Generated: Aug 28, 2025 • 10:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Friday — Slight Chance Rain Showers then Showers And Thunderstorms Likely. High: 90°F; Rain: 64% ; Wind: 5 to 10 mph NNE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 49% ; Wind: 5 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 43% ; Wind: 5 mph SSW
 • Tomorrow: Saturday — High: 89°F; Low: 78°F; Rain: 80% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
 Temp: 80.6°F (27°C) · Humidity: 83.7%
 
 🛥️ Marine Weather Statement:
-562
-FZUS72 KMLB 282040
+951
+FZUS72 KMLB 290133
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-440 PM EDT Thu Aug 28 2025
+933 PM EDT Thu Aug 28 2025
 
-AMZ552-282049-
-/O.CAN.KMLB.MA.W.0182.000000T0000Z-250828T2100Z/
-440 PM EDT Thu Aug 28 2025
+AMZ552-290215-
+933 PM EDT Thu Aug 28 2025
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+At 932 PM EDT, Doppler radar indicated a cluster of thunderstorms
+moving off the central Brevard County coast near Cocoa Beach and
+Cape Canaveral, capable of producing winds to around 30 knots. These
+thunderstorms were moving east at 15 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
 
 &&
 
-LAT...LON 2854 8081 2863 8071 2862 8064 2863 8065
-      2865 8069 2877 8057 2849 8049 2833 8073
-TIME...MOT...LOC 2036Z 220DEG 17KT 2858 8064
+LAT...LON 2870 8041 2814 8037 2817 8069 2851 8081
 
 $$
 
