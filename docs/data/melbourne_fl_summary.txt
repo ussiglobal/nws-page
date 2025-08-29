@@ -1,50 +1,57 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 28, 2025 • 11:00 PM
+Generated: Aug 29, 2025 • 2:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Friday — Showers And Thunderstorms Likely. High: 90°F; Rain: 64% ; Wind: 5 to 10 mph NNE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 43% ; Wind: 5 mph SSW
-• Tomorrow: Saturday — High: 89°F; Low: 78°F; Rain: 80% ; Wind: 5 to 10 mph SSW
+• Today:    Friday — Mostly Sunny then Showers And Thunderstorms Likely. High: 88°F; Rain: 58% ; Wind: 5 to 10 mph WNW
+• Tonight:  Overnight — Partly Cloudy. Low: 77°F; Rain: 13% ; Wind: 5 mph SW
+• Tomorrow: Saturday — High: 89°F; Low: 77°F; Rain: 80% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 77°F (25°C) · Humidity: 94.2%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-951
-FZUS72 KMLB 290133
+389
+FZUS72 KMLB 290415
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-933 PM EDT Thu Aug 28 2025
+1215 AM EDT Fri Aug 29 2025
 
-AMZ552-290215-
-933 PM EDT Thu Aug 28 2025
+AMZ552-555-572-575-290615-
+1215 AM EDT Fri Aug 29 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 932 PM EDT, Doppler radar indicated a cluster of thunderstorms
-moving off the central Brevard County coast near Cocoa Beach and
-Cape Canaveral, capable of producing winds to around 30 knots. These
-thunderstorms were moving east at 15 knots.
+At 1214 AM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 38 nm northeast of Sebastian
+Inlet to 36 nm east of Indian River Shores, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
+These strong thunderstorms will likely produce winds to around 30
+knots, and could pose a serious hazard for boaters. A special marine
+warning may eventually be required. Boaters should consider heading
+for shore.
+
+Intense lightning is occurring with these storms. If caught on the
+open water stay below deck if possible, keep away from ungrounded
+metal objects.
 
 &&
 
-LAT...LON 2870 8041 2814 8037 2817 8069 2851 8081
+LAT...LON 2756 8018 2830 8047 2870 7956 2854 7953
+      2829 7954 2806 7943 2781 7935
 
 $$
 
-Ulrich
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 179
