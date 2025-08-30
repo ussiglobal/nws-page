@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 30, 2025 • 4:00 PM
+Generated: Aug 30, 2025 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,42 +8,42 @@ Generated: Aug 30, 2025 • 4:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 78°F; Rain: 69% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Sunday — High: 88°F; Low: 76°F; Rain: 77% ; Wind: 5 to 10 mph NNW
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 49.4%
+Temp: 89.6°F (32°C) · Humidity: 52.3%
 
 🛥️ Marine Weather Statement:
-834
-FZUS72 KMLB 301952
+747
+FZUS72 KMLB 302056
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-352 PM EDT Sat Aug 30 2025
+456 PM EDT Sat Aug 30 2025
 
-AMZ550-570-302045-
-352 PM EDT Sat Aug 30 2025
+AMZ555-302145-
+456 PM EDT Sat Aug 30 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 352 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 456 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-11 nm northeast of Ormond-By-the-Sea, moving southeast at 20 knots.
+over Hobe Sound, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8103
-      2948 8072 2948 8047 2911 8033 2908 8098
-      2938 8113
+LAT...LON 2697 8011 2711 8018 2714 8021 2722 8020
+      2721 7981 2717 7980 2697 7988
 
 $$
 
