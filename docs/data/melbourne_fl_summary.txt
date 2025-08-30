@@ -1,49 +1,41 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 30, 2025 • 5:00 PM
+Generated: Aug 30, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 90°F; Rain: 70% ; Wind: 10 mph ENE
+• Today:    Sunday — Showers And Thunderstorms Likely. High: 88°F; Rain: 77% ; Wind: 5 to 10 mph NNW
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 78°F; Rain: 69% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Sunday — High: 88°F; Low: 76°F; Rain: 77% ; Wind: 5 to 10 mph NNW
+• Tomorrow: Labor Day — High: 87°F; Low: 76°F; Rain: 70% ; Wind: 10 to 15 mph N
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 52.3%
+Temp: 89.6°F (32°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-747
-FZUS72 KMLB 302056
+638
+FZUS72 KMLB 302158
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-456 PM EDT Sat Aug 30 2025
+558 PM EDT Sat Aug 30 2025
 
-AMZ555-302145-
-456 PM EDT Sat Aug 30 2025
+AMZ552-302208-
+/O.CAN.KMLB.MA.W.0187.000000T0000Z-250830T2215Z/
+558 PM EDT Sat Aug 30 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 456 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Hobe Sound, moving east at 10 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2714 8021 2722 8020
-      2721 7981 2717 7980 2697 7988
+LAT...LON 2862 8082 2878 8056 2868 8037 2849 8030
+      2836 8074
+TIME...MOT...LOC 2157Z 311DEG 11KT 2856 8054
 
 $$
 
