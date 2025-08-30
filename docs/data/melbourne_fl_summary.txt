@@ -1,26 +1,26 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 30, 2025 • 3:00 PM
+Generated: Aug 30, 2025 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 90°F; Rain: 70% ; Wind: 10 mph NE
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 90°F; Rain: 70% ; Wind: 10 mph ENE
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 78°F; Rain: 69% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Sunday — High: 88°F; Low: 76°F; Rain: 77% ; Wind: 5 to 10 mph NNW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 55.6%
+Temp: 91.4°F (33°C) · Humidity: 49.4%
 
 🛥️ Marine Weather Statement:
-852
-FZUS72 KMLB 300335
+834
+FZUS72 KMLB 301952
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1135 PM EDT Fri Aug 29 2025
+352 PM EDT Sat Aug 30 2025
 
-AMZ550-570-300430-
-1135 PM EDT Fri Aug 29 2025
+AMZ550-570-302045-
+352 PM EDT Sat Aug 30 2025
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
@@ -28,35 +28,26 @@ The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 1135 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located 40 nm northeast of Daytona Beach Shores, moving east at 15
-knots.
+At 352 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+11 nm northeast of Ormond-By-the-Sea, moving southeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
-A special marine warning may eventually be required when this strong
-thunderstorm.
-
-Intense lightning is occurring with this storm. If caught on the open
-water stay below deck if possible, keep away from ungrounded metal
-objects.
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
 
 &&
 
-LAT...LON 2947 7998 2930 7986 2899 8058 2926 8081
-      2948 8045
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8103
+      2948 8072 2948 8047 2911 8033 2908 8098
+      2938 8113
 
 $$
 
-Sedlock
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 832
