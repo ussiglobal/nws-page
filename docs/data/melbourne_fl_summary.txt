@@ -1,45 +1,59 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 30, 2025 • 11:00 PM
+Generated: Aug 31, 2025 • 2:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Sunday — Showers And Thunderstorms Likely. High: 88°F; Rain: 77% ; Wind: 5 to 10 mph NNW
-• Tonight:  Tonight — Partly Cloudy. Low: 78°F; Rain: 9% ; Wind: 5 mph SW
-• Tomorrow: Labor Day — High: 87°F; Low: 76°F; Rain: 70% ; Wind: 10 to 15 mph N
+• Today:    Sunday — Mostly Sunny then Chance Showers And Thunderstorms. High: 89°F; Rain: 55% ; Wind: 5 to 10 mph NW
+• Tonight:  Overnight — Mostly Clear. Low: 78°F; Rain: 5% ; Wind: 5 mph W
+• Tomorrow: Labor Day — High: 88°F; Low: 77°F; Rain: 70% ; Wind: 10 to 15 mph N
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 78.8%
+Temp: 77°F (25°C) · Humidity: 88.7%
 
 🛥️ Marine Weather Statement:
-638
-FZUS72 KMLB 302158
+740
+FZUS72 KMLB 310514
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-558 PM EDT Sat Aug 30 2025
+114 AM EDT Sun Aug 31 2025
 
-AMZ552-302208-
-/O.CAN.KMLB.MA.W.0187.000000T0000Z-250830T2215Z/
-558 PM EDT Sat Aug 30 2025
+AMZ572-575-310615-
+114 AM EDT Sun Aug 31 2025
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+At 112 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+52 nm east of South Beach, moving southeast at 10 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and frequent lightning strikes. Boaters should seek safe
+harbor immediately until this storm passes. A special marine warning
+may eventually be required.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+Intense lightning is occurring with this storm. If caught on the
+open water stay below deck if possible, keep away from ungrounded
+metal objects.
 
 &&
 
-LAT...LON 2862 8082 2878 8056 2868 8037 2849 8030
-      2836 8074
-TIME...MOT...LOC 2157Z 311DEG 11KT 2856 8054
+LAT...LON 2738 7928 2792 7987 2809 7945 2785 7936
+      2746 7920
 
 $$
 
-Schaper
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 832
