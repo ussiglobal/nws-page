@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 31, 2025 • 2:00 PM
+Generated: Aug 31, 2025 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,52 +8,53 @@ Generated: Aug 31, 2025 • 2:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 77°F; Rain: 60% ; Wind: 5 to 10 mph NW
 • Tomorrow: Labor Day — High: 88°F; Low: 79°F; Rain: 70% ; Wind: 10 to 15 mph NNE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 66%
+Temp: 80.6°F (27°C) · Humidity: 78.8%
 
 🛥️ Marine Weather Statement:
-740
-FZUS72 KMLB 310514
+511
+FZUS72 KMLB 311832
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-114 AM EDT Sun Aug 31 2025
+232 PM EDT Sun Aug 31 2025
 
-AMZ572-575-310615-
-114 AM EDT Sun Aug 31 2025
+AMZ550-552-555-570-572-575-311930-
+232 PM EDT Sun Aug 31 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...STRONG THUNDERSTORMS OVER THE WATERS...
 
 The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 112 AM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-52 nm east of South Beach, moving southeast at 10 knots.
+At 232 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 14 nm east of Playalinda Beach to
+19 nm northeast of Melbourne Beach to near South Beach, moving east
+at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and frequent lightning strikes. Boaters should seek safe
-harbor immediately until this storm passes. A special marine warning
-may eventually be required.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
-Intense lightning is occurring with this storm. If caught on the
-open water stay below deck if possible, keep away from ungrounded
-metal objects.
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until these storms pass.
 
 &&
 
-LAT...LON 2738 7928 2792 7987 2809 7945 2785 7936
-      2746 7920
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2722 8035 2728 8035 2729 8032 2724 8026
+      2752 8038 2818 8029 2853 8049 2882 8087
+      2884 8085 2896 8091 2897 8081 2901 7990
+      2812 7968 2697 7970
 
 $$
 
-Sedlock
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 091
