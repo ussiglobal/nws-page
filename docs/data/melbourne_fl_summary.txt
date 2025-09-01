@@ -1,40 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 31, 2025 • 10:00 PM
+Generated: Aug 31, 2025 • 11:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Labor Day — Showers And Thunderstorms Likely. High: 88°F; Rain: 70% ; Wind: 10 to 15 mph NNE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 37% ; Wind: 5 to 10 mph WNW
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 35% ; Wind: 5 to 10 mph WNW
 • Tomorrow: Tuesday — High: 88°F; Low: 79°F; Rain: 70% ; Wind: 10 to 15 mph NE
 🌡️ Current Conditions:
 Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-836
-FZUS72 KMLB 010037
+111
+FZUS72 KMLB 010255
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-837 PM EDT Sun Aug 31 2025
+1055 PM EDT Sun Aug 31 2025
 
-AMZ555-010047-
-/O.EXP.KMLB.MA.W.0189.000000T0000Z-250901T0045Z/
-837 PM EDT Sun Aug 31 2025
+AMZ550-570-010445-
+1055 PM EDT Sun Aug 31 2025
 
-...THE SPECIAL MARINE WARNING WILL EXPIRE AT 845 PM EDT...
+...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFF VOLUSIA
+MOVING ONSHORE...
 
-The affected areas were...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-The thunderstorm has weakened, but gusty winds remain possible.
+At 1051 PM EDT, Doppler radar indicated strong thunderstorms,
+capable of producing winds to around 30 knots. These thunderstorms
+extend from near Marineland to Apollo Beach along the Volusia coast,
+and offshore out to 60 nm, moving southwest at 15 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2721 8024 2751 7994 2734 7987 2729 7984
-      2726 7984 2709 7976 2704 7975 2701 8013
-TIME...MOT...LOC 0037Z 233DEG 12KT 2730 7995
+LAT...LON 2942 8113 2943 8110 2946 8113 2948 8072
+      2947 7998 2916 7975 2893 7964 2883 8075
+      2884 8085 2938 8113
 
 $$
 
