@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 1, 2025 • 5:00 PM
+Generated: Sep 1, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,31 +8,34 @@ Generated: Sep 1, 2025 • 5:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 79°F; Rain: 51% ; Wind: 10 to 15 mph NE
 • Tomorrow: Tuesday — High: 88°F; Low: 79°F; Rain: 68% ; Wind: 10 to 15 mph NNE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 70.1%
+Temp: 82.4°F (28°C) · Humidity: 83.8%
 
 🛥️ Marine Weather Statement:
-111
-FZUS72 KMLB 010255
+039
+FZUS72 KMLB 012110
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1055 PM EDT Sun Aug 31 2025
+510 PM EDT Mon Sep 1 2025
 
-AMZ550-570-010445-
-1055 PM EDT Sun Aug 31 2025
+AMZ550-552-570-572-012315-
+510 PM EDT Mon Sep 1 2025
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFF VOLUSIA
-MOVING ONSHORE...
+...STRONG THUNDERSTORMS OVER THE ATLANTIC AND INTRACOASTAL WATERS
+NEAR CAPE CANAVERAL...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1051 PM EDT, Doppler radar indicated strong thunderstorms,
-capable of producing winds to around 30 knots. These thunderstorms
-extend from near Marineland to Apollo Beach along the Volusia coast,
-and offshore out to 60 nm, moving southwest at 15 knots.
+At 509 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 22 nm northeast of Playalinda
+Beach to Titusville, moving southwest at 10 knots. A Small Craft
+Advisory remains in effect for the Volusia waters to then north.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,14 +43,10 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
 &&
 
-LAT...LON 2942 8113 2943 8110 2946 8113 2948 8072
-      2947 7998 2916 7975 2893 7964 2883 8075
-      2884 8085 2938 8113
+LAT...LON 2903 8013 2854 7999 2824 8071 2860 8084
+      2880 8089
 
 $$
 
