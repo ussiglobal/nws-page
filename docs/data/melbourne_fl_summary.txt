@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 6, 2025 • 8:00 PM
+Generated: Sep 6, 2025 • 9:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,49 +8,48 @@ Generated: Sep 6, 2025 • 8:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 33% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Monday — High: 88°F; Low: 76°F; Rain: 76% ; Wind: 5 to 10 mph NW
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 78.8%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-039
-FZUS72 KMLB 012110
+721
+FZUS72 KMLB 070007
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-510 PM EDT Mon Sep 1 2025
+807 PM EDT Sat Sep 6 2025
 
-AMZ550-552-570-572-012315-
-510 PM EDT Mon Sep 1 2025
+AMZ550-070100-
+807 PM EDT Sat Sep 6 2025
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC AND INTRACOASTAL WATERS
-NEAR CAPE CANAVERAL...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 509 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 22 nm northeast of Playalinda
-Beach to Titusville, moving southwest at 10 knots. A Small Craft
-Advisory remains in effect for the Volusia waters to then north.
+At 807 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+near Ormond-By-the-Sea, moving northwest at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2903 8013 2854 7999 2824 8071 2860 8084
-      2880 8089
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2944 8112 2945 8113 2945 8112
+      2946 8112 2946 8113 2947 8093 2938 8089
+      2930 8107
 
 $$
 
-Haley
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 601
