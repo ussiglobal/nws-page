@@ -1,50 +1,52 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 7, 2025 • 7:00 PM
+Generated: Sep 7, 2025 • 8:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 90°F; Rain: 66% ; Wind: 5 mph SE
-• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 77°F; Rain: 65% ; Wind: 5 mph S
-• Tomorrow: Monday — High: 88°F; Low: 76°F; Rain: 71% ; Wind: 5 to 10 mph NNW
+• Today:    Monday — Showers And Thunderstorms Likely. High: 88°F; Rain: 71% ; Wind: 5 to 10 mph NNW
+• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 77°F; Rain: 62% ; Wind: 5 mph SSW
+• Tomorrow: Tuesday — High: 88°F; Low: 76°F; Rain: 80% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 74.3%
+Temp: 80.6°F (27°C) · Humidity: 83.7%
 
 🛥️ Marine Weather Statement:
-961
-FZUS72 KMLB 072030
+584
+FZUS72 KMLB 072333
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-430 PM EDT Sun Sep 7 2025
+733 PM EDT Sun Sep 7 2025
 
-AMZ552-072130-
-430 PM EDT Sun Sep 7 2025
+AMZ550-080030-
+733 PM EDT Sun Sep 7 2025
 
 A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 430 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Merritt Island Wildlife Refuge, or near Playalinda Beach, moving
-northeast at 10 knots.
+At 733 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from near Ormond-By-the-Sea to near
+Holly Hill to Edgewater, moving northeast at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2883 8086 2883 8082 2882 8081 2882 8078
-      2884 8076 2883 8076 2885 8045 2836 8027
-      2830 8066
+LAT...LON 2940 8113 2945 8075 2903 8049 2894 8091
+      2938 8113
 
 $$
 
-Law
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 373
