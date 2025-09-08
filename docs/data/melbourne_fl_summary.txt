@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 7, 2025 • 9:00 PM
+Generated: Sep 7, 2025 • 10:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,38 +11,40 @@ Generated: Sep 7, 2025 • 9:00 PM
 Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-584
-FZUS72 KMLB 072333
+093
+FZUS72 KMLB 080113
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-733 PM EDT Sun Sep 7 2025
+913 PM EDT Sun Sep 7 2025
 
-AMZ550-080030-
-733 PM EDT Sun Sep 7 2025
+AMZ550-552-080215-
+913 PM EDT Sun Sep 7 2025
 
 A Marine Weather Statement has been issued for the following areas...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 733 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Ormond-By-the-Sea to near
-Holly Hill to Edgewater, moving northeast at 15 knots.
+At 913 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+near Apollo Beach, or near Oak Hill, moving southeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+Intense lightning is occurring with this storm. If caught on the open
+water stay below deck if possible, keep away from ungrounded metal
+objects.
 
 &&
 
-LAT...LON 2940 8113 2945 8075 2903 8049 2894 8091
-      2938 8113
+LAT...LON 2905 8054 2852 8020 2846 8068 2855 8065
+      2856 8067 2851 8069 2846 8070 2845 8078
+      2880 8089 2884 8085 2897 8092
 
 $$
 
