@@ -1,36 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 9, 2025 • 5:00 PM
+Generated: Sep 9, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 87°F; Rain: 69% ; Wind: 10 mph E
+• Today:    Wednesday — Chance Showers And Thunderstorms. High: 87°F; Rain: 80% ; Wind: 5 to 10 mph NE
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 76°F; Rain: 72% ; Wind: 5 to 10 mph ESE
-• Tomorrow: Wednesday — High: 87°F; Low: 77°F; Rain: 80% ; Wind: 5 to 10 mph NE
+• Tomorrow: Thursday — High: 87°F; Low: 77°F; Rain: 67% ; Wind: 5 to 15 mph N
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 74.5%
+Temp: 82.4°F (28°C) · Humidity: 78.9%
 
 🛥️ Marine Weather Statement:
-312
-FZUS72 KMLB 092018
+493
+FZUS72 KMLB 092117
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-418 PM EDT Tue Sep 9 2025
+517 PM EDT Tue Sep 9 2025
 
-AMZ552-092115-
-418 PM EDT Tue Sep 9 2025
+AMZ552-092215-
+517 PM EDT Tue Sep 9 2025
 
-...A STRONG THUNDERSTORM ALONG THE INDIAN RIVER NEAR PORT SAINT
-JOHN...
+...A STRONG THUNDERSTORM OVER MERRITT ISLAND, THE INDIAN AND
+BANANA RIVERS...
 
-The areas affected include... Indian and Banana Rivers near
-Titusville, Port St John, and Cape Canaveral...
+The areas affected include...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 416 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 516 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Sharpes. The thunderstorm was nearly stationary.
+over Merritt Island, moving southeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,7 +40,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2861 8084 2859 8058 2830 8062 2827 8072
+LAT...LON 2845 8069 2843 8069 2846 8068 2856 8058
+      2832 8039 2813 8062 2820 8070 2838 8076
 
 $$
 
