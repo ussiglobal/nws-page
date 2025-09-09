@@ -1,36 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 9, 2025 • 6:00 PM
+Generated: Sep 9, 2025 • 7:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Chance Showers And Thunderstorms. High: 87°F; Rain: 80% ; Wind: 5 to 10 mph NE
-• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 76°F; Rain: 72% ; Wind: 5 to 10 mph ESE
+• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 76°F; Rain: 72% ; Wind: 5 mph SE
 • Tomorrow: Thursday — High: 87°F; Low: 77°F; Rain: 67% ; Wind: 5 to 15 mph N
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 78.9%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-493
-FZUS72 KMLB 092117
+036
+FZUS72 KMLB 092254
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-517 PM EDT Tue Sep 9 2025
+654 PM EDT Tue Sep 9 2025
 
-AMZ552-092215-
-517 PM EDT Tue Sep 9 2025
+AMZ550-570-100000-
+654 PM EDT Tue Sep 9 2025
 
-...A STRONG THUNDERSTORM OVER MERRITT ISLAND, THE INDIAN AND
-BANANA RIVERS...
+...A STRONG THUNDERSTORM OFF ORMOND BEACH...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 516 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 654 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Merritt Island, moving southeast at 5 knots.
+15 nm east of Ormond-By-the-Sea. The thunderstorm was nearly
+stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,8 +41,10 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2845 8069 2843 8069 2846 8068 2856 8058
-      2832 8039 2813 8062 2820 8070 2838 8076
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8103
+      2948 8072 2948 8058 2925 8047 2918 8103
+      2938 8113
 
 $$
 
