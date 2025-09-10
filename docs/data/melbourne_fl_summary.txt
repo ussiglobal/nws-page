@@ -1,37 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 9, 2025 • 8:00 PM
+Generated: Sep 9, 2025 • 9:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Chance Showers And Thunderstorms. High: 87°F; Rain: 80% ; Wind: 5 to 10 mph NE
-• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 76°F; Rain: 65% ; Wind: 5 mph SSE
+• Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 76°F; Rain: 58% ; Wind: 5 mph SSE
 • Tomorrow: Thursday — High: 87°F; Low: 77°F; Rain: 67% ; Wind: 5 to 15 mph N
 🌡️ Current Conditions:
 Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-036
-FZUS72 KMLB 092254
+495
+FZUS72 KMLB 100001
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-654 PM EDT Tue Sep 9 2025
+801 PM EDT Tue Sep 9 2025
 
-AMZ550-570-100000-
-654 PM EDT Tue Sep 9 2025
+AMZ550-570-100100-
+801 PM EDT Tue Sep 9 2025
 
-...A STRONG THUNDERSTORM OFF ORMOND BEACH...
+...STRONG THUNDERSTORMS OFF THE VOLUSIA COAST...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 654 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 801 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-15 nm east of Ormond-By-the-Sea. The thunderstorm was nearly
-stationary.
+12 nm east of Daytona Beach Shores, or 14 nm east of South Daytona.
+The thunderstorm was nearly stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,12 +39,13 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8103
-      2948 8072 2948 8058 2925 8047 2918 8103
-      2938 8113
+LAT...LON 2942 8113 2943 8110 2946 8113 2948 8081
+      2947 7998 2920 7979 2895 8091 2938 8113
 
 $$
 
