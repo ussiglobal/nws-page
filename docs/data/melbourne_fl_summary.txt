@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 12, 2025 • 11:00 AM
+Generated: Sep 12, 2025 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Showers And Thunderstorms Likely. High: 87°F; Rain: 66% ; Wind: 15 mph NE
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 87°F; Rain: 66% ; Wind: 15 mph NE
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 46% ; Wind: 10 to 15 mph NNE
 • Tomorrow: Saturday — High: 86°F; Low: 77°F; Rain: 57% ; Wind: 10 to 15 mph N
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 74.1%
+Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
 376
@@ -51,33 +51,33 @@ $$
 Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-354
-FZUS52 KMLB 121000
+769
+FZUS52 KMLB 121500
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EDT Fri Sep 12 2025
+1100 AM EDT Fri Sep 12 2025
 
 FLZ141-347-447-122000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EDT Fri Sep 12 2025
+1100 AM EDT Fri Sep 12 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................2 to 4 feet.
 Thunderstorm Potential**....High.
 UV Index**..................Very High.
 Water Temperature...........In the lower 80s.
-Weather.....................Partly sunny. Showers and thunderstorms
-                            likely.
+Weather.....................Mostly cloudy. Showers and
+                            thunderstorms likely.
 High Temperature............In the mid 80s.
-Winds.......................Northeast winds 10 to 15 mph.
+Winds.......................Northeast winds around 15 mph.
 Tides...
    Daytona Beach............High 4.8 feet (MLLW) 12:19 PM EDT.
    Port Canaveral...........High 4.7 feet (MLLW) 12:06 PM EDT.
@@ -100,12 +100,12 @@ Tides...
 Sunrise.....................7:07 AM.
 Sunset......................7:33 PM.
 
-.SUNDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the lower 80s. North winds around 15 mph.
-.MONDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the mid 80s. North winds around 10 mph.
-.TUESDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the mid 80s. North winds around 10 mph.
+.SUNDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+lower 80s. North winds around 15 mph.
+.MONDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+mid 80s. North winds around 10 mph.
+.TUESDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+mid 80s. North winds around 10 mph.
 
 &&
 
@@ -128,18 +128,18 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EDT Fri Sep 12 2025
+1100 AM EDT Fri Sep 12 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 3 feet.
 Thunderstorm Potential**....High.
 UV Index**..................Very High.
 Water Temperature...........In the mid 80s.
-Weather.....................Partly sunny. Showers and thunderstorms
-                            likely.
+Weather.....................Mostly cloudy. Showers and
+                            thunderstorms likely.
 High Temperature............In the mid 80s.
 Winds.......................Northeast winds 10 to 15 mph.
 Tides...
@@ -164,12 +164,12 @@ Tides...
 Sunrise.....................7:06 AM.
 Sunset......................7:31 PM.
 
-.SUNDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the mid 80s. North winds around 10 mph.
-.MONDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the mid 80s. North winds around 10 mph.
-.TUESDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the mid 80s. North winds around 10 mph.
+.SUNDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+mid 80s. North winds around 10 mph.
+.MONDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+mid 80s. North winds around 10 mph.
+.TUESDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+mid 80s. Northeast winds around 10 mph.
 
 &&
 
@@ -191,13 +191,13 @@ FLZ159-164-122000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EDT Fri Sep 12 2025
+1100 AM EDT Fri Sep 12 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
-Surf Height.................2 to 3 feet.
+Surf Height.................Around 3 feet.
 Thunderstorm Potential**....High.
 UV Index**..................Very High.
 Water Temperature...........In the mid 80s.
@@ -214,7 +214,7 @@ Sunset......................7:31 PM.
 Rip Current Risk*...........High.
 Surf Height.................Around 3 feet.
 Thunderstorm Potential**....Moderate.
-Weather.....................Mostly sunny. Showers likely and a
+Weather.....................Partly sunny. Showers likely and a
                             chance of thunderstorms.
 High Temperature............In the mid 80s.
 Winds.......................North winds around 10 mph.
@@ -224,12 +224,12 @@ Tides...
 Sunrise.....................7:05 AM.
 Sunset......................7:30 PM.
 
-.SUNDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the mid 80s. North winds around 10 mph.
-.MONDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the upper 80s. North winds around 5 mph.
-.TUESDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the upper 80s. North winds around 10 mph.
+.SUNDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+mid 80s. North winds around 10 mph.
+.MONDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+upper 80s. North winds around 5 mph.
+.TUESDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+mid 80s. Northeast winds around 5 mph.
 
 &&
 
