@@ -1,36 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 13, 2025 • 8:00 PM
+Generated: Sep 13, 2025 • 9:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Chance Showers And Thunderstorms. High: 86°F; Rain: 38% ; Wind: 10 to 15 mph NNW
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 75°F; Rain: 35% ; Wind: 10 to 15 mph NNW
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 75°F; Rain: 34% ; Wind: 10 to 15 mph N
 • Tomorrow: Monday — High: 87°F; Low: 75°F; Rain: 31% ; Wind: 5 to 10 mph N
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 74.1%
+Temp: 78.8°F (26°C) · Humidity: 78.6%
 
 🛥️ Marine Weather Statement:
-482
-FZUS72 KMLB 132325
+241
+FZUS72 KMLB 140002
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-725 PM EDT Sat Sep 13 2025
+802 PM EDT Sat Sep 13 2025
 
-AMZ550-570-140030-
-725 PM EDT Sat Sep 13 2025
+AMZ550-552-140100-
+802 PM EDT Sat Sep 13 2025
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 724 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 802 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-19 nm east of Daytona Beach Shores, moving south at 20 knots.
+near Bethune Beach, or near Edgewater, moving south at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,7 +40,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2890 8046 2900 8084 2947 8072 2941 8039
+LAT...LON 2923 8086 2917 8063 2857 8077 2859 8083
+      2880 8089 2884 8085 2900 8094
 
 $$
 
