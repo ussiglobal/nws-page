@@ -1,54 +1,52 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 15, 2025 • 6:00 PM
+Generated: Sep 15, 2025 • 7:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Tuesday — Sunny then Slight Chance Showers And Thunderstorms. High: 87°F; Rain: 17% ; Wind: 5 to 15 mph NE
-• Tonight:  Tonight — Partly Cloudy. Low: 78°F; Rain: 14% ; Wind: 5 to 10 mph NE
+• Tonight:  Tonight — Partly Cloudy. Low: 78°F; Rain: 13% ; Wind: 5 to 10 mph NE
 • Tomorrow: Wednesday — High: 87°F; Low: 78°F; Rain: 34% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 74.1%
+Temp: 78.8°F (26°C) · Humidity: 78.6%
 
 🛥️ Marine Weather Statement:
-656
-FZUS72 KMLB 141037
+538
+FZUS72 KMLB 152240
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-637 AM EDT Sun Sep 14 2025
+640 PM EDT Mon Sep 15 2025
 
-AMZ550-552-570-572-141200-
-637 AM EDT Sun Sep 14 2025
+AMZ555-160015-
+640 PM EDT Mon Sep 15 2025
 
-A Marine Weather Statement has been issued for the following areas...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+...STRONG THUNDERSTORMS APPROACHING THE WATERS...
 
-At 637 AM EDT, Doppler radar indicated strong thunderstorms, capable
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+
+At 639 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 49 nm northeast of Apollo Beach
-to 29 nm northeast of Playalinda Beach to near Merritt Island
-Wildlife Refuge, moving south to southeast at 10 knots.
+located along a line extending from near Queens Cove to near Fort
+Pierce to Jensen Beach, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+These strong thunderstorms will likely produce winds to around 30
+knots, and could pose a serious hazard for boaters. A special marine
+warning may eventually be required. Boaters should consider heading
+for shore before these strong thunderstorms arrives.
 
 &&
 
-LAT...LON 2902 7967 2866 7955 2852 7954 2832 8074
-      2879 8087 2884 8076 2905 8047 2947 8015
-      2947 7998
+LAT...LON 2697 8011 2711 8018 2715 8023 2757 8031
+      2769 8001 2697 7974
 
 $$
 
-Watson
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 505
