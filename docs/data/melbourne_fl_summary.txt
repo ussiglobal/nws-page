@@ -1,10 +1,10 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 17, 2025 • 11:00 AM
+Generated: Sep 17, 2025 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Showers And Thunderstorms Likely. High: 85°F; Rain: 61% ; Wind: 10 mph E
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 85°F; Rain: 61% ; Wind: 10 mph E
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 76°F; Rain: 56% ; Wind: 10 mph E
 • Tomorrow: Thursday — High: 85°F; Low: 77°F; Rain: 58% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
@@ -55,36 +55,35 @@ $$
 Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-044
-FZUS52 KMLB 171000
+344
+FZUS52 KMLB 171500
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EDT Wed Sep 17 2025
+1100 AM EDT Wed Sep 17 2025
 
 FLZ141-347-447-172000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EDT Wed Sep 17 2025
+1100 AM EDT Wed Sep 17 2025
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 3 feet.
 Thunderstorm Potential**....Moderate.
 UV Index**..................Moderate.
 Water Temperature...........Around 80.
-Weather.....................Partly sunny. A chance of showers and
+Weather.....................Mostly cloudy. A chance of showers and
                             thunderstorms.
 High Temperature............In the mid 80s.
-Winds.......................East winds 5 to 10 mph.
+Winds.......................East winds around 10 mph.
 Tides...
    Daytona Beach............Low 0.7 feet (MLLW) 11:02 AM EDT.
                             High 4.5 feet (MLLW) 05:33 PM EDT.
-   Port Canaveral...........Low 0.5 feet (MLLW) 10:47 AM EDT.
-                            High 4.3 feet (MLLW) 05:32 PM EDT.
+   Port Canaveral...........High 4.3 feet (MLLW) 05:32 PM EDT.
 Sunrise.....................7:09 AM.
 Sunset......................7:28 PM.
 
@@ -92,7 +91,7 @@ Sunset......................7:28 PM.
 Rip Current Risk*...........Moderate.
 Surf Height.................2 to 3 feet.
 Thunderstorm Potential**....Moderate.
-Weather.....................Mostly sunny. A chance of showers and
+Weather.....................Partly sunny. A chance of showers and
                             thunderstorms.
 High Temperature............In the mid 80s.
 Winds.......................East winds 5 to 10 mph.
@@ -104,8 +103,8 @@ Sunset......................7:27 PM.
 
 .FRIDAY...Sunny. A chance of showers and thunderstorms. Highs in the
 mid 80s. Northeast winds around 10 mph.
-.SATURDAY...Sunny. A chance of showers and thunderstorms. Highs in
-the mid 80s. Northeast winds around 15 mph.
+.SATURDAY...Mostly sunny. A chance of showers and thunderstorms.
+Highs in the mid 80s. Northeast winds around 15 mph.
 .SUNDAY...Mostly sunny. Showers likely and a chance of thunderstorms.
 Highs in the mid 80s. Northeast winds around 10 mph.
 
@@ -130,21 +129,20 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EDT Wed Sep 17 2025
+1100 AM EDT Wed Sep 17 2025
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 3 feet.
-Thunderstorm Potential**....Moderate.
+Thunderstorm Potential**....High.
 UV Index**..................Moderate.
 Water Temperature...........In the lower 80s.
-Weather.....................Mostly cloudy. Showers likely and a
-                            chance of thunderstorms.
+Weather.....................Mostly cloudy. Showers and
+                            thunderstorms likely.
 High Temperature............In the mid 80s.
 Winds.......................East winds around 10 mph.
 Tides...
-   Port Canaveral...........Low 0.5 feet (MLLW) 10:47 AM EDT.
-                            High 4.3 feet (MLLW) 05:32 PM EDT.
+   Port Canaveral...........High 4.3 feet (MLLW) 05:32 PM EDT.
    Sebastian Inlet..........Low 0.4 feet (MLLW) 11:17 AM EDT.
                             High 2.6 feet (MLLW) 05:38 PM EDT.
 Sunrise.....................7:08 AM.
@@ -169,7 +167,7 @@ in the mid 80s. Northeast winds around 15 mph.
 .SATURDAY...Mostly sunny. A chance of showers and thunderstorms.
 Highs in the mid 80s. Northeast winds around 15 mph.
 .SUNDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
-the mid 80s. Northeast winds around 10 mph.
+the mid 80s. East winds around 10 mph.
 
 &&
 
@@ -191,18 +189,20 @@ FLZ159-164-172000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EDT Wed Sep 17 2025
+1100 AM EDT Wed Sep 17 2025
 
-.TODAY...
-Rip Current Risk*...........Moderate.
+...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
+
+.REST OF TODAY...
+Rip Current Risk*...........High.
 Surf Height.................Around 3 feet.
-Thunderstorm Potential**....Moderate.
+Thunderstorm Potential**....High.
 UV Index**..................Low.
-Water Temperature...........In the mid 80s.
-Weather.....................Mostly cloudy. Showers likely and a
-                            chance of thunderstorms.
+Water Temperature...........In the lower 80s.
+Weather.....................Mostly cloudy. Showers and
+                            thunderstorms likely.
 High Temperature............In the mid 80s.
-Winds.......................East winds 5 to 10 mph.
+Winds.......................East winds around 10 mph.
 Tides...
    Fort Pierce Inlet........Low 0.6 feet (MLLW) 11:23 AM EDT.
                             High 3.2 feet (MLLW) 05:55 PM EDT.
@@ -228,7 +228,7 @@ the mid 80s. Northeast winds around 10 mph.
 .SATURDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
 the mid 80s. Northeast winds around 10 mph.
 .SUNDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
-the mid 80s. East winds around 10 mph.
+the upper 80s. East winds around 10 mph.
 
 &&
 
