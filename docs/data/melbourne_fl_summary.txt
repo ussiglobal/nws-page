@@ -1,36 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 17, 2025 • 2:00 PM
+Generated: Sep 17, 2025 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 86°F; Rain: 65% ; Wind: 10 mph ESE
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 86°F; Rain: 59% ; Wind: 10 mph ESE
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 50% ; Wind: 5 to 10 mph E
 • Tomorrow: Thursday — High: 87°F; Low: 78°F; Rain: 57% ; Wind: 5 to 15 mph E
 🌡️ Current Conditions:
 Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-252
-FZUS72 KMLB 171243
+442
+FZUS72 KMLB 171823
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-843 AM EDT Wed Sep 17 2025
+223 PM EDT Wed Sep 17 2025
 
-AMZ555-575-171345-
-843 AM EDT Wed Sep 17 2025
+AMZ550-552-570-572-171930-
+223 PM EDT Wed Sep 17 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
-
-At 842 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 223 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-28 nm east of Hobe Sound Beach, moving southeast at 15 knots.
+28 nm east of Port Canaveral, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,21 +38,14 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
-Intense lightning is occurring with this storm. If caught on the open
-water stay below deck if possible, keep away from ungrounded metal
-objects.
-
 &&
 
-LAT...LON 2697 7990 2732 7992 2749 7921 2729 7913
-      2698 7905
+LAT...LON 2919 7978 2893 7964 2859 7954 2813 8067
+      2880 8089
 
 $$
 
-Tollefsen
+Law
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 344
