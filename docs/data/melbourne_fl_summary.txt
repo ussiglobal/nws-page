@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 17, 2025 • 4:00 AM
+Generated: Sep 17, 2025 • 5:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,45 +8,50 @@ Generated: Sep 17, 2025 • 4:00 AM
 • Tonight:  Overnight — Slight Chance Showers And Thunderstorms. Low: 77°F; Rain: 21% ; Wind: 10 mph E
 • Tomorrow: Thursday — High: 85°F; Low: 76°F; Rain: 58% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 83.6%
+Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-538
-FZUS72 KMLB 152240
+975
+FZUS72 KMLB 170841
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-640 PM EDT Mon Sep 15 2025
+441 AM EDT Wed Sep 17 2025
 
-AMZ555-160015-
-640 PM EDT Mon Sep 15 2025
+AMZ552-555-572-575-170945-
+441 AM EDT Wed Sep 17 2025
 
-...STRONG THUNDERSTORMS APPROACHING THE WATERS...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 639 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Queens Cove to near Fort
-Pierce to Jensen Beach, moving east at 10 knots.
+At 441 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+27 nm east of Indian River Shores. The thunderstorm was nearly
+stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-These strong thunderstorms will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required. Boaters should consider heading
-for shore before these strong thunderstorms arrives.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8023 2757 8031
-      2769 8001 2697 7974
+LAT...LON 2766 8001 2765 8041 2796 8058 2807 8017
+      2844 8027 2852 7953 2829 7954 2774 7931
 
 $$
 
-Sedlock
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 058
