@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 17, 2025 • 6:00 PM
+Generated: Sep 17, 2025 • 7:01 PM
 ===============================
 
 📅 Forecast:
@@ -8,29 +8,29 @@ Generated: Sep 17, 2025 • 6:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 50% ; Wind: 5 to 10 mph E
 • Tomorrow: Friday — High: 86°F; Low: 78°F; Rain: 53% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 88.6%
+Temp: 71.6°F (22°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-890
-FZUS72 KMLB 172057
+992
+FZUS72 KMLB 172200
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-457 PM EDT Wed Sep 17 2025
+600 PM EDT Wed Sep 17 2025
 
-AMZ552-172145-
-457 PM EDT Wed Sep 17 2025
+AMZ552-172245-
+600 PM EDT Wed Sep 17 2025
 
-...STRONG THUNDERSTORMS ALONG THE SOUTH BREVARD COAST...
+...A STRONG THUNDERSTORM ON THE SOUTH BREVARD COAST...
 
 The areas affected include...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 456 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. One such thunderstorm was
-located over Indian Harbour Beach, or near Satellite Beach. The
-thunderstorm was moving southwest at around 5 mph.
+At 600 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Melbourne Beach, or over Indialantic. The thunderstorm was
+nearly stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,8 +40,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2827 8071 2832 8036 2801 8018 2793 8057
-      2807 8065 2824 8071
+LAT...LON 2818 8067 2818 8047 2791 8034 2789 8055
+      2807 8065 2814 8067
 
 $$
 
