@@ -1,39 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 17, 2025 • 5:00 AM
+Generated: Sep 17, 2025 • 6:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Wednesday — Chance Showers And Thunderstorms. High: 85°F; Rain: 64% ; Wind: 10 mph E
-• Tonight:  Overnight — Slight Chance Showers And Thunderstorms. Low: 77°F; Rain: 21% ; Wind: 10 mph E
-• Tomorrow: Thursday — High: 85°F; Low: 76°F; Rain: 58% ; Wind: 10 to 15 mph ENE
+• Today:    Today — Chance Showers And Thunderstorms. High: 85°F; Rain: 64% ; Wind: 10 mph E
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 76°F; Rain: 56% ; Wind: 10 mph E
+• Tomorrow: Thursday — High: 85°F; Low: 77°F; Rain: 58% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 88.8%
+Temp: 77°F (25°C) · Humidity: 88.7%
 
 🛥️ Marine Weather Statement:
-975
-FZUS72 KMLB 170841
+616
+FZUS72 KMLB 170937
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-441 AM EDT Wed Sep 17 2025
+537 AM EDT Wed Sep 17 2025
 
-AMZ552-555-572-575-170945-
-441 AM EDT Wed Sep 17 2025
+AMZ555-572-575-171015-
+537 AM EDT Wed Sep 17 2025
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Sebastian Inlet to Jupiter Inlet 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 441 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 536 AM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-27 nm east of Indian River Shores. The thunderstorm was nearly
-stationary.
+29 nm east of South Beach, moving south at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -46,8 +44,9 @@ case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2766 8001 2765 8041 2796 8058 2807 8017
-      2844 8027 2852 7953 2829 7954 2774 7931
+LAT...LON 2741 7992 2789 8012 2789 8011 2790 8009
+      2804 8016 2818 7949 2812 7947 2804 7942
+      2785 7936 2755 7923
 
 $$
 
