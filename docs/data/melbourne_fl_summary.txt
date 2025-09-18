@@ -1,45 +1,40 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 18, 2025 • 12:00 PM
+Generated: Sep 18, 2025 • 1:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 87°F; Rain: 60% ; Wind: 10 to 15 mph ENE
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 87°F; Rain: 60% ; Wind: 15 mph ENE
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 41% ; Wind: 10 to 15 mph ENE
 • Tomorrow: Friday — High: 86°F; Low: 78°F; Rain: 49% ; Wind: 10 to 15 mph NE
 🌡️ Current Conditions:
 Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-567
-FZUS72 KMLB 181525
+587
+FZUS72 KMLB 181600
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1125 AM EDT Thu Sep 18 2025
+1200 PM EDT Thu Sep 18 2025
 
-AMZ550-552-181600-
-1125 AM EDT Thu Sep 18 2025
+AMZ550-181610-
+/O.CAN.KMLB.MA.W.0197.000000T0000Z-250918T1615Z/
+1200 PM EDT Thu Sep 18 2025
 
-A Marine Weather Statement has been issued for the following areas...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-At 1123 AM EDT, Doppler radar indicated a shower, capable of
-producing funnel clouds and a brief waterspout. This was located
-near New Smyrna Beach, moving southwest at 10 knots.
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+The shower has moved out of the area and no longer poses a
+significant threat to boaters.
 
 &&
 
-LAT...LON 2930 8074 2870 8039 2862 8064 2867 8073
-      2866 8075 2863 8074 2862 8065 2857 8080
-      2880 8089 2884 8085 2921 8104
+LAT...LON 2920 8089 2907 8084 2901 8094 2916 8101
+TIME...MOT...LOC 1558Z 066DEG 12KT 2907 8104
 
 $$
 
