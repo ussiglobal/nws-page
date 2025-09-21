@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 21, 2025 • 8:00 AM
+Generated: Sep 21, 2025 • 9:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,37 +8,52 @@ Generated: Sep 21, 2025 • 8:00 AM
 • Tonight:  Tonight — Slight Chance Rain Showers. Low: 79°F; Rain: 22% ; Wind: 10 to 15 mph NE
 • Tomorrow: Monday — High: 88°F; Low: 78°F; Rain: 44% ; Wind: 5 to 15 mph NE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 78.6%
+Temp: 80.6°F (27°C) · Humidity: 74.1%
 
 🛥️ Marine Weather Statement:
-587
-FZUS72 KMLB 181600
+968
+FZUS72 KMLB 211228
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1200 PM EDT Thu Sep 18 2025
+828 AM EDT Sun Sep 21 2025
 
-AMZ550-181610-
-/O.CAN.KMLB.MA.W.0197.000000T0000Z-250918T1615Z/
-1200 PM EDT Thu Sep 18 2025
+AMZ550-552-570-572-211400-
+828 AM EDT Sun Sep 21 2025
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...SHOWERS OVER THE WATERS CAPABLE OF PRODUCING GUSTY WINDS AND
+FUNNEL CLOUDS...
 
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-The shower has moved out of the area and no longer poses a
-significant threat to boaters.
+At 824 AM EDT, Doppler radar indicated showers, capable of producing
+winds to around 30 knots and funnel clouds across the coastal waters
+of Volusia County and northern Brevard County. Showers were moving
+west-southwest at 10 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots and locally
+higher waves. Boaters should seek safe harbor immediately until
+these showers diminish.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2920 8089 2907 8084 2901 8094 2916 8101
-TIME...MOT...LOC 1558Z 066DEG 12KT 2907 8104
+LAT...LON 2943 8110 2946 8113 2947 7998 2916 7975
+      2879 7959 2861 8067 2862 8068 2862 8064
+      2866 8070 2899 8093 2938 8113
 
 $$
 
-Law
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 173
