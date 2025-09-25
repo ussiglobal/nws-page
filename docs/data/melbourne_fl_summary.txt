@@ -1,33 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 25, 2025 • 3:00 PM
+Generated: Sep 25, 2025 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 89°F; Rain: 27% ; Wind: 10 mph E
+• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 89°F; Rain: 21% ; Wind: 10 mph E
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 33% ; Wind: 5 to 10 mph S
 • Tomorrow: Friday — High: 90°F; Low: 77°F; Rain: 34% ; Wind: 5 to 10 mph SE
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 69.9%
+Temp: 84.2°F (29°C) · Humidity: 74.5%
 
 🛥️ Marine Weather Statement:
-357
-FZUS72 KMLB 231947
+152
+FZUS72 KMLB 251900
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-347 PM EDT Tue Sep 23 2025
+300 PM EDT Thu Sep 25 2025
 
-AMZ555-232030-
-347 PM EDT Tue Sep 23 2025
+AMZ550-252000-
+300 PM EDT Thu Sep 25 2025
 
-A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
-At 346 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+
+At 300 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Saint Lucie Village, or over Indrio, moving east at 15 knots.
+over Ormond-By-the-Sea, moving east at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,11 +39,13 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2759 8040 2766 8007 2708 7983 2704 8014
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8101
+      2947 8090 2921 8077 2919 8103 2938 8113
 
 $$
 
-Weitlich
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 754
