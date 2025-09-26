@@ -1,45 +1,49 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 26, 2025 • 5:00 PM
+Generated: Sep 26, 2025 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 90°F; Rain: 24% ; Wind: 10 mph SE
+• Today:    Saturday — Slight Chance Rain Showers then Chance Showers And Thunderstorms. High: 89°F; Rain: 52% ; Wind: 5 to 10 mph SSE
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 39% ; Wind: 5 to 10 mph S
-• Tomorrow: Saturday — High: 89°F; Low: 77°F; Rain: 52% ; Wind: 5 to 10 mph SSE
+• Tomorrow: Sunday — High: 87°F; Low: 77°F; Rain: 65% ; Wind: 10 to 15 mph NE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 74.5%
+Temp: 86°F (30°C) · Humidity: 70.3%
 
 🛥️ Marine Weather Statement:
-110
-FZUS72 KMLB 252321
+647
+FZUS72 KMLB 262130
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-721 PM EDT Thu Sep 25 2025
+530 PM EDT Fri Sep 26 2025
 
-AMZ552-252327-
-/O.CAN.KMLB.MA.W.0202.000000T0000Z-250925T2330Z/
-721 PM EDT Thu Sep 25 2025
+AMZ550-262300-
+530 PM EDT Fri Sep 26 2025
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+At 530 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+8 nm west of Ormond-By-the-Sea, moving east at 10 knots.
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2855 8068 2851 8069 2843 8069 2855 8065
-      2854 8054 2820 8044 2824 8071 2856 8082
-TIME...MOT...LOC 2316Z 286DEG 10KT 2850 8077
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8113 2946 8113 2948 8075
+      2929 8066 2903 8049 2892 8090 2938 8113
 
 $$
 
-Kelly
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 016
