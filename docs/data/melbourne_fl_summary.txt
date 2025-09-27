@@ -1,41 +1,52 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 27, 2025 • 6:00 PM
+Generated: Sep 27, 2025 • 7:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Chance Showers And Thunderstorms then Showers And Thunderstorms Likely. High: 86°F; Rain: 72% ; Wind: 5 to 15 mph NE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 45% ; Wind: 5 to 10 mph E
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 44% ; Wind: 5 to 10 mph E
 • Tomorrow: Monday — High: 86°F; Low: 78°F; Rain: 56% ; Wind: 20 mph N
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 70.3%
+Temp: 84.2°F (29°C) · Humidity: 70.1%
 
 🛥️ Marine Weather Statement:
-211
-FZUS72 KMLB 270036
+496
+FZUS72 KMLB 272206
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-836 PM EDT Fri Sep 26 2025
+606 PM EDT Sat Sep 27 2025
 
-AMZ550-270046-
-/O.EXP.KMLB.MA.W.0203.000000T0000Z-250927T0045Z/
-836 PM EDT Fri Sep 26 2025
+AMZ550-552-570-272300-
+606 PM EDT Sat Sep 27 2025
 
-...THE SPECIAL MARINE WARNING WILL EXPIRE AT 845 PM EDT...
+A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+At 606 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 15 nm east of Daytona Beach
+Shores to near Klondike Beach to near Merritt Island Wildlife Refuge,
+moving northeast at 10 knots.
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2917 8072 2892 8055 2881 8089 2882 8088
-      2884 8085 2904 8096
-TIME...MOT...LOC 0036Z 239DEG 10KT 2900 8077
+LAT...LON 2948 8042 2887 8029 2885 8035 2885 8037
+      2873 8027 2862 8024 2834 8075 2880 8089
+      2884 8085 2922 8105
 
 $$
 
