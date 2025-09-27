@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 26, 2025 • 7:00 PM
+Generated: Sep 26, 2025 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,38 +8,39 @@ Generated: Sep 26, 2025 • 7:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 39% ; Wind: 5 to 10 mph S
 • Tomorrow: Sunday — High: 87°F; Low: 77°F; Rain: 65% ; Wind: 10 to 15 mph NE
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 78.9%
+Temp: 80.6°F (27°C) · Humidity: 78.8%
 
 🛥️ Marine Weather Statement:
-647
-FZUS72 KMLB 262130
+088
+FZUS72 KMLB 262331
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-530 PM EDT Fri Sep 26 2025
+731 PM EDT Fri Sep 26 2025
 
-AMZ550-262300-
-530 PM EDT Fri Sep 26 2025
+AMZ550-552-270100-
+731 PM EDT Fri Sep 26 2025
 
 A Marine Weather Statement has been issued for the following areas...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 530 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-8 nm west of Ormond-By-the-Sea, moving east at 10 knots.
+At 731 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from Port Orange to Maytown to 12 nm
+west of Canaveral Groves, moving northeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8113 2946 8113 2948 8075
-      2929 8066 2903 8049 2892 8090 2938 8113
+LAT...LON 2932 8067 2849 8020 2837 8076 2880 8089
+      2884 8085 2916 8102
 
 $$
 
