@@ -1,17 +1,54 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 9, 2025 • 11:00 PM
+Generated: Oct 10, 2025 • 2:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Friday — Showers And Thunderstorms Likely. High: 82°F; Rain: 69% ; Wind: 10 to 15 mph ENE
-• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 75°F; Rain: 74% ; Wind: 15 mph ENE
-• Tomorrow: Saturday — High: 83°F; Low: 73°F; Rain: 38% ; Wind: 15 to 20 mph N
+• Today:    Friday — Showers And Thunderstorms. High: 83°F; Rain: 77% ; Wind: 10 to 15 mph ENE
+• Tonight:  Overnight — Showers And Thunderstorms. Low: 75°F; Rain: 75% ; Wind: 15 mph E
+• Tomorrow: Saturday — High: 83°F; Low: 74°F; Rain: 30% ; Wind: 15 mph NNW
 🌡️ Current Conditions:
-Temp: 73.4°F (23°C) · Humidity: 94.1%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
+890
+FZUS72 KMLB 100442
+MWSMLB
 
+Marine Weather Statement
+National Weather Service Melbourne FL
+1242 AM EDT Fri Oct 10 2025
+
+AMZ555-100615-
+1242 AM EDT Fri Oct 10 2025
+
+...A STRONG THUNDERSTORM OVER THE WATERS...
+
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+
+At 1242 AM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located near Jupiter Inlet, moving northwest at 5 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+&&
+
+LAT...LON 2697 8011 2711 8018 2714 8022 2713 8027
+      2714 8028 2720 7981 2708 7976 2706 7976
+      2697 7973
+
+$$
+
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 915
