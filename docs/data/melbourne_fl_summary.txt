@@ -1,45 +1,45 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 17, 2025 • 11:00 AM
+Generated: Oct 17, 2025 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Sunny. High: 82°F; Rain: 7% ; Wind: 15 mph NE
+• Today:    This Afternoon — Mostly Sunny. High: 82°F; Rain: 7% ; Wind: 15 mph NE
 • Tonight:  Tonight — Partly Cloudy. Low: 70°F; Rain: 5% ; Wind: 10 to 15 mph ENE
 • Tomorrow: Saturday — High: 81°F; Low: 70°F; Rain: 9% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 54.1%
+Temp: 80.6°F (27°C) · Humidity: 51%
 
 🛥️ Marine Weather Statement:
 
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-793
-FZUS52 KMLB 171000
+222
+FZUS52 KMLB 171500
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EDT Fri Oct 17 2025
+1100 AM EDT Fri Oct 17 2025
 
 FLZ141-347-447-172000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EDT Fri Oct 17 2025
+1100 AM EDT Fri Oct 17 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE SUNDAY NIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................4 to 5 feet.
 Thunderstorm Potential**....None.
 UV Index**..................High.
-Water Temperature...........In the lower 70s.
-Weather.....................Mostly sunny.
+Water Temperature...........In the upper 70s.
+Weather.....................Sunny.
 High Temperature............In the lower 80s.
-Winds.......................Northeast winds 10 to 15 mph.
+Winds.......................Northeast winds around 15 mph.
 Tides...
    Daytona Beach............Low 0.9 feet (MLLW) 11:45 AM EDT.
                             High 4.4 feet (MLLW) 05:59 PM EDT.
@@ -89,11 +89,11 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EDT Fri Oct 17 2025
+1100 AM EDT Fri Oct 17 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE SUNDAY NIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 5 feet.
 Thunderstorm Potential**....None.
@@ -149,11 +149,11 @@ FLZ159-164-172000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EDT Fri Oct 17 2025
+1100 AM EDT Fri Oct 17 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE SUNDAY NIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 5 feet.
 Thunderstorm Potential**....None.
