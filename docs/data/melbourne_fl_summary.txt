@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 18, 2025 • 3:00 AM
+Generated: Oct 18, 2025 • 4:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,7 +8,7 @@ Generated: Oct 18, 2025 • 3:00 AM
 • Tonight:  Overnight — Partly Cloudy. Low: 73°F; Rain: 5% ; Wind: 10 mph E
 • Tomorrow: Sunday — High: 85°F; Low: 73°F; Rain: 4% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 73.4°F (23°C) · Humidity: 56.9%
+Temp: 71.6°F (22°C) · Humidity: 56.7%
 
 🛥️ Marine Weather Statement:
 
