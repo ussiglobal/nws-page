@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 19, 2025 • 7:00 PM
+Generated: Oct 19, 2025 • 8:01 PM
 ===============================
 
 📅 Forecast:
@@ -8,31 +8,29 @@ Generated: Oct 19, 2025 • 7:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms. Low: 73°F; Rain: 37% ; Wind: 5 to 15 mph SSW
 • Tomorrow: Tuesday — High: 84°F; Low: 75°F; Rain: 7% ; Wind: 5 to 10 mph ENE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 78.6%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-699
-FZUS72 KMLB 192205
+229
+FZUS72 KMLB 192342
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-605 PM EDT Sun Oct 19 2025
+742 PM EDT Sun Oct 19 2025
 
-AMZ550-570-192300-
-605 PM EDT Sun Oct 19 2025
+AMZ552-200115-
+742 PM EDT Sun Oct 19 2025
 
-...GUSTY SHOWERS AND A FEW THUNDERSTORMS APPROACHING THE VOLUSIA
-COAST...
+...OFFSHORE-MOVING GUSTY SHOWERS APPROACHING THE BREVARD COAST...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 605 PM EDT, Doppler radar indicated showers and thunderstorms,
-capable of producing winds to around 30 knots. These thunderstorms
-were located along a line extending from 16 nm east of Marineland to
-32 nm southwest of Daytona Beach, moving east at 30 knots.
+At 741 PM EDT, Doppler radar indicated gusty showers, capable of
+producing winds to around 30 knots. These showers were located along
+a line extending from near Maytown to near Canaveral Groves to 17 nm
+west of Palm Bay, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,8 +40,10 @@ immediately until these storms pass.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2946 8113 2948 8072
-      2948 8037 2887 8087 2938 8113
+LAT...LON 2882 8087 2885 8037 2873 8027 2852 8020
+      2843 8020 2832 8022 2826 8027 2819 8025
+      2786 8034 2783 8051 2808 8065 2860 8084
+      2880 8089
 
 $$
 
