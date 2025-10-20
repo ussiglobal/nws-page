@@ -1,49 +1,43 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 19, 2025 • 8:01 PM
+Generated: Oct 19, 2025 • 9:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Monday — Sunny. High: 84°F; Rain: 11% ; Wind: 5 to 15 mph NNW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms. Low: 73°F; Rain: 37% ; Wind: 5 to 15 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms. Low: 73°F; Rain: 31% ; Wind: 5 to 15 mph SSW
 • Tomorrow: Tuesday — High: 84°F; Low: 75°F; Rain: 7% ; Wind: 5 to 10 mph ENE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 83.6%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-229
-FZUS72 KMLB 192342
+177
+FZUS72 KMLB 200100
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-742 PM EDT Sun Oct 19 2025
+900 PM EDT Sun Oct 19 2025
 
-AMZ552-200115-
-742 PM EDT Sun Oct 19 2025
+AMZ550-552-200110-
+/O.EXP.KMLB.MA.W.0205.000000T0000Z-251020T0100Z/
+900 PM EDT Sun Oct 19 2025
 
-...OFFSHORE-MOVING GUSTY SHOWERS APPROACHING THE BREVARD COAST...
+...THE SPECIAL MARINE WARNING EXPIRED AT 900 PM EDT...
 
-The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 741 PM EDT, Doppler radar indicated gusty showers, capable of
-producing winds to around 30 knots. These showers were located along
-a line extending from near Maytown to near Canaveral Groves to 17 nm
-west of Palm Bay, moving east at 20 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+The thunderstorms have weakened and no longer pose a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2882 8087 2885 8037 2873 8027 2852 8020
-      2843 8020 2832 8022 2826 8027 2819 8025
-      2786 8034 2783 8051 2808 8065 2860 8084
-      2880 8089
+LAT...LON 2865 8075 2863 8074 2862 8064 2867 8073
+      2866 8074 2867 8074 2895 8058 2897 8045
+      2880 8033 2842 8045 2836 8075 2847 8079
+TIME...MOT...LOC 0100Z 254DEG 19KT 2893 8040 2858 8049
 
 $$
 
