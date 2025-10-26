@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 26, 2025 • 11:00 AM
+Generated: Oct 26, 2025 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Chance Showers And Thunderstorms. High: 83°F; Rain: 58% ; Wind: 15 to 20 mph E
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 83°F; Rain: 58% ; Wind: 15 mph E
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 75°F; Rain: 46% ; Wind: 10 to 15 mph E
 • Tomorrow: Monday — High: 84°F; Low: 72°F; Rain: 58% ; Wind: 10 mph ESE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 83.6%
+Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
 177
@@ -44,25 +44,25 @@ $$
 Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-580
-FZUS52 KMLB 261000
+343
+FZUS52 KMLB 261500
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EDT Sun Oct 26 2025
+1100 AM EDT Sun Oct 26 2025
 
 FLZ141-347-447-262000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EDT Sun Oct 26 2025
+1100 AM EDT Sun Oct 26 2025
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 8 PM EDT THIS EVENING...
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE MONDAY NIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................4 to 6 feet.
 Thunderstorm Potential**....Moderate.
@@ -119,14 +119,14 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EDT Sun Oct 26 2025
+1100 AM EDT Sun Oct 26 2025
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 8 PM EDT THIS EVENING...
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE MONDAY NIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
-Surf Height.................6 to 7 feet.
+Surf Height.................Around 6 feet.
 Thunderstorm Potential**....Moderate.
 UV Index**..................Moderate.
 Water Temperature...........In the upper 70s.
@@ -181,14 +181,14 @@ FLZ159-164-262000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EDT Sun Oct 26 2025
+1100 AM EDT Sun Oct 26 2025
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 8 PM EDT THIS EVENING...
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE MONDAY NIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
-Surf Height.................6 to 7 feet.
+Surf Height.................Around 6 feet.
 Thunderstorm Potential**....Moderate.
 UV Index**..................High.
 Water Temperature...........In the upper 70s.
