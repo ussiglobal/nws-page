@@ -1,17 +1,58 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 26, 2025 • 11:00 PM
+Generated: Oct 27, 2025 • 2:01 AM
 ===============================
 
 📅 Forecast:
-• Today:    Monday — Chance Showers And Thunderstorms. High: 84°F; Rain: 72% ; Wind: 10 mph ESE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 75°F; Rain: 45% ; Wind: 15 mph ESE
-• Tomorrow: Tuesday — High: 81°F; Low: 73°F; Rain: 6% ; Wind: 10 to 15 mph NW
+• Today:    Monday — Chance Showers And Thunderstorms. High: 84°F; Rain: 70% ; Wind: 10 mph SE
+• Tonight:  Overnight — Chance Showers And Thunderstorms. Low: 73°F; Rain: 30% ; Wind: 15 mph ESE
+• Tomorrow: Tuesday — High: 82°F; Low: 72°F; Rain: 1% ; Wind: 5 to 15 mph NW
 🌡️ Current Conditions:
-Temp: 71.6°F (22°C) · Humidity: 94.1%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
+980
+FZUS72 KMLB 270532
+MWSMLB
 
+Marine Weather Statement
+National Weather Service Melbourne FL
+132 AM EDT Mon Oct 27 2025
+
+AMZ550-552-570-572-270630-
+132 AM EDT Mon Oct 27 2025
+
+...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFF CAPE
+CANAVERAL...
+
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+
+At 131 AM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 9 nm northeast of Klondike Beach
+to 9 nm east of Port Canaveral. The thunderstorms were nearly
+stationary.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+&&
+
+LAT...LON 2910 8032 2831 8006 2831 8046 2893 8072
+
+$$
+
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 343
