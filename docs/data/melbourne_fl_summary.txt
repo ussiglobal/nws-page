@@ -1,51 +1,46 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 27, 2025 • 5:00 PM
+Generated: Oct 27, 2025 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 85°F; Rain: 70% ; Wind: 10 mph SE
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Patchy Fog. Low: 72°F; Rain: 58% ; Wind: 5 to 10 mph SW
-• Tomorrow: Tuesday — High: 83°F; Low: 69°F; Rain: 2% ; Wind: 5 to 15 mph NW
+• Today:    Tuesday — Patchy Fog then Mostly Sunny. High: 83°F; Rain: 2% ; Wind: 5 to 15 mph NW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Patchy Fog. Low: 72°F; Rain: 52% ; Wind: 5 to 10 mph SW
+• Tomorrow: Wednesday — High: 81°F; Low: 69°F; Rain: 1% ; Wind: 10 mph NNW
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 74.3%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-092
-FZUS72 KMLB 271018
+893
+FZUS72 KMLB 272243
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-618 AM EDT Mon Oct 27 2025
+643 PM EDT Mon Oct 27 2025
 
-AMZ555-575-271115-
-618 AM EDT Mon Oct 27 2025
+AMZ550-552-272252-
+/O.EXP.KMLB.MA.W.0223.000000T0000Z-251027T2245Z/
+643 PM EDT Mon Oct 27 2025
 
-...STRONG THUNDERSTORMS OVER THE TREASURE COAST ATLANTIC WATERS...
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 645 PM EDT...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 618 AM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 19 nm east of Indian River Shores
-to 13 nm east of Nettles Island, moving east at 5 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+The thunderstorm has moved out of the area and no longer poses a
+significant threat to boaters.
 
 &&
 
-LAT...LON 2793 7977 2709 7969 2723 8011 2783 8012
+LAT...LON 2938 8070 2925 8063 2904 8050 2880 8039
+      2878 8088 2881 8089 2884 8085 2931 8110
+TIME...MOT...LOC 2242Z 260DEG 23KT 2912 8051
 
 $$
 
-Haley
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 769
