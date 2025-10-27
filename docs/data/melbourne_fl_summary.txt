@@ -1,47 +1,17 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 26, 2025 • 8:00 PM
+Generated: Oct 26, 2025 • 9:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Monday — Chance Showers And Thunderstorms. High: 84°F; Rain: 72% ; Wind: 10 mph ESE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 75°F; Rain: 45% ; Wind: 15 mph E
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 75°F; Rain: 45% ; Wind: 15 mph ESE
 • Tomorrow: Tuesday — High: 81°F; Low: 73°F; Rain: 6% ; Wind: 10 to 15 mph NW
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 83.6%
+Temp: 73.4°F (23°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-177
-FZUS72 KMLB 200100
-MWSMLB
 
-Marine Weather Statement
-National Weather Service Melbourne FL
-900 PM EDT Sun Oct 19 2025
-
-AMZ550-552-200110-
-/O.EXP.KMLB.MA.W.0205.000000T0000Z-251020T0100Z/
-900 PM EDT Sun Oct 19 2025
-
-...THE SPECIAL MARINE WARNING EXPIRED AT 900 PM EDT...
-
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-
-The thunderstorms have weakened and no longer pose a significant
-threat to boaters.
-
-&&
-
-LAT...LON 2865 8075 2863 8074 2862 8064 2867 8073
-      2866 8074 2867 8074 2895 8058 2897 8045
-      2880 8033 2842 8045 2836 8075 2847 8079
-TIME...MOT...LOC 0100Z 254DEG 19KT 2893 8040 2858 8049
-
-$$
-
-Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 343
