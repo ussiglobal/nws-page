@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 27, 2025 • 6:01 AM
+Generated: Oct 27, 2025 • 7:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,34 +8,30 @@ Generated: Oct 27, 2025 • 6:01 AM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 72°F; Rain: 58% ; Wind: 5 to 10 mph SW
 • Tomorrow: Tuesday — High: 82°F; Low: 69°F; Rain: 1% ; Wind: 5 to 15 mph NW
 🌡️ Current Conditions:
-Temp: 77°F (25°C) · Humidity: 88.7%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-980
-FZUS72 KMLB 270532
+092
+FZUS72 KMLB 271018
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-132 AM EDT Mon Oct 27 2025
+618 AM EDT Mon Oct 27 2025
 
-AMZ550-552-570-572-270630-
-132 AM EDT Mon Oct 27 2025
+AMZ555-575-271115-
+618 AM EDT Mon Oct 27 2025
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFF CAPE
-CANAVERAL...
+...STRONG THUNDERSTORMS OVER THE TREASURE COAST ATLANTIC WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 131 AM EDT, Doppler radar indicated strong thunderstorms, capable
+At 618 AM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 9 nm northeast of Klondike Beach
-to 9 nm east of Port Canaveral. The thunderstorms were nearly
-stationary.
+located along a line extending from 19 nm east of Indian River Shores
+to 13 nm east of Nettles Island, moving east at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -43,12 +39,9 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
 &&
 
-LAT...LON 2910 8032 2831 8006 2831 8046 2893 8072
+LAT...LON 2793 7977 2709 7969 2723 8011 2783 8012
 
 $$
 
