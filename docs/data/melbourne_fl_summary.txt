@@ -1,47 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 27, 2025 • 11:00 PM
+Generated: Oct 28, 2025 • 2:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Tuesday — Patchy Fog then Mostly Sunny. High: 83°F; Rain: 2% ; Wind: 5 to 15 mph NW
-• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Patchy Fog. Low: 72°F; Rain: 18% ; Wind: 5 mph W
-• Tomorrow: Wednesday — High: 81°F; Low: 69°F; Rain: 1% ; Wind: 10 mph NNW
+• Today:    Tuesday — Patchy Fog then Mostly Sunny. High: 81°F; Rain: 3% ; Wind: 5 to 15 mph NW
+• Tonight:  Overnight — Patchy Fog. Low: 71°F; Rain: 3% ; Wind: 5 mph W
+• Tomorrow: Wednesday — High: 81°F; Low: 69°F; Rain: 1% ; Wind: 10 mph NNE
 🌡️ Current Conditions:
 Temp: 71.6°F (22°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-529
-FZUS72 KMLB 280134
+990
+FZUS72 KMLB 280319
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-934 PM EDT Mon Oct 27 2025
+1119 PM EDT Mon Oct 27 2025
 
-AMZ555-280143-
-/O.CAN.KMLB.MA.W.0227.000000T0000Z-251028T0145Z/
-934 PM EDT Mon Oct 27 2025
+AMZ575-280415-
+1119 PM EDT Mon Oct 27 2025
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF HOBE
+SOUND...
 
-The affected areas were...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-The thunderstorms have moved out of the area and no longer pose a
-significant threat to boaters.
+At 1119 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 33 nm northeast of Hobe Sound
+Beach to 39 nm east of Jupiter Inlet Colony to 31 nm east of Jupiter
+Inlet, moving east at 25 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2728 8035 2729 8032 2727 8029 2728 8028
-      2746 8037 2765 8041 2780 8049 2788 8009
-      2758 7998 2729 7985 2725 8026 2725 8027
-      2724 8035
-TIME...MOT...LOC 0131Z 263DEG 15KT 2766 7998
+LAT...LON 2697 7973 2709 7976 2724 7983 2729 7984
+      2735 7987 2758 7925 2729 7913 2698 7905
 
 $$
 
-Sedlock
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 769
