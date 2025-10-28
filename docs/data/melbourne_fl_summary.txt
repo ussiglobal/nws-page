@@ -1,42 +1,60 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 27, 2025 • 7:00 PM
+Generated: Oct 27, 2025 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Tuesday — Patchy Fog then Mostly Sunny. High: 83°F; Rain: 2% ; Wind: 5 to 15 mph NW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Patchy Fog. Low: 72°F; Rain: 52% ; Wind: 5 to 10 mph SW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Patchy Fog. Low: 72°F; Rain: 34% ; Wind: 5 mph WSW
 • Tomorrow: Wednesday — High: 81°F; Low: 69°F; Rain: 1% ; Wind: 10 mph NNW
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 88.6%
+Temp: 73.4°F (23°C) · Humidity: 88.5%
 
 🛥️ Marine Weather Statement:
-893
-FZUS72 KMLB 272243
+353
+FZUS72 KMLB 272337
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-643 PM EDT Mon Oct 27 2025
+737 PM EDT Mon Oct 27 2025
 
-AMZ550-552-272252-
-/O.EXP.KMLB.MA.W.0223.000000T0000Z-251027T2245Z/
-643 PM EDT Mon Oct 27 2025
+AMZ552-555-572-575-280100-
+737 PM EDT Mon Oct 27 2025
 
-...THE SPECIAL MARINE WARNING WILL EXPIRE AT 645 PM EDT...
+...STRONG THUNDERSTORMS OVER THE WATERS...
 
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-The thunderstorm has moved out of the area and no longer poses a
-significant threat to boaters.
+At 737 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 36 nm northeast of Sebastian
+Inlet to 19 nm east of Sebastian Inlet State Park to Indian River
+Shores, moving southeast at 20 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until these storms pass.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+Frequent cloud to water lightning is occurring with these storms. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2938 8070 2925 8063 2904 8050 2880 8039
-      2878 8088 2881 8089 2884 8085 2931 8110
-TIME...MOT...LOC 2242Z 260DEG 23KT 2912 8051
+LAT...LON 2725 8026 2728 8028 2725 8028 2725 8035
+      2728 8035 2729 8028 2777 8048 2860 7954
+      2829 7954 2735 7915
 
 $$
 
