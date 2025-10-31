@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 31, 2025 • 11:00 AM
+Generated: Oct 31, 2025 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Sunny. High: 72°F; Rain: 0% ; Wind: 10 mph NNW
+• Today:    This Afternoon — Sunny. High: 72°F; Rain: 0% ; Wind: 10 mph NNW
 • Tonight:  Tonight — Mostly Clear. Low: 58°F; Rain: 0% ; Wind: 5 to 10 mph NNW
 • Tomorrow: Saturday — High: 76°F; Low: 65°F; Rain: 1% ; Wind: 5 mph N
 🌡️ Current Conditions:
-Temp: 60.8°F (16°C) · Humidity: 55.1%
+Temp: 62.6°F (17°C) · Humidity: 55.4%
 
 🛥️ Marine Weather Statement:
 990
@@ -50,24 +50,24 @@ $$
 Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-326
-FZUS52 KMLB 311000
+003
+FZUS52 KMLB 311500
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EDT Fri Oct 31 2025
+1100 AM EDT Fri Oct 31 2025
 
 FLZ141-347-447-312000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EDT Fri Oct 31 2025
+1100 AM EDT Fri Oct 31 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................3 to 4 feet.
 Thunderstorm Potential**....None.
@@ -77,10 +77,8 @@ Weather.....................Sunny.
 High Temperature............Around 70.
 Winds.......................Northwest winds around 10 mph.
 Tides...
-   Daytona Beach............Low 1.1 feet (MLLW) 09:42 AM EDT.
-                            High 4.2 feet (MLLW) 03:57 PM EDT.
-   Port Canaveral...........Low 1.1 feet (MLLW) 09:30 AM EDT.
-                            High 4.1 feet (MLLW) 03:55 PM EDT.
+   Daytona Beach............High 4.2 feet (MLLW) 03:57 PM EDT.
+   Port Canaveral...........High 4.1 feet (MLLW) 03:55 PM EDT.
 Sunrise.....................7:36 AM.
 Sunset......................6:40 PM.
 
@@ -126,11 +124,11 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EDT Fri Oct 31 2025
+1100 AM EDT Fri Oct 31 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................3 to 4 feet.
 Thunderstorm Potential**....None.
@@ -140,10 +138,8 @@ Weather.....................Sunny.
 High Temperature............In the lower 70s.
 Winds.......................Northwest winds around 10 mph.
 Tides...
-   Port Canaveral...........Low 1.1 feet (MLLW) 09:30 AM EDT.
-                            High 4.1 feet (MLLW) 03:55 PM EDT.
-   Sebastian Inlet..........Low 0.8 feet (MLLW) 09:56 AM EDT.
-                            High 2.5 feet (MLLW) 04:06 PM EDT.
+   Port Canaveral...........High 4.1 feet (MLLW) 03:55 PM EDT.
+   Sebastian Inlet..........High 2.5 feet (MLLW) 04:06 PM EDT.
 Sunrise.....................7:33 AM.
 Sunset......................6:40 PM.
 
@@ -188,11 +184,11 @@ FLZ159-164-312000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EDT Fri Oct 31 2025
+1100 AM EDT Fri Oct 31 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
@@ -202,8 +198,7 @@ Weather.....................Sunny.
 High Temperature............In the lower 70s.
 Winds.......................Northwest winds around 10 mph.
 Tides...
-   Fort Pierce Inlet........Low 1.2 feet (MLLW) 10:02 AM EDT.
-                            High 3.0 feet (MLLW) 04:23 PM EDT.
+   Fort Pierce Inlet........High 3.0 feet (MLLW) 04:23 PM EDT.
 Sunrise.....................7:31 AM.
 Sunset......................6:39 PM.
 
