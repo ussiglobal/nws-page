@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Nov 3, 2025 • 10:00 PM
+Generated: Nov 3, 2025 • 11:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,46 +8,10 @@ Generated: Nov 3, 2025 • 10:00 PM
 • Tonight:  Tonight — Mostly Clear. Low: 68°F; Rain: 0% ; Wind: 15 mph NNE
 • Tomorrow: Wednesday — High: 80°F; Low: 72°F; Rain: 0% ; Wind: 10 mph ENE
 🌡️ Current Conditions:
-Temp: 66.2°F (19°C) · Humidity: 68.2%
+Temp: 62.6°F (17°C) · Humidity: 77.3%
 
 🛥️ Marine Weather Statement:
-990
-FZUS72 KMLB 280319
-MWSMLB
 
-Marine Weather Statement
-National Weather Service Melbourne FL
-1119 PM EDT Mon Oct 27 2025
-
-AMZ575-280415-
-1119 PM EDT Mon Oct 27 2025
-
-...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF HOBE
-SOUND...
-
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
-
-At 1119 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 33 nm northeast of Hobe Sound
-Beach to 39 nm east of Jupiter Inlet Colony to 31 nm east of Jupiter
-Inlet, moving east at 25 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
-
-&&
-
-LAT...LON 2697 7973 2709 7976 2724 7983 2729 7984
-      2735 7987 2758 7925 2729 7913 2698 7905
-
-$$
-
-Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 395
