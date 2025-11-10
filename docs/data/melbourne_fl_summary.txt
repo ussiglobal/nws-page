@@ -1,54 +1,47 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Nov 9, 2025 • 7:00 PM
+Generated: Nov 9, 2025 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Monday — Slight Chance Rain Showers then Mostly Sunny. High: 73°F; Rain: 19% ; Wind: 15 to 20 mph NW
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 64°F; Rain: 31% ; Wind: 10 to 15 mph SW
+• Tonight:  Tonight — Slight Chance Showers And Thunderstorms. Low: 64°F; Rain: 23% ; Wind: 10 to 15 mph WSW
 • Tomorrow: Veterans Day — High: 62°F; Low: 45°F; Rain: 0% ; Wind: 15 to 20 mph NNW
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 74%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-313
-FZUS72 KMLB 092341
+965
+FZUS72 KMLB 100055
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-641 PM EST Sun Nov 9 2025
+755 PM EST Sun Nov 9 2025
 
-AMZ570-572-100045-
-641 PM EST Sun Nov 9 2025
+AMZ570-572-100105-
+/O.EXP.KMLB.MA.W.0231.000000T0000Z-251110T0100Z/
+755 PM EST Sun Nov 9 2025
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 800 PM EST...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 641 PM EST, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-24 nm northeast of Playalinda Beach, moving northeast at 25 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters. A Special Marine Warning continues for a strong
+storm immediately south of this area.
 
 &&
 
-LAT...LON 2916 7975 2895 7965 2874 8029 2878 8031
-      2881 8033 2887 8038 2888 8038 2925 7983
+LAT...LON 2916 7975 2909 7973 2901 7967 2888 7962
+      2877 8019 2891 8030 2920 7980
+TIME...MOT...LOC 0055Z 246DEG 25KT 2901 7977
 
 $$
 
-Leahy
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 294
