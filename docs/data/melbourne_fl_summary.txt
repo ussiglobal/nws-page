@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Nov 11, 2025 • 11:00 AM
+Generated: Nov 11, 2025 • 12:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,7 +8,7 @@ Generated: Nov 11, 2025 • 11:00 AM
 • Tonight:  Tonight — Partly Cloudy. Low: 50°F; Rain: 0% ; Wind: 10 to 15 mph N
 • Tomorrow: Wednesday — High: 71°F; Low: 56°F; Rain: 0% ; Wind: 10 mph N
 🌡️ Current Conditions:
-Temp: 51.8°F (11°C) · Humidity: 57.8%
+Temp: 53.6°F (12°C) · Humidity: 54.1%
 
 🛥️ Marine Weather Statement:
 902
@@ -41,40 +41,36 @@ $$
 Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-784
-FZUS52 KMLB 111100
+973
+FZUS52 KMLB 111600
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EST Tue Nov 11 2025
+1100 AM EST Tue Nov 11 2025
 
 FLZ141-347-447-112100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EST Tue Nov 11 2025
+1100 AM EST Tue Nov 11 2025
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 7 PM EST THIS EVENING...
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................5 to 8 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
-Water Temperature...........In the mid 70s.
+Water Temperature...........In the lower 70s.
 Weather.....................Sunny.
 High Temperature............In the upper 50s.
-Winds.......................Breezy. Northwest winds around 25 mph,
-                            becoming north around 15 mph in the
-                            afternoon.
+Winds.......................North winds around 20 mph.
 Tides...
-   Daytona Beach............Low 0.7 feet (MLLW) 06:16 AM EST.
-                            High 4.5 feet (MLLW) 12:44 PM EST.
-   Port Canaveral...........Low 0.6 feet (MLLW) 06:02 AM EST.
-                            High 4.4 feet (MLLW) 12:31 PM EST.
+   Daytona Beach............High 4.5 feet (MLLW) 12:44 PM EST.
+   Port Canaveral...........High 4.4 feet (MLLW) 12:31 PM EST.
 Sunrise.....................6:44 AM.
 Sunset......................5:32 PM.
 
@@ -84,7 +80,7 @@ Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
 Weather.....................Sunny.
 High Temperature............In the upper 60s.
-Winds.......................Northwest winds around 5 mph.
+Winds.......................Northwest winds 5 to 10 mph.
 Tides...
    Daytona Beach............Low 0.9 feet (MLLW) 07:24 AM EST.
                             High 4.3 feet (MLLW) 01:43 PM EST.
@@ -93,11 +89,9 @@ Tides...
 Sunrise.....................6:45 AM.
 Sunset......................5:32 PM.
 
-.THURSDAY...Sunny. Highs in the lower 70s. Northwest winds around
-10 mph.
+.THURSDAY...Sunny. Highs in the lower 70s. North winds around 10 mph.
 .FRIDAY...Sunny. Highs in the mid 70s. North winds around 10 mph.
-.SATURDAY...Sunny. Highs in the mid 70s. Northeast winds around
-5 mph.
+.SATURDAY...Sunny. Highs in the mid 70s. North winds around 5 mph.
 
 &&
 
@@ -120,25 +114,23 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EST Tue Nov 11 2025
+1100 AM EST Tue Nov 11 2025
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 7 PM EST THIS EVENING...
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................4 to 6 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
-Water Temperature...........In the mid 70s.
+Water Temperature...........In the lower 70s.
 Weather.....................Sunny.
 High Temperature............In the lower 60s.
 Winds.......................North winds around 20 mph.
 Tides...
-   Port Canaveral...........Low 0.6 feet (MLLW) 06:02 AM EST.
-                            High 4.4 feet (MLLW) 12:31 PM EST.
-   Sebastian Inlet..........Low 0.4 feet (MLLW) 06:21 AM EST.
-                            High 2.6 feet (MLLW) 12:39 PM EST.
+   Port Canaveral...........High 4.4 feet (MLLW) 12:31 PM EST.
+   Sebastian Inlet..........High 2.6 feet (MLLW) 12:39 PM EST.
 Sunrise.....................6:40 AM.
 Sunset......................5:32 PM.
 
@@ -182,23 +174,22 @@ FLZ159-164-112100-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EST Tue Nov 11 2025
+1100 AM EST Tue Nov 11 2025
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 7 PM EST THIS EVENING...
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
-Surf Height.................5 to 7 feet.
+Surf Height.................6 to 7 feet.
 Thunderstorm Potential**....None.
 UV Index**..................High.
-Water Temperature...........In the upper 70s.
+Water Temperature...........In the mid 70s.
 Weather.....................Mostly sunny.
 High Temperature............In the mid 60s.
 Winds.......................North winds around 20 mph.
 Tides...
-   Fort Pierce Inlet........Low 0.6 feet (MLLW) 06:27 AM EST.
-                            High 3.2 feet (MLLW) 12:56 PM EST.
+   Fort Pierce Inlet........High 3.2 feet (MLLW) 12:56 PM EST.
 Sunrise.....................6:38 AM.
 Sunset......................5:32 PM.
 
@@ -206,9 +197,9 @@ Sunset......................5:32 PM.
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
-Weather.....................Mostly sunny.
+Weather.....................Partly sunny.
 High Temperature............In the lower 70s.
-Winds.......................North winds 5 to 10 mph.
+Winds.......................North winds around 10 mph.
 Tides...
    Fort Pierce Inlet........Low 0.8 feet (MLLW) 07:35 AM EST.
                             High 3.1 feet (MLLW) 01:57 PM EST.
