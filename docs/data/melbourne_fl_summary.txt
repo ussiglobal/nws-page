@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Nov 27, 2025 • 3:00 PM
+Generated: Nov 27, 2025 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Thanksgiving Day — Mostly Cloudy. High: 77°F; Rain: 7% ; Wind: 15 to 20 mph NNW
+• Today:    Thanksgiving Day — Mostly Cloudy. High: 77°F; Rain: 2% ; Wind: 15 to 20 mph NNW
 • Tonight:  Tonight — Partly Cloudy. Low: 55°F; Rain: 0% ; Wind: 20 mph NNW
 • Tomorrow: Friday — High: 69°F; Low: 62°F; Rain: 0% ; Wind: 20 mph N
 🌡️ Current Conditions:
-Temp: 66.2°F (19°C) · Humidity: 82.8%
+Temp: 64.4°F (18°C) · Humidity: 88.1%
 
 🛥️ Marine Weather Statement:
 
