@@ -1,44 +1,43 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Dec 3, 2025 • 10:00 AM
+Generated: Dec 3, 2025 • 11:01 AM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Partly Sunny. High: 76°F; Rain: 0% ; Wind: 10 mph NNW
+• Today:    Today — Mostly Sunny. High: 76°F; Rain: 0% ; Wind: 10 mph NNW
 • Tonight:  Tonight — Mostly Clear. Low: 63°F; Rain: 1% ; Wind: 5 to 10 mph N
 • Tomorrow: Thursday — High: 76°F; Low: 68°F; Rain: 1% ; Wind: 5 to 10 mph NNE
 🌡️ Current Conditions:
-Temp: 69.8°F (21°C) · Humidity: 77.9%
+Temp: 71.6°F (22°C) · Humidity: 68.8%
 
 🛥️ Marine Weather Statement:
 
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-822
-FZUS52 KMLB 031100
+679
+FZUS52 KMLB 031600
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EST Wed Dec 3 2025
+1100 AM EST Wed Dec 3 2025
 
 FLZ141-347-447-032100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EST Wed Dec 3 2025
+1100 AM EST Wed Dec 3 2025
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................2 to 3 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........In the lower 70s.
-Weather.....................Mostly cloudy until 2 PM, then mostly
-                            sunny.
+Weather.....................Mostly sunny.
 High Temperature............In the lower 70s.
-Winds.......................Northwest winds 5 to 10 mph.
+Winds.......................Northwest winds around 10 mph.
 Tides...
    Daytona Beach............Low -0.1 feet (MLLW) 12:21 PM EST.
    Port Canaveral...........Low 0.2 feet (MLLW) 12:07 PM EST.
@@ -63,9 +62,9 @@ Sunset......................5:26 PM.
 
 .FRIDAY...Partly sunny. Highs in the upper 70s. South winds around
 10 mph.
-.SATURDAY...Partly sunny. A chance of showers and a slight chance of
-thunderstorms. Highs in the upper 70s. Southwest winds around 10 mph.
-.SUNDAY...Mostly cloudy. A chance of showers and a slight chance of
+.SATURDAY...Partly sunny. A chance of showers. Highs in the upper
+70s. Southwest winds around 10 mph.
+.SUNDAY...Mostly cloudy. Showers likely and a slight chance of
 thunderstorms. Highs in the mid 70s. West winds around 10 mph.
 
 &&
@@ -89,9 +88,9 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EST Wed Dec 3 2025
+1100 AM EST Wed Dec 3 2025
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
@@ -103,8 +102,7 @@ Winds.......................North winds around 10 mph.
 Tides...
    Port Canaveral...........Low 0.2 feet (MLLW) 12:07 PM EST.
                             High 3.6 feet (MLLW) 05:57 PM EST.
-   Sebastian Inlet..........High 2.8 feet (MLLW) 06:02 AM EST.
-                            Low 0.2 feet (MLLW) 12:07 PM EST.
+   Sebastian Inlet..........Low 0.2 feet (MLLW) 12:07 PM EST.
 Sunrise.....................6:58 AM.
 Sunset......................5:26 PM.
 
@@ -114,7 +112,7 @@ Surf Height.................Around 3 feet.
 Thunderstorm Potential**....None.
 Weather.....................Mostly sunny.
 High Temperature............In the mid 70s.
-Winds.......................North winds 5 to 10 mph.
+Winds.......................Northeast winds 5 to 10 mph.
 Tides...
    Port Canaveral...........High 5.1 feet (MLLW) 06:38 AM EST.
                             Low 0.1 feet (MLLW) 01:03 PM EST.
@@ -123,11 +121,12 @@ Tides...
 Sunrise.....................6:59 AM.
 Sunset......................5:26 PM.
 
-.FRIDAY...Mostly sunny. Highs around 80. South winds around 10 mph.
-.SATURDAY...Mostly sunny. A slight chance of showers. Highs around
-80. Southwest winds around 10 mph.
-.SUNDAY...Mostly cloudy. A chance of showers and a slight chance of
-thunderstorms. Highs in the upper 70s. West winds around 10 mph.
+.FRIDAY...Mostly sunny. Highs in the lower 80s. South winds around
+10 mph.
+.SATURDAY...Mostly sunny. A slight chance of showers. Highs in the
+lower 80s. Southwest winds around 10 mph.
+.SUNDAY...Mostly cloudy. Showers likely and a chance of
+thunderstorms. Highs in the upper 70s. Southwest winds around 10 mph.
 
 &&
 
@@ -149,20 +148,19 @@ FLZ159-164-032100-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EST Wed Dec 3 2025
+1100 AM EST Wed Dec 3 2025
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
 UV Index**..................High.
 Water Temperature...........In the mid 70s.
-Weather.....................Partly sunny.
+Weather.....................Mostly sunny.
 High Temperature............In the upper 70s.
-Winds.......................Northwest winds 5 to 10 mph.
+Winds.......................North winds around 10 mph.
 Tides...
-   Fort Pierce Inlet........High 3.4 feet (MLLW) 06:19 AM EST.
-                            Low 0.3 feet (MLLW) 12:13 PM EST.
+   Fort Pierce Inlet........Low 0.3 feet (MLLW) 12:13 PM EST.
 Sunrise.....................6:55 AM.
 Sunset......................5:27 PM.
 
@@ -172,7 +170,7 @@ Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
 Weather.....................Mostly sunny.
 High Temperature............In the upper 70s.
-Winds.......................North winds 5 to 10 mph.
+Winds.......................Northeast winds 5 to 10 mph.
 Tides...
    Fort Pierce Inlet........High 3.5 feet (MLLW) 07:12 AM EST.
                             Low 0.2 feet (MLLW) 01:04 PM EST.
@@ -183,7 +181,7 @@ Sunset......................5:27 PM.
 around 10 mph.
 .SATURDAY...Mostly sunny. Highs in the lower 80s. Southwest winds
 around 10 mph.
-.SUNDAY...Partly sunny. A chance of showers and a slight chance of
+.SUNDAY...Partly sunny. Showers likely and a slight chance of
 thunderstorms. Highs in the lower 80s. Southwest winds around 10 mph.
 
 &&
