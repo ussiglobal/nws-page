@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Dec 7, 2025 • 7:00 PM
+Generated: Dec 7, 2025 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,10 +8,44 @@ Generated: Dec 7, 2025 • 7:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Showers And Thunderstorms Likely. Low: 68°F; Rain: 73% ; Wind: 10 mph N
 • Tomorrow: Tuesday — High: 72°F; Low: 62°F; Rain: 3% ; Wind: 10 to 15 mph NNE
 🌡️ Current Conditions:
-Temp: 73.4°F (23°C) · Humidity: 88.5%
+Temp: 73.4°F (23°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
+443
+FZUS72 KMLB 080024
+MWSMLB
 
+Marine Weather Statement
+National Weather Service Melbourne FL
+724 PM EST Sun Dec 7 2025
+
+AMZ552-572-080130-
+724 PM EST Sun Dec 7 2025
+
+...A STRONG THUNDERSTORM APPROACHING CAPE CANAVERAL...
+
+The areas affected include...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+
+At 724 PM EST, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Titusville Airport, moving east at 35 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+&&
+
+LAT...LON 2890 7995 2842 7996 2823 8070 2860 8084
+      2881 8089
+
+$$
+
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 789
