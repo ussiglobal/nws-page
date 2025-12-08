@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Dec 7, 2025 • 8:00 PM
+Generated: Dec 7, 2025 • 9:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,40 +8,60 @@ Generated: Dec 7, 2025 • 8:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Showers And Thunderstorms Likely. Low: 68°F; Rain: 73% ; Wind: 10 mph N
 • Tomorrow: Tuesday — High: 72°F; Low: 62°F; Rain: 3% ; Wind: 10 to 15 mph NNE
 🌡️ Current Conditions:
-Temp: 73.4°F (23°C) · Humidity: 94.1%
+Temp: 68°F (20°C) · Humidity: 88.3%
 
 🛥️ Marine Weather Statement:
-443
-FZUS72 KMLB 080024
+444
+FZUS72 KMLB 080123
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-724 PM EST Sun Dec 7 2025
+823 PM EST Sun Dec 7 2025
 
-AMZ552-572-080130-
-724 PM EST Sun Dec 7 2025
+AMZ552-080145-
+/O.CON.KMLB.MA.W.0235.000000T0000Z-251208T0145Z/
+823 PM EST Sun Dec 7 2025
 
-...A STRONG THUNDERSTORM APPROACHING CAPE CANAVERAL...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 845 PM EST...
 
-The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 724 PM EST, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Titusville Airport, moving east at 35 knots.
+At 823 PM EST, a severe thunderstorm capable of producing waterspouts
+was located 7 nm east of Satellite Beach, moving east at 30 knots.
+
+HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+SOURCE...Radar indicated.
+
+IMPACT...Waterspouts can can quickly form and capsize boats, damage
+         vessels and create locally hazardous seas. Make sure all on
+         board are wearing life jackets. Expect wind gusts in excess
+         of 34 knots, suddenly higher waves, lightning and heavy
+         downpours. Make sure all on board are wearing life jackets.
+         Return to safe harbor if possible.
+
+Locations impacted include...
+Satellite Beach, Patrick Air Force Base, South Patrick Shores, Indian
+Harbour Beach, and Indialantic.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
 
 &&
 
-LAT...LON 2890 7995 2842 7996 2823 8070 2860 8084
-      2881 8089
+LAT...LON 2860 8079 2855 8021 2852 8020 2835 8021
+      2825 8027 2818 8024 2801 8015 2807 8065
+      2854 8082
+TIME...MOT...LOC 0123Z 273DEG 30KT 2822 8047
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
 
 $$
 
