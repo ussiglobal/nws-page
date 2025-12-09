@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Dec 9, 2025 • 11:00 AM
+Generated: Dec 9, 2025 • 12:00 PM
 ===============================
 
 📅 Forecast:
@@ -68,30 +68,30 @@ $$
 Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-403
-FZUS52 KMLB 091100
+669
+FZUS52 KMLB 091600
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EST Tue Dec 9 2025
+1100 AM EST Tue Dec 9 2025
 
 FLZ141-347-447-092100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EST Tue Dec 9 2025
+1100 AM EST Tue Dec 9 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................3 to 5 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........Around 70.
-Weather.....................Mostly sunny.
+Weather.....................Partly sunny.
 High Temperature............In the upper 60s.
 Winds.......................North winds 10 to 15 mph.
 Tides...
@@ -107,7 +107,7 @@ Rip Current Risk*...........Moderate.
 Surf Height.................2 to 4 feet.
 Thunderstorm Potential**....None.
 Weather.....................Mostly sunny.
-High Temperature............In the lower 70s.
+High Temperature............Around 70.
 Winds.......................Northwest winds 5 to 10 mph.
 Tides...
    Daytona Beach............High 4.1 feet (MLLW) 12:13 PM EST.
@@ -115,11 +115,11 @@ Tides...
 Sunrise.....................7:07 AM.
 Sunset......................5:26 PM.
 
-.THURSDAY...Sunny. Highs in the upper 60s. Northwest winds around
+.THURSDAY...Sunny. Highs in the mid 60s. Northwest winds around
 10 mph.
 .FRIDAY...Sunny. Highs around 70. North winds around 5 mph.
-.SATURDAY...Mostly sunny. Highs in the mid 70s. North winds around
-5 mph.
+.SATURDAY...Mostly sunny. Highs in the mid 70s. Northeast winds
+around 5 mph.
 
 &&
 
@@ -142,17 +142,17 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EST Tue Dec 9 2025
+1100 AM EST Tue Dec 9 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
-Surf Height.................3 to 5 feet.
+Surf Height.................3 to 4 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........In the lower 70s.
-Weather.....................Partly sunny. A slight chance of
+Weather.....................Mostly cloudy. A slight chance of
                             showers.
 High Temperature............In the lower 70s.
 Winds.......................North winds around 15 mph.
@@ -177,11 +177,12 @@ Tides...
 Sunrise.....................7:03 AM.
 Sunset......................5:27 PM.
 
-.THURSDAY...Sunny. Highs in the lower 70s. Northwest winds around
+.THURSDAY...Sunny. Highs in the upper 60s. Northwest winds around
 10 mph.
-.FRIDAY...Sunny. Highs in the lower 70s. North winds around 5 mph.
-.SATURDAY...Mostly sunny. Highs in the mid 70s. Northeast winds
-around 10 mph.
+.FRIDAY...Sunny. Highs in the lower 70s. Northeast winds around
+5 mph.
+.SATURDAY...Mostly sunny. Highs in the mid 70s. East winds around
+5 mph.
 
 &&
 
@@ -203,18 +204,17 @@ FLZ159-164-092100-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EST Tue Dec 9 2025
+1100 AM EST Tue Dec 9 2025
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Low.
 Water Temperature...........In the mid 70s.
-Weather.....................Partly sunny. A slight chance of
-                            showers.
+Weather.....................Mostly cloudy. A chance of showers.
 High Temperature............In the lower 70s.
 Winds.......................Northeast winds 10 to 15 mph.
 Tides...
@@ -227,7 +227,7 @@ Sunset......................5:27 PM.
 Rip Current Risk*...........Moderate.
 Surf Height.................3 to 4 feet.
 Thunderstorm Potential**....None.
-Weather.....................Partly sunny.
+Weather.....................Mostly sunny.
 High Temperature............In the mid 70s.
 Winds.......................Northwest winds around 5 mph.
 Tides...
@@ -236,8 +236,7 @@ Tides...
 Sunrise.....................7:00 AM.
 Sunset......................5:27 PM.
 
-.THURSDAY...Sunny. Highs in the lower 70s. Northwest winds around
-10 mph.
+.THURSDAY...Sunny. Highs around 70. Northwest winds around 10 mph.
 .FRIDAY...Sunny. Highs in the mid 70s. Northeast winds around 5 mph.
 .SATURDAY...Partly sunny. Highs in the upper 70s. East winds around
 10 mph.
