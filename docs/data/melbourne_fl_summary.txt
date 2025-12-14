@@ -1,71 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Dec 14, 2025 • 1:00 AM
+Generated: Dec 14, 2025 • 2:00 AM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Mostly Sunny. High: 78°F; Rain: 13% ; Wind: 5 to 15 mph NNW
-• Tonight:  Overnight — Slight Chance Showers And Thunderstorms. Low: 66°F; Rain: 19% ; Wind: 0 to 5 mph NNE
+• Tonight:  Overnight — Slight Chance Showers And Thunderstorms. Low: 66°F; Rain: 19% ; Wind: 0 to 5 mph N
 • Tomorrow: Monday — High: 68°F; Low: 60°F; Rain: 7% ; Wind: 15 to 25 mph NNE
 🌡️ Current Conditions:
-Temp: 60.8°F (16°C) · Humidity: 93.8%
+Temp: 62.6°F (17°C) · Humidity: 93.8%
 
 🛥️ Marine Weather Statement:
-444
-FZUS72 KMLB 080123
+121
+FZUS72 KMLB 140646
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-823 PM EST Sun Dec 7 2025
+146 AM EST Sun Dec 14 2025
 
-AMZ552-080145-
-/O.CON.KMLB.MA.W.0235.000000T0000Z-251208T0145Z/
-823 PM EST Sun Dec 7 2025
+AMZ555-140730-
+146 AM EST Sun Dec 14 2025
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 845 PM EST...
+...A STRONG THUNDERSTORM APPROACHING THE COAST AND ATLANTIC WATERS
+NEAR HOBE SOUND...
 
-For the following areas...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 823 PM EST, a severe thunderstorm capable of producing waterspouts
-was located 7 nm east of Satellite Beach, moving east at 30 knots.
-
-HAZARD...Waterspouts and wind gusts 34 knots or greater.
-
-SOURCE...Radar indicated.
-
-IMPACT...Waterspouts can can quickly form and capsize boats, damage
-         vessels and create locally hazardous seas. Make sure all on
-         board are wearing life jackets. Expect wind gusts in excess
-         of 34 knots, suddenly higher waves, lightning and heavy
-         downpours. Make sure all on board are wearing life jackets.
-         Return to safe harbor if possible.
-
-Locations impacted include...
-Satellite Beach, Patrick Air Force Base, South Patrick Shores, Indian
-Harbour Beach, and Indialantic.
+At 145 AM EST, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Jupiter Inlet, moving north at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Thunderstorms can produce sudden waterspouts. Waterspouts can easily
-overturn boats and create locally hazardous seas. Seek safe harbor
-immediately.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2860 8079 2855 8021 2852 8020 2835 8021
-      2825 8027 2818 8024 2801 8015 2807 8065
-      2854 8082
-TIME...MOT...LOC 0123Z 273DEG 30KT 2822 8047
-
-WATERSPOUT...POSSIBLE
-HAIL...0.00IN
-WIND...>34KTS
+LAT...LON 2697 8011 2711 8018 2716 8023 2719 8015
+      2715 7984 2697 7994
 
 $$
 
-Heil
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 781
