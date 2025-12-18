@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Dec 18, 2025 • 1:00 PM
+Generated: Dec 18, 2025 • 2:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,29 +8,28 @@ Generated: Dec 18, 2025 • 1:00 PM
 • Tonight:  Tonight — Chance Rain Showers then Mostly Cloudy. Low: 69°F; Rain: 27% ; Wind: 10 mph S
 • Tomorrow: Friday — High: 81°F; Low: 64°F; Rain: 7% ; Wind: 10 mph W
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 69.5%
+Temp: 78.8°F (26°C) · Humidity: 74%
 
 🛥️ Marine Weather Statement:
-121
-FZUS72 KMLB 140646
+442
+FZUS72 KMLB 181808
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-146 AM EST Sun Dec 14 2025
+108 PM EST Thu Dec 18 2025
 
-AMZ555-140730-
-146 AM EST Sun Dec 14 2025
+AMZ552-555-181900-
+108 PM EST Thu Dec 18 2025
 
-...A STRONG THUNDERSTORM APPROACHING THE COAST AND ATLANTIC WATERS
-NEAR HOBE SOUND...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 145 AM EST, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Jupiter Inlet, moving north at 15 knots.
+At 107 PM EST, Doppler radar indicated a cluster of showers, capable
+of producing winds to around 30 knots, located over Indian River
+Shores, moving north at 25 knots toward Sebastian Inlet and
+into the southern Brevard waters.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,12 +39,12 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2716 8023 2719 8015
-      2715 7984 2697 7994
+LAT...LON 2810 8030 2764 8022 2759 8040 2765 8041
+      2783 8051 2812 8064
 
 $$
 
-Haley
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 146
