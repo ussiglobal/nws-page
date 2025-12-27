@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Dec 27, 2025 • 4:00 AM
+Generated: Dec 27, 2025 • 5:00 AM
 ===============================
 
 📅 Forecast:
@@ -11,7 +11,41 @@ Generated: Dec 27, 2025 • 4:00 AM
 Temp: 57.2°F (14°C) · Humidity: 93.7%
 
 🛥️ Marine Weather Statement:
+087
+FZUS72 KMLB 270933
+MWSMLB
 
+Marine Weather Statement
+National Weather Service Melbourne FL
+433 AM EST Sat Dec 27 2025
+
+AMZ550-271130-
+433 AM EST Sat Dec 27 2025
+
+A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+
+At 431 AM EST, satellite imagery and available observations indicate
+areas of dense fog over near shore waters, capable of reducing
+visibilities to below 1 mile. Areas of dense fog are expected to
+persist through at least 630 AM EST.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Dense fog was reducing visibilities to below 1 mile. Reduce your
+speed, and keep a lookout for other vessels, buoys, and breakwaters.
+Keep your navigation lights on. If not equipped with radar, you
+should consider seeking safe harbor.
+
+&&
+
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8113 2946 8113 2948 8075
+      2929 8066 2904 8050 2893 8090 2938 8113
+
+$$
+
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 774
