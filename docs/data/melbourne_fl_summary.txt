@@ -1,36 +1,38 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Dec 28, 2025 • 9:00 AM
+Generated: Dec 28, 2025 • 10:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Patchy Fog then Sunny. High: 77°F; Rain: 3% ; Wind: 5 mph NNE
+• Today:    Today — Sunny. High: 77°F; Rain: 3% ; Wind: 5 mph NNE
 • Tonight:  Tonight — Mostly Clear then Patchy Fog. Low: 62°F; Rain: 3% ; Wind: 0 to 5 mph W
 • Tomorrow: Monday — High: 80°F; Low: 56°F; Rain: 0% ; Wind: 5 to 10 mph W
 🌡️ Current Conditions:
-Temp: 62.6°F (17°C) · Humidity: 100%
+Temp: 66°F (18.9°C) · Humidity: 93.3%
 
 🛥️ Marine Weather Statement:
-536
-FZUS72 KMLB 271132
+629
+FZUS72 KMLB 281500
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-632 AM EST Sat Dec 27 2025
+1000 AM EST Sun Dec 28 2025
 
-AMZ550-552-570-572-271300-
-632 AM EST Sat Dec 27 2025
+AMZ550-570-281700-
+1000 AM EST Sun Dec 28 2025
 
-A Marine Weather Statement has been issued for the following areas...
+...DENSE FOG OVER THE VOLUSIA ATLANTIC WATERS OFF DAYTONA BEACH...
+
+The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 629 AM EST, satellite imagery indicated an area of dense fog,
-capable of reducing visibilities to below 1 mile. Dense fog will be
-slow to dissipate after sunrise.
+At 959 AM EST, satellite imagery indicated an area of dense fog,
+capable of reducing visibilities to below 1 mile. The dense fog was
+located along a line extending from near Ormond-By-the-Sea to 7 nm
+east of Holly Hill to 33 nm northeast of Bethune Beach. The dense
+fog was nearly stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -41,14 +43,14 @@ should consider seeking safe harbor.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2945 8113 2945 8111
-      2946 8113 2948 8072 2948 8024 2875 7997
-      2865 8070 2867 8073 2865 8074 2863 8085
-      2880 8089 2884 8085 2938 8113
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8103
+      2948 8072 2948 8040 2906 8009 2917 8102
+      2938 8113
 
 $$
 
-Law
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 489
