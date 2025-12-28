@@ -1,38 +1,40 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Dec 28, 2025 • 1:00 PM
+Generated: Dec 28, 2025 • 2:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Sunny. High: 77°F; Rain: 1% ; Wind: 5 mph NE
+• Today:    This Afternoon — Sunny. High: 77°F; Rain: 1% ; Wind: 5 mph ENE
 • Tonight:  Tonight — Mostly Clear then Patchy Fog. Low: 62°F; Rain: 1% ; Wind: 0 to 5 mph SSE
 • Tomorrow: Monday — High: 80°F; Low: 54°F; Rain: 1% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 69.2%
+Temp: 77°F (25°C) · Humidity: 61.2%
 
 🛥️ Marine Weather Statement:
-629
-FZUS72 KMLB 281500
+346
+FZUS72 KMLB 281820
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1000 AM EST Sun Dec 28 2025
+120 PM EST Sun Dec 28 2025
 
-AMZ550-570-281700-
-1000 AM EST Sun Dec 28 2025
+AMZ550-552-570-572-282015-
+120 PM EST Sun Dec 28 2025
 
-...DENSE FOG OVER THE VOLUSIA ATLANTIC WATERS OFF DAYTONA BEACH...
+...DENSE FOG OVER THE WATERS...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 959 AM EST, satellite imagery indicated an area of dense fog,
-capable of reducing visibilities to below 1 mile. The dense fog was
-located along a line extending from near Ormond-By-the-Sea to 7 nm
-east of Holly Hill to 33 nm northeast of Bethune Beach. The dense
-fog was nearly stationary.
+At 120 PM EST, satellite imagery and surface observations indicated
+an area of dense fog, capable of reducing visibilities to below 1
+mile. The dense fog was located along a line extending from 12 nm
+northeast of Ormond-By-the-Sea to near Holly Hill to near New Smyrna
+Beach to 18 nm northeast of Klondike Beach, moving south at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -43,14 +45,12 @@ should consider seeking safe harbor.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8103
-      2948 8072 2948 8040 2906 8009 2917 8102
-      2938 8113
+LAT...LON 2942 8114 2943 8110 2946 8112 2946 8113
+      2948 8072 2947 8017 2854 7976 2881 8084
 
 $$
 
-Haley
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 801
