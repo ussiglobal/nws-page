@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jan 5, 2026 • 3:00 AM
+Generated: Jan 5, 2026 • 4:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,10 +8,44 @@ Generated: Jan 5, 2026 • 3:00 AM
 • Tonight:  Overnight — Patchy Fog. Low: 62°F; Rain: 11% ; Wind: 5 mph NNW
 • Tomorrow: Tuesday — High: 77°F; Low: 62°F; Rain: 5% ; Wind: 5 mph WNW
 🌡️ Current Conditions:
-Temp: 59°F (15°C) · Humidity: 93.7%
+Temp: 60.8°F (16°C) · Humidity: 93.8%
 
 🛥️ Marine Weather Statement:
+784
+FZUS72 KMLB 050844
+MWSMLB
 
+Marine Weather Statement
+National Weather Service Melbourne FL
+344 AM EST Mon Jan 5 2026
+
+AMZ552-051045-
+344 AM EST Mon Jan 5 2026
+
+A Marine Weather Statement has been issued for the following areas...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+
+At 337 AM EST, satellite imagery indicated an area of fog, capable
+of reducing visibilities to below 1 mile, located over the
+intracoastal and nearshore Atlantic waters of Brevard county,
+including Port Canaveral.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Fog will reduce visibilities below 1 mile early this morning. Reduce
+your speed, and keep a lookout for other vessels, buoys, and
+breakwaters. Keep your navigation lights on. If not equipped with
+radar, you should consider seeking safe harbor.
+
+&&
+
+LAT...LON 2882 8072 2884 8050 2786 8030 2784 8046
+      2784 8047 2783 8048 2782 8047 2781 8050
+      2804 8063 2877 8088
+
+$$
+
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 791
