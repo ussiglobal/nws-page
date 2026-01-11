@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jan 11, 2026 • 11:00 AM
+Generated: Jan 11, 2026 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Partly Sunny then Slight Chance Rain Showers. High: 79°F; Rain: 17% ; Wind: 5 to 20 mph WNW
+• Today:    Today — Partly Sunny then Slight Chance Rain Showers. High: 79°F; Rain: 17% ; Wind: 10 to 20 mph NW
 • Tonight:  Tonight — Mostly Cloudy. Low: 61°F; Rain: 11% ; Wind: 15 to 25 mph N
 • Tomorrow: Monday — High: 71°F; Low: 63°F; Rain: 12% ; Wind: 15 mph NNE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 61.4%
+Temp: 80.6°F (27°C) · Humidity: 54.3%
 
 🛥️ Marine Weather Statement:
 449
@@ -50,42 +50,37 @@ $$
 Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-402
-FZUS52 KMLB 111100
+479
+FZUS52 KMLB 111600
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EST Sun Jan 11 2026
+1100 AM EST Sun Jan 11 2026
 
 FLZ141-347-447-112100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EST Sun Jan 11 2026
+1100 AM EST Sun Jan 11 2026
 
-...BEACH HAZARDS STATEMENT IN EFFECT FROM 1 PM EST THIS AFTERNOON
-THROUGH LATE TONIGHT...
+...BEACH HAZARDS STATEMENT IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 1 foot, building to 2 to 3 feet
                             in the afternoon.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........In the mid 60s.
-Weather.....................Partly sunny. Patchy fog. A slight
-                            chance of showers.
-High Temperature............In the lower 70s.
-Winds.......................West winds around 5 mph, increasing to
-                            northwest around 15 mph in the
-                            afternoon.
+Weather.....................Mostly sunny until 2 PM, then mostly
+                            cloudy. A slight chance of showers.
+High Temperature............In the mid 70s.
+Winds.......................Northwest winds 10 to 15 mph.
 Tides...
-   Daytona Beach............Low 0.7 feet (MLLW) 08:18 AM EST.
-                            High 3.1 feet (MLLW) 01:57 PM EST.
-   Port Canaveral...........Low 0.7 feet (MLLW) 08:08 AM EST.
-                            High 2.5 feet (MLLW) 01:45 PM EST.
+   Daytona Beach............High 3.1 feet (MLLW) 01:57 PM EST.
+   Port Canaveral...........High 2.5 feet (MLLW) 01:45 PM EST.
 Sunrise.....................7:19 AM.
 Sunset......................5:44 PM.
 
@@ -93,7 +88,7 @@ Sunset......................5:44 PM.
 Rip Current Risk*...........High.
 Surf Height.................3 to 5 feet.
 Thunderstorm Potential**....None.
-Weather.....................Mostly cloudy.
+Weather.....................Partly sunny.
 High Temperature............In the mid 60s.
 Winds.......................North winds 10 to 15 mph.
 Tides...
@@ -104,10 +99,10 @@ Tides...
 Sunrise.....................7:19 AM.
 Sunset......................5:45 PM.
 
-.TUESDAY...Partly sunny. Highs in the upper 60s. North winds around
-10 mph.
-.WEDNESDAY...Mostly cloudy. A chance of showers. Highs in the mid
-60s. West winds around 10 mph.
+.TUESDAY...Partly sunny. A slight chance of showers. Highs in the
+upper 60s. North winds around 10 mph.
+.WEDNESDAY...Cloudy. A chance of showers and a slight chance of
+thunderstorms. Highs in the mid 60s. West winds around 10 mph.
 .THURSDAY...Mostly sunny. A chance of showers. Highs in the lower
 60s. West winds around 15 mph.
 
@@ -130,23 +125,21 @@ $$
 FLZ154-112100-
 Coastal Indian River-
 Including the beaches of Vero Beach
-600 AM EST Sun Jan 11 2026
+1100 AM EST Sun Jan 11 2026
 
 ...BEACH HAZARDS STATEMENT IN EFFECT FROM 4 PM EST THIS AFTERNOON
 THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 1 foot, building to around 2
                             feet in the afternoon.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........In the lower 70s.
-Weather.....................Partly sunny. Patchy fog.
+Weather.....................Mostly sunny.
 High Temperature............In the upper 70s.
-Winds.......................West winds around 5 mph, increasing to
-                            northwest around 15 mph in the
-                            afternoon.
+Winds.......................Northwest winds 10 to 15 mph.
 Tides...
 None.
 Sunrise.....................7:13 AM.
@@ -164,10 +157,10 @@ None.
 Sunrise.....................7:14 AM.
 Sunset......................5:45 PM.
 
-.TUESDAY...Partly sunny. Highs in the lower 70s. Northeast winds
-around 10 mph.
-.WEDNESDAY...Mostly cloudy. A chance of showers. Highs around 70.
-West winds around 10 mph.
+.TUESDAY...Mostly cloudy. A slight chance of showers. Highs in the
+lower 70s. Northeast winds around 10 mph.
+.WEDNESDAY...Mostly cloudy. Showers likely and a chance of
+thunderstorms. Highs around 70. West winds around 10 mph.
 .THURSDAY...Mostly sunny. A chance of showers. Highs in the mid 60s.
 West winds around 15 mph.
 
@@ -191,28 +184,23 @@ FLZ647-747-112100-
 Mainland Southern Brevard-Southern Brevard Barrier Islands-
 Including the beaches of Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EST Sun Jan 11 2026
+1100 AM EST Sun Jan 11 2026
 
-...BEACH HAZARDS STATEMENT IN EFFECT FROM 1 PM EST THIS AFTERNOON
-THROUGH LATE TONIGHT...
+...BEACH HAZARDS STATEMENT IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 1 foot, building to around 2
                             feet in the afternoon.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........In the lower 70s.
-Weather.....................Partly sunny. Patchy fog.
+Weather.....................Mostly sunny.
 High Temperature............In the upper 70s.
-Winds.......................West winds around 5 mph, increasing to
-                            northwest around 15 mph in the
-                            afternoon.
+Winds.......................Northwest winds 10 to 15 mph.
 Tides...
-   Port Canaveral...........Low 0.7 feet (MLLW) 08:08 AM EST.
-                            High 2.5 feet (MLLW) 01:45 PM EST.
-   Sebastian Inlet..........Low 0.4 feet (MLLW) 08:05 AM EST.
-                            High 1.7 feet (MLLW) 01:45 PM EST.
+   Port Canaveral...........High 2.5 feet (MLLW) 01:45 PM EST.
+   Sebastian Inlet..........High 1.7 feet (MLLW) 01:45 PM EST.
 Sunrise.....................7:15 AM.
 Sunset......................5:45 PM.
 
@@ -231,10 +219,10 @@ Tides...
 Sunrise.....................7:15 AM.
 Sunset......................5:45 PM.
 
-.TUESDAY...Partly sunny. Highs in the lower 70s. Northeast winds
-around 10 mph.
-.WEDNESDAY...Mostly cloudy. A chance of showers. Highs around 70.
-West winds around 10 mph.
+.TUESDAY...Mostly cloudy. A slight chance of showers. Highs in the
+lower 70s. Northeast winds around 10 mph.
+.WEDNESDAY...Mostly cloudy. Showers likely and a chance of
+thunderstorms. Highs around 70. West winds around 10 mph.
 .THURSDAY...Mostly sunny. A chance of showers. Highs in the mid 60s.
 West winds around 15 mph.
 
@@ -258,25 +246,23 @@ FLZ159-164-112100-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EST Sun Jan 11 2026
+1100 AM EST Sun Jan 11 2026
 
 ...BEACH HAZARDS STATEMENT IN EFFECT FROM 4 PM EST THIS AFTERNOON
 THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 1 foot, building to around 2
                             feet in the afternoon.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........In the mid 70s.
-Weather.....................Partly sunny. Patchy fog.
+Weather.....................Partly sunny.
 High Temperature............In the lower 80s.
-Winds.......................West winds around 5 mph, becoming
-                            northwest in the afternoon.
+Winds.......................Northwest winds 5 to 10 mph.
 Tides...
-   Fort Pierce Inlet........Low 0.6 feet (MLLW) 08:31 AM EST.
-                            High 1.8 feet (MLLW) 02:42 PM EST.
+   Fort Pierce Inlet........High 1.8 feet (MLLW) 02:42 PM EST.
 Sunrise.....................7:13 AM.
 Sunset......................5:45 PM.
 
@@ -284,8 +270,7 @@ Sunset......................5:45 PM.
 Rip Current Risk*...........High.
 Surf Height.................3 to 5 feet.
 Thunderstorm Potential**....None.
-Weather.....................Mostly cloudy. A slight chance of
-                            showers.
+Weather.....................Mostly cloudy.
 High Temperature............In the lower 70s.
 Winds.......................Northeast winds 10 to 15 mph.
 Tides...
@@ -294,13 +279,12 @@ Tides...
 Sunrise.....................7:13 AM.
 Sunset......................5:45 PM.
 
-.TUESDAY...Partly sunny. Highs in the lower 70s. Northeast winds
-around 10 mph.
-.WEDNESDAY...Mostly cloudy. A chance of showers and a slight chance
-of thunderstorms. Highs in the lower 70s. Southwest winds around
-10 mph.
+.TUESDAY...Partly sunny. A slight chance of showers. Highs in the mid
+70s. Northeast winds around 10 mph.
+.WEDNESDAY...Mostly cloudy. Showers likely and a chance of
+thunderstorms. Highs in the mid 70s. Southwest winds around 10 mph.
 .THURSDAY...Partly sunny. A chance of showers. Highs in the upper
-60s. West winds around 10 mph.
+60s. West winds around 15 mph.
 
 &&
 
