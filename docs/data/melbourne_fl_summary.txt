@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jan 18, 2026 • 8:00 AM
+Generated: Jan 18, 2026 • 9:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,46 +8,10 @@ Generated: Jan 18, 2026 • 8:00 AM
 • Tonight:  Tonight — Mostly Clear. Low: 42°F; Rain: 4% ; Wind: 15 mph NW
 • Tomorrow: M.L. King Jr. Day — High: 61°F; Low: 52°F; Rain: 0% ; Wind: 15 mph NNW
 🌡️ Current Conditions:
-Temp: 62.6°F (17°C) · Humidity: 93.8%
+Temp: 64.4°F (18°C) · Humidity: 93.9%
 
 🛥️ Marine Weather Statement:
-449
-FZUS72 KMLB 111343
-MWSMLB
 
-Marine Weather Statement
-National Weather Service Melbourne FL
-843 AM EST Sun Jan 11 2026
-
-AMZ550-111445-
-843 AM EST Sun Jan 11 2026
-
-A Marine Weather Statement has been issued for the following areas...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-
-At 841 AM EST, satellite imagery indicated an area of patchy dense
-fog, capable of reducing visibilities below 1 mile, spreading
-eastward across northern and central Volusia county and across the
-intracoastal and nearshore Atlantic waters between Flagler Beach and
-Ponce Inlet.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Dense fog was reducing visibilities to below 1 mile. Reduce your
-speed, and keep a lookout for other vessels, buoys, and breakwaters.
-Keep your navigation lights on. If not equipped with radar, you
-should consider seeking safe harbor.
-
-&&
-
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8104
-      2948 8075 2942 8073 2941 8072 2916 8059
-      2907 8097 2938 8113
-
-$$
-
-Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 828
