@@ -1,35 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Feb 13, 2026 • 11:00 AM
+Generated: Feb 13, 2026 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Sunny. High: 72°F; Rain: 4% ; Wind: 5 to 10 mph N
-• Tonight:  Tonight — Mostly Clear. Low: 62°F; Rain: 5% ; Wind: 5 to 10 mph NE
-• Tomorrow: Saturday — High: 73°F; Low: 65°F; Rain: 18% ; Wind: 5 to 10 mph ENE
+• Today:    This Afternoon — Sunny. High: 72°F; Rain: 0% ; Wind: 10 mph N
+• Tonight:  Tonight — Mostly Clear. Low: 62°F; Rain: 4% ; Wind: 5 to 10 mph NNE
+• Tomorrow: Saturday — High: 73°F; Low: 65°F; Rain: 13% ; Wind: 5 to 10 mph ENE
 🌡️ Current Conditions:
-Temp: 69.8°F (21°C) · Humidity: 60.2%
+Temp: 71.6°F (22°C) · Humidity: 56.7%
 
 🛥️ Marine Weather Statement:
 
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-153
-FZUS52 KMLB 131100
+831
+FZUS52 KMLB 131600
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EST Fri Feb 13 2026
+1100 AM EST Fri Feb 13 2026
 
 FLZ141-347-447-132100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EST Fri Feb 13 2026
+1100 AM EST Fri Feb 13 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................2 to 3 feet.
 Thunderstorm Potential**....None.
@@ -50,9 +50,9 @@ Sunset......................6:11 PM.
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
-Weather.....................Mostly sunny.
-High Temperature............In the lower 70s.
-Winds.......................East winds 5 to 10 mph.
+Weather.....................Sunny.
+High Temperature............Around 70.
+Winds.......................Northeast winds 5 to 10 mph.
 Tides...
    Daytona Beach............Low 0.4 feet (MLLW) 11:56 AM EST.
                             High 3.2 feet (MLLW) 05:46 PM EST.
@@ -62,12 +62,11 @@ Sunrise.....................7:05 AM.
 Sunset......................6:11 PM.
 
 .SUNDAY...Partly sunny. A chance of showers. Highs in the mid 70s.
-South winds around 10 mph.
+South winds around 15 mph.
 .WASHINGTONS BIRTHDAY...Partly sunny. Showers likely and a slight
 chance of thunderstorms. Highs in the lower 70s. West winds around
 10 mph.
-.TUESDAY...Mostly sunny. Highs around 70. Northeast winds around
-10 mph.
+.TUESDAY...Sunny. Highs in the upper 60s. North winds around 5 mph.
 
 &&
 
@@ -90,9 +89,9 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EST Fri Feb 13 2026
+1100 AM EST Fri Feb 13 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
@@ -113,10 +112,9 @@ Sunset......................6:11 PM.
 Rip Current Risk*...........Moderate.
 Surf Height.................2 to 3 feet.
 Thunderstorm Potential**....None.
-Weather.....................Mostly sunny. A slight chance of
-                            showers.
+Weather.....................Sunny.
 High Temperature............In the lower 70s.
-Winds.......................East winds around 10 mph.
+Winds.......................Northeast winds 5 to 10 mph.
 Tides...
    Port Canaveral...........Low 0.4 feet (MLLW) 11:51 AM EST.
                             High 2.5 feet (MLLW) 05:33 PM EST.
@@ -129,9 +127,9 @@ Sunset......................6:11 PM.
 Southeast winds around 15 mph.
 .WASHINGTONS BIRTHDAY...Partly sunny. Showers likely and a slight
 chance of thunderstorms. Highs in the mid 70s. West winds around
-15 mph.
-.TUESDAY...Mostly sunny. A slight chance of showers. Highs in the
-lower 70s. Northeast winds around 10 mph.
+10 mph.
+.TUESDAY...Sunny. Highs in the lower 70s. Northeast winds around
+10 mph.
 
 &&
 
@@ -153,9 +151,9 @@ FLZ159-164-132100-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EST Fri Feb 13 2026
+1100 AM EST Fri Feb 13 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
@@ -174,17 +172,16 @@ Sunset......................6:10 PM.
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 3 feet.
 Thunderstorm Potential**....None.
-Weather.....................Mostly sunny. A slight chance of
-                            showers.
+Weather.....................Sunny.
 High Temperature............In the mid 70s.
-Winds.......................East winds around 10 mph.
+Winds.......................East winds 5 to 10 mph.
 Tides...
    Fort Pierce Inlet........High 2.3 feet (MLLW) 06:31 AM EST.
                             Low 0.6 feet (MLLW) 12:24 PM EST.
 Sunrise.....................7:00 AM.
 Sunset......................6:11 PM.
 
-.SUNDAY...Partly sunny. A chance of showers. Highs in the mid 70s.
+.SUNDAY...Partly sunny. A chance of showers. Highs in the upper 70s.
 Southeast winds around 15 mph.
 .WASHINGTONS BIRTHDAY...Partly sunny. Showers likely and a slight
 chance of thunderstorms. Highs in the upper 70s. Southwest winds
