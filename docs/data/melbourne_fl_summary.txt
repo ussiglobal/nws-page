@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Feb 16, 2026 • 1:00 AM
+Generated: Feb 16, 2026 • 2:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Washington's Birthday — Mostly Sunny. High: 72°F; Rain: 10% ; Wind: 10 to 15 mph WNW
-• Tonight:  Overnight — Showers And Thunderstorms. Low: 62°F; Rain: 86% ; Wind: 15 mph SW
-• Tomorrow: Tuesday — High: 74°F; Low: 61°F; Rain: 15% ; Wind: 10 mph ENE
+• Today:    Washington's Birthday — Mostly Sunny. High: 72°F; Rain: 0% ; Wind: 10 to 15 mph NW
+• Tonight:  Overnight — Showers And Thunderstorms. Low: 62°F; Rain: 80% ; Wind: 10 to 15 mph WSW
+• Tomorrow: Tuesday — High: 74°F; Low: 61°F; Rain: 12% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 68°F (20°C) · Humidity: 82.9%
+Temp: 66.2°F (19°C) · Humidity: 93.9%
 
 🛥️ Marine Weather Statement:
 117
