@@ -1,10 +1,10 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Feb 17, 2026 • 11:00 AM
+Generated: Feb 17, 2026 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Sunny. High: 73°F; Rain: 8% ; Wind: 10 to 15 mph E
+• Today:    This Afternoon — Sunny. High: 73°F; Rain: 0% ; Wind: 10 to 15 mph E
 • Tonight:  Tonight — Mostly Clear. Low: 64°F; Rain: 3% ; Wind: 5 to 10 mph ESE
 • Tomorrow: Wednesday — High: 78°F; Low: 61°F; Rain: 7% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
@@ -54,24 +54,24 @@ $$
 Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-492
-FZUS52 KMLB 171100
+667
+FZUS52 KMLB 171600
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EST Tue Feb 17 2026
+1100 AM EST Tue Feb 17 2026
 
 FLZ141-347-447-172100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EST Tue Feb 17 2026
+1100 AM EST Tue Feb 17 2026
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
@@ -81,10 +81,8 @@ Weather.....................Sunny.
 High Temperature............In the lower 70s.
 Winds.......................East winds around 10 mph.
 Tides...
-   Daytona Beach............High 4.0 feet (MLLW) 07:43 AM EST.
-                            Low -0.3 feet (MLLW) 01:55 PM EST.
-   Port Canaveral...........High 3.7 feet (MLLW) 07:31 AM EST.
-                            Low -0.2 feet (MLLW) 01:41 PM EST.
+   Daytona Beach............Low -0.3 feet (MLLW) 01:55 PM EST.
+   Port Canaveral...........Low -0.2 feet (MLLW) 01:41 PM EST.
 Sunrise.....................7:03 AM.
 Sunset......................6:14 PM.
 
@@ -130,11 +128,11 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EST Tue Feb 17 2026
+1100 AM EST Tue Feb 17 2026
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
@@ -142,12 +140,10 @@ UV Index**..................High.
 Water Temperature...........In the upper 60s.
 Weather.....................Mostly sunny.
 High Temperature............In the lower 70s.
-Winds.......................East winds around 10 mph.
+Winds.......................East winds 10 to 15 mph.
 Tides...
-   Port Canaveral...........High 3.7 feet (MLLW) 07:31 AM EST.
-                            Low -0.2 feet (MLLW) 01:41 PM EST.
-   Sebastian Inlet..........High 2.2 feet (MLLW) 07:43 AM EST.
-                            Low -0.2 feet (MLLW) 01:48 PM EST.
+   Port Canaveral...........Low -0.2 feet (MLLW) 01:41 PM EST.
+   Sebastian Inlet..........Low -0.2 feet (MLLW) 01:48 PM EST.
 Sunrise.....................7:00 AM.
 Sunset......................6:13 PM.
 
@@ -166,10 +162,10 @@ Tides...
 Sunrise.....................6:59 AM.
 Sunset......................6:14 PM.
 
-.THURSDAY...Sunny. Highs in the upper 70s. Southwest winds around
+.THURSDAY...Mostly sunny. Highs in the upper 70s. South winds around
 5 mph.
 .FRIDAY...Sunny. Highs around 80. South winds around 5 mph.
-.SATURDAY...Sunny. Highs around 80. South winds around 5 mph.
+.SATURDAY...Sunny. Highs in the lower 80s. South winds around 5 mph.
 
 &&
 
@@ -191,23 +187,21 @@ FLZ159-164-172100-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EST Tue Feb 17 2026
+1100 AM EST Tue Feb 17 2026
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
-Surf Height.................3 to 4 feet.
+Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
 UV Index**..................High.
 Water Temperature...........In the lower 70s.
-Weather.....................Mostly sunny. A slight chance of
-                            showers.
+Weather.....................Mostly sunny.
 High Temperature............In the mid 70s.
-Winds.......................East winds around 10 mph.
+Winds.......................East winds 10 to 15 mph.
 Tides...
-   Fort Pierce Inlet........High 2.4 feet (MLLW) 08:11 AM EST.
-                            Low 0.3 feet (MLLW) 02:13 PM EST.
+   Fort Pierce Inlet........Low 0.3 feet (MLLW) 02:13 PM EST.
 Sunrise.....................6:58 AM.
 Sunset......................6:13 PM.
 
@@ -224,7 +218,7 @@ Tides...
 Sunrise.....................6:57 AM.
 Sunset......................6:14 PM.
 
-.THURSDAY...Sunny. Highs around 80. Southwest winds around 5 mph.
+.THURSDAY...Sunny. Highs in the lower 80s. South winds around 5 mph.
 .FRIDAY...Sunny. Highs in the lower 80s. South winds around 5 mph.
 .SATURDAY...Sunny. Highs in the lower 80s. South winds around 5 mph.
 
