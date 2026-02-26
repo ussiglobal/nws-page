@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Feb 26, 2026 • 12:00 PM
+Generated: Feb 26, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Sunny. High: 77°F; Rain: 2% ; Wind: 5 to 10 mph S
-• Tonight:  Tonight — Partly Cloudy. Low: 64°F; Rain: 12% ; Wind: 5 to 10 mph S
-• Tomorrow: Friday — High: 80°F; Low: 65°F; Rain: 30% ; Wind: 5 to 15 mph S
+• Today:    This Afternoon — Sunny. High: 76°F; Rain: 2% ; Wind: 10 to 15 mph SSE
+• Tonight:  Tonight — Partly Cloudy then Slight Chance Rain Showers. Low: 64°F; Rain: 19% ; Wind: 5 to 10 mph S
+• Tomorrow: Friday — High: 80°F; Low: 65°F; Rain: 16% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 38.5%
+Temp: 73.4°F (23°C) · Humidity: 53.3%
 
 🛥️ Marine Weather Statement:
 447
