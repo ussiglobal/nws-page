@@ -1,53 +1,70 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Feb 27, 2026 • 5:00 PM
+Generated: Feb 27, 2026 • 6:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 80°F; Rain: 53% ; Wind: 10 mph SE
+• Today:    Saturday — Chance Showers And Thunderstorms. High: 75°F; Rain: 59% ; Wind: 5 to 10 mph NNW
 • Tonight:  Tonight — Showers And Thunderstorms. Low: 65°F; Rain: 77% ; Wind: 5 to 10 mph S
-• Tomorrow: Saturday — High: 75°F; Low: 63°F; Rain: 59% ; Wind: 5 to 10 mph NNW
+• Tomorrow: Sunday — High: 74°F; Low: 63°F; Rain: 21% ; Wind: 10 to 15 mph N
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 73.6%
+Temp: 69.8°F (21°C) · Humidity: 88.4%
 
 🛥️ Marine Weather Statement:
-447
-FZUS72 KMLB 221837
+621
+FZUS72 KMLB 272252
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-137 PM EST Sun Feb 22 2026
+552 PM EST Fri Feb 27 2026
 
-AMZ552-555-222000-
-137 PM EST Sun Feb 22 2026
+AMZ552-555-272315-
+/O.CON.KMLB.MA.W.0008.000000T0000Z-260227T2315Z/
+552 PM EST Fri Feb 27 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 615 PM EST...
 
-At 137 PM EST, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Playalinda Beach to 18 nm
-west of Vero Lake Estates to near Fort Pierce Inlet, moving east at
-20 knots.
+For the following areas...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+
+At 551 PM EST, a strong thunderstorm was located 12 nm northeast of
+Sebastian Inlet, moving east at 25 knots.
+
+HAZARD...Wind gusts to nearly 50 knots and small hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+The strong thunderstorm will remain over mainly open waters.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2863 8084 2865 8074 2862 8064 2866 8070
-      2873 8027 2852 8020 2835 8021 2822 8026
-      2784 8006 2724 7983 2729 8028 2746 8037
-      2765 8041 2807 8065
+LAT...LON 2820 8025 2800 8013 2780 8005 2775 8047
+      2806 8064
+TIME...MOT...LOC 2251Z 248DEG 23KT 2799 8027
+
+HAIL...<.75IN
+WIND...49KTS
 
 $$
 
-Watson
+Law
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 354
