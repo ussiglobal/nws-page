@@ -1,53 +1,41 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Feb 28, 2026 • 1:00 AM
+Generated: Feb 28, 2026 • 2:00 AM
 ===============================
 
 📅 Forecast:
 • Today:    Saturday — Chance Showers And Thunderstorms. High: 73°F; Rain: 59% ; Wind: 5 to 15 mph NW
-• Tonight:  Overnight — Showers And Thunderstorms Likely. Low: 65°F; Rain: 64% ; Wind: 5 mph E
+• Tonight:  Overnight — Showers And Thunderstorms Likely. Low: 65°F; Rain: 56% ; Wind: 5 mph SSE
 • Tomorrow: Sunday — High: 74°F; Low: 64°F; Rain: 13% ; Wind: 10 to 15 mph N
 🌡️ Current Conditions:
 Temp: 66.2°F (19°C) · Humidity: 93.9%
 
 🛥️ Marine Weather Statement:
-032
-FZUS72 KMLB 280424
+119
+FZUS72 KMLB 280622
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1124 PM EST Fri Feb 27 2026
+122 AM EST Sat Feb 28 2026
 
-AMZ552-280600-
-1124 PM EST Fri Feb 27 2026
+AMZ552-280632-
+/O.CAN.KMLB.MA.W.0011.000000T0000Z-260228T0645Z/
+122 AM EST Sat Feb 28 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-At 1124 PM EST, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Canaveral Groves to 14 nm
-west of West Melbourne to 27 nm west of Palm Bay, moving east at 20
-knots.
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
-
-Frequent cloud to water lightning is occurring with these storms. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+The cloud has weakened and no longer poses a significant threat to
+boaters.
 
 &&
 
-LAT...LON 2865 8074 2863 8074 2862 8064 2866 8070
-      2871 8027 2855 8021 2844 8020 2832 8022
-      2826 8027 2823 8026 2789 8009 2785 8052
-      2807 8065 2864 8085
+LAT...LON 2835 8074 2839 8030 2818 8024 2814 8021
+      2795 8012 2792 8056 2807 8065
+TIME...MOT...LOC 0619Z 260DEG 24KT 2813 8036
 
 $$
 
