@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Feb 28, 2026 • 3:00 PM
+Generated: Feb 28, 2026 • 4:01 PM
 ===============================
 
 📅 Forecast:
@@ -8,47 +8,87 @@ Generated: Feb 28, 2026 • 3:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 62°F; Rain: 32% ; Wind: 10 mph N
 • Tomorrow: Sunday — High: 75°F; Low: 64°F; Rain: 14% ; Wind: 10 to 15 mph N
 🌡️ Current Conditions:
-Temp: 71.6°F (22°C) · Humidity: 78.1%
+Temp: 69.8°F (21°C) · Humidity: 83%
 
 🛥️ Marine Weather Statement:
-622
-FZUS72 KMLB 280914
+125
+FZUS72 KMLB 282002
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-414 AM EST Sat Feb 28 2026
+302 PM EST Sat Feb 28 2026
 
-AMZ552-555-281015-
-414 AM EST Sat Feb 28 2026
+AMZ555-282011-
+/O.CAN.KMLB.MA.W.0012.000000T0000Z-260228T2030Z/
+302 PM EST Sat Feb 28 2026
 
-...STRONG THUNDERSTORMS APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The affected areas were...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 414 AM EST, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Cocoa to 6 nm south of Vero Lake
-Estates, moving east at 20 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until these storms pass.
+The thunderstorms have weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2850 8070 2843 8069 2851 8066 2864 8025
-      2852 8020 2843 8020 2835 8021 2823 8026
-      2784 8006 2765 8000 2758 8039 2765 8041
-      2807 8065 2847 8079
+LAT...LON 2698 7973 2719 7981 2730 7937 2727 7913
+      2698 7905
+TIME...MOT...LOC 2001Z 278DEG 22KT 2715 7937
 
 $$
 
-Schaper
+AMZ575-282030-
+/O.CON.KMLB.MA.W.0012.000000T0000Z-260228T2030Z/
+302 PM EST Sat Feb 28 2026
+
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 330 PM EST...
+
+For the following areas...
+Sebastian Inlet to Jupiter Inlet 20-60 nm...
+
+At 301 PM EST, a cluster of thunderstorms capable of producing
+waterspouts was located 39 nm east of Jupiter Inlet, moving east at
+20 knots.
+
+HAZARD...Waterspouts, wind gusts to 40 knots, and small hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Waterspouts can can quickly form and capsize boats, damage
+         vessels and create locally hazardous seas. Make sure all on
+         board are wearing life jackets. Expect wind gusts in excess
+         of 34 knots, suddenly higher waves, lightning and heavy
+         downpours. Make sure all on board are wearing life jackets.
+         Return to safe harbor if possible.
+
+These thunderstorms will remain over the offshore waters.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
+
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
+
+&&
+
+LAT...LON 2698 7973 2719 7981 2730 7937 2727 7913
+      2698 7905
+TIME...MOT...LOC 2001Z 278DEG 22KT 2715 7937
+
+WATERSPOUT...POSSIBLE
+HAIL...<.75IN
+WIND...40KTS
+
+$$
+
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 665
