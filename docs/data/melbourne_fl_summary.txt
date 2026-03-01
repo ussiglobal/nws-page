@@ -1,94 +1,50 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 1, 2026 • 7:00 AM
+Generated: Mar 1, 2026 • 8:01 AM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Slight Chance Rain Showers. High: 75°F; Rain: 15% ; Wind: 10 to 15 mph N
+• Today:    Today — Mostly Sunny then Slight Chance Rain Showers. High: 75°F; Rain: 15% ; Wind: 10 to 15 mph N
 • Tonight:  Tonight — Partly Cloudy. Low: 65°F; Rain: 10% ; Wind: 10 to 15 mph NE
 • Tomorrow: Monday — High: 76°F; Low: 68°F; Rain: 22% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 60.8°F (16°C) · Humidity: 93.8%
+Temp: 62.6°F (17°C) · Humidity: 93.8%
 
 🛥️ Marine Weather Statement:
-125
-FZUS72 KMLB 282002
+077
+FZUS72 KMLB 011246
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-302 PM EST Sat Feb 28 2026
+746 AM EST Sun Mar 1 2026
 
-AMZ555-282011-
-/O.CAN.KMLB.MA.W.0012.000000T0000Z-260228T2030Z/
-302 PM EST Sat Feb 28 2026
+AMZ575-011315-
+746 AM EST Sun Mar 1 2026
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
-The affected areas were...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-The thunderstorms have weakened and no longer poses a significant
-threat to boaters.
-
-&&
-
-LAT...LON 2698 7973 2719 7981 2730 7937 2727 7913
-      2698 7905
-TIME...MOT...LOC 2001Z 278DEG 22KT 2715 7937
-
-$$
-
-AMZ575-282030-
-/O.CON.KMLB.MA.W.0012.000000T0000Z-260228T2030Z/
-302 PM EST Sat Feb 28 2026
-
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 330 PM EST...
-
-For the following areas...
-Sebastian Inlet to Jupiter Inlet 20-60 nm...
-
-At 301 PM EST, a cluster of thunderstorms capable of producing
-waterspouts was located 39 nm east of Jupiter Inlet, moving east at
-20 knots.
-
-HAZARD...Waterspouts, wind gusts to 40 knots, and small hail.
-
-SOURCE...Radar indicated.
-
-IMPACT...Waterspouts can can quickly form and capsize boats, damage
-         vessels and create locally hazardous seas. Make sure all on
-         board are wearing life jackets. Expect wind gusts in excess
-         of 34 knots, suddenly higher waves, lightning and heavy
-         downpours. Make sure all on board are wearing life jackets.
-         Return to safe harbor if possible.
-
-These thunderstorms will remain over the offshore waters.
+At 746 AM EST, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+47 nm east of Nettles Island, moving northeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Thunderstorms can produce sudden waterspouts. Waterspouts can easily
-overturn boats and create locally hazardous seas. Seek safe harbor
-immediately.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2698 7973 2719 7981 2730 7937 2727 7913
-      2698 7905
-TIME...MOT...LOC 2001Z 278DEG 22KT 2715 7937
-
-WATERSPOUT...POSSIBLE
-HAIL...<.75IN
-WIND...40KTS
+LAT...LON 2697 7969 2724 7944 2755 7948 2768 7929
+      2729 7913 2698 7905
 
 $$
 
-Kelly
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 499
