@@ -1,50 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 3, 2026 • 2:00 PM
+Generated: Mar 3, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Rain Showers. High: 76°F; Rain: 18% ; Wind: 10 to 15 mph ENE
+• Today:    This Afternoon — Slight Chance Rain Showers. High: 76°F; Rain: 15% ; Wind: 10 to 15 mph ENE
 • Tonight:  Tonight — Partly Cloudy. Low: 68°F; Rain: 12% ; Wind: 10 mph ENE
 • Tomorrow: Wednesday — High: 78°F; Low: 69°F; Rain: 14% ; Wind: 10 to 15 mph E
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 65.4%
+Temp: 75.2°F (24°C) · Humidity: 73.6%
 
 🛥️ Marine Weather Statement:
-077
-FZUS72 KMLB 011246
+113
+FZUS72 KMLB 032055
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-746 AM EST Sun Mar 1 2026
+355 PM EST Tue Mar 3 2026
 
-AMZ575-011315-
-746 AM EST Sun Mar 1 2026
+AMZ550-032300-
+355 PM EST Tue Mar 3 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...AREAS OF FOG OVER THE NORTHERN VOLUSIA WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 746 AM EST, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-47 nm east of Nettles Island, moving northeast at 10 knots.
+At 353 PM EST, satellite imagery indicated an area of fog, capable
+of reducing visibilities to below 1 mile. The fog is expanding
+southward, currently located along the coast from Ormond-By-The-Sea
+and points north.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+Dense fog was reducing visibilities to below 1 mile. Reduce your
+speed, and keep a lookout for other vessels, buoys, and breakwaters.
+Keep your navigation lights on. If not equipped with radar, you
+should consider seeking safe harbor.
 
 &&
 
-LAT...LON 2697 7969 2724 7944 2755 7948 2768 7929
-      2729 7913 2698 7905
+LAT...LON 2942 8113 2943 8111 2942 8111 2943 8110
+      2944 8111 2946 8112 2948 8085 2927 8079
+      2909 8098 2938 8113
 
 $$
 
-Tollefsen
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 216
