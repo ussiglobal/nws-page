@@ -1,10 +1,10 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 4, 2026 • 11:00 AM
+Generated: Mar 4, 2026 • 12:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Slight Chance Rain Showers. High: 78°F; Rain: 17% ; Wind: 10 to 15 mph ENE
+• Today:    This Afternoon — Slight Chance Rain Showers. High: 78°F; Rain: 16% ; Wind: 10 to 15 mph ENE
 • Tonight:  Tonight — Partly Cloudy. Low: 69°F; Rain: 12% ; Wind: 10 mph E
 • Tomorrow: Thursday — High: 79°F; Low: 70°F; Rain: 31% ; Wind: 10 to 15 mph ESE
 🌡️ Current Conditions:
@@ -50,37 +50,35 @@ $$
 Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-995
-FZUS52 KMLB 041100
+096
+FZUS52 KMLB 041600
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EST Wed Mar 4 2026
+1100 AM EST Wed Mar 4 2026
 
 FLZ141-347-447-042100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EST Wed Mar 4 2026
+1100 AM EST Wed Mar 4 2026
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................3 to 4 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Very High.
 Water Temperature...........In the lower 60s.
-Weather.....................Mostly sunny. Patchy dense fog.
+Weather.....................Mostly sunny.
 High Temperature............In the mid 70s.
-Winds.......................East winds 5 to 10 mph.
+Winds.......................Northeast winds around 10 mph.
 Tides...
-   Daytona Beach............High 4.2 feet (MLLW) 08:28 AM EST.
-                            Low -0.5 feet (MLLW) 02:35 PM EST.
-   Port Canaveral...........High 3.6 feet (MLLW) 08:15 AM EST.
-                            Low -0.4 feet (MLLW) 02:22 PM EST.
+   Daytona Beach............Low -0.5 feet (MLLW) 02:35 PM EST.
+   Port Canaveral...........Low -0.4 feet (MLLW) 02:22 PM EST.
 Sunrise.....................6:45 AM.
 Sunset......................6:26 PM.
 
@@ -88,9 +86,8 @@ Sunset......................6:26 PM.
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
-Weather.....................Mostly sunny. A slight chance of
-                            showers.
-High Temperature............In the upper 70s.
+Weather.....................Mostly sunny. Patchy dense fog.
+High Temperature............In the mid 70s.
 Winds.......................East winds 5 to 10 mph.
 Tides...
    Daytona Beach............High 4.0 feet (MLLW) 09:07 AM EST.
@@ -100,11 +97,11 @@ Tides...
 Sunrise.....................6:44 AM.
 Sunset......................6:27 PM.
 
-.FRIDAY...Mostly sunny. A chance of showers. Highs in the upper 70s.
-Southeast winds around 10 mph.
-.SATURDAY...Sunny. A chance of showers and a slight chance of
+.FRIDAY...Mostly sunny. A slight chance of showers. Highs in the
+upper 70s. East winds around 10 mph.
+.SATURDAY...Mostly sunny. A chance of showers and a slight chance of
 thunderstorms. Highs in the upper 70s. Southeast winds around 10 mph.
-.SUNDAY...Sunny. A slight chance of showers. Highs around 80.
+.SUNDAY...Sunny. A slight chance of showers. Highs in the upper 70s.
 Southeast winds around 5 mph.
 
 &&
@@ -128,35 +125,34 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EST Wed Mar 4 2026
+1100 AM EST Wed Mar 4 2026
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Very High.
-Water Temperature...........In the upper 60s.
-Weather.....................Mostly sunny.
+Water Temperature...........In the lower 70s.
+Weather.....................Mostly sunny. A slight chance of
+                            showers.
 High Temperature............In the upper 70s.
 Winds.......................East winds around 10 mph.
 Tides...
-   Port Canaveral...........High 3.6 feet (MLLW) 08:15 AM EST.
-                            Low -0.4 feet (MLLW) 02:22 PM EST.
-   Sebastian Inlet..........High 2.3 feet (MLLW) 08:19 AM EST.
-                            Low -0.5 feet (MLLW) 02:32 PM EST.
+   Port Canaveral...........Low -0.4 feet (MLLW) 02:22 PM EST.
+   Sebastian Inlet..........Low -0.5 feet (MLLW) 02:32 PM EST.
 Sunrise.....................6:43 AM.
 Sunset......................6:25 PM.
 
 .THURSDAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
-Thunderstorm Potential**....Low.
-Weather.....................Mostly sunny. A chance of showers and a
-                            slight chance of thunderstorms.
+Thunderstorm Potential**....None.
+Weather.....................Mostly sunny. A slight chance of
+                            showers.
 High Temperature............In the upper 70s.
-Winds.......................East winds around 10 mph.
+Winds.......................East winds 10 to 15 mph.
 Tides...
    Port Canaveral...........High 3.4 feet (MLLW) 08:52 AM EST.
                             Low -0.3 feet (MLLW) 02:57 PM EST.
@@ -165,8 +161,8 @@ Tides...
 Sunrise.....................6:42 AM.
 Sunset......................6:26 PM.
 
-.FRIDAY...Mostly sunny. A chance of showers and a slight chance of
-thunderstorms. Highs in the upper 70s. East winds around 10 mph.
+.FRIDAY...Mostly sunny. A slight chance of showers. Highs in the
+upper 70s. East winds around 10 mph.
 .SATURDAY...Mostly sunny. A chance of showers and a slight chance of
 thunderstorms. Highs in the upper 70s. East winds around 10 mph.
 .SUNDAY...Sunny. A slight chance of showers. Highs in the upper 70s.
@@ -192,31 +188,31 @@ FLZ159-164-042100-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EST Wed Mar 4 2026
+1100 AM EST Wed Mar 4 2026
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Very High.
 Water Temperature...........In the lower 70s.
-Weather.....................Mostly sunny.
+Weather.....................Mostly sunny. A slight chance of
+                            showers.
 High Temperature............In the upper 70s.
-Winds.......................East winds 10 to 15 mph.
+Winds.......................East winds around 15 mph.
 Tides...
-   Fort Pierce Inlet........High 2.3 feet (MLLW) 08:55 AM EST.
-                            Low 0.0 feet (MLLW) 02:48 PM EST.
+   Fort Pierce Inlet........Low 0.0 feet (MLLW) 02:48 PM EST.
 Sunrise.....................6:42 AM.
 Sunset......................6:24 PM.
 
 .THURSDAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
-Thunderstorm Potential**....Low.
-Weather.....................Mostly sunny. A chance of showers and a
-                            slight chance of thunderstorms.
+Thunderstorm Potential**....None.
+Weather.....................Mostly sunny. A slight chance of
+                            showers.
 High Temperature............In the upper 70s.
 Winds.......................East winds 10 to 15 mph.
 Tides...
@@ -225,12 +221,12 @@ Tides...
 Sunrise.....................6:41 AM.
 Sunset......................6:25 PM.
 
-.FRIDAY...Mostly sunny. A chance of showers and a slight chance of
-thunderstorms. Highs around 80. East winds around 10 mph.
+.FRIDAY...Mostly sunny. A slight chance of showers. Highs in the
+upper 70s. East winds around 10 mph.
 .SATURDAY...Mostly sunny. A chance of showers and a slight chance of
 thunderstorms. Highs in the upper 70s. East winds around 10 mph.
-.SUNDAY...Mostly sunny. A chance of showers. Highs around 80. East
-winds around 10 mph.
+.SUNDAY...Mostly sunny. A slight chance of showers. Highs in the
+upper 70s. East winds around 10 mph.
 
 &&
 
