@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 5, 2026 • 6:00 AM
+Generated: Mar 5, 2026 • 7:01 AM
 ===============================
 
 📅 Forecast:
@@ -50,43 +50,30 @@ $$
 Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-096
-FZUS52 KMLB 041600
+336
+FZUS52 KMLB 051100
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-1100 AM EST Wed Mar 4 2026
+600 AM EST Thu Mar 5 2026
 
-FLZ141-347-447-042100-
+FLZ141-347-447-052100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-1100 AM EST Wed Mar 4 2026
+600 AM EST Thu Mar 5 2026
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.REST OF TODAY...
+.TODAY...
 Rip Current Risk*...........High.
-Surf Height.................3 to 4 feet.
+Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Very High.
 Water Temperature...........In the lower 60s.
 Weather.....................Mostly sunny.
-High Temperature............In the mid 70s.
-Winds.......................Northeast winds around 10 mph.
-Tides...
-   Daytona Beach............Low -0.5 feet (MLLW) 02:35 PM EST.
-   Port Canaveral...........Low -0.4 feet (MLLW) 02:22 PM EST.
-Sunrise.....................6:45 AM.
-Sunset......................6:26 PM.
-
-.THURSDAY...
-Rip Current Risk*...........High.
-Surf Height.................Around 4 feet.
-Thunderstorm Potential**....None.
-Weather.....................Mostly sunny. Patchy dense fog.
 High Temperature............In the mid 70s.
 Winds.......................East winds 5 to 10 mph.
 Tides...
@@ -97,12 +84,28 @@ Tides...
 Sunrise.....................6:44 AM.
 Sunset......................6:27 PM.
 
-.FRIDAY...Mostly sunny. A slight chance of showers. Highs in the
-upper 70s. East winds around 10 mph.
+.FRIDAY...
+Rip Current Risk*...........High.
+Surf Height.................3 to 4 feet.
+Thunderstorm Potential**....None.
+Weather.....................Mostly sunny. A slight chance of
+                            showers.
+High Temperature............In the upper 70s.
+Winds.......................East winds 5 to 10 mph.
+Tides...
+   Daytona Beach............High 3.8 feet (MLLW) 09:45 AM EST.
+                            Low -0.2 feet (MLLW) 03:49 PM EST.
+   Port Canaveral...........High 3.2 feet (MLLW) 09:28 AM EST.
+                            Low -0.2 feet (MLLW) 03:34 PM EST.
+Sunrise.....................6:43 AM.
+Sunset......................6:27 PM.
+
 .SATURDAY...Mostly sunny. A chance of showers and a slight chance of
 thunderstorms. Highs in the upper 70s. Southeast winds around 10 mph.
 .SUNDAY...Sunny. A slight chance of showers. Highs in the upper 70s.
 Southeast winds around 5 mph.
+.MONDAY...Mostly sunny. Highs in the upper 70s. Southeast winds
+around 5 mph.
 
 &&
 
@@ -120,16 +123,81 @@ https://www.weather.gov/beach/mlb
 
 $$
 
-FLZ154-647-747-042100-
+FLZ154-647-747-052100-
 Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-1100 AM EST Wed Mar 4 2026
+600 AM EST Thu Mar 5 2026
 
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
 
-.REST OF TODAY...
+.TODAY...
+Rip Current Risk*...........High.
+Surf Height.................Around 4 feet.
+Thunderstorm Potential**....Low.
+UV Index**..................Very High.
+Water Temperature...........In the lower 70s.
+Weather.....................Mostly sunny. A slight chance of
+                            showers and thunderstorms.
+High Temperature............In the upper 70s.
+Winds.......................East winds around 10 mph.
+Tides...
+   Port Canaveral...........High 3.4 feet (MLLW) 08:52 AM EST.
+                            Low -0.3 feet (MLLW) 02:57 PM EST.
+   Sebastian Inlet..........High 2.2 feet (MLLW) 08:55 AM EST.
+                            Low -0.4 feet (MLLW) 03:12 PM EST.
+Sunrise.....................6:42 AM.
+Sunset......................6:26 PM.
+
+.FRIDAY...
+Rip Current Risk*...........High.
+Surf Height.................3 to 4 feet.
+Thunderstorm Potential**....Low.
+Weather.....................Mostly sunny. A slight chance of
+                            showers and thunderstorms.
+High Temperature............In the upper 70s.
+Winds.......................East winds around 10 mph.
+Tides...
+   Port Canaveral...........High 3.2 feet (MLLW) 09:28 AM EST.
+                            Low -0.2 feet (MLLW) 03:34 PM EST.
+   Sebastian Inlet..........High 2.1 feet (MLLW) 09:31 AM EST.
+                            Low -0.3 feet (MLLW) 03:50 PM EST.
+Sunrise.....................6:41 AM.
+Sunset......................6:26 PM.
+
+.SATURDAY...Mostly sunny. A chance of showers and a slight chance of
+thunderstorms. Highs in the upper 70s. East winds around 10 mph.
+.SUNDAY...Sunny. A slight chance of showers. Highs in the upper 70s.
+Southeast winds around 10 mph.
+.MONDAY...Sunny. Highs in the upper 70s. Southeast winds around
+10 mph.
+
+&&
+
+Rip Current Risk Category
+* Low Risk - The risk for rip currents is low, however,
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
+* Moderate Risk - Life-threatening rip currents are possible in the
+surf zone.
+* High Risk - Life-threatening rip currents are likely in the surf
+zone.
+
+** For thunderstorm, waterspout, and UV definitions see:
+https://www.weather.gov/beach/mlb
+
+$$
+
+FLZ159-164-052100-
+Coastal Saint Lucie-Coastal Martin-
+Including the beaches of Fort Pierce Inlet, Jensen Beach,
+St Lucie Inlet, and Hobe Sound
+600 AM EST Thu Mar 5 2026
+
+...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
+
+.TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
@@ -140,93 +208,31 @@ Weather.....................Mostly sunny. A slight chance of
 High Temperature............In the upper 70s.
 Winds.......................East winds around 10 mph.
 Tides...
-   Port Canaveral...........Low -0.4 feet (MLLW) 02:22 PM EST.
-   Sebastian Inlet..........Low -0.5 feet (MLLW) 02:32 PM EST.
-Sunrise.....................6:43 AM.
-Sunset......................6:25 PM.
-
-.THURSDAY...
-Rip Current Risk*...........High.
-Surf Height.................Around 4 feet.
-Thunderstorm Potential**....None.
-Weather.....................Mostly sunny. A slight chance of
-                            showers.
-High Temperature............In the upper 70s.
-Winds.......................East winds 10 to 15 mph.
-Tides...
-   Port Canaveral...........High 3.4 feet (MLLW) 08:52 AM EST.
-                            Low -0.3 feet (MLLW) 02:57 PM EST.
-   Sebastian Inlet..........High 2.2 feet (MLLW) 08:55 AM EST.
-                            Low -0.4 feet (MLLW) 03:12 PM EST.
-Sunrise.....................6:42 AM.
-Sunset......................6:26 PM.
-
-.FRIDAY...Mostly sunny. A slight chance of showers. Highs in the
-upper 70s. East winds around 10 mph.
-.SATURDAY...Mostly sunny. A chance of showers and a slight chance of
-thunderstorms. Highs in the upper 70s. East winds around 10 mph.
-.SUNDAY...Sunny. A slight chance of showers. Highs in the upper 70s.
-Southeast winds around 10 mph.
-
-&&
-
-Rip Current Risk Category
-* Low Risk - The risk for rip currents is low, however,
-life-threatening rip currents often occur in the vicinity of groins,
-jetties, reefs, and piers.
-* Moderate Risk - Life-threatening rip currents are possible in the
-surf zone.
-* High Risk - Life-threatening rip currents are likely in the surf
-zone.
-
-** For thunderstorm, waterspout, and UV definitions see:
-https://www.weather.gov/beach/mlb
-
-$$
-
-FLZ159-164-042100-
-Coastal Saint Lucie-Coastal Martin-
-Including the beaches of Fort Pierce Inlet, Jensen Beach,
-St Lucie Inlet, and Hobe Sound
-1100 AM EST Wed Mar 4 2026
-
-...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TONIGHT...
-
-.REST OF TODAY...
-Rip Current Risk*...........High.
-Surf Height.................Around 4 feet.
-Thunderstorm Potential**....None.
-UV Index**..................Very High.
-Water Temperature...........In the lower 70s.
-Weather.....................Mostly sunny. A slight chance of
-                            showers.
-High Temperature............In the upper 70s.
-Winds.......................East winds around 15 mph.
-Tides...
-   Fort Pierce Inlet........Low 0.0 feet (MLLW) 02:48 PM EST.
-Sunrise.....................6:42 AM.
-Sunset......................6:24 PM.
-
-.THURSDAY...
-Rip Current Risk*...........High.
-Surf Height.................Around 4 feet.
-Thunderstorm Potential**....None.
-Weather.....................Mostly sunny. A slight chance of
-                            showers.
-High Temperature............In the upper 70s.
-Winds.......................East winds 10 to 15 mph.
-Tides...
    Fort Pierce Inlet........High 2.2 feet (MLLW) 09:32 AM EST.
                             Low 0.1 feet (MLLW) 03:25 PM EST.
 Sunrise.....................6:41 AM.
 Sunset......................6:25 PM.
 
-.FRIDAY...Mostly sunny. A slight chance of showers. Highs in the
-upper 70s. East winds around 10 mph.
+.FRIDAY...
+Rip Current Risk*...........High.
+Surf Height.................Around 4 feet.
+Thunderstorm Potential**....Low.
+Weather.....................Mostly sunny. A slight chance of
+                            showers and thunderstorms.
+High Temperature............In the upper 70s.
+Winds.......................East winds around 10 mph.
+Tides...
+   Fort Pierce Inlet........High 2.1 feet (MLLW) 10:07 AM EST.
+                            Low 0.1 feet (MLLW) 04:03 PM EST.
+Sunrise.....................6:40 AM.
+Sunset......................6:25 PM.
+
 .SATURDAY...Mostly sunny. A chance of showers and a slight chance of
 thunderstorms. Highs in the upper 70s. East winds around 10 mph.
-.SUNDAY...Mostly sunny. A slight chance of showers. Highs in the
-upper 70s. East winds around 10 mph.
+.SUNDAY...Sunny. A slight chance of showers and thunderstorms. Highs
+around 80. East winds around 10 mph.
+.MONDAY...Sunny. A slight chance of showers and thunderstorms. Highs
+around 80. Southeast winds around 10 mph.
 
 &&
 
