@@ -1,53 +1,59 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 12, 2026 • 2:00 PM
+Generated: Mar 12, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 87°F; Rain: 42% ; Wind: 15 mph WSW
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 68°F; Rain: 58% ; Wind: 10 to 20 mph N
-• Tomorrow: Friday — High: 78°F; Low: 69°F; Rain: 24% ; Wind: 15 mph ENE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 87°F; Rain: 41% ; Wind: 15 mph WSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 68°F; Rain: 51% ; Wind: 10 to 20 mph N
+• Tomorrow: Friday — High: 78°F; Low: 70°F; Rain: 16% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 51.5%
+Temp: 89.6°F (32°C) · Humidity: 40.7%
 
 🛥️ Marine Weather Statement:
-760
-FZUS72 KMLB 090106
+180
+FZUS72 KMLB 121819
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-906 PM EDT Sun Mar 8 2026
+219 PM EDT Thu Mar 12 2026
 
-AMZ552-090200-
-906 PM EDT Sun Mar 8 2026
+AMZ550-570-122015-
+219 PM EDT Thu Mar 12 2026
 
-...GUSTY OUTFLOW WINDS APPROACHING THE SOUTHERN BREVARD INTRACOASTAL
-AND NEARSHORE ATLANTIC WATERS...
+...STRONG SHOWERS AND THUNDERSTORMS APPROACHING THE WATERS THIS
+AFTERNOON...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 903 PM EDT, Doppler radar indicated an outflow boundary with
-showers and isolated storms behind it, capable of producing winds to
-around 30 knots, located 7 nm west of Palm Bay, moving east at 20
-knots.
+At 217 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Ormond-By-the-Sea, moving east at 25 knots. Additional storms
+will push off of the Volusia coast during the afternoon.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and occasional lightning strikes. Boaters should seek safe
-harbor immediately until this storm passes.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+A special marine warning may eventually be required when these
+thunderstorms reach the nearshore waters. Boaters should consider
+heading for shore before this activity arrives.
 
 &&
 
-LAT...LON 2834 8042 2788 8020 2785 8041 2784 8042
-      2784 8047 2783 8047 2783 8051 2807 8065
-      2823 8070
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8103
+      2948 8072 2948 8035 2926 8025 2904 8096
+      2938 8113
 
 $$
 
-Kelly
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 145
