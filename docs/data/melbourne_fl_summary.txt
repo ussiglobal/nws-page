@@ -1,55 +1,55 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 12, 2026 • 6:00 PM
+Generated: Mar 12, 2026 • 7:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 87°F; Rain: 41% ; Wind: 15 mph WSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 68°F; Rain: 51% ; Wind: 10 to 20 mph N
-• Tomorrow: Friday — High: 78°F; Low: 70°F; Rain: 16% ; Wind: 10 to 15 mph ENE
+• Today:    Friday — Partly Sunny then Slight Chance Rain Showers. High: 78°F; Rain: 16% ; Wind: 10 to 15 mph ENE
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 68°F; Rain: 49% ; Wind: 10 to 20 mph N
+• Tomorrow: Saturday — High: 79°F; Low: 70°F; Rain: 54% ; Wind: 5 to 10 mph ENE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 45.4%
+Temp: 69.8°F (21°C) · Humidity: 83%
 
 🛥️ Marine Weather Statement:
-180
-FZUS72 KMLB 121819
+452
+FZUS72 KMLB 122205
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-219 PM EDT Thu Mar 12 2026
+605 PM EDT Thu Mar 12 2026
 
-AMZ550-570-122015-
-219 PM EDT Thu Mar 12 2026
+AMZ552-555-572-575-130000-
+605 PM EDT Thu Mar 12 2026
 
-...STRONG SHOWERS AND THUNDERSTORMS APPROACHING THE WATERS THIS
-AFTERNOON...
+...GUSTY OUTFLOW WINDS ASSOCIATED WITH A FRONT...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 217 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Ormond-By-the-Sea, moving east at 25 knots. Additional storms
-will push off of the Volusia coast during the afternoon.
+At 601 PM EDT, gusty outflow winds associated with a front dropping
+southward across the waters will be capable of producing winds to
+around 33 knots. Scattered showers and isolated lightning storms
+will also move across the waters this evening and may have brief
+strong gusts as well. This outflow is moving southward across the
+southern Brevard County waters at around 25 knots and will likely be
+well out ahead of any precipitation activity.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-A special marine warning may eventually be required when these
-thunderstorms reach the nearshore waters. Boaters should consider
-heading for shore before this activity arrives.
+Mariners can expect gusty winds to around 33 knots, locally higher
+waves, and occasional lightning strikes. Boaters should seek safe
+harbor. A special marine warning may eventually be required.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8103
-      2948 8072 2948 8035 2926 8025 2904 8096
-      2938 8113
+LAT...LON 2725 8026 2728 8028 2725 8027 2724 8035
+      2728 8035 2729 8028 2746 8037 2765 8041
+      2799 8060 2807 8043 2881 7960 2865 7954
+      2829 7954 2737 7916
 
 $$
 
