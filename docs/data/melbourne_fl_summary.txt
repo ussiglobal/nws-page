@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 14, 2026 • 8:01 PM
+Generated: Mar 14, 2026 • 9:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,7 +11,44 @@ Generated: Mar 14, 2026 • 8:01 PM
 Temp: 75.2°F (24°C) · Humidity: 83.3%
 
 🛥️ Marine Weather Statement:
+337
+FZUS72 KMLB 141925
+MWSMLB
 
+Marine Weather Statement
+National Weather Service Melbourne FL
+325 PM EDT Sat Mar 14 2026
+
+AMZ555-142030-
+325 PM EDT Sat Mar 14 2026
+
+...STRONG THUNDERSTORMS APPROACHING THE ATLANTIC AND INTRACOASTAL
+WATERS FROM NEAR FORT PIERCE TO JUPITER...
+
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+
+At 324 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots and small hail. These
+thunderstorms were located along a line extending from Saint Lucie
+West to near Jonathan Dickinson State Park to 8 nm southwest of
+Jupiter, moving east at 20 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+&&
+
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2723 8035 2728 8035 2729 8032 2724 8026
+      2745 8037 2757 8001 2701 7976 2697 7976
+
+$$
+
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 000
