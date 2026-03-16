@@ -1,56 +1,68 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 16, 2026 • 5:00 PM
+Generated: Mar 16, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 85°F; Rain: 52% ; Wind: 15 mph SSW
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 85°F; Rain: 34% ; Wind: 15 mph SSW
 • Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 53°F; Rain: 81% ; Wind: 15 mph W
 • Tomorrow: Tuesday — High: 63°F; Low: 52°F; Rain: 8% ; Wind: 15 mph NNW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 43.1%
+Temp: 86°F (30°C) · Humidity: 48.6%
 
 🛥️ Marine Weather Statement:
-074
-FZUS72 KMLB 161754
+517
+FZUS72 KMLB 162136
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-154 PM EDT Mon Mar 16 2026
+536 PM EDT Mon Mar 16 2026
 
-AMZ550-552-570-572-161900-
-154 PM EDT Mon Mar 16 2026
+AMZ552-162230-
+/O.CON.KMLB.MA.W.0035.000000T0000Z-260316T2230Z/
+536 PM EDT Mon Mar 16 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 630 PM EDT...
 
-At 153 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Port Canaveral, moving northeast at 25 knots.
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+
+At 536 PM EDT, a gust front was located along a line extending from
+near Playalinda Beach to near Canaveral Groves, moving east at 30
+knots.
+
+HAZARD...Wind gusts to nearly 50 knots.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Locations impacted include...
+Titusville Airport, Bellwood, Playalinda Beach, Merritt Island
+Wildlife Refuge, and Port Saint John.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
 
 &&
 
-LAT...LON 2883 8085 2888 8088 2903 8035 2845 8011
-      2790 8055 2881 8089
+LAT...LON 2883 8034 2873 8027 2852 8020 2835 8021
+      2825 8027 2806 8017 2799 8060 2807 8065
+      2847 8079 2875 8088
+TIME...MOT...LOC 2136Z 270DEG 32KT 2870 8063 2849 8091
+
+HAIL...0.00IN
+WIND...49KTS
 
 $$
 
-Law
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 979
