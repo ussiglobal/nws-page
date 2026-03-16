@@ -1,38 +1,57 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 16, 2026 • 6:00 PM
+Generated: Mar 16, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 85°F; Rain: 34% ; Wind: 15 mph SSW
+• Today:    Tuesday — Partly Sunny. High: 63°F; Rain: 8% ; Wind: 15 mph NNW
 • Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 53°F; Rain: 81% ; Wind: 15 mph W
-• Tomorrow: Tuesday — High: 63°F; Low: 52°F; Rain: 8% ; Wind: 15 mph NNW
+• Tomorrow: Wednesday — High: 70°F; Low: 52°F; Rain: 7% ; Wind: 10 to 15 mph NNE
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 48.6%
+Temp: 32°F (0°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-517
-FZUS72 KMLB 162136
+435
+FZUS72 KMLB 162242
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-536 PM EDT Mon Mar 16 2026
+642 PM EDT Mon Mar 16 2026
 
-AMZ552-162230-
-/O.CON.KMLB.MA.W.0035.000000T0000Z-260316T2230Z/
-536 PM EDT Mon Mar 16 2026
+AMZ555-162251-
+/O.CAN.KMLB.MA.W.0036.000000T0000Z-260316T2300Z/
+642 PM EDT Mon Mar 16 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 630 PM EDT...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
+
+The affected areas were...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
+
+The thunderstorms have moved out of the warned area and no longer
+pose a significant threat to boaters.
+
+&&
+
+LAT...LON 2698 7959 2748 7921 2729 7913 2698 7905
+TIME...MOT...LOC 2241Z 260DEG 21KT 2752 7908 2669 7966
+
+$$
+
+AMZ575-162300-
+/O.CON.KMLB.MA.W.0036.000000T0000Z-260316T2300Z/
+642 PM EDT Mon Mar 16 2026
+
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 700 PM EDT...
 
 For the following areas...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 536 PM EDT, a gust front was located along a line extending from
-near Playalinda Beach to near Canaveral Groves, moving east at 30
-knots.
+At 641 PM EDT, strong thunderstorms were located along a line
+extending from 61 nm northeast of Hobe Sound Beach to 20 nm east of
+Palm Beach, moving east at 20 knots.
 
-HAZARD...Wind gusts to nearly 50 knots.
+HAZARD...Wind gusts to 40 knots and small hail.
 
 SOURCE...Radar indicated.
 
@@ -41,24 +60,25 @@ IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
          board are wearing life jackets. Return to safe harbor if
          possible.
 
-Locations impacted include...
-Titusville Airport, Bellwood, Playalinda Beach, Merritt Island
-Wildlife Refuge, and Port Saint John.
+Strong thunderstorms will remain over mainly open waters.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Move to safe harbor immediately as gusty winds and high waves are
 expected.
 
+Frequent cloud to water lightning is occurring with these storms. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
+
 &&
 
-LAT...LON 2883 8034 2873 8027 2852 8020 2835 8021
-      2825 8027 2806 8017 2799 8060 2807 8065
-      2847 8079 2875 8088
-TIME...MOT...LOC 2136Z 270DEG 32KT 2870 8063 2849 8091
+LAT...LON 2698 7959 2748 7921 2729 7913 2698 7905
+TIME...MOT...LOC 2241Z 260DEG 21KT 2752 7908 2669 7966
 
-HAIL...0.00IN
-WIND...49KTS
+HAIL...<.75IN
+WIND...40KTS
 
 $$
 
