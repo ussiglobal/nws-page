@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 16, 2026 • 10:00 AM
+Generated: Mar 16, 2026 • 11:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,19 +8,19 @@ Generated: Mar 16, 2026 • 10:00 AM
 • Tonight:  Tonight — Showers And Thunderstorms then Slight Chance Showers And Thunderstorms. Low: 54°F; Rain: 76% ; Wind: 15 mph W
 • Tomorrow: Tuesday — High: 63°F; Low: 53°F; Rain: 10% ; Wind: 15 mph NNW
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 88.6%
+Temp: 78.8°F (26°C) · Humidity: 74%
 
 🛥️ Marine Weather Statement:
-164
-FZUS72 KMLB 161230
+767
+FZUS72 KMLB 161443
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-830 AM EDT Mon Mar 16 2026
+1043 AM EDT Mon Mar 16 2026
 
-AMZ555-575-161400-
-830 AM EDT Mon Mar 16 2026
+AMZ555-575-161615-
+1043 AM EDT Mon Mar 16 2026
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
@@ -28,10 +28,11 @@ The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 830 AM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots and small hail. This
-thunderstorm was located 13 nm east of Jupiter Island, moving
-northeast at 25 knots.
+At 1042 AM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots and small hail. This
+thunderstorm was located 21 nm northeast of Hobe Sound Beach, moving
+northeast at 20 knots. Additional storms will continue across this
+area into early afternoon.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -41,7 +42,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2699 7952 2698 8002 2780 8005 2756 7927
+LAT...LON 2697 8005 2768 7978 2756 7923 2754 7923
+      2753 7922 2698 7945
 
 $$
 
