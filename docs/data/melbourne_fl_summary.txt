@@ -1,67 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 16, 2026 • 10:00 PM
+Generated: Mar 16, 2026 • 11:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Tuesday — Partly Sunny. High: 63°F; Rain: 8% ; Wind: 15 mph NNW
-• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 53°F; Rain: 64% ; Wind: 15 mph WNW
+• Tonight:  Tonight — Chance Rain Showers. Low: 53°F; Rain: 35% ; Wind: 15 mph NW
 • Tomorrow: Wednesday — High: 70°F; Low: 52°F; Rain: 7% ; Wind: 10 to 15 mph NNE
 🌡️ Current Conditions:
-Temp: 68°F (20°C) · Humidity: 82.9%
+Temp: 66.2°F (19°C) · Humidity: 88.2%
 
 🛥️ Marine Weather Statement:
-585
-FZUS72 KMLB 170150
+178
+FZUS72 KMLB 170215
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-950 PM EDT Mon Mar 16 2026
+1015 PM EDT Mon Mar 16 2026
 
-AMZ555-170215-
-/O.CON.KMLB.MA.W.0039.000000T0000Z-260317T0215Z/
-950 PM EDT Mon Mar 16 2026
+AMZ555-575-170300-
+1015 PM EDT Mon Mar 16 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 1015 PM EDT...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
-For the following areas...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 950 PM EDT, strong thunderstorms were located along a line
-extending from 15 nm east of Fort Pierce Inlet to 8 nm east of Sand
-Cut, moving east at 25 knots.
-
-HAZARD...Wind gusts 34 knots or greater.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible.
-
-Locations impacted include...
-Hobe Sound Beach, Hobe Sound, Jupiter Island, Witham Field, and
-Sewall`s Point.
+At 1014 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located over Jupiter Island, moving east at 40 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Move to safe harbor until hazardous weather passes.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2722 8034 2728 8031 2724 8026 2731 8029
-      2762 8000 2729 7984 2726 7984 2697 7973
-TIME...MOT...LOC 0150Z 270DEG 24KT 2749 8001 2696 8047
-
-HAIL...0.00IN
-WIND...>34KTS
+LAT...LON 2697 8011 2711 8018 2712 8019 2725 8024
+      2747 7964 2698 7950 2697 7982
 
 $$
 
-Schaper
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 979
