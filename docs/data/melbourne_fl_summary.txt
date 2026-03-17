@@ -1,84 +1,44 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 16, 2026 • 7:00 PM
+Generated: Mar 16, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Tuesday — Partly Sunny. High: 63°F; Rain: 8% ; Wind: 15 mph NNW
-• Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 53°F; Rain: 81% ; Wind: 15 mph W
+• Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 53°F; Rain: 69% ; Wind: 15 mph W
 • Tomorrow: Wednesday — High: 70°F; Low: 52°F; Rain: 7% ; Wind: 10 to 15 mph NNE
 🌡️ Current Conditions:
-Temp: 32°F (0°C) · Humidity: 0%
+Temp: 68°F (20°C) · Humidity: 82.9%
 
 🛥️ Marine Weather Statement:
-435
-FZUS72 KMLB 162242
+558
+FZUS72 KMLB 162322
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-642 PM EDT Mon Mar 16 2026
+722 PM EDT Mon Mar 16 2026
 
-AMZ555-162251-
-/O.CAN.KMLB.MA.W.0036.000000T0000Z-260316T2300Z/
-642 PM EDT Mon Mar 16 2026
+AMZ552-555-162332-
+/O.CAN.KMLB.MA.W.0037.000000T0000Z-260316T2345Z/
+722 PM EDT Mon Mar 16 2026
 
 ...THE SPECIAL MARINE WARNING IS CANCELLED...
 
 The affected areas were...
 Sebastian Inlet to Jupiter Inlet 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The thunderstorms have moved out of the warned area and no longer
-pose a significant threat to boaters.
-
-&&
-
-LAT...LON 2698 7959 2748 7921 2729 7913 2698 7905
-TIME...MOT...LOC 2241Z 260DEG 21KT 2752 7908 2669 7966
-
-$$
-
-AMZ575-162300-
-/O.CON.KMLB.MA.W.0036.000000T0000Z-260316T2300Z/
-642 PM EDT Mon Mar 16 2026
-
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 700 PM EDT...
-
-For the following areas...
-Sebastian Inlet to Jupiter Inlet 20-60 nm...
-
-At 641 PM EDT, strong thunderstorms were located along a line
-extending from 61 nm northeast of Hobe Sound Beach to 20 nm east of
-Palm Beach, moving east at 20 knots.
-
-HAZARD...Wind gusts to 40 knots and small hail.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible.
-
-Strong thunderstorms will remain over mainly open waters.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Move to safe harbor immediately as gusty winds and high waves are
-expected.
-
-Frequent cloud to water lightning is occurring with these storms. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+The gust front has weakened and no longer poses a significant threat
+to boaters.
 
 &&
 
-LAT...LON 2698 7959 2748 7921 2729 7913 2698 7905
-TIME...MOT...LOC 2241Z 260DEG 21KT 2752 7908 2669 7966
-
-HAIL...<.75IN
-WIND...40KTS
+LAT...LON 2827 8025 2825 8027 2818 8024 2784 8006
+      2774 8004 2751 7994 2741 8035 2746 8037
+      2765 8041 2810 8066
+TIME...MOT...LOC 2318Z 309DEG 26KT 2790 8006 2777 8031 2757 8067 2752
+8096
 
 $$
 
