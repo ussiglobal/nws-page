@@ -1,44 +1,49 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 16, 2026 • 8:00 PM
+Generated: Mar 16, 2026 • 9:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Tuesday — Partly Sunny. High: 63°F; Rain: 8% ; Wind: 15 mph NNW
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 53°F; Rain: 69% ; Wind: 15 mph W
+• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 53°F; Rain: 64% ; Wind: 15 mph W
 • Tomorrow: Wednesday — High: 70°F; Low: 52°F; Rain: 7% ; Wind: 10 to 15 mph NNE
 🌡️ Current Conditions:
 Temp: 68°F (20°C) · Humidity: 82.9%
 
 🛥️ Marine Weather Statement:
-558
-FZUS72 KMLB 162322
+325
+FZUS72 KMLB 170045
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-722 PM EDT Mon Mar 16 2026
+845 PM EDT Mon Mar 16 2026
 
-AMZ552-555-162332-
-/O.CAN.KMLB.MA.W.0037.000000T0000Z-260316T2345Z/
-722 PM EDT Mon Mar 16 2026
+AMZ555-170130-
+845 PM EDT Mon Mar 16 2026
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
-The affected areas were...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-The gust front has weakened and no longer poses a significant threat
-to boaters.
+At 844 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Vero Beach Highland, or over Vero Beach South, moving east at 20
+knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
 
 &&
 
-LAT...LON 2827 8025 2825 8027 2818 8024 2784 8006
-      2774 8004 2751 7994 2741 8035 2746 8037
-      2765 8041 2810 8066
-TIME...MOT...LOC 2318Z 309DEG 26KT 2790 8006 2777 8031 2757 8067 2752
-8096
+LAT...LON 2728 8035 2729 8032 2727 8029 2728 8028
+      2746 8037 2765 8041 2783 8051 2789 8009
+      2779 8004 2774 8004 2758 7998 2731 7986
+      2726 8027 2726 8028 2725 8035
 
 $$
 
