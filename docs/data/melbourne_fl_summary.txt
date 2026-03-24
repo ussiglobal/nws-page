@@ -1,57 +1,56 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 24, 2026 • 1:00 PM
+Generated: Mar 24, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
-• Today:     — . High: °F; Rain: % ; Wind:  
-• Tonight:   — . Low: °F; Rain: % ; Wind:  
-• Tomorrow:  — High: °F; Low: °F; Rain: % ; Wind:  
+• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 79°F; Rain: 18% ; Wind: 5 to 15 mph NE
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 69°F; Rain: 48% ; Wind: 10 mph ENE
+• Tomorrow: Wednesday — High: 77°F; Low: 69°F; Rain: 56% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
 Temp: 75.2°F (24°C) · Humidity: 69.2%
 
 🛥️ Marine Weather Statement:
-234
-FZUS72 KMLB 241642
+308
+FZUS72 KMLB 241747
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1242 PM EDT Tue Mar 24 2026
+147 PM EDT Tue Mar 24 2026
 
-AMZ570-241745-
-1242 PM EDT Tue Mar 24 2026
+AMZ550-570-572-241915-
+147 PM EDT Tue Mar 24 2026
 
-...A STRONG THUNDERSTORM 40 MILES OFFSHORE OF DAYTONA BEACH...
+...STRONG THUNDERSTORMS OFFSHORE OF VOLUSIA COUNTY...
 
 The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1242 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots and small hail. This
-thunderstorm was located 40 nm northeast of Klondike Beach, moving
-south at 15 knots.
+At 146 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots and small hail. These
+thunderstorms were located along a line extending from 14 nm east of
+Daytona Beach Shores to 37 nm northeast of Apollo Beach to 53 nm east
+of Playalinda Beach, moving southeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
-This strong thunderstorm will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required when this strong thunderstorm
-reaches the nearshore waters. Boaters should consider heading for
-shore before this strong thunderstorm arrives.
+Frequent cloud to water lightning is occurring with these storms. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2926 7984 2919 7979 2916 7975 2909 7973
-      2901 7967 2896 7965 2892 7977 2889 8014
-      2931 8036 2934 7994
+LAT...LON 2926 7983 2901 7967 2864 7954 2879 8032
+      2885 8037 2884 8054 2889 8076 2932 8090
+      2941 8019
 
 $$
 
