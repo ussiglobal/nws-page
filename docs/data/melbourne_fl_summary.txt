@@ -1,56 +1,42 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 24, 2026 • 3:00 PM
+Generated: Mar 24, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:     — . High: °F; Rain: % ; Wind:  
-• Tonight:   — . Low: °F; Rain: % ; Wind:  
-• Tomorrow:  — High: °F; Low: °F; Rain: % ; Wind:  
+• Today:    This Afternoon — Sunny. High: 78°F; Rain: 14% ; Wind: 10 mph ENE
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 68°F; Rain: 31% ; Wind: 5 to 10 mph ENE
+• Tomorrow: Wednesday — High: 77°F; Low: 67°F; Rain: 44% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 77°F (25°C) · Humidity: 65.1%
+Temp: 78.8°F (26°C) · Humidity: 61.4%
 
 🛥️ Marine Weather Statement:
-308
-FZUS72 KMLB 241747
+139
+FZUS72 KMLB 241936
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-147 PM EDT Tue Mar 24 2026
+336 PM EDT Tue Mar 24 2026
 
-AMZ550-570-572-241915-
-147 PM EDT Tue Mar 24 2026
+AMZ570-241945-
+/O.EXP.KMLB.MA.W.0040.000000T0000Z-260324T1945Z/
+336 PM EDT Tue Mar 24 2026
 
-...STRONG THUNDERSTORMS OFFSHORE OF VOLUSIA COUNTY...
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 345 PM EDT...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 146 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots and small hail. These
-thunderstorms were located along a line extending from 14 nm east of
-Daytona Beach Shores to 37 nm northeast of Apollo Beach to 53 nm east
-of Playalinda Beach, moving southeast at 10 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
-
-Frequent cloud to water lightning is occurring with these storms. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+The thunderstorm has weakened. However, frequent lightning, small
+hail, and wind gusts to around 30 knots are expected from the storm.
+Stay alert for possible additional warnings over the local Atlantic
+this afternoon.
 
 &&
 
-LAT...LON 2926 7983 2901 7967 2864 7954 2879 8032
-      2885 8037 2884 8054 2889 8076 2932 8090
-      2941 8019
+LAT...LON 2917 8011 2927 8029 2947 8021 2932 7989
+TIME...MOT...LOC 1935Z 210DEG 6KT 2934 8012
 
 $$
 
