@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 24, 2026 • 5:00 PM
+Generated: Mar 24, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,35 +8,42 @@ Generated: Mar 24, 2026 • 5:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 68°F; Rain: 31% ; Wind: 5 to 10 mph ENE
 • Tomorrow: Wednesday — High: 77°F; Low: 67°F; Rain: 44% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 69.2%
+Temp: 73.4°F (23°C) · Humidity: 73.5%
 
 🛥️ Marine Weather Statement:
-139
-FZUS72 KMLB 241936
+816
+FZUS72 KMLB 242131
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-336 PM EDT Tue Mar 24 2026
+531 PM EDT Tue Mar 24 2026
 
-AMZ570-241945-
-/O.EXP.KMLB.MA.W.0040.000000T0000Z-260324T1945Z/
-336 PM EDT Tue Mar 24 2026
+AMZ550-552-570-572-242230-
+531 PM EDT Tue Mar 24 2026
 
-...THE SPECIAL MARINE WARNING WILL EXPIRE AT 345 PM EDT...
+...A STRONG THUNDERSTORM NORTHEAST OF CAPE CANAVERAL...
 
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-The thunderstorm has weakened. However, frequent lightning, small
-hail, and wind gusts to around 30 knots are expected from the storm.
-Stay alert for possible additional warnings over the local Atlantic
-this afternoon.
+At 530 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots and small hail. This
+thunderstorm was located 15 nm northeast of Klondike Beach, or 16 nm
+northeast of Playalinda Beach, moving south at 10 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2917 8011 2927 8029 2947 8021 2932 7989
-TIME...MOT...LOC 1935Z 210DEG 6KT 2934 8012
+LAT...LON 2904 8056 2901 8024 2856 8020 2871 8068
 
 $$
 
