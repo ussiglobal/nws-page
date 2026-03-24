@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 23, 2026 • 10:01 PM
+Generated: Mar 23, 2026 • 11:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,44 +8,10 @@ Generated: Mar 23, 2026 • 10:01 PM
 • Tonight:  Tonight — Clear. Low: 62°F; Rain: 0% ; Wind: 5 to 10 mph W
 • Tomorrow: Wednesday — High: 77°F; Low: 69°F; Rain: 57% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 69.8°F (21°C) · Humidity: 73.1%
+Temp: 66.2°F (19°C) · Humidity: 63.8%
 
 🛥️ Marine Weather Statement:
-178
-FZUS72 KMLB 170215
-MWSMLB
 
-Marine Weather Statement
-National Weather Service Melbourne FL
-1015 PM EDT Mon Mar 16 2026
-
-AMZ555-575-170300-
-1015 PM EDT Mon Mar 16 2026
-
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
-
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
-
-At 1014 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located over Jupiter Island, moving east at 40 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-&&
-
-LAT...LON 2697 8011 2711 8018 2712 8019 2725 8024
-      2747 7964 2698 7950 2697 7982
-
-$$
-
-Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 545
