@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 24, 2026 • 7:00 PM
+Generated: Mar 24, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,76 +11,35 @@ Generated: Mar 24, 2026 • 7:00 PM
 Temp: 71.6°F (22°C) · Humidity: 83.1%
 
 🛥️ Marine Weather Statement:
-002
-FZUS72 KMLB 242222
+782
+FZUS72 KMLB 242325
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-622 PM EDT Tue Mar 24 2026
+725 PM EDT Tue Mar 24 2026
 
-AMZ550-242231-
-/O.CAN.KMLB.MA.W.0041.000000T0000Z-260324T2245Z/
-622 PM EDT Tue Mar 24 2026
+AMZ552-242335-
+/O.CAN.KMLB.MA.W.0042.000000T0000Z-260324T2345Z/
+725 PM EDT Tue Mar 24 2026
 
 ...THE SPECIAL MARINE WARNING IS CANCELLED...
 
 The affected areas were...
-
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-
-The thunderstorm has moved out of the warned area and no longer
-poses a significant threat to boaters.
-
-&&
-
-LAT...LON 2884 8053 2885 8052 2885 8036 2873 8027
-      2864 8025 2858 8022 2852 8022 2860 8061
-TIME...MOT...LOC 2221Z 002DEG 15KT 2870 8043
-
-$$
-
-AMZ552-242245-
-/O.CON.KMLB.MA.W.0041.000000T0000Z-260324T2245Z/
-622 PM EDT Tue Mar 24 2026
-
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 645 PM EDT...
-
-For the following areas...
 Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 621 PM EDT, a strong thunderstorm was located 10 nm east of
-Playalinda Beach, moving south at 15 knots.
-
-HAZARD...Wind gusts 34 knots or greater and small hail.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible.
-
-Locations impacted include...
-Port Canaveral, Jetty Park, and Cape Canaveral.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Move to safe harbor immediately as gusty winds and high waves are
-expected.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2884 8053 2885 8052 2885 8036 2873 8027
-      2864 8025 2858 8022 2852 8022 2860 8061
-TIME...MOT...LOC 2221Z 002DEG 15KT 2870 8043
-
-HAIL...<.75IN
-WIND...>34KTS
+LAT...LON 2882 8050 2872 8028 2853 8021 2835 8021
+      2832 8022 2826 8026 2827 8059
+TIME...MOT...LOC 2322Z 352DEG 19KT 2840 8037
 
 $$
 
-Heil
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 465
