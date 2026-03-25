@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 25, 2026 • 3:00 PM
+Generated: Mar 25, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,42 +11,42 @@ Generated: Mar 25, 2026 • 3:00 PM
 Temp: 78.8°F (26°C) · Humidity: 65.4%
 
 🛥️ Marine Weather Statement:
-761
-FZUS72 KMLB 250900
+551
+FZUS72 KMLB 251907
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-500 AM EDT Wed Mar 25 2026
+307 PM EDT Wed Mar 25 2026
 
-AMZ552-572-250945-
-500 AM EDT Wed Mar 25 2026
+AMZ572-252000-
+307 PM EDT Wed Mar 25 2026
 
-...STRONG THUNDERSTORMS OVER THE WATERS...
+...A STRONG THUNDERSTORM OVER THE ATLANTIC WATERS OFF MELBOURNE
+AND SEBASTIAN INLET...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 500 AM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 30 nm east of Port Canaveral to
-25 nm northeast of Sebastian Inlet, moving south at 10 knots.
+At 306 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots and small hail. This
+thunderstorm was located 34 nm northeast of Sebastian Inlet, moving
+southeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until these storms pass.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2794 8027 2855 8034 2871 7956 2866 7955
-      2854 7953 2829 7954 2819 7949 2811 7947
+LAT...LON 2820 7951 2795 7973 2792 7994 2814 8014
+      2835 7996
 
 $$
 
-Schaper
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 249
