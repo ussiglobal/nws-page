@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Mar 25, 2026 • 4:00 PM
+Generated: Mar 25, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,27 +11,28 @@ Generated: Mar 25, 2026 • 4:00 PM
 Temp: 78.8°F (26°C) · Humidity: 65.4%
 
 🛥️ Marine Weather Statement:
-551
-FZUS72 KMLB 251907
+217
+FZUS72 KMLB 252032
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-307 PM EDT Wed Mar 25 2026
+432 PM EDT Wed Mar 25 2026
 
-AMZ572-252000-
-307 PM EDT Wed Mar 25 2026
+AMZ572-575-252130-
+432 PM EDT Wed Mar 25 2026
 
-...A STRONG THUNDERSTORM OVER THE ATLANTIC WATERS OFF MELBOURNE
-AND SEBASTIAN INLET...
+...A STRONG THUNDERSTORM OVER THE ATLANTIC WATERS OFF SEBASTIAN
+INLET...
 
 The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 306 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 432 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots and small hail. This
-thunderstorm was located 34 nm northeast of Sebastian Inlet, moving
-southeast at 5 knots.
+thunderstorm was located 33 nm northeast of Indian River Shores. The
+thunderstorm was nearly stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -41,8 +42,7 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2820 7951 2795 7973 2792 7994 2814 8014
-      2835 7996
+LAT...LON 2801 7996 2807 7974 2787 7957 2776 7993
 
 $$
 
