@@ -1,17 +1,50 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Apr 2, 2026 • 7:00 PM
+Generated: Apr 2, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Friday — Sunny. High: 81°F; Rain: 12% ; Wind: 15 mph ESE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 72°F; Rain: 29% ; Wind: 15 mph ESE
+• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 72°F; Rain: 19% ; Wind: 15 mph ESE
 • Tomorrow: Saturday — High: 81°F; Low: 73°F; Rain: 12% ; Wind: 10 to 15 mph ESE
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 73.6%
+Temp: 75.2°F (24°C) · Humidity: 78.4%
 
 🛥️ Marine Weather Statement:
+210
+FZUS72 KMLB 022332
+MWSMLB
 
+Marine Weather Statement
+National Weather Service Melbourne FL
+732 PM EDT Thu Apr 2 2026
+
+AMZ555-030030-
+732 PM EDT Thu Apr 2 2026
+
+A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+
+At 730 PM EDT, Doppler radar indicated a band of heavy showers and
+embedded thunderstorms, capable of producing winds to around 30
+knots, extending from Port Saint Lucie well offshore Martin county.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
+
+&&
+
+LAT...LON 2711 8018 2715 8022 2714 8024 2720 8034
+      2721 8034 2723 8035 2728 8035 2729 8032
+      2724 8026 2747 8037 2713 7979 2698 7973
+      2697 7993
+
+$$
+
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 094
