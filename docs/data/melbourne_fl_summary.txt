@@ -1,50 +1,58 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Apr 6, 2026 • 4:00 PM
+Generated: Apr 6, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 81°F; Rain: 64% ; Wind: 10 mph ENE
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 81°F; Rain: 64% ; Wind: 10 mph ENE
 • Tonight:  Tonight — Showers And Thunderstorms. Low: 68°F; Rain: 79% ; Wind: 5 to 10 mph ENE
 • Tomorrow: Tuesday — High: 75°F; Low: 69°F; Rain: 87% ; Wind: 5 to 20 mph NE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 74%
+Temp: 71.6°F (22°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-210
-FZUS72 KMLB 022332
+215
+FZUS72 KMLB 062043
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-732 PM EDT Thu Apr 2 2026
+443 PM EDT Mon Apr 6 2026
 
-AMZ555-030030-
-732 PM EDT Thu Apr 2 2026
+AMZ552-062145-
+443 PM EDT Mon Apr 6 2026
 
 A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 730 PM EDT, Doppler radar indicated a band of heavy showers and
-embedded thunderstorms, capable of producing winds to around 30
-knots, extending from Port Saint Lucie well offshore Martin county.
+At 443 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Palm Bay, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, lightning strikes, and heavy downpours. Boaters should seek
 safe harbor immediately until this storm passes.
 
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
+
 &&
 
-LAT...LON 2711 8018 2715 8022 2714 8024 2720 8034
-      2721 8034 2723 8035 2728 8035 2729 8032
-      2724 8026 2747 8037 2713 7979 2698 7973
-      2697 7993
+LAT...LON 2869 8026 2852 8020 2843 8020 2835 8021
+      2826 8027 2823 8026 2789 8009 2782 8051
+      2807 8065 2868 8086
 
 $$
 
-Kelly
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 979
