@@ -1,57 +1,55 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Apr 25, 2026 • 6:00 PM
+Generated: Apr 25, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Sunny. High: 83°F; Rain: 11% ; Wind: 15 mph ESE
+• Today:    Sunday — Mostly Sunny then Chance Showers And Thunderstorms. High: 87°F; Rain: 31% ; Wind: 5 to 10 mph SSW
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 70°F; Rain: 24% ; Wind: 10 to 15 mph S
-• Tomorrow: Sunday — High: 87°F; Low: 71°F; Rain: 31% ; Wind: 5 to 10 mph SSW
+• Tomorrow: Monday — High: 83°F; Low: 71°F; Rain: 17% ; Wind: 5 to 15 mph N
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 57.9%
+Temp: 78.8°F (26°C) · Humidity: 61.4%
 
 🛥️ Marine Weather Statement:
-665
-FZUS72 KMLB 191944
+592
+FZUS72 KMLB 252232
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-344 PM EDT Sun Apr 19 2026
+632 PM EDT Sat Apr 25 2026
 
-AMZ552-555-192045-
-344 PM EDT Sun Apr 19 2026
+AMZ550-552-260000-
+632 PM EDT Sat Apr 25 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...STRONG THUNDERSTORMS APPROACHING THE INTRACOASTAL AND
+ATLANTIC WATERS FROM NEAR DAYTONA BEACH TO TITUSVILLE...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 343 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Vero Lake Estates, or near Sebastian Highlands, moving east at
-10 knots.
+At 631 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots and small hail. These
+thunderstorms were located along a line extending from 6 nm west of
+Daytona Beach to 8 nm southwest of New Smyrna Beach to 8 nm west of
+Titusville, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2795 8019 2752 8006 2756 8039 2765 8041
-      2785 8052
+LAT...LON 2934 8073 2839 8037 2844 8069 2855 8065
+      2856 8066 2851 8069 2845 8069 2846 8079
+      2880 8089 2884 8085 2929 8108
 
 $$
 
-Law
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 115
