@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Apr 25, 2026 • 8:00 PM
+Generated: Apr 25, 2026 • 9:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,43 +8,35 @@ Generated: Apr 25, 2026 • 8:00 PM
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 70°F; Rain: 24% ; Wind: 10 to 15 mph S
 • Tomorrow: Monday — High: 83°F; Low: 71°F; Rain: 17% ; Wind: 5 to 15 mph N
 🌡️ Current Conditions:
-Temp: 77°F (25°C) · Humidity: 69.4%
+Temp: 69.8°F (21°C) · Humidity: 88.4%
 
 🛥️ Marine Weather Statement:
-298
-FZUS72 KMLB 252305
+598
+FZUS72 KMLB 260013
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-705 PM EDT Sat Apr 25 2026
+813 PM EDT Sat Apr 25 2026
 
-AMZ552-260000-
-705 PM EDT Sat Apr 25 2026
+AMZ552-260022-
+/O.EXP.KMLB.MA.W.0045.000000T0000Z-260426T0015Z/
+813 PM EDT Sat Apr 25 2026
 
-...STRONG THUNDERSTORMS APPROACHING THE INTRACOASTAL AND
-ATLANTIC WATERS FROM NEAR TITUSVILLE TO SEBASTIAN INLET...
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 815 PM EDT...
 
-The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 704 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 8 nm west of Titusville to near
-Cocoa to 18 nm southwest of Palm Bay, moving east at 15 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+The thunderstorm has weakened, but gusty winds to around 30 knots
+remain possible, and a Marine Weather Statement is in effect until
+9:15 PM EDT.
 
 &&
 
-LAT...LON 2846 8069 2843 8069 2846 8068 2839 8034
-      2784 8044 2783 8048 2782 8046 2780 8046
-      2781 8044 2780 8045 2779 8045 2773 8046
-      2807 8065 2848 8079
+LAT...LON 2843 8048 2787 8022 2785 8034 2787 8054
+      2807 8065 2830 8073
+TIME...MOT...LOC 0012Z 255DEG 19KT 2813 8055
 
 $$
 
