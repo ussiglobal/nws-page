@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Apr 25, 2026 • 7:00 PM
+Generated: Apr 25, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,32 +8,30 @@ Generated: Apr 25, 2026 • 7:00 PM
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 70°F; Rain: 24% ; Wind: 10 to 15 mph S
 • Tomorrow: Monday — High: 83°F; Low: 71°F; Rain: 17% ; Wind: 5 to 15 mph N
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 61.4%
+Temp: 77°F (25°C) · Humidity: 69.4%
 
 🛥️ Marine Weather Statement:
-592
-FZUS72 KMLB 252232
+298
+FZUS72 KMLB 252305
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-632 PM EDT Sat Apr 25 2026
+705 PM EDT Sat Apr 25 2026
 
-AMZ550-552-260000-
-632 PM EDT Sat Apr 25 2026
+AMZ552-260000-
+705 PM EDT Sat Apr 25 2026
 
 ...STRONG THUNDERSTORMS APPROACHING THE INTRACOASTAL AND
-ATLANTIC WATERS FROM NEAR DAYTONA BEACH TO TITUSVILLE...
+ATLANTIC WATERS FROM NEAR TITUSVILLE TO SEBASTIAN INLET...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 631 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots and small hail. These
-thunderstorms were located along a line extending from 6 nm west of
-Daytona Beach to 8 nm southwest of New Smyrna Beach to 8 nm west of
-Titusville, moving east at 10 knots.
+At 704 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 8 nm west of Titusville to near
+Cocoa to 18 nm southwest of Palm Bay, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -43,9 +41,10 @@ immediately until these storms pass.
 
 &&
 
-LAT...LON 2934 8073 2839 8037 2844 8069 2855 8065
-      2856 8066 2851 8069 2845 8069 2846 8079
-      2880 8089 2884 8085 2929 8108
+LAT...LON 2846 8069 2843 8069 2846 8068 2839 8034
+      2784 8044 2783 8048 2782 8046 2780 8046
+      2781 8044 2780 8045 2779 8045 2773 8046
+      2807 8065 2848 8079
 
 $$
 
