@@ -1,47 +1,54 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Apr 26, 2026 • 6:00 PM
+Generated: Apr 26, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 87°F; Rain: 33% ; Wind: 10 mph SE
+• Today:    Monday — Mostly Sunny. High: 82°F; Rain: 14% ; Wind: 5 to 15 mph N
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 71°F; Rain: 41% ; Wind: 5 to 10 mph SW
-• Tomorrow: Monday — High: 82°F; Low: 73°F; Rain: 14% ; Wind: 5 to 15 mph N
+• Tomorrow: Tuesday — High: 82°F; Low: 73°F; Rain: 2% ; Wind: 10 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 61.4%
+Temp: 77°F (25°C) · Humidity: 69.4%
 
 🛥️ Marine Weather Statement:
-931
-FZUS72 KMLB 262007
+516
+FZUS72 KMLB 262234
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-407 PM EDT Sun Apr 26 2026
+634 PM EDT Sun Apr 26 2026
 
-AMZ552-262100-
-407 PM EDT Sun Apr 26 2026
+AMZ555-270000-
+634 PM EDT Sun Apr 26 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...STRONG THUNDERSTORMS APPROACHING THE WATERS...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 406 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots and small hail. This
-thunderstorm was located 7 nm northwest of Melbourne, moving east at
-15 knots.
+At 631 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms extend
+from near Fort Drum to Fort Pierce, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
+
+These strong thunderstorms may produce winds to around 30 knots, and
+could pose a serious hazard for boaters. A special marine warning
+may eventually be required when these thunderstorms reach the
+nearshore waters. Boaters should consider heading for shore before
+these strong thunderstorms arrive.
 
 &&
 
-LAT...LON 2844 8030 2793 8038 2794 8058 2807 8065
-      2841 8077
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2718 8032 2723 8035 2728 8035 2729 8032
+      2729 8031 2724 8026 2746 8037 2765 8041
+      2782 8051 2789 8009 2748 7993 2697 7986
 
 $$
 
