@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Apr 26, 2026 • 10:00 PM
+Generated: Apr 26, 2026 • 11:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,55 +11,46 @@ Generated: Apr 26, 2026 • 10:00 PM
 Temp: 75.2°F (24°C) · Humidity: 83.3%
 
 🛥️ Marine Weather Statement:
-275
-FZUS72 KMLB 270059
+156
+FZUS72 KMLB 270255
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-859 PM EDT Sun Apr 26 2026
+1055 PM EDT Sun Apr 26 2026
 
-AMZ575-270130-
-/O.CON.KMLB.MA.W.0047.000000T0000Z-260427T0130Z/
-859 PM EDT Sun Apr 26 2026
+AMZ575-270400-
+1055 PM EDT Sun Apr 26 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 930 PM EDT...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
-For the following areas...
-Sebastian Inlet to Jupiter Inlet 20-60 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 859 PM EDT, a strong thunderstorm was located 40 nm east of Fort
-Pierce Inlet, moving east at 20 knots.
-
-HAZARD...Wind gusts 34 knots or greater and small hail.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible.
-
-The strong thunderstorm will remain over mainly open waters.
+At 1055 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots and small hail. This
+thunderstorm was located 40 nm east of Jupiter Inlet, moving east at
+10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Boaters should seek safe harbor immediately until this storm passes.
-Wind gusts 34 knots or greater, small hail, high waves, dangerous
-lightning, and heavy rain are possible with this storm.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
+
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2750 7994 2786 7969 2793 7939 2738 7918
-      2748 7993
-TIME...MOT...LOC 0059Z 270DEG 19KT 2766 7957
-
-HAIL...<.75IN
-WIND...>34KTS
+LAT...LON 2698 7926 2709 7949 2744 7938 2746 7920
+      2729 7913 2723 7911 2711 7908 2698 7905
 
 $$
 
-Haley
+Leahy
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 405
