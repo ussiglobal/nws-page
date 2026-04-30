@@ -1,56 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Apr 30, 2026 • 5:00 PM
+Generated: Apr 30, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Mostly Sunny. High: 90°F; Rain: 4% ; Wind: 10 mph S
+• Today:    Friday — Mostly Sunny. High: 87°F; Rain: 2% ; Wind: 5 to 10 mph SSE
 • Tonight:  Tonight — Partly Cloudy. Low: 71°F; Rain: 5% ; Wind: 5 to 10 mph WSW
-• Tomorrow: Friday — High: 87°F; Low: 72°F; Rain: 2% ; Wind: 5 to 10 mph SSE
+• Tomorrow: Saturday — High: 95°F; Low: 72°F; Rain: 10% ; Wind: 10 to 20 mph SW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 0%
+Temp: 89.6°F (32°C) · Humidity: 38.2%
 
 🛥️ Marine Weather Statement:
-156
-FZUS72 KMLB 270255
+245
+FZUS72 KMLB 302157
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1055 PM EDT Sun Apr 26 2026
+557 PM EDT Thu Apr 30 2026
 
-AMZ575-270400-
-1055 PM EDT Sun Apr 26 2026
+AMZ550-302300-
+557 PM EDT Thu Apr 30 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...A STRONG THUNDERSTORM APPROACHING THE VOLUSIA COUNTY WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 1055 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots and small hail. This
-thunderstorm was located 40 nm east of Jupiter Inlet, moving east at
-10 knots.
+At 556 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+10 nm south of Palm Coast, moving east at 30 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2698 7926 2709 7949 2744 7938 2746 7920
-      2729 7913 2723 7911 2711 7908 2698 7905
+LAT...LON 2948 8075 2929 8066 2921 8060 2908 8053
+      2911 8098 2942 8113 2943 8110 2944 8111
+      2943 8112 2945 8111 2945 8113 2946 8113
 
 $$
 
-Leahy
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 174
