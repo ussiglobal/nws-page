@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 2, 2026 • 4:00 PM
+Generated: May 2, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,30 +8,27 @@ Generated: May 2, 2026 • 4:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Showers And Thunderstorms Likely. Low: 71°F; Rain: 69% ; Wind: 15 to 20 mph NW
 • Tomorrow: Sunday — High: 78°F; Low: 71°F; Rain: 28% ; Wind: 15 to 20 mph N
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 0%
+Temp: 87.8°F (31°C) · Humidity: 48.9%
 
 🛥️ Marine Weather Statement:
-930
-FZUS72 KMLB 021755
+052
+FZUS72 KMLB 022031
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-155 PM EDT Sat May 2 2026
+431 PM EDT Sat May 2 2026
 
-AMZ550-552-570-572-022000-
-155 PM EDT Sat May 2 2026
+AMZ550-570-022200-
+431 PM EDT Sat May 2 2026
 
 A Marine Weather Statement has been issued for the following areas...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 155 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots and small hail. This
-thunderstorm was located 14 nm west of Canaveral Groves, or 17 nm
-southwest of Port Saint John, moving northeast at 30 knots.
+At 430 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+near Bethune Beach, or near Edgewater, moving northeast at 35 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,15 +39,11 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
-
 &&
 
-LAT...LON 2883 8086 2895 7965 2866 7955 2829 7954
-      2800 7942 2781 8050 2807 8065 2881 8089
+LAT...LON 2947 7998 2893 7964 2882 8075 2879 8074
+      2879 8075 2882 8076 2882 8081 2879 8079
+      2878 8083 2929 8109 2948 8036
 
 $$
 
