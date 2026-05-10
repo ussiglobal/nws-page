@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 10, 2026 • 6:00 PM
+Generated: May 10, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,65 +8,61 @@ Generated: May 10, 2026 • 6:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 65% ; Wind: 5 to 10 mph SE
 • Tomorrow: Tuesday — High: 86°F; Low: 77°F; Rain: 67% ; Wind: 5 to 15 mph N
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 70.1%
+Temp: 82.4°F (28°C) · Humidity: 65.8%
 
 🛥️ Marine Weather Statement:
-192
-FZUS72 KMLB 102051
+097
+FZUS72 KMLB 102220
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-451 PM EDT Sun May 10 2026
+620 PM EDT Sun May 10 2026
 
-AMZ552-555-102145-
-/O.CON.KMLB.MA.W.0062.000000T0000Z-260510T2145Z/
-451 PM EDT Sun May 10 2026
+AMZ552-102300-
+/O.CON.KMLB.MA.W.0063.000000T0000Z-260510T2300Z/
+620 PM EDT Sun May 10 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 545 PM EDT...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 700 PM EDT...
 
 For the following areas...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
 Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 451 PM EDT, a severe thunderstorm capable of producing waterspouts
-was located over Sebastian, moving east at 10 knots.
+At 619 PM EDT, a severe thunderstorm was located 8 nm north of Port
+Canaveral, moving southeast at 20 knots.
 
-HAZARD...Waterspouts, wind gusts to nearly 50 knots, and large hail.
+HAZARD...Wind gusts to nearly 50 knots and large hail.
 
 SOURCE...Radar indicated.
 
-IMPACT...Waterspouts can can quickly form and capsize boats, damage
-         vessels and create locally hazardous seas. Make sure all on
-         board are wearing life jackets. Expect wind gusts in excess
-         of 34 knots, suddenly higher waves, lightning and heavy
-         downpours. Make sure all on board are wearing life jackets.
-         Return to safe harbor if possible. Large hail could result
-         in injury and damage to boats.
+IMPACT...Expect wind gusts in excess of 40 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible. Large hail could result in injury and damage to
+         boats.
 
 Locations impacted include...
-North Beach, Orchid, Disneys Vero Beach Resort, Wabasso Beach, and
-Sebastian.
+Port Canaveral, Jetty Park, Playalinda Beach, and Cape Canaveral.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+Boaters should seek safe harbor immediately until this storm passes.
+Wind gusts to nearly 50 knots, large hail, high waves, dangerous
+lightning, and heavy rain are possible with this storm.
 
 &&
 
-LAT...LON 2796 8028 2769 8018 2765 8041 2790 8055
-TIME...MOT...LOC 2051Z 271DEG 9KT 2780 8043
+LAT...LON 2863 8068 2862 8064 2864 8067 2878 8057
+      2881 8035 2846 8022 2847 8068 2855 8065
+      2858 8067 2851 8069 2847 8070 2847 8079
+TIME...MOT...LOC 2219Z 306DEG 19KT 2853 8054
 
-WATERSPOUT...POSSIBLE
 HAIL...>.75IN
 WIND...49KTS
 
 $$
 
-Sedlock
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 249
