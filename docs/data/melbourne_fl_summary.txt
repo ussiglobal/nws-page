@@ -1,33 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 11, 2026 • 5:00 PM
+Generated: May 11, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 91°F; Rain: 58% ; Wind: 10 mph SE
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 91°F; Rain: 58% ; Wind: 10 mph SE
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 77°F; Rain: 57% ; Wind: 5 to 10 mph S
 • Tomorrow: Tuesday — High: 85°F; Low: 76°F; Rain: 65% ; Wind: 5 to 15 mph NNW
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 74.5%
+Temp: 84.2°F (29°C) · Humidity: 70.1%
 
 🛥️ Marine Weather Statement:
-390
-FZUS72 KMLB 112005
+074
+FZUS72 KMLB 112123
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-405 PM EDT Mon May 11 2026
+523 PM EDT Mon May 11 2026
 
-AMZ550-112045-
-405 PM EDT Mon May 11 2026
+AMZ550-570-112230-
+523 PM EDT Mon May 11 2026
 
 A Marine Weather Statement has been issued for the following areas...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 405 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 522 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-9 nm south of Palm Coast, moving east at 20 knots.
+12 nm northeast of Daytona Beach Shores, or 13 nm east of Holly Hill,
+moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,11 +41,14 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, lightning strikes, and heavy downpours. Boaters should seek
 safe harbor immediately until this storm passes.
 
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8104
-      2948 8076 2925 8064 2927 8108 2938 8113
+LAT...LON 2948 8057 2929 8033 2896 8042 2882 8076
+      2882 8081 2880 8080 2879 8083 2932 8110
+      2949 8067
 
 $$
 
