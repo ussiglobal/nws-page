@@ -1,35 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 11, 2026 • 6:00 PM
+Generated: May 11, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 91°F; Rain: 58% ; Wind: 10 mph SE
+• Today:    Tuesday — Chance Showers And Thunderstorms. High: 85°F; Rain: 65% ; Wind: 5 to 15 mph NNW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 77°F; Rain: 57% ; Wind: 5 to 10 mph S
-• Tomorrow: Tuesday — High: 85°F; Low: 76°F; Rain: 65% ; Wind: 5 to 15 mph NNW
+• Tomorrow: Wednesday — High: 85°F; Low: 76°F; Rain: 63% ; Wind: 5 mph E
 🌡️ Current Conditions:
 Temp: 84.2°F (29°C) · Humidity: 70.1%
 
 🛥️ Marine Weather Statement:
-074
-FZUS72 KMLB 112123
+718
+FZUS72 KMLB 112233
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-523 PM EDT Mon May 11 2026
+633 PM EDT Mon May 11 2026
 
-AMZ550-570-112230-
-523 PM EDT Mon May 11 2026
+AMZ550-552-112330-
+633 PM EDT Mon May 11 2026
 
 A Marine Weather Statement has been issued for the following areas...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 522 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-12 nm northeast of Daytona Beach Shores, or 13 nm east of Holly Hill,
-moving east at 20 knots.
+At 632 PM EDT, Doppler radar indicated gusty thunderstorms, capable
+of producing winds to around 30 knots. One thunderstorm was located
+near Playalinda Beach, moving east at 5 knots. Additional storms
+will push offshore central Brevard and Volusia counties.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -41,14 +41,11 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, lightning strikes, and heavy downpours. Boaters should seek
 safe harbor immediately until this storm passes.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
 &&
 
-LAT...LON 2948 8057 2929 8033 2896 8042 2882 8076
-      2882 8081 2880 8080 2879 8083 2932 8110
-      2949 8067
+LAT...LON 2922 8061 2879 8032 2851 8020 2830 8023
+      2826 8027 2818 8025 2811 8062 2869 8086
+      2881 8089 2884 8085 2920 8104
 
 $$
 
