@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 11, 2026 • 10:00 AM
+Generated: May 11, 2026 • 11:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,61 +8,48 @@ Generated: May 11, 2026 • 10:00 AM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 77°F; Rain: 64% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Tuesday — High: 86°F; Low: 77°F; Rain: 71% ; Wind: 5 to 15 mph N
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 83.7%
+Temp: 82.4°F (28°C) · Humidity: 78.9%
 
 🛥️ Marine Weather Statement:
-097
-FZUS72 KMLB 102220
+649
+FZUS72 KMLB 111443
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-620 PM EDT Sun May 10 2026
+1043 AM EDT Mon May 11 2026
 
-AMZ552-102300-
-/O.CON.KMLB.MA.W.0063.000000T0000Z-260510T2300Z/
-620 PM EDT Sun May 10 2026
+AMZ555-111545-
+1043 AM EDT Mon May 11 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 700 PM EDT...
+...SHOWERS CAPABLE OF PRODUCING FUNNEL CLOUDS NEAR THE MARTIN
+COAST...
 
-For the following areas...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 619 PM EDT, a severe thunderstorm was located 8 nm north of Port
-Canaveral, moving southeast at 20 knots.
-
-HAZARD...Wind gusts to nearly 50 knots and large hail.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 40 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible. Large hail could result in injury and damage to
-         boats.
-
-Locations impacted include...
-Port Canaveral, Jetty Park, Playalinda Beach, and Cape Canaveral.
+At 1035 AM EDT, the control tower at Witham Field in Stuart reported
+a funnel cloud to the east that did not touch down. Through Noon...
+additional funnels may develop near the coast as the east coast sea
+breeze develops and sparks additional showers.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Boaters should seek safe harbor immediately until this storm passes.
-Wind gusts to nearly 50 knots, large hail, high waves, dangerous
-lightning, and heavy rain are possible with this storm.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2863 8068 2862 8064 2864 8067 2878 8057
-      2881 8035 2846 8022 2847 8068 2855 8065
-      2858 8067 2851 8069 2847 8070 2847 8079
-TIME...MOT...LOC 2219Z 306DEG 19KT 2853 8054
-
-HAIL...>.75IN
-WIND...49KTS
+LAT...LON 2697 8011 2711 8018 2715 8022 2715 8023
+      2730 8021 2721 7992 2697 8005
 
 $$
 
-Heil
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 693
