@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 12, 2026 • 1:00 PM
+Generated: May 12, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,56 +11,60 @@ Generated: May 12, 2026 • 1:00 PM
 Temp: 82.4°F (28°C) · Humidity: 69.9%
 
 🛥️ Marine Weather Statement:
-120
-FZUS72 KMLB 121621
+317
+FZUS72 KMLB 121722
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1221 PM EDT Tue May 12 2026
+122 PM EDT Tue May 12 2026
 
-AMZ552-121645-
-/O.CON.KMLB.MA.W.0073.000000T0000Z-260512T1645Z/
-1221 PM EDT Tue May 12 2026
+AMZ572-121730-
+/O.CON.KMLB.MA.W.0074.000000T0000Z-260512T1730Z/
+122 PM EDT Tue May 12 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 1245 PM EDT...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 130 PM EDT...
 
 For the following areas...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1221 PM EDT, a strong thunderstorm was located near Port
-Canaveral, moving southeast at 15 knots.
+At 122 PM EDT, a severe thunderstorm capable of producing waterspouts
+was located 48 nm east of Port Canaveral, moving east at 15 knots.
 
-HAZARD...Wind gusts to 40 knots and small hail.
+HAZARD...Waterspouts, wind gusts 34 knots or greater, and large
+         hail.
 
 SOURCE...Radar indicated.
 
-IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible.
+IMPACT...Waterspouts can can quickly form and capsize boats, damage
+         vessels and create locally hazardous seas. Make sure all on
+         board are wearing life jackets. Expect wind gusts in excess
+         of 34 knots, suddenly higher waves, lightning and heavy
+         downpours. Make sure all on board are wearing life jackets.
+         Return to safe harbor if possible. Large hail could result
+         in injury and damage to boats.
 
-Locations impacted include...
-Port Canaveral, Jetty Park, Cape Canaveral, Playalinda Beach, and
-Merritt Island Wildlife Refuge.
+The severe thunderstorm will remain over mainly open waters.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Move to safe harbor immediately as gusty winds and high waves are
-expected.
+Boaters should seek safe harbor immediately until this storm passes.
+Wind gusts 34 knots or greater, large hail, high waves, dangerous
+lightning, and heavy rain are possible with this storm.
 
 &&
 
-LAT...LON 2873 8057 2872 8056 2845 8040 2840 8070
-      2845 8075
-TIME...MOT...LOC 1621Z 298DEG 13KT 2852 8058
+LAT...LON 2851 7979 2870 7975 2877 7959 2866 7955
+      2854 7953 2840 7954
+TIME...MOT...LOC 1722Z 288DEG 13KT 2858 7969
 
-HAIL...<.75IN
-WIND...40KTS
+WATERSPOUT...POSSIBLE
+HAIL...>.75IN
+WIND...>34KTS
 
 $$
 
-Haley
+Leahy
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 841
