@@ -1,43 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 11, 2026 • 9:00 PM
+Generated: May 11, 2026 • 10:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Tuesday — Chance Showers And Thunderstorms. High: 85°F; Rain: 65% ; Wind: 5 to 15 mph NNW
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 50% ; Wind: 5 to 10 mph S
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 48% ; Wind: 5 mph S
 • Tomorrow: Wednesday — High: 85°F; Low: 76°F; Rain: 63% ; Wind: 5 mph E
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 83.7%
+Temp: 75.2°F (24°C) · Humidity: 83.3%
 
 🛥️ Marine Weather Statement:
-553
-FZUS72 KMLB 120021
+163
+FZUS72 KMLB 120130
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-821 PM EDT Mon May 11 2026
+930 PM EDT Mon May 11 2026
 
-AMZ552-555-120100-
-821 PM EDT Mon May 11 2026
+AMZ555-120200-
+/O.CON.KMLB.MA.W.0069.000000T0000Z-260512T0200Z/
+930 PM EDT Mon May 11 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 1000 PM EDT...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+For the following areas...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 821 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Vero Lake Estates, or near Sebastian Highlands, moving east at
-20 knots.
+At 930 PM EDT, a strong thunderstorm was located over South Beach, or
+near Indrio, moving east at 20 knots.
+
+HAZARD...Wind gusts to nearly 50 knots and small hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Locations impacted include...
+Moorings Of Vero Beach, Floralton Beach, South Beach, Queens Cove,
+and Indrio.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
 
 Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
@@ -46,8 +56,13 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2798 8022 2750 8012 2750 8038 2765 8041
-      2790 8055
+LAT...LON 2740 8034 2746 8037 2765 8041 2772 8043
+      2784 8006 2779 8004 2774 8004 2766 8000
+      2735 8001
+TIME...MOT...LOC 0130Z 284DEG 18KT 2757 8031
+
+HAIL...<.75IN
+WIND...49KTS
 
 $$
 
