@@ -1,49 +1,62 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 12, 2026 • 12:00 PM
+Generated: May 12, 2026 • 1:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Showers And Thunderstorms Likely. High: 83°F; Rain: 73% ; Wind: 5 to 15 mph NE
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 83°F; Rain: 73% ; Wind: 10 to 15 mph ENE
 • Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 75°F; Rain: 78% ; Wind: 5 to 15 mph ESE
 • Tomorrow: Wednesday — High: 85°F; Low: 74°F; Rain: 59% ; Wind: 5 to 10 mph ENE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 66%
+Temp: 82.4°F (28°C) · Humidity: 69.9%
 
 🛥️ Marine Weather Statement:
-389
-FZUS72 KMLB 121533
+120
+FZUS72 KMLB 121621
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1133 AM EDT Tue May 12 2026
+1221 PM EDT Tue May 12 2026
 
-AMZ572-121630-
-1133 AM EDT Tue May 12 2026
+AMZ552-121645-
+/O.CON.KMLB.MA.W.0073.000000T0000Z-260512T1645Z/
+1221 PM EDT Tue May 12 2026
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF
-MERRITT ISLAND...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 1245 PM EDT...
 
-The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 1133 AM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots and small hail. These
-thunderstorms were located along a line extending from 32 nm east of
-Playalinda Beach to 52 nm east of Port Canaveral. The thunderstorms
-were nearly stationary.
+At 1221 PM EDT, a strong thunderstorm was located near Port
+Canaveral, moving southeast at 15 knots.
+
+HAZARD...Wind gusts to 40 knots and small hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Locations impacted include...
+Port Canaveral, Jetty Park, Cape Canaveral, Playalinda Beach, and
+Merritt Island Wildlife Refuge.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
 
 &&
 
-LAT...LON 2841 7954 2869 8016 2888 8022 2893 7964
-      2866 7955
+LAT...LON 2873 8057 2872 8056 2845 8040 2840 8070
+      2845 8075
+TIME...MOT...LOC 1621Z 298DEG 13KT 2852 8058
+
+HAIL...<.75IN
+WIND...40KTS
 
 $$
 
