@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 12, 2026 • 2:00 PM
+Generated: May 12, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,59 +8,34 @@ Generated: May 12, 2026 • 2:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 75°F; Rain: 78% ; Wind: 5 to 15 mph ESE
 • Tomorrow: Wednesday — High: 85°F; Low: 74°F; Rain: 59% ; Wind: 5 to 10 mph ENE
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 69.9%
+Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-317
-FZUS72 KMLB 121722
+866
+FZUS72 KMLB 121817
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-122 PM EDT Tue May 12 2026
+217 PM EDT Tue May 12 2026
 
-AMZ572-121730-
-/O.CON.KMLB.MA.W.0074.000000T0000Z-260512T1730Z/
-122 PM EDT Tue May 12 2026
+AMZ552-121827-
+/O.CAN.KMLB.MA.W.0076.000000T0000Z-260512T1930Z/
+217 PM EDT Tue May 12 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 130 PM EDT...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-For the following areas...
-Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 122 PM EDT, a severe thunderstorm capable of producing waterspouts
-was located 48 nm east of Port Canaveral, moving east at 15 knots.
-
-HAZARD...Waterspouts, wind gusts 34 knots or greater, and large
-         hail.
-
-SOURCE...Radar indicated.
-
-IMPACT...Waterspouts can can quickly form and capsize boats, damage
-         vessels and create locally hazardous seas. Make sure all on
-         board are wearing life jackets. Expect wind gusts in excess
-         of 34 knots, suddenly higher waves, lightning and heavy
-         downpours. Make sure all on board are wearing life jackets.
-         Return to safe harbor if possible. Large hail could result
-         in injury and damage to boats.
-
-The severe thunderstorm will remain over mainly open waters.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Boaters should seek safe harbor immediately until this storm passes.
-Wind gusts 34 knots or greater, large hail, high waves, dangerous
-lightning, and heavy rain are possible with this storm.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2851 7979 2870 7975 2877 7959 2866 7955
-      2854 7953 2840 7954
-TIME...MOT...LOC 1722Z 288DEG 13KT 2858 7969
-
-WATERSPOUT...POSSIBLE
-HAIL...>.75IN
-WIND...>34KTS
+LAT...LON 2856 8067 2851 8069 2843 8069 2855 8065
+      2850 8035 2830 8046 2840 8076 2859 8083
+TIME...MOT...LOC 1815Z 298DEG 11KT 2846 8076
 
 $$
 
