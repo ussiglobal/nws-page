@@ -1,35 +1,39 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 11, 2026 • 7:00 PM
+Generated: May 11, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Tuesday — Chance Showers And Thunderstorms. High: 85°F; Rain: 65% ; Wind: 5 to 15 mph NNW
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 77°F; Rain: 57% ; Wind: 5 to 10 mph S
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 50% ; Wind: 5 to 10 mph S
 • Tomorrow: Wednesday — High: 85°F; Low: 76°F; Rain: 63% ; Wind: 5 mph E
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 70.1%
+Temp: 82.4°F (28°C) · Humidity: 78.9%
 
 🛥️ Marine Weather Statement:
-718
-FZUS72 KMLB 112233
+663
+FZUS72 KMLB 112358
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-633 PM EDT Mon May 11 2026
+758 PM EDT Mon May 11 2026
 
-AMZ550-552-112330-
-633 PM EDT Mon May 11 2026
+AMZ550-552-570-572-120045-
+758 PM EDT Mon May 11 2026
 
-A Marine Weather Statement has been issued for the following areas...
+...A STRONG THUNDERSTORM OVER THE WATERS...
+
+The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 632 PM EDT, Doppler radar indicated gusty thunderstorms, capable
-of producing winds to around 30 knots. One thunderstorm was located
-near Playalinda Beach, moving east at 5 knots. Additional storms
-will push offshore central Brevard and Volusia counties.
+At 758 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+8 nm northeast of Klondike Beach, or 11 nm north of Playalinda Beach,
+moving southeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,19 +41,20 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2922 8061 2879 8032 2851 8020 2830 8023
-      2826 8027 2818 8025 2811 8062 2869 8086
-      2881 8089 2884 8085 2920 8104
+LAT...LON 2898 8051 2887 8006 2847 8063 2849 8067
+      2856 8065 2856 8067 2850 8070 2855 8082
+      2874 8088
 
 $$
 
-Kelly
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 210
