@@ -1,51 +1,46 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 12, 2026 • 6:00 PM
+Generated: May 12, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 85°F; Rain: 74% ; Wind: 15 mph E
-• Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 75°F; Rain: 77% ; Wind: 5 to 15 mph SE
-• Tomorrow: Wednesday — High: 87°F; Low: 74°F; Rain: 61% ; Wind: 5 to 10 mph WNW
+• Today:    Wednesday — Chance Showers And Thunderstorms. High: 87°F; Rain: 61% ; Wind: 5 to 10 mph WNW
+• Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 75°F; Rain: 76% ; Wind: 5 to 15 mph SE
+• Tomorrow: Thursday — High: 85°F; Low: 74°F; Rain: 12% ; Wind: 5 to 10 mph N
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 83.6%
+Temp: 77°F (25°C) · Humidity: 88.7%
 
 🛥️ Marine Weather Statement:
-696
-FZUS72 KMLB 122108
+269
+FZUS72 KMLB 122233
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-508 PM EDT Tue May 12 2026
+633 PM EDT Tue May 12 2026
 
-AMZ552-555-122215-
-508 PM EDT Tue May 12 2026
+AMZ550-552-122242-
+/O.CAN.KMLB.MA.W.0082.000000T0000Z-260512T2245Z/
+633 PM EDT Tue May 12 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-At 508 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Vero Beach Highland to Vero
-Beach to 15 nm east of South Beach, moving north at 15 knots.
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until these storms pass.
+The thunderstorm has weakened, but gusty winds to around 30 knots
+and waterspouts remain possible.
 
 &&
 
-LAT...LON 2800 8033 2799 8013 2784 8006 2774 8004
-      2756 7997 2758 8038 2757 8039 2765 8041
-      2784 8052
+LAT...LON 2912 8054 2897 8045 2881 8033 2878 8031
+      2873 8028 2868 8080 2906 8083
+TIME...MOT...LOC 2230Z 346DEG 16KT 2875 8061
 
 $$
 
-Leahy
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 841
