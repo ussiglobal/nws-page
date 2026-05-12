@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 12, 2026 • 4:00 PM
+Generated: May 12, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,42 +11,32 @@ Generated: May 12, 2026 • 4:00 PM
 Temp: 80.6°F (27°C) · Humidity: 74.1%
 
 🛥️ Marine Weather Statement:
-599
-FZUS72 KMLB 121935
+374
+FZUS72 KMLB 122038
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-335 PM EDT Tue May 12 2026
+438 PM EDT Tue May 12 2026
 
-AMZ555-122030-
-335 PM EDT Tue May 12 2026
+AMZ555-122048-
+/O.EXP.KMLB.MA.W.0079.000000T0000Z-260512T2045Z/
+438 PM EDT Tue May 12 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 445 PM EDT...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The affected areas were...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 335 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over White City. The thunderstorm was nearly stationary.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
-
-This strong thunderstorm will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required when this strong thunderstorm
-reaches the nearshore waters. Boaters should consider heading for
-shore before this strong thunderstorm arrives.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2728 8033 2729 8032 2729 8031 2730 8029
-      2744 8036 2752 8024 2727 8015
+LAT...LON 2718 8032 2723 8035 2728 8035 2729 8032
+      2724 8026 2742 8035 2747 8002 2716 7999
+      2715 8029
+TIME...MOT...LOC 2038Z 273DEG 8KT 2732 8018
 
 $$
 
