@@ -1,37 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 11, 2026 • 10:00 PM
+Generated: May 11, 2026 • 11:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Tuesday — Chance Showers And Thunderstorms. High: 85°F; Rain: 65% ; Wind: 5 to 15 mph NNW
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 48% ; Wind: 5 mph S
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 50% ; Wind: 5 to 10 mph S
 • Tomorrow: Wednesday — High: 85°F; Low: 76°F; Rain: 63% ; Wind: 5 mph E
 🌡️ Current Conditions:
 Temp: 75.2°F (24°C) · Humidity: 83.3%
 
 🛥️ Marine Weather Statement:
-163
-FZUS72 KMLB 120130
+898
+FZUS72 KMLB 120250
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-930 PM EDT Mon May 11 2026
+1050 PM EDT Mon May 11 2026
 
-AMZ555-120200-
-/O.CON.KMLB.MA.W.0069.000000T0000Z-260512T0200Z/
-930 PM EDT Mon May 11 2026
+AMZ552-120315-
+/O.CON.KMLB.MA.W.0072.000000T0000Z-260512T0315Z/
+1050 PM EDT Mon May 11 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 1000 PM EDT...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 1115 PM EDT...
 
 For the following areas...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 930 PM EDT, a strong thunderstorm was located over South Beach, or
-near Indrio, moving east at 20 knots.
+At 1050 PM EDT, a strong thunderstorm was located 11 nm southeast of
+Port Canaveral, moving southeast at 10 knots.
 
-HAZARD...Wind gusts to nearly 50 knots and small hail.
+HAZARD...Wind gusts 34 knots or greater.
 
 SOURCE...Radar indicated.
 
@@ -40,33 +40,24 @@ IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
          board are wearing life jackets. Return to safe harbor if
          possible.
 
-Locations impacted include...
-Moorings Of Vero Beach, Floralton Beach, South Beach, Queens Cove,
-and Indrio.
+The strong thunderstorm will remain over mainly open waters.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Move to safe harbor immediately as gusty winds and high waves are
-expected.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+Move to safe harbor until hazardous weather passes.
 
 &&
 
-LAT...LON 2740 8034 2746 8037 2765 8041 2772 8043
-      2784 8006 2779 8004 2774 8004 2766 8000
-      2735 8001
-TIME...MOT...LOC 0130Z 284DEG 18KT 2757 8031
+LAT...LON 2845 8053 2850 8020 2843 8020 2832 8022
+      2825 8027 2819 8056 2834 8059
+TIME...MOT...LOC 0250Z 321DEG 11KT 2832 8039
 
-HAIL...<.75IN
-WIND...49KTS
+HAIL...0.00IN
+WIND...>34KTS
 
 $$
 
-Schaper
+Leahy
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 210
