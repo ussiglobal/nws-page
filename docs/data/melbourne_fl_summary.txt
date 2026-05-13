@@ -1,46 +1,45 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 12, 2026 • 8:00 PM
+Generated: May 12, 2026 • 9:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Chance Showers And Thunderstorms. High: 87°F; Rain: 61% ; Wind: 5 to 10 mph WNW
-• Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 75°F; Rain: 76% ; Wind: 5 to 15 mph SE
+• Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 75°F; Rain: 63% ; Wind: 5 to 15 mph SE
 • Tomorrow: Thursday — High: 85°F; Low: 74°F; Rain: 12% ; Wind: 5 to 10 mph N
 🌡️ Current Conditions:
 Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-269
-FZUS72 KMLB 122233
+007
+FZUS72 KMLB 130031
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-633 PM EDT Tue May 12 2026
+831 PM EDT Tue May 12 2026
 
-AMZ550-552-122242-
-/O.CAN.KMLB.MA.W.0082.000000T0000Z-260512T2245Z/
-633 PM EDT Tue May 12 2026
+AMZ575-130040-
+/O.CAN.KMLB.MA.W.0083.000000T0000Z-260513T0115Z/
+831 PM EDT Tue May 12 2026
 
 ...THE SPECIAL MARINE WARNING IS CANCELLED...
 
 The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-The thunderstorm has weakened, but gusty winds to around 30 knots
-and waterspouts remain possible.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2912 8054 2897 8045 2881 8033 2878 8031
-      2873 8028 2868 8080 2906 8083
-TIME...MOT...LOC 2230Z 346DEG 16KT 2875 8061
+LAT...LON 2713 7950 2732 7956 2742 7918 2732 7914
+      2711 7908
+TIME...MOT...LOC 0028Z 249DEG 8KT 2727 7938
 
 $$
 
-Haley
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 841
