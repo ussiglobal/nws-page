@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 14, 2026 • 7:00 AM
+Generated: May 14, 2026 • 8:00 AM
 ===============================
 
 📅 Forecast:
@@ -44,8 +44,8 @@ $$
 Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-974
-FZUS52 KMLB 131501
+860
+FZUS52 KMLB 141000
 SRFMLB
 
 Surf Zone Forecast
