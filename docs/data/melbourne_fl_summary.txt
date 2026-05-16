@@ -1,47 +1,50 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 16, 2026 • 7:00 AM
+Generated: May 16, 2026 • 8:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Slight Chance Rain Showers then Sunny. High: 88°F; Rain: 16% ; Wind: 10 to 20 mph ESE
+• Today:    Today — Sunny. High: 88°F; Rain: 10% ; Wind: 15 to 20 mph ESE
 • Tonight:  Tonight — Mostly Cloudy. Low: 79°F; Rain: 14% ; Wind: 10 to 20 mph SE
 • Tomorrow: Sunday — High: 87°F; Low: 79°F; Rain: 23% ; Wind: 10 to 15 mph ESE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 78.6%
+Temp: 80.6°F (27°C) · Humidity: 69.7%
 
 🛥️ Marine Weather Statement:
-212
-FZUS72 KMLB 132226
+463
+FZUS72 KMLB 161150
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-626 PM EDT Wed May 13 2026
+750 AM EDT Sat May 16 2026
 
-AMZ550-552-132236-
-/O.EXP.KMLB.MA.W.0084.000000T0000Z-260513T2230Z/
-626 PM EDT Wed May 13 2026
+AMZ555-161215-
+750 AM EDT Sat May 16 2026
 
-...THE SPECIAL MARINE WARNING WILL EXPIRE AT 630 PM EDT...
+...SHOWERS OVER THE WATERS...
 
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-The thunderstorms have weakened, but gusty winds to 30 knots remain
-possible.
+At 749 AM EDT, Doppler radar indicated showers, capable of producing
+winds up to 30 knots. These showers were located along a line
+extending from Queens Cove to near Jensen Beach, moving northwest at
+10 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2945 8113 2945 8111
-      2946 8112 2946 8113 2947 8090 2873 8045
-      2873 8087 2881 8089 2884 8085 2938 8113
-TIME...MOT...LOC 2226Z 265DEG 17KT 2929 8101 2885 8073
+LAT...LON 2727 8035 2728 8035 2729 8032 2724 8026
+      2746 8037 2763 8040 2756 8019 2707 7992
 
 $$
 
-Haley
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 483
