@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 16, 2026 • 10:00 AM
+Generated: May 16, 2026 • 11:00 AM
 ===============================
 
 📅 Forecast:
@@ -47,8 +47,8 @@ $$
 Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-115
-FZUS52 KMLB 151500
+483
+FZUS52 KMLB 161000
 SRFMLB
 
 Surf Zone Forecast
