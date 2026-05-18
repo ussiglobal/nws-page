@@ -1,37 +1,33 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 18, 2026 • 2:00 PM
+Generated: May 18, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 87°F; Rain: 18% ; Wind: 15 mph E
-• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 19% ; Wind: 10 to 15 mph E
-• Tomorrow: Tuesday — High: 87°F; Low: 79°F; Rain: 20% ; Wind: 10 to 15 mph E
+• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 86°F; Rain: 18% ; Wind: 15 mph E
+• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Mostly Clear. Low: 80°F; Rain: 17% ; Wind: 15 mph E
+• Tomorrow: Tuesday — High: 86°F; Low: 80°F; Rain: 17% ; Wind: 15 mph E
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 66%
+Temp: 82.4°F (28°C) · Humidity: 69.9%
 
 🛥️ Marine Weather Statement:
-281
-FZUS72 KMLB 181553
+355
+FZUS72 KMLB 181847
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1153 AM EDT Mon May 18 2026
+247 PM EDT Mon May 18 2026
 
-AMZ555-575-181730-
-1153 AM EDT Mon May 18 2026
+AMZ555-181930-
+247 PM EDT Mon May 18 2026
 
-...GUSTY THUNDERSTORMS OFF THE TREASURE COAST...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 1153 AM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located 11 nm east of Nettles Island, or 11 nm east of Saint Lucie
-Nuclear Power Plant, moving west at 20 knots.
+At 247 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over South Beach, or near Vero Beach South, moving west at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,15 +35,19 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
+
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2723 8035 2728 8035 2729 8032 2724 8026
-      2746 8037 2761 8040 2748 7920 2698 7905
+LAT...LON 2726 8025 2727 8028 2746 8037 2765 8041
+      2771 8044 2765 8002 2715 7982
 
 $$
 
-Heil
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 276
