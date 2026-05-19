@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 18, 2026 • 7:00 PM
+Generated: May 18, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,37 +11,34 @@ Generated: May 18, 2026 • 7:00 PM
 Temp: 80.6°F (27°C) · Humidity: 74.1%
 
 🛥️ Marine Weather Statement:
-209
-FZUS72 KMLB 182205
+967
+FZUS72 KMLB 182359
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-605 PM EDT Mon May 18 2026
+759 PM EDT Mon May 18 2026
 
-AMZ555-182245-
-605 PM EDT Mon May 18 2026
+AMZ555-190045-
+759 PM EDT Mon May 18 2026
 
 A Marine Weather Statement has been issued for the following areas...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 604 PM EDT, Doppler radar indicated a couple of strong
-thunderstorms, capable of producing winds to around 30 knots
-offshore Saint Lucie county. One thunderstorm was moving west at 20
-knots toward Fort Pierce Inlet and another toward Saint Lucie
-Nuclear Power Plant.
+At 758 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+7 nm east of Jupiter Island, moving west at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
 
 &&
 
-LAT...LON 2728 8035 2729 8032 2726 8029 2728 8028
-      2746 8037 2762 8040 2758 8006 2727 7999
-      2724 8026 2727 8027 2726 8028 2723 8035
+LAT...LON 2697 8011 2711 8018 2714 8021 2715 8021
+      2712 7979 2697 7974
 
 $$
 
