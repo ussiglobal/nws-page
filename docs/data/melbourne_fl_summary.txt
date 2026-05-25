@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 25, 2026 • 2:00 AM
+Generated: May 25, 2026 • 3:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Memorial Day — Slight Chance Rain Showers then Mostly Sunny. High: 89°F; Rain: 17% ; Wind: 15 to 20 mph SE
-• Tonight:  Overnight — Slight Chance Rain Showers. Low: 80°F; Rain: 16% ; Wind: 15 mph SE
-• Tomorrow: Tuesday — High: 89°F; Low: 80°F; Rain: 8% ; Wind: 15 mph SE
+• Today:    Memorial Day — Slight Chance Rain Showers then Sunny. High: 89°F; Rain: 17% ; Wind: 15 to 20 mph SE
+• Tonight:  Overnight — Slight Chance Rain Showers. Low: 80°F; Rain: 16% ; Wind: 15 mph SSE
+• Tomorrow: Tuesday — High: 89°F; Low: 80°F; Rain: 17% ; Wind: 15 to 20 mph SE
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 78.8%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
 544
