@@ -1,54 +1,57 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 28, 2026 • 5:00 PM
+Generated: May 28, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 89°F; Rain: 71% ; Wind: 15 mph SE
+• Today:    Friday — Mostly Sunny then Chance Showers And Thunderstorms. High: 88°F; Rain: 35% ; Wind: 5 to 10 mph NW
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 76°F; Rain: 75% ; Wind: 5 to 10 mph SW
-• Tomorrow: Friday — High: 88°F; Low: 77°F; Rain: 35% ; Wind: 5 to 10 mph NW
+• Tomorrow: Saturday — High: 89°F; Low: 77°F; Rain: 61% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 78.9%
+Temp: 82.4°F (28°C) · Humidity: 83.8%
 
 🛥️ Marine Weather Statement:
-606
-FZUS72 KMLB 281232
+439
+FZUS72 KMLB 282128
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-832 AM EDT Thu May 28 2026
+528 PM EDT Thu May 28 2026
 
-AMZ555-281330-
-832 AM EDT Thu May 28 2026
+AMZ550-282215-
+528 PM EDT Thu May 28 2026
 
-...STRONG THUNDERSTORMS OVER THE WATERS...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 831 AM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 12 nm east of Sewall`s Point to
-near Jupiter Inlet to Palm Beach Shores, moving north at 10 knots.
+At 527 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+near Ormond-By-the-Sea, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2728 8005 2730 7985 2723 7983 2717 7979
-      2697 7979 2697 8006
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8104
+      2948 8075 2929 8066 2922 8061 2913 8100
+      2938 8113
 
 $$
 
-Wishard
+Law
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 991
