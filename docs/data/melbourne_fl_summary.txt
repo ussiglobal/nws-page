@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 29, 2026 • 12:00 PM
+Generated: May 29, 2026 • 1:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,7 +8,7 @@ Generated: May 29, 2026 • 12:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 77°F; Rain: 65% ; Wind: 5 to 10 mph SW
 • Tomorrow: Saturday — High: 90°F; Low: 77°F; Rain: 57% ; Wind: 5 to 10 mph W
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 62.3%
+Temp: 86°F (30°C) · Humidity: 70.3%
 
 🛥️ Marine Weather Statement:
 755
@@ -45,8 +45,8 @@ $$
 Law
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-388
-FZUS52 KMLB 291000
+467
+FZUS52 KMLB 291500
 SRFMLB
 
 Surf Zone Forecast
