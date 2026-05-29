@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 28, 2026 • 7:00 PM
+Generated: May 28, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,43 +11,34 @@ Generated: May 28, 2026 • 7:00 PM
 Temp: 82.4°F (28°C) · Humidity: 78.9%
 
 🛥️ Marine Weather Statement:
-439
-FZUS72 KMLB 282128
+755
+FZUS72 KMLB 282308
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-528 PM EDT Thu May 28 2026
+708 PM EDT Thu May 28 2026
 
-AMZ550-282215-
-528 PM EDT Thu May 28 2026
+AMZ550-570-282317-
+/O.CAN.KMLB.MA.W.0088.000000T0000Z-260528T2330Z/
+708 PM EDT Thu May 28 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 527 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near Ormond-By-the-Sea, moving east at 20 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+The thunderstorms have weakened and no longer pose a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8113 2947 8104
-      2948 8075 2929 8066 2922 8061 2913 8100
-      2938 8113
+LAT...LON 2942 8113 2942 8111 2943 8110 2943 8112
+      2944 8111 2945 8111 2945 8112 2946 8112
+      2946 8113 2948 8072 2948 8057 2890 8044
+      2885 8086 2937 8113
+TIME...MOT...LOC 2306Z 246DEG 18KT 2954 8060 2936 8068 2919 8074
 
 $$
 
