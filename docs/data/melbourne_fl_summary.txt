@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 30, 2026 • 4:00 AM
+Generated: May 30, 2026 • 5:00 AM
 ===============================
 
 📅 Forecast:
@@ -50,8 +50,8 @@ $$
 Law
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-388
-FZUS52 KMLB 291000
+467
+FZUS52 KMLB 291500
 SRFMLB
 
 Surf Zone Forecast
