@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 30, 2026 • 3:00 PM
+Generated: May 30, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,25 +11,26 @@ Generated: May 30, 2026 • 3:00 PM
 Temp: 87.8°F (31°C) · Humidity: 58.8%
 
 🛥️ Marine Weather Statement:
-508
-FZUS72 KMLB 300129
+206
+FZUS72 KMLB 301942
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-929 PM EDT Fri May 29 2026
+342 PM EDT Sat May 30 2026
 
-AMZ552-300215-
-929 PM EDT Fri May 29 2026
+AMZ555-302015-
+342 PM EDT Sat May 30 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A STRONG THUNDERSTORM OVER THE ATLANTIC WATERS OFF PORT SAINT
+LUCIE INLET...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 928 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 341 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Titusville, moving southeast at 25 knots.
+7 nm east of Port Salerno, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,15 +40,13 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2883 8085 2889 8088 2888 8084 2887 8083
-      2887 8081 2886 8083 2886 8081 2885 8083
-      2882 8081 2883 8077 2886 8078 2883 8076
-      2884 8061 2880 8041 2827 8056 2834 8074
-      2860 8084 2880 8089
+LAT...LON 2713 8018 2730 8012 2731 7986 2731 7985
+      2729 7984 2727 7984 2723 7983 2718 7980
+      2697 7986 2697 7995
 
 $$
 
-Law
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 606
