@@ -1,36 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 30, 2026 • 6:00 PM
+Generated: May 30, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 90°F; Rain: 48% ; Wind: 10 mph WNW
+• Today:    Sunday — Showers And Thunderstorms Likely. High: 88°F; Rain: 75% ; Wind: 5 to 10 mph NW
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 78°F; Rain: 38% ; Wind: 5 mph WSW
-• Tomorrow: Sunday — High: 88°F; Low: 77°F; Rain: 75% ; Wind: 5 to 10 mph NW
+• Tomorrow: Monday — High: 90°F; Low: 77°F; Rain: 60% ; Wind: 10 to 15 mph WSW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 62.5%
+Temp: 86°F (30°C) · Humidity: 66.2%
 
 🛥️ Marine Weather Statement:
-386
-FZUS72 KMLB 302025
+370
+FZUS72 KMLB 302248
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-425 PM EDT Sat May 30 2026
+648 PM EDT Sat May 30 2026
 
-AMZ550-552-302115-
-425 PM EDT Sat May 30 2026
+AMZ552-302330-
+648 PM EDT Sat May 30 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 425 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 648 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over New Smyrna Beach, moving east at 25 knots.
+near Port Canaveral, moving east at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,15 +37,10 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
-
 &&
 
-LAT...LON 2917 8058 2909 8052 2879 8047 2880 8089
-      2881 8089 2884 8085 2914 8100
+LAT...LON 2875 8029 2852 8020 2835 8021 2829 8024
+      2827 8072 2869 8086
 
 $$
 
