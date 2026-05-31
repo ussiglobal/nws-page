@@ -1,50 +1,55 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 31, 2026 • 3:00 PM
+Generated: May 31, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 88°F; Rain: 53% ; Wind: 10 mph E
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 47% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Monday — High: 90°F; Low: 78°F; Rain: 48% ; Wind: 10 to 15 mph WSW
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 88°F; Rain: 56% ; Wind: 10 mph ESE
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 53% ; Wind: 5 to 10 mph SSW
+• Tomorrow: Monday — High: 91°F; Low: 79°F; Rain: 52% ; Wind: 10 mph W
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 0%
+Temp: 80.6°F (27°C) · Humidity: 83.7%
 
 🛥️ Marine Weather Statement:
-273
-FZUS72 KMLB 302320
+479
+FZUS72 KMLB 311957
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-720 PM EDT Sat May 30 2026
+357 PM EDT Sun May 31 2026
 
-AMZ552-310000-
-720 PM EDT Sat May 30 2026
+AMZ555-312100-
+357 PM EDT Sun May 31 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 719 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 356 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Melbourne, moving east at 20 knots.
+over Gifford, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+waves, and lightning strikes. A special marine warning may
+eventually be required. Boaters should seek safe harbor immediately
+until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2830 8032 2798 8021 2795 8058 2807 8065
-      2828 8072
+LAT...LON 2746 8037 2765 8041 2777 8048 2783 8006
+      2779 8004 2774 8004 2771 8002 2740 7991
+      2736 8032
 
 $$
 
-Law
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 388
