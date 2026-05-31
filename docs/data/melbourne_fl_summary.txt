@@ -1,35 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: May 30, 2026 • 7:00 PM
+Generated: May 30, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Showers And Thunderstorms Likely. High: 88°F; Rain: 75% ; Wind: 5 to 10 mph NW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 78°F; Rain: 38% ; Wind: 5 mph WSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 78°F; Rain: 32% ; Wind: 5 mph WSW
 • Tomorrow: Monday — High: 90°F; Low: 77°F; Rain: 60% ; Wind: 10 to 15 mph WSW
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 66.2%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-370
-FZUS72 KMLB 302248
+273
+FZUS72 KMLB 302320
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-648 PM EDT Sat May 30 2026
+720 PM EDT Sat May 30 2026
 
-AMZ552-302330-
-648 PM EDT Sat May 30 2026
+AMZ552-310000-
+720 PM EDT Sat May 30 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 648 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 719 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-near Port Canaveral, moving east at 25 knots.
+over Melbourne, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,8 +39,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2875 8029 2852 8020 2835 8021 2829 8024
-      2827 8072 2869 8086
+LAT...LON 2830 8032 2798 8021 2795 8058 2807 8065
+      2828 8072
 
 $$
 
