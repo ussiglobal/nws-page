@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 1, 2026 • 3:00 PM
+Generated: Jun 1, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,46 +8,63 @@ Generated: Jun 1, 2026 • 3:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 78°F; Rain: 60% ; Wind: 5 to 10 mph WNW
 • Tomorrow: Tuesday — High: 88°F; Low: 76°F; Rain: 60% ; Wind: 5 to 10 mph NNW
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 62.3%
+Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-909
-FZUS72 KMLB 011658
+729
+FZUS72 KMLB 011900
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1258 PM EDT Mon Jun 1 2026
+300 PM EDT Mon Jun 1 2026
 
-AMZ550-570-011830-
-1258 PM EDT Mon Jun 1 2026
+AMZ555-575-011945-
+/O.CON.KMLB.MA.W.0096.000000T0000Z-260601T1945Z/
+300 PM EDT Mon Jun 1 2026
 
-...STRONG THUNDERSTORMS APPROACHING THE ATLANTIC AND
-INTRACOASTAL WATERS FROM NEAR ORMOND BEACH TO NEAR TURTLE MOUND...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 345 PM EDT...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+For the following areas...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
+Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 1257 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 17 nm west of Daytona Beach to 6
-nm southeast of Daytona Beach Shores, moving southeast at 15 knots.
+At 300 PM EDT, a strong thunderstorm was located 7 nm east of South
+Beach, or 9 nm east of Vero Beach, moving southeast at 25 knots.
+
+HAZARD...Wind gusts to 40 knots.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Locations impacted include...
+Floralton Beach, Moorings Of Vero Beach, South Beach, Jaycee Beach,
+and Queens Cove.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2942 8113 2932 8051 2895 8025 2894 8091
-      2938 8113
+LAT...LON 2711 8018 2715 8022 2714 8025 2725 8028
+      2724 8026 2740 8031 2769 8022 2769 7991
+      2742 7973 2697 7986 2697 8011
+TIME...MOT...LOC 1900Z 307DEG 24KT 2763 8021
+
+HAIL...0.00IN
+WIND...40KTS
 
 $$
 
-Haley
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 465
