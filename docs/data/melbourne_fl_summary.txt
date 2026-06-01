@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 1, 2026 • 5:00 PM
+Generated: Jun 1, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,42 +11,53 @@ Generated: Jun 1, 2026 • 5:00 PM
 Temp: 84.2°F (29°C) · Humidity: 74.5%
 
 🛥️ Marine Weather Statement:
-633
-FZUS72 KMLB 012043
+185
+FZUS72 KMLB 012120
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-443 PM EDT Mon Jun 1 2026
+520 PM EDT Mon Jun 1 2026
 
-AMZ555-012145-
-443 PM EDT Mon Jun 1 2026
+AMZ555-012230-
+/O.CON.KMLB.MA.W.0098.000000T0000Z-260601T2230Z/
+520 PM EDT Mon Jun 1 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 630 PM EDT...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+For the following areas...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 442 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over South Beach, or over Vero Beach South, moving east at 20 knots.
+At 520 PM EDT, a strong thunderstorm was located over Witham Field,
+or over Stuart, moving southeast at 15 knots.
+
+HAZARD...Wind gusts to 40 knots.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Locations impacted include...
+Witham Field, Sewall`s Point, Port Salerno, Stuart, and Rio.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-This strong thunderstorm will likely produce winds to around 30
-knots, locally higher waves, and lightning strikes, and could pose a
-serious hazard for boaters. A special marine warning may eventually
-be required. Boaters should consider heading for shore before this
-strong thunderstorm arrives.
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
 
 &&
 
-LAT...LON 2743 8035 2746 8037 2765 8041 2772 8045
-      2773 8045 2773 8003 2736 7994
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2723 8035 2728 8035 2729 8033 2724 8026
+      2747 8037 2750 7994 2697 7973
+TIME...MOT...LOC 2120Z 293DEG 13KT 2718 8021
+
+HAIL...0.00IN
+WIND...40KTS
 
 $$
 
