@@ -1,50 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 1, 2026 • 12:00 PM
+Generated: Jun 1, 2026 • 1:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Mostly Sunny then Chance Showers And Thunderstorms. High: 91°F; Rain: 48% ; Wind: 10 to 15 mph WNW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 36% ; Wind: 5 to 10 mph WNW
-• Tomorrow: Tuesday — High: 89°F; Low: 76°F; Rain: 56% ; Wind: 5 to 10 mph NNW
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 91°F; Rain: 51% ; Wind: 10 mph WNW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 60% ; Wind: 5 to 10 mph WNW
+• Tomorrow: Tuesday — High: 89°F; Low: 76°F; Rain: 44% ; Wind: 5 to 10 mph NNW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 59%
+Temp: 87.8°F (31°C) · Humidity: 62.5%
 
 🛥️ Marine Weather Statement:
-533
-FZUS72 KMLB 010010
+909
+FZUS72 KMLB 011658
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-810 PM EDT Sun May 31 2026
+1258 PM EDT Mon Jun 1 2026
 
-AMZ552-010115-
-810 PM EDT Sun May 31 2026
+AMZ550-570-011830-
+1258 PM EDT Mon Jun 1 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...STRONG THUNDERSTORMS APPROACHING THE ATLANTIC AND
+INTRACOASTAL WATERS FROM NEAR ORMOND BEACH TO NEAR TURTLE MOUND...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 810 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Patrick Air Force Base, moving southeast at 15 knots.
+At 1257 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 17 nm west of Daytona Beach to 6
+nm southeast of Daytona Beach Shores, moving southeast at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2831 8066 2823 8039 2793 8037 2793 8057
-      2807 8065 2826 8071
+LAT...LON 2942 8113 2932 8051 2895 8025 2894 8091
+      2938 8113
 
 $$
 
-Sedlock
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 465
