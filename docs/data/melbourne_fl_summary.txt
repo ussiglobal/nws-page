@@ -1,39 +1,34 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 3, 2026 • 8:00 AM
+Generated: Jun 3, 2026 • 9:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. High: 81°F; Rain: 59% ; Wind: 20 mph NE
-• Tonight:  Tonight — Mostly Cloudy. Low: 75°F; Rain: 7% ; Wind: 15 to 20 mph NE
+• Today:    Today — Chance Showers And Thunderstorms. High: 82°F; Rain: 46% ; Wind: 20 mph NE
+• Tonight:  Tonight — Mostly Cloudy. Low: 75°F; Rain: 3% ; Wind: 15 to 20 mph NE
 • Tomorrow: Thursday — High: 83°F; Low: 77°F; Rain: 2% ; Wind: 15 mph ENE
 🌡️ Current Conditions:
-Temp: 77°F (25°C) · Humidity: 83.5%
+Temp: 77°F (25°C) · Humidity: 88.7%
 
 🛥️ Marine Weather Statement:
-487
-FZUS72 KMLB 030439
+791
+FZUS72 KMLB 031235
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1239 AM EDT Wed Jun 3 2026
+835 AM EDT Wed Jun 3 2026
 
-AMZ550-552-570-572-030545-
-1239 AM EDT Wed Jun 3 2026
+AMZ552-555-031330-
+835 AM EDT Wed Jun 3 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
-
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1239 AM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located 22 nm northeast of Playalinda Beach. The thunderstorm was
-nearly stationary.
+At 835 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Malabar, moving south at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -41,18 +36,14 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
 &&
 
-LAT...LON 2895 8024 2889 8006 2867 8000 2866 8071
-      2867 8073 2866 8074 2866 8086 2881 8089
-      2884 8085 2892 8090
+LAT...LON 2820 8026 2779 8005 2771 8044 2807 8065
+      2810 8066
 
 $$
 
-Tollefsen
+Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 183
