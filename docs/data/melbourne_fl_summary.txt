@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 2, 2026 • 7:00 PM
+Generated: Jun 2, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,28 +11,28 @@ Generated: Jun 2, 2026 • 7:00 PM
 Temp: 78.8°F (26°C) · Humidity: 74%
 
 🛥️ Marine Weather Statement:
-004
-FZUS72 KMLB 022243
+369
+FZUS72 KMLB 022327
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-643 PM EDT Tue Jun 2 2026
+727 PM EDT Tue Jun 2 2026
 
-AMZ550-552-022315-
-/O.CON.KMLB.MA.W.0100.000000T0000Z-260602T2315Z/
-643 PM EDT Tue Jun 2 2026
+AMZ552-572-030030-
+/O.CON.KMLB.MA.W.0102.000000T0000Z-260603T0030Z/
+727 PM EDT Tue Jun 2 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 715 PM EDT...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 830 PM EDT...
 
 For the following areas...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 643 PM EDT, a strong thunderstorm was located near Playalinda
-Beach, moving southeast at 25 knots.
+At 727 PM EDT, a cloud was located 11 nm southeast of Port Canaveral,
+moving southeast at 30 knots.
 
-HAZARD...Wind gusts to nearly 50 knots and small hail.
+HAZARD...Wind gusts to 40 knots and small hail.
 
 SOURCE...Radar indicated.
 
@@ -41,8 +41,7 @@ IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
          board are wearing life jackets. Return to safe harbor if
          possible.
 
-Locations impacted include...
-Playalinda Beach and Merritt Island Wildlife Refuge.
+The cloud will remain over mainly open waters.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -53,12 +52,12 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2901 8070 2850 8031 2836 8075 2860 8084
-      2861 8084 2880 8089 2884 8085 2896 8091
-TIME...MOT...LOC 2243Z 309DEG 27KT 2861 8056
+LAT...LON 2856 8048 2853 8011 2793 7985 2783 8051
+      2813 8067 2823 8069
+TIME...MOT...LOC 2327Z 322DEG 28KT 2832 8039
 
 HAIL...<.75IN
-WIND...49KTS
+WIND...40KTS
 
 $$
 
