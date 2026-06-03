@@ -1,34 +1,33 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 3, 2026 • 10:00 AM
+Generated: Jun 3, 2026 • 11:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Chance Showers And Thunderstorms. High: 82°F; Rain: 46% ; Wind: 20 mph NE
+• Today:    Today — Chance Showers And Thunderstorms. High: 82°F; Rain: 38% ; Wind: 20 mph NE
 • Tonight:  Tonight — Mostly Cloudy. Low: 75°F; Rain: 3% ; Wind: 15 to 20 mph NE
 • Tomorrow: Thursday — High: 83°F; Low: 77°F; Rain: 2% ; Wind: 15 mph ENE
 🌡️ Current Conditions:
-Temp: 32°F (0°C) · Humidity: 0%
+Temp: 75°F (23.9°C) · Humidity: 90.2%
 
 🛥️ Marine Weather Statement:
-791
-FZUS72 KMLB 031235
+477
+FZUS72 KMLB 031412
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-835 AM EDT Wed Jun 3 2026
+1012 AM EDT Wed Jun 3 2026
 
-AMZ552-555-031330-
-835 AM EDT Wed Jun 3 2026
+AMZ555-031515-
+1012 AM EDT Wed Jun 3 2026
 
 A Marine Weather Statement has been issued for the following areas...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 835 AM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Malabar, moving south at 20 knots.
+At 1011 AM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located over Indian River Shores, moving southeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,8 +37,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2820 8026 2779 8005 2771 8044 2807 8065
-      2810 8066
+LAT...LON 2786 8022 2775 8014 2763 8040 2765 8041
+      2776 8047
 
 $$
 
