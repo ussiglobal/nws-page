@@ -1,63 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 2, 2026 • 8:00 PM
+Generated: Jun 2, 2026 • 9:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. High: 82°F; Rain: 55% ; Wind: 10 to 20 mph NE
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 76°F; Rain: 70% ; Wind: 5 to 10 mph N
+• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 76°F; Rain: 60% ; Wind: 5 to 10 mph N
 • Tomorrow: Thursday — High: 83°F; Low: 76°F; Rain: 14% ; Wind: 15 mph ENE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 74%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-369
-FZUS72 KMLB 022327
+958
+FZUS72 KMLB 030030
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-727 PM EDT Tue Jun 2 2026
+830 PM EDT Tue Jun 2 2026
 
-AMZ552-572-030030-
-/O.CON.KMLB.MA.W.0102.000000T0000Z-260603T0030Z/
-727 PM EDT Tue Jun 2 2026
+AMZ572-575-030200-
+830 PM EDT Tue Jun 2 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 830 PM EDT...
+...STRONG THUNDERSTORMs OVER THE WATERS...
 
-For the following areas...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 727 PM EDT, a cloud was located 11 nm southeast of Port Canaveral,
-moving southeast at 30 knots.
-
-HAZARD...Wind gusts to 40 knots and small hail.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible.
-
-The cloud will remain over mainly open waters.
+At 828 PM EDT, Doppler radar indicated a cluster of strong
+thunderstorms, capable of producing winds to around 33 knots and
+small hail. This thunderstorm was located 33 nm northeast of
+Sebastian Inlet, moving east at 30 knots. There will be additional
+strong storms across the local waters through the evening.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+Mariners can expect gusty winds to around 33 knots, and locally
+higher waves. Frequent cloud to water lightning is occurring with
+these storms. If caught on the open water stay below deck and, if
+possible, avoid ungrounded metal objects. Remember, lightning can
+strike beyond 10 miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2856 8048 2853 8011 2793 7985 2783 8051
-      2813 8067 2823 8069
-TIME...MOT...LOC 2327Z 322DEG 28KT 2832 8039
-
-HAIL...<.75IN
-WIND...40KTS
+LAT...LON 2772 7940 2753 7994 2806 8017 2858 8006
+      2855 7954 2829 7954 2806 7943 2787 7937
 
 $$
 
