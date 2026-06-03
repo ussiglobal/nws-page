@@ -1,37 +1,39 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 2, 2026 • 11:00 PM
+Generated: Jun 3, 2026 • 1:00 AM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. High: 82°F; Rain: 55% ; Wind: 10 to 20 mph NE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 76°F; Rain: 54% ; Wind: 5 to 10 mph NNW
+• Tonight:  Overnight — Chance Showers And Thunderstorms. Low: 76°F; Rain: 54% ; Wind: 5 to 10 mph NW
 • Tomorrow: Thursday — High: 83°F; Low: 76°F; Rain: 14% ; Wind: 15 mph ENE
 🌡️ Current Conditions:
 Temp: 32°F (0°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-111
-FZUS72 KMLB 030148
+487
+FZUS72 KMLB 030439
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-948 PM EDT Tue Jun 2 2026
+1239 AM EDT Wed Jun 3 2026
 
-AMZ572-030245-
-948 PM EDT Tue Jun 2 2026
+AMZ550-552-570-572-030545-
+1239 AM EDT Wed Jun 3 2026
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 947 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-49 nm east of Playalinda Beach, moving south at 20 knots. Another
-strong storm was located due west around 35 nm east of Playalinda
-Beach.
+At 1239 AM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located 22 nm northeast of Playalinda Beach. The thunderstorm was
+nearly stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -44,12 +46,13 @@ case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2861 7954 2857 8021 2886 8030 2893 7964
-      2866 7955
+LAT...LON 2895 8024 2889 8006 2867 8000 2866 8071
+      2867 8073 2866 8074 2866 8086 2881 8089
+      2884 8085 2892 8090
 
 $$
 
-Sedlock
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 031
