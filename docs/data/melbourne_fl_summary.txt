@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 14, 2026 • 5:00 PM
+Generated: Jun 14, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,29 +8,29 @@ Generated: Jun 14, 2026 • 5:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Slight Chance Showers And Thunderstorms. Low: 79°F; Rain: 59% ; Wind: 10 mph SSW
 • Tomorrow: Monday — High: 94°F; Low: 78°F; Rain: 56% ; Wind: 10 mph SW
 🌡️ Current Conditions:
-Temp: 32°F (0°C) · Humidity: 0%
+Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-209
-FZUS72 KMLB 142002
+517
+FZUS72 KMLB 142142
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-402 PM EDT Sun Jun 14 2026
+542 PM EDT Sun Jun 14 2026
 
-AMZ552-555-142100-
-402 PM EDT Sun Jun 14 2026
+AMZ555-142245-
+542 PM EDT Sun Jun 14 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE SOUTHERN BREVARD COAST...
+...A STRONG THUNDERSTORM OFF OF ST LUCIE INLET TO HOBE SOUND...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 402 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 542 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Barefoot Bay, moving northeast at 15 knots.
+near Hobe Sound Beach, or near Jupiter Island, moving east at 5
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,8 +40,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2832 8041 2787 8007 2779 8045 2785 8052
-      2807 8065 2812 8067
+LAT...LON 2697 8011 2710 8017 2731 8024 2734 7987
+      2729 7984 2723 7983 2715 7979 2697 7976
 
 $$
 
