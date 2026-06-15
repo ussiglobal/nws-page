@@ -1,37 +1,39 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 15, 2026 • 2:00 PM
+Generated: Jun 15, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 94°F; Rain: 62% ; Wind: 10 mph SW
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 78°F; Rain: 73% ; Wind: 5 to 10 mph SW
-• Tomorrow: Tuesday — High: 93°F; Low: 78°F; Rain: 45% ; Wind: 10 mph SSW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 94°F; Rain: 63% ; Wind: 10 mph S
+• Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 79°F; Rain: 70% ; Wind: 5 to 10 mph S
+• Tomorrow: Tuesday — High: 94°F; Low: 79°F; Rain: 57% ; Wind: 10 mph SSW
 🌡️ Current Conditions:
 Temp: 91.4°F (33°C) · Humidity: 49.4%
 
 🛥️ Marine Weather Statement:
-799
-FZUS72 KMLB 151724
+736
+FZUS72 KMLB 151817
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-124 PM EDT Mon Jun 15 2026
+217 PM EDT Mon Jun 15 2026
 
-AMZ550-151830-
-124 PM EDT Mon Jun 15 2026
+AMZ550-570-151915-
+217 PM EDT Mon Jun 15 2026
 
-...STRONG THUNDERSTORMS OVER THE INTRACOASTAL AND ATLANTIC WATERS
-FROM NEAR ORMOND BEACH TO NEW SMYRNA BEACH...
+...STRONG THUNDERSTORMS CONTINUE OVER THE INTRACOASTAL AND ATLANTIC
+WATERS NEAR AND OFFSHORE THE VOLUSIA COAST FROM ORMOND-BY-THE-SEA TO
+APOLLO BEACH...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 123 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 216 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Holly Hill to 8 nm northeast of
-South Daytona to near Daytona Beach Shores, moving east at 15 knots.
+located along a line extending from near Ormond-By-the-Sea to 12 nm
+southwest of Daytona Beach, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,10 +41,14 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
 &&
 
-LAT...LON 2929 8066 2898 8046 2901 8094 2930 8109
-      2946 8075
+LAT...LON 2942 8113 2943 8110 2946 8112 2948 8072
+      2948 8031 2893 8030 2884 8055 2883 8075
+      2884 8085 2938 8113
 
 $$
 
