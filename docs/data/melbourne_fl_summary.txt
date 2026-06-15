@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 15, 2026 • 3:00 AM
+Generated: Jun 15, 2026 • 4:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,7 +8,7 @@ Generated: Jun 15, 2026 • 3:00 AM
 • Tonight:  Overnight — Mostly Cloudy. Low: 79°F; Rain: 4% ; Wind: 10 mph WSW
 • Tomorrow: Tuesday — High: 93°F; Low: 78°F; Rain: 45% ; Wind: 10 mph SSW
 🌡️ Current Conditions:
-Temp: 77°F (25°C) · Humidity: 88.7%
+Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
 812
