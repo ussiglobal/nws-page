@@ -1,37 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 15, 2026 • 5:00 PM
+Generated: Jun 15, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 94°F; Rain: 63% ; Wind: 10 mph SSE
+• Today:    Tuesday — Mostly Sunny then Showers And Thunderstorms Likely. High: 94°F; Rain: 57% ; Wind: 10 mph SSW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 79°F; Rain: 70% ; Wind: 5 to 10 mph S
-• Tomorrow: Tuesday — High: 94°F; Low: 79°F; Rain: 57% ; Wind: 10 mph SSW
+• Tomorrow: Wednesday — High: 94°F; Low: 79°F; Rain: 20% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 49.4%
+Temp: 91.4°F (33°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-413
-FZUS72 KMLB 152012
+516
+FZUS72 KMLB 152148
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-412 PM EDT Mon Jun 15 2026
+548 PM EDT Mon Jun 15 2026
 
-AMZ550-552-152145-
-412 PM EDT Mon Jun 15 2026
+AMZ555-152245-
+548 PM EDT Mon Jun 15 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS NORTH OF CAPE
-CANAVERAL...
+...A STRONG THUNDERSTORM APPROACHING THE INDIAN RIVER COUNTY COAST...
 
 The areas affected include...
- Flagler Beach to Volusia-Brevard County Line 0-20 nm...
- Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 411 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 546 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Scottsmoor, moving east at 10 knots.
+over Winter Beach, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,14 +37,12 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
 &&
 
-LAT...LON 2901 8047 2888 8038 2848 8049 2849 8067
-      2855 8065 2856 8067 2849 8070 2849 8080
-      2864 8085 2880 8089 2884 8085 2897 8092
+LAT...LON 2785 8049 2783 8047 2784 8044 2785 8046
+      2785 8045 2786 8044 2785 8044 2784 8043
+      2788 8019 2763 8012 2760 8040 2765 8041
+      2785 8052
 
 $$
 
