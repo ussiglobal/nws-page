@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 15, 2026 • 4:00 PM
+Generated: Jun 15, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,51 +8,49 @@ Generated: Jun 15, 2026 • 4:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 79°F; Rain: 70% ; Wind: 5 to 10 mph S
 • Tomorrow: Tuesday — High: 94°F; Low: 79°F; Rain: 57% ; Wind: 10 mph SSW
 🌡️ Current Conditions:
-Temp: 93.2°F (34°C) · Humidity: 46.7%
+Temp: 91.4°F (33°C) · Humidity: 49.4%
 
 🛥️ Marine Weather Statement:
-683
-FZUS72 KMLB 151929
+413
+FZUS72 KMLB 152012
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-329 PM EDT Mon Jun 15 2026
+412 PM EDT Mon Jun 15 2026
 
-AMZ550-570-152100-
-329 PM EDT Mon Jun 15 2026
+AMZ550-552-152145-
+412 PM EDT Mon Jun 15 2026
 
-...ADDITIONAL STRONG THUNDERSTORMS APPROACHING THE INTRACOASTAL AND
-ATLANTIC WATERS FROM NEAR DAYTONA BEACH TO APOLLO BEACH...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS NORTH OF CAPE
+CANAVERAL...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+ Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+ Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 328 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near New Smyrna Beach to 11 nm
-southwest of Port Orange, moving east at 15 knots.
+At 411 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Scottsmoor, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 Waterspouts are possible with this activity. Remain on the alert in
 case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2948 8072 2947 8021 2885 8038 2882 8075
-      2880 8074 2881 8077 2882 8076 2882 8081
-      2880 8080 2880 8089 2884 8085 2938 8113
-      2942 8113 2943 8111 2943 8110 2946 8113
+LAT...LON 2901 8047 2888 8038 2848 8049 2849 8067
+      2855 8065 2856 8067 2849 8070 2849 8080
+      2864 8085 2880 8089 2884 8085 2897 8092
 
 $$
 
-Haley
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 653
