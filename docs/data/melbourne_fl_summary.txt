@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 15, 2026 • 1:00 PM
+Generated: Jun 15, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,28 +11,27 @@ Generated: Jun 15, 2026 • 1:00 PM
 Temp: 91.4°F (33°C) · Humidity: 49.4%
 
 🛥️ Marine Weather Statement:
-812
-FZUS72 KMLB 142302
+799
+FZUS72 KMLB 151724
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-702 PM EDT Sun Jun 14 2026
+124 PM EDT Mon Jun 15 2026
 
-AMZ550-552-150000-
-702 PM EDT Sun Jun 14 2026
+AMZ550-151830-
+124 PM EDT Mon Jun 15 2026
 
-...STRONG THUNDERSTORMS MOVING OFF THE SOUTHERN VOLUSIA AND
-NORTHERN BREVARD COASTS...
+...STRONG THUNDERSTORMS OVER THE INTRACOASTAL AND ATLANTIC WATERS
+FROM NEAR ORMOND BEACH TO NEW SMYRNA BEACH...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 702 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 123 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Bethune Beach to near
-Titusville, moving east at 15 knots.
+located along a line extending from Holly Hill to 8 nm northeast of
+South Daytona to near Daytona Beach Shores, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,13 +41,12 @@ immediately until these storms pass.
 
 &&
 
-LAT...LON 2906 8088 2916 8057 2900 8047 2855 8055
-      2854 8065 2855 8065 2856 8067 2854 8068
-      2853 8081 2880 8089 2883 8085 2893 8090
+LAT...LON 2929 8066 2898 8046 2901 8094 2930 8109
+      2946 8075
 
 $$
 
-Heil
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 653
