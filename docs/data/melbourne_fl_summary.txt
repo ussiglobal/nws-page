@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 14, 2026 • 7:00 PM
+Generated: Jun 14, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,40 +8,43 @@ Generated: Jun 14, 2026 • 7:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 79°F; Rain: 50% ; Wind: 10 mph SW
 • Tomorrow: Tuesday — High: 93°F; Low: 78°F; Rain: 63% ; Wind: 10 mph SSW
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 83.6%
+Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-517
-FZUS72 KMLB 142142
+812
+FZUS72 KMLB 142302
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-542 PM EDT Sun Jun 14 2026
+702 PM EDT Sun Jun 14 2026
 
-AMZ555-142245-
-542 PM EDT Sun Jun 14 2026
+AMZ550-552-150000-
+702 PM EDT Sun Jun 14 2026
 
-...A STRONG THUNDERSTORM OFF OF ST LUCIE INLET TO HOBE SOUND...
+...STRONG THUNDERSTORMS MOVING OFF THE SOUTHERN VOLUSIA AND
+NORTHERN BREVARD COASTS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 542 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near Hobe Sound Beach, or near Jupiter Island, moving east at 5
-knots.
+At 702 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from near Bethune Beach to near
+Titusville, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2697 8011 2710 8017 2731 8024 2734 7987
-      2729 7984 2723 7983 2715 7979 2697 7976
+LAT...LON 2906 8088 2916 8057 2900 8047 2855 8055
+      2854 8065 2855 8065 2856 8067 2854 8068
+      2853 8081 2880 8089 2883 8085 2893 8090
 
 $$
 
