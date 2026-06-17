@@ -1,35 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 16, 2026 • 7:00 PM
+Generated: Jun 16, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Sunny then Slight Chance Showers And Thunderstorms. High: 93°F; Rain: 15% ; Wind: 10 to 15 mph S
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 76°F; Rain: 56% ; Wind: 5 to 10 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 76°F; Rain: 32% ; Wind: 5 to 10 mph SW
 • Tomorrow: Thursday — High: 93°F; Low: 78°F; Rain: 37% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
 Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-807
-FZUS72 KMLB 162233
+191
+FZUS72 KMLB 162304
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-633 PM EDT Tue Jun 16 2026
+704 PM EDT Tue Jun 16 2026
 
-AMZ555-162330-
-633 PM EDT Tue Jun 16 2026
+AMZ572-575-170000-
+704 PM EDT Tue Jun 16 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE COAST NEAR FORT PIERCE...
+...STRONGS THUNDERSTORM 30 to 45 MILES OFF THE SOUTHERN BREVARD AND
+INDIAN RIVER COUNTY COASTS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 632 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 703 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Fort Pierce, moving northeast at 15 knots.
+47 nm east of Port Canaveral, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,9 +41,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2722 8035 2728 8035 2729 8032 2724 8026
-      2746 8037 2758 8039 2772 8008 2745 7991
-      2734 7987 2720 8034
+LAT...LON 2768 8000 2869 8004 2862 7954 2829 7954
+      2806 7943 2775 7932
 
 $$
 
