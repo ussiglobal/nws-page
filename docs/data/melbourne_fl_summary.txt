@@ -1,35 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 17, 2026 • 6:00 PM
+Generated: Jun 17, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Mostly Sunny. High: 94°F; Rain: 8% ; Wind: 10 mph SSE
+• Today:    Thursday — Mostly Sunny then Chance Showers And Thunderstorms. High: 93°F; Rain: 25% ; Wind: 5 to 15 mph SSE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 77°F; Rain: 40% ; Wind: 10 mph SSW
-• Tomorrow: Thursday — High: 93°F; Low: 78°F; Rain: 25% ; Wind: 5 to 15 mph SSE
+• Tomorrow: Juneteenth — High: 94°F; Low: 78°F; Rain: 70% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 87.8°F (31°C) · Humidity: 66.4%
 
 🛥️ Marine Weather Statement:
-763
-FZUS72 KMLB 172106
+703
+FZUS72 KMLB 172239
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-506 PM EDT Wed Jun 17 2026
+639 PM EDT Wed Jun 17 2026
 
-AMZ550-172130-
-506 PM EDT Wed Jun 17 2026
+AMZ552-555-172330-
+639 PM EDT Wed Jun 17 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 505 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 639 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-near Ormond-By-the-Sea, moving northeast at 20 knots.
+near Micco, or near Barefoot Bay, moving northeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,9 +40,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8112 2946 8113
-      2948 8079 2943 8077 2935 8111 2938 8113
+LAT...LON 2836 8037 2768 8014 2766 8041 2807 8065
+      2833 8074
 
 $$
 
