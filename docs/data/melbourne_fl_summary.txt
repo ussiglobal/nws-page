@@ -1,56 +1,50 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 19, 2026 • 5:00 PM
+Generated: Jun 19, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Juneteenth — Showers And Thunderstorms Likely. High: 95°F; Rain: 70% ; Wind: 15 mph SE
+• Today:    Saturday — Mostly Sunny then Showers And Thunderstorms Likely. High: 92°F; Rain: 70% ; Wind: 5 to 10 mph SW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 79°F; Rain: 70% ; Wind: 5 to 10 mph SW
-• Tomorrow: Saturday — High: 92°F; Low: 78°F; Rain: 70% ; Wind: 5 to 10 mph SW
+• Tomorrow: Sunday — High: 91°F; Low: 78°F; Rain: 52% ; Wind: 5 to 10 mph SW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 78.8°F (26°C) · Humidity: 78.6%
 
 🛥️ Marine Weather Statement:
-942
-FZUS72 KMLB 192022
+527
+FZUS72 KMLB 192140
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-422 PM EDT Fri Jun 19 2026
+540 PM EDT Fri Jun 19 2026
 
-AMZ550-570-192130-
-422 PM EDT Fri Jun 19 2026
+AMZ555-192230-
+540 PM EDT Fri Jun 19 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...A GUST FRONT APPROACHING THE WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 422 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots and small hail. This
-thunderstorm was located 13 nm east of Ormond-By-the-Sea, moving east
-at 20 knots.
+At 539 PM EDT, Doppler radar indicated a gust front ahead of a
+broken line of thunderstorms, capable of producing winds to around
+30 knots. This gust front was located along a line extending from
+South Beach to Fort Pierce South to near Saint Lucie West, moving
+southeast at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2948 8037 2941 8036 2923 8093 2945 8100
-      2947 8091 2948 8072
+LAT...LON 2711 8018 2715 8022 2713 8027 2723 8035
+      2728 8035 2729 8032 2724 8026 2746 8037
+      2756 8039 2766 8001 2758 7998 2747 7992
+      2718 7980 2704 8014
 
 $$
 
