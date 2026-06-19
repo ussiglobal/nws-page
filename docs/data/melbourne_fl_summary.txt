@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 18, 2026 • 7:00 PM
+Generated: Jun 18, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,63 +8,50 @@ Generated: Jun 18, 2026 • 7:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 81°F; Rain: 50% ; Wind: 5 to 15 mph SSW
 • Tomorrow: Saturday — High: 92°F; Low: 80°F; Rain: 75% ; Wind: 5 to 10 mph SW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 87.8°F (31°C) · Humidity: 70.5%
 
 🛥️ Marine Weather Statement:
-834
-FZUS72 KMLB 182253
+826
+FZUS72 KMLB 182343
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-653 PM EDT Thu Jun 18 2026
+743 PM EDT Thu Jun 18 2026
 
-AMZ550-182345-
-/O.CON.KMLB.MA.W.0116.000000T0000Z-260618T2345Z/
-653 PM EDT Thu Jun 18 2026
+AMZ550-570-190030-
+743 PM EDT Thu Jun 18 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 745 PM EDT...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
-For the following areas...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 652 PM EDT, clouds were located along a line extending from 18 nm
-northeast of Ormond-By-the-Sea to near Daytona Beach Shores, moving
-northeast at 20 knots.
-
-HAZARD...Wind gusts to 40 knots.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible.
-
-Locations impacted include...
-Daytona Beach Shores, South Daytona, Wilbur By The Sea, Big Georges
-Reef, and Holly Hill.
+At 743 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+17 nm northeast of Daytona Beach Shores, or 19 nm northeast of South
+Daytona, moving northeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Frequent cloud to water lightning is occurring with these storms. If
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
 ungrounded metal objects. Remember, lightning can strike beyond 10
 miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2942 8113 2943 8111 2942 8111 2943 8110
-      2944 8111 2946 8112 2948 8075 2938 8070
-      2912 8085 2912 8100 2938 8113
-TIME...MOT...LOC 2252Z 220DEG 21KT 2956 8081 2921 8095
-
-HAIL...0.00IN
-WIND...40KTS
+LAT...LON 2948 8029 2921 8040 2915 8089 2930 8094
+      2948 8078
 
 $$
 
-Law
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 288
