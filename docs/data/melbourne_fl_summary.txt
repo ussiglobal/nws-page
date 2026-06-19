@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 19, 2026 • 2:00 PM
+Generated: Jun 19, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,50 +8,56 @@ Generated: Jun 19, 2026 • 2:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 79°F; Rain: 70% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Saturday — High: 91°F; Low: 78°F; Rain: 57% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 93.2°F (34°C) · Humidity: 52.8%
+Temp: 95°F (35°C) · Humidity: 49.9%
 
 🛥️ Marine Weather Statement:
-826
-FZUS72 KMLB 182343
+842
+FZUS72 KMLB 191839
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-743 PM EDT Thu Jun 18 2026
+239 PM EDT Fri Jun 19 2026
 
-AMZ550-570-190030-
-743 PM EDT Thu Jun 18 2026
+AMZ550-552-570-572-192015-
+239 PM EDT Fri Jun 19 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 743 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-17 nm northeast of Daytona Beach Shores, or 19 nm northeast of South
-Daytona, moving northeast at 20 knots.
+At 238 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots and small hail. These
+thunderstorms were located near New Smyrna Beach, moving east at 15
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until these storms pass.
 
-Frequent cloud to water lightning is occurring with this storm. If
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+Frequent cloud to water lightning is occurring with these storms. If
 caught on the open water stay below deck and, if possible, avoid
 ungrounded metal objects. Remember, lightning can strike beyond 10
 miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2948 8029 2921 8040 2915 8089 2930 8094
-      2948 8078
+LAT...LON 2936 8044 2871 8001 2863 8066 2867 8073
+      2866 8075 2864 8074 2863 8071 2863 8074
+      2861 8084 2880 8089 2884 8085 2920 8103
 
 $$
 
-Tollefsen
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 768
