@@ -1,50 +1,87 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 19, 2026 • 6:00 PM
+Generated: Jun 19, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Saturday — Mostly Sunny then Showers And Thunderstorms Likely. High: 92°F; Rain: 70% ; Wind: 5 to 10 mph SW
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 79°F; Rain: 70% ; Wind: 5 to 10 mph SW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 51% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Sunday — High: 91°F; Low: 78°F; Rain: 52% ; Wind: 5 to 10 mph SW
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 78.6%
+Temp: 77°F (25°C) · Humidity: 83.5%
 
 🛥️ Marine Weather Statement:
-527
-FZUS72 KMLB 192140
+058
+FZUS72 KMLB 192252
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-540 PM EDT Fri Jun 19 2026
+652 PM EDT Fri Jun 19 2026
 
-AMZ555-192230-
-540 PM EDT Fri Jun 19 2026
+AMZ552-192302-
+/O.CAN.KMLB.MA.W.0123.000000T0000Z-260619T2330Z/
+652 PM EDT Fri Jun 19 2026
 
-...A GUST FRONT APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 539 PM EDT, Doppler radar indicated a gust front ahead of a
-broken line of thunderstorms, capable of producing winds to around
-30 knots. This gust front was located along a line extending from
-South Beach to Fort Pierce South to near Saint Lucie West, moving
-southeast at 25 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+The thunderstorms have moved out of the warned area and no longer
+pose a significant threat to boaters.
 
 &&
 
-LAT...LON 2711 8018 2715 8022 2713 8027 2723 8035
-      2728 8035 2729 8032 2724 8026 2746 8037
-      2756 8039 2766 8001 2758 7998 2747 7992
-      2718 7980 2704 8014
+LAT...LON 2788 8009 2817 8001 2843 7996 2868 8001
+      2878 7958 2866 7955 2854 7953 2829 7954
+      2806 7943 2788 7937 2786 8007
+TIME...MOT...LOC 2252Z 267DEG 30KT 2851 7990 2840 7980 2809 7982 2791
+7989
+
+$$
+
+AMZ572-575-192330-
+/O.CON.KMLB.MA.W.0123.000000T0000Z-260619T2330Z/
+652 PM EDT Fri Jun 19 2026
+
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 730 PM EDT...
+
+For the following areas...
+Sebastian Inlet to Jupiter Inlet 20-60 nm...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+
+At 652 PM EDT, strong thunderstorms were located along a line
+extending from 37 nm east of Port Canaveral to 41 nm east of Jetty
+Park to 36 nm northeast of Sebastian Inlet to 29 nm northeast of
+Indian River Shores, moving east at 30 knots.
+
+HAZARD...Wind gusts 34 knots or greater.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Strong thunderstorms will remain over mainly open waters.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+LAT...LON 2788 8009 2817 8001 2843 7996 2868 8001
+      2878 7958 2866 7955 2854 7953 2829 7954
+      2806 7943 2788 7937 2786 8007
+TIME...MOT...LOC 2252Z 267DEG 30KT 2851 7990 2840 7980 2809 7982 2791
+7989
+
+HAIL...0.00IN
+WIND...>34KTS
 
 $$
 
