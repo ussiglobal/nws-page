@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 20, 2026 • 12:00 PM
+Generated: Jun 20, 2026 • 1:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,46 +8,44 @@ Generated: Jun 20, 2026 • 12:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 77°F; Rain: 56% ; Wind: 5 mph SW
 • Tomorrow: Sunday — High: 91°F; Low: 78°F; Rain: 45% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 62.5%
+Temp: 84.2°F (29°C) · Humidity: 74.5%
 
 🛥️ Marine Weather Statement:
-569
-FZUS72 KMLB 200041
+790
+FZUS72 KMLB 201648
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-841 PM EDT Fri Jun 19 2026
+1248 PM EDT Sat Jun 20 2026
 
-AMZ552-572-200130-
-841 PM EDT Fri Jun 19 2026
+AMZ552-201745-
+1248 PM EDT Sat Jun 20 2026
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC AND INTRACOASTAL WATERS
-FROM NEAR TITUSVILLE TO SEBASTIAN INLET...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 841 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Port Saint John to 10 nm east of
-Indialantic, moving east at 20 knots.
+At 1248 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located over Cape Canaveral, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2864 8074 2862 8064 2865 8068 2876 8033
-      2794 7978 2784 8052 2807 8065 2860 8084
+LAT...LON 2880 8032 2878 8031 2852 8020 2835 8021
+      2823 8026 2796 8012 2792 8056 2808 8065
+      2878 8089
 
 $$
 
-Haley
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 322
