@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 21, 2026 • 5:00 PM
+Generated: Jun 21, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,66 +8,35 @@ Generated: Jun 21, 2026 • 5:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 54% ; Wind: 5 to 10 mph S
 • Tomorrow: Monday — High: 92°F; Low: 80°F; Rain: 21% ; Wind: 0 to 10 mph S
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-241
-FZUS72 KMLB 212041
+828
+FZUS72 KMLB 212129
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-441 PM EDT Sun Jun 21 2026
+529 PM EDT Sun Jun 21 2026
 
-AMZ552-212100-
-/O.CON.KMLB.MA.W.0132.000000T0000Z-260621T2100Z/
-441 PM EDT Sun Jun 21 2026
+AMZ552-212139-
+/O.CAN.KMLB.MA.W.0133.000000T0000Z-260621T2145Z/
+529 PM EDT Sun Jun 21 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 500 PM EDT...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-For the following areas...
+The affected areas were...
 Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 440 PM EDT, a severe thunderstorm capable of producing waterspouts
-was located near Port Canaveral, moving east at 15 knots.
-
-HAZARD...Waterspouts possible and wind gusts 34 knots or greater.
-
-SOURCE...Radar indicated.
-
-IMPACT...Waterspouts can can quickly form and capsize boats, damage
-         vessels and create locally hazardous seas. Make sure all on
-         board are wearing life jackets. Expect wind gusts in excess
-         of 34 knots, suddenly higher waves, lightning and heavy
-         downpours. Make sure all on board are wearing life jackets.
-         Return to safe harbor if possible.
-
-Locations impacted include...
-Port Canaveral, Jetty Park, Cape Canaveral, Cocoa Beach, and Sharpes.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Move to safe harbor immediately as gusty winds and high waves are
-expected.
-
-Thunderstorms can produce sudden waterspouts. Waterspouts can easily
-overturn boats and create locally hazardous seas. Seek safe harbor
-immediately.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2844 8069 2843 8069 2846 8068 2859 8060
-      2862 8041 2820 8039 2819 8069 2835 8075
-TIME...MOT...LOC 2040Z 267DEG 15KT 2846 8061
-
-WATERSPOUT...POSSIBLE
-HAIL...0.00IN
-WIND...>34KTS
+LAT...LON 2827 8039 2785 8036 2783 8043 2784 8043
+      2783 8048 2782 8047 2781 8050 2807 8065
+      2829 8072
+TIME...MOT...LOC 2128Z 285DEG 12KT 2818 8054
 
 $$
 
