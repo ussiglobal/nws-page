@@ -1,61 +1,59 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 21, 2026 • 2:00 PM
+Generated: Jun 21, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 90°F; Rain: 53% ; Wind: 5 to 10 mph ENE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 44% ; Wind: 5 to 10 mph SSE
-• Tomorrow: Monday — High: 91°F; Low: 79°F; Rain: 22% ; Wind: 5 to 10 mph S
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 91°F; Rain: 46% ; Wind: 10 mph ESE
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 54% ; Wind: 5 to 10 mph S
+• Tomorrow: Monday — High: 92°F; Low: 80°F; Rain: 21% ; Wind: 0 to 10 mph S
 🌡️ Current Conditions:
 Temp: 87.8°F (31°C) · Humidity: 66.4%
 
 🛥️ Marine Weather Statement:
-949
-FZUS72 KMLB 202046
+703
+FZUS72 KMLB 211824
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-446 PM EDT Sat Jun 20 2026
+224 PM EDT Sun Jun 21 2026
 
-AMZ555-575-202145-
-446 PM EDT Sat Jun 20 2026
+AMZ550-552-211930-
+224 PM EDT Sun Jun 21 2026
 
-...STRONG THUNDERSTORMS OVER THE WATERS...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 446 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 11 nm east of Fort Pierce Inlet
-to Palm City. The thunderstorms were nearly stationary.
+At 224 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Scottsmoor, moving southeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until these storms pass.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 Waterspouts are possible with this activity. Remain on the alert in
 case warnings are issued for waterspout development.
 
-Frequent cloud to water lightning is occurring with these storms. If
+Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
 ungrounded metal objects. Remember, lightning can strike beyond 10
 miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2723 8035 2728 8035 2729 8032 2724 8026
-      2746 8037 2764 8041 2774 7980 2698 7955
+LAT...LON 2883 8085 2886 8087 2888 8055 2870 8047
+      2826 8044 2825 8071 2860 8084 2880 8089
 
 $$
 
-Schaper
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 938
