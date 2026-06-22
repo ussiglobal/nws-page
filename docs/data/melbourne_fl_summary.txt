@@ -1,46 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 22, 2026 • 3:00 PM
+Generated: Jun 22, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 91°F; Rain: 18% ; Wind: 10 mph ESE
-• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 78°F; Rain: 18% ; Wind: 5 to 10 mph S
-• Tomorrow: Tuesday — High: 92°F; Low: 78°F; Rain: 17% ; Wind: 5 to 10 mph S
+• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 92°F; Rain: 15% ; Wind: 10 mph ESE
+• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 15% ; Wind: 5 to 10 mph S
+• Tomorrow: Tuesday — High: 94°F; Low: 79°F; Rain: 16% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 59%
+Temp: 89.6°F (32°C) · Humidity: 62.7%
 
 🛥️ Marine Weather Statement:
-828
-FZUS72 KMLB 212129
+194
+FZUS72 KMLB 221912
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-529 PM EDT Sun Jun 21 2026
+312 PM EDT Mon Jun 22 2026
 
-AMZ552-212139-
-/O.CAN.KMLB.MA.W.0133.000000T0000Z-260621T2145Z/
-529 PM EDT Sun Jun 21 2026
+AMZ555-222015-
+312 PM EDT Mon Jun 22 2026
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+At 311 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots and small hail. This
+thunderstorm was located near Palm City, moving east at 5 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2827 8039 2785 8036 2783 8043 2784 8043
-      2783 8048 2782 8047 2781 8050 2807 8065
-      2829 8072
-TIME...MOT...LOC 2128Z 285DEG 12KT 2818 8054
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2721 8034 2723 8035 2728 8035 2729 8032
+      2724 8026 2739 8033 2742 8017 2697 8004
 
 $$
 
-Tollefsen
+Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 846
