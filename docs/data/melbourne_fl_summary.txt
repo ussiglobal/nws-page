@@ -1,53 +1,68 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 24, 2026 • 2:00 PM
+Generated: Jun 24, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 37% ; Wind: 10 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 77°F; Rain: 34% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Thursday — High: 92°F; Low: 78°F; Rain: 28% ; Wind: 5 to 15 mph S
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 40% ; Wind: 10 mph ESE
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 78°F; Rain: 35% ; Wind: 5 to 10 mph SSW
+• Tomorrow: Thursday — High: 92°F; Low: 79°F; Rain: 35% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 87.8°F (31°C) · Humidity: 62.5%
 
 🛥️ Marine Weather Statement:
-412
-FZUS72 KMLB 241648
+941
+FZUS72 KMLB 241833
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1248 PM EDT Wed Jun 24 2026
+233 PM EDT Wed Jun 24 2026
 
-AMZ550-552-570-241745-
-1248 PM EDT Wed Jun 24 2026
+AMZ552-241900-
+/O.CON.KMLB.MA.W.0139.000000T0000Z-260624T1900Z/
+233 PM EDT Wed Jun 24 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 300 PM EDT...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 1248 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located over Oak Hill, moving southeast at 20 knots.
+At 233 PM EDT, a strong thunderstorm was located near Merritt Island,
+moving southeast at 15 knots.
+
+HAZARD...Wind gusts to 40 knots and small hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Locations impacted include...
+Satellite Beach, South Patrick Shores, Indian Harbour Beach, Pineda,
+and Patrick Air Force Base.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2945 8113 2946 8109
-      2947 8098 2948 8062 2843 8020 2839 8021
-      2833 8074 2880 8089 2884 8085 2938 8113
+LAT...LON 2842 8057 2844 8045 2821 8037 2808 8065
+      2842 8077
+TIME...MOT...LOC 1833Z 322DEG 13KT 2826 8067
+
+HAIL...<.75IN
+WIND...40KTS
 
 $$
 
-Fehling
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 498
