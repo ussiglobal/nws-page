@@ -1,36 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 25, 2026 • 3:00 PM
+Generated: Jun 25, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 28% ; Wind: 10 to 15 mph SE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 28% ; Wind: 15 mph SE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 38% ; Wind: 5 to 15 mph S
 • Tomorrow: Friday — High: 91°F; Low: 80°F; Rain: 19% ; Wind: 5 to 15 mph SE
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 52.3%
+Temp: 89.6°F (32°C) · Humidity: 55.6%
 
 🛥️ Marine Weather Statement:
-822
-FZUS72 KMLB 251811
+574
+FZUS72 KMLB 251950
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-211 PM EDT Thu Jun 25 2026
+350 PM EDT Thu Jun 25 2026
 
-AMZ555-251915-
-211 PM EDT Thu Jun 25 2026
+AMZ550-252045-
+350 PM EDT Thu Jun 25 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 211 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Port Saint Lucie River Park, or over White City, moving north at
-5 knots.
+At 350 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots and small hail. This
+thunderstorm was located over Ormond Beach, moving northeast at 35
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,9 +40,10 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2715 8022 2714 8028 2723 8035 2728 8035
-      2729 8032 2724 8026 2746 8037 2765 8041
-      2777 8048 2785 8008 2714 7978 2710 8017
+LAT...LON 2942 8113 2943 8110 2946 8113 2948 8076
+      2925 8063 2885 8038 2883 8070 2882 8075
+      2882 8081 2881 8080 2880 8089 2884 8085
+      2938 8113
 
 $$
 
