@@ -1,48 +1,49 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 25, 2026 • 6:00 PM
+Generated: Jun 25, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 28% ; Wind: 15 mph SE
+• Today:    Friday — Sunny then Slight Chance Showers And Thunderstorms. High: 91°F; Rain: 19% ; Wind: 5 to 15 mph SE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 38% ; Wind: 5 to 15 mph S
-• Tomorrow: Friday — High: 91°F; Low: 80°F; Rain: 19% ; Wind: 5 to 15 mph SE
+• Tomorrow: Saturday — High: 91°F; Low: 80°F; Rain: 29% ; Wind: 0 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 0%
+Temp: 84.2°F (29°C) · Humidity: 62.1%
 
 🛥️ Marine Weather Statement:
-735
-FZUS72 KMLB 252140
+940
+FZUS72 KMLB 252238
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-540 PM EDT Thu Jun 25 2026
+638 PM EDT Thu Jun 25 2026
 
-AMZ550-552-252245-
-540 PM EDT Thu Jun 25 2026
+AMZ550-552-252345-
+638 PM EDT Thu Jun 25 2026
 
-...THUNDERSTORMS AND OUTFLOW APPROACHING THE BREVARD WATERS...
+...STRONG THUNDERSTORMS OVER THE INTRACOASTAL WATERS NEAR CAPE
+CANAVERAL...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 540 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near Mims, moving northeast at 10 knots.
+At 637 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from Bethune Beach to Cocoa, moving
+northeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2883 8085 2891 8089 2898 8077 2883 8058
-      2862 8044 2817 8033 2813 8067 2860 8084
-      2880 8089
+LAT...LON 2909 8058 2837 8042 2831 8073 2865 8085
+      2881 8089 2884 8085 2895 8091 2900 8092
 
 $$
 
