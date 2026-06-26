@@ -1,49 +1,43 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 25, 2026 • 7:00 PM
+Generated: Jun 25, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Friday — Sunny then Slight Chance Showers And Thunderstorms. High: 91°F; Rain: 19% ; Wind: 5 to 15 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 38% ; Wind: 5 to 15 mph S
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 36% ; Wind: 5 to 10 mph S
 • Tomorrow: Saturday — High: 91°F; Low: 80°F; Rain: 29% ; Wind: 0 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 62.1%
+Temp: 80.6°F (27°C) · Humidity: 69.7%
 
 🛥️ Marine Weather Statement:
-940
-FZUS72 KMLB 252238
+985
+FZUS72 KMLB 252324
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-638 PM EDT Thu Jun 25 2026
+724 PM EDT Thu Jun 25 2026
 
-AMZ550-552-252345-
-638 PM EDT Thu Jun 25 2026
+AMZ550-552-252333-
+/O.CAN.KMLB.MA.W.0145.000000T0000Z-260626T0000Z/
+724 PM EDT Thu Jun 25 2026
 
-...STRONG THUNDERSTORMS OVER THE INTRACOASTAL WATERS NEAR CAPE
-CANAVERAL...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 637 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Bethune Beach to Cocoa, moving
-northeast at 10 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2909 8058 2837 8042 2831 8073 2865 8085
-      2881 8089 2884 8085 2895 8091 2900 8092
+LAT...LON 2883 8085 2889 8088 2909 8079 2903 8049
+      2866 8045 2865 8068 2867 8073 2866 8075
+      2865 8074 2864 8084 2881 8089
+TIME...MOT...LOC 2321Z 192DEG 15KT 2881 8072
 
 $$
 
