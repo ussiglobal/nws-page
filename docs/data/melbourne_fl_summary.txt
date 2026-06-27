@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 27, 2026 • 4:00 PM
+Generated: Jun 27, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,33 +11,37 @@ Generated: Jun 27, 2026 • 4:00 PM
 Temp: 87.8°F (31°C) · Humidity: 70.5%
 
 🛥️ Marine Weather Statement:
-985
-FZUS72 KMLB 252324
+514
+FZUS72 KMLB 272005
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-724 PM EDT Thu Jun 25 2026
+405 PM EDT Sat Jun 27 2026
 
-AMZ550-552-252333-
-/O.CAN.KMLB.MA.W.0145.000000T0000Z-260626T0000Z/
-724 PM EDT Thu Jun 25 2026
+AMZ550-272045-
+405 PM EDT Sat Jun 27 2026
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM OVER THE VOLUSIA WATERS...
 
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+At 405 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Daytona Beach Shores, or near South Daytona, moving northeast at
+15 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2883 8085 2889 8088 2909 8079 2903 8049
-      2866 8045 2865 8068 2867 8073 2866 8075
-      2865 8074 2864 8084 2881 8089
-TIME...MOT...LOC 2321Z 192DEG 15KT 2881 8072
+LAT...LON 2929 8066 2918 8059 2909 8098 2930 8109
+      2948 8078 2948 8076
 
 $$
 
