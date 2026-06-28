@@ -1,19 +1,248 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jun 28, 2026 • 6:06 PM
+Generated: Jun 28, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 91°F; Rain: 18% ; Wind: 10 mph SE
+• Today:    Monday — Sunny then Chance Showers And Thunderstorms. High: 92°F; Rain: 33% ; Wind: 5 to 10 mph SSE
 • Tonight:  Tonight — Mostly Clear. Low: 79°F; Rain: 13% ; Wind: 5 to 10 mph S
-• Tomorrow: Monday — High: 92°F; Low: 79°F; Rain: 33% ; Wind: 5 to 10 mph SSE
+• Tomorrow: Tuesday — High: 92°F; Low: 79°F; Rain: 48% ; Wind: 5 to 10 mph WNW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 62.5%
+Temp: 87.8°F (31°C) · Humidity: 66.4%
 
 🛥️ Marine Weather Statement:
+514
+FZUS72 KMLB 272005
+MWSMLB
 
+Marine Weather Statement
+National Weather Service Melbourne FL
+405 PM EDT Sat Jun 27 2026
+
+AMZ550-272045-
+405 PM EDT Sat Jun 27 2026
+
+...A STRONG THUNDERSTORM OVER THE VOLUSIA WATERS...
+
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+
+At 405 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Daytona Beach Shores, or near South Daytona, moving northeast at
+15 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+&&
+
+LAT...LON 2929 8066 2918 8059 2909 8098 2930 8109
+      2948 8078 2948 8076
+
+$$
+
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
+212
+FZUS52 KMLB 281500
+SRFMLB
 
+Surf Zone Forecast
+National Weather Service Melbourne FL
+1100 AM EDT Sun Jun 28 2026
+
+FLZ141-347-447-282000-
+Coastal Volusia-Mainland Northern Brevard-
+Northern Brevard Barrier Islands-
+Including the beaches of Ormond Beach, Daytona Beach,
+New Smyrna Beach, and Canaveral National Seashore
+1100 AM EDT Sun Jun 28 2026
+
+.REST OF TODAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 2 feet.
+Thunderstorm Potential**....Low.
+UV Index**..................Extreme.
+Water Temperature...........In the lower 80s.
+Weather.....................Sunny. A slight chance of showers and
+                            thunderstorms.
+High Temperature............Around 90.
+Winds.......................Light and variable winds, becoming east
+                            around 10 mph in the afternoon.
+Tides...
+   Daytona Beach............Low 0.2 feet (MLLW) 01:30 PM EDT.
+   Port Canaveral...........Low -0.1 feet (MLLW) 01:12 PM EDT.
+Sunrise.....................6:27 AM.
+Sunset......................8:27 PM.
+
+.MONDAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 2 feet.
+Thunderstorm Potential**....Moderate.
+Weather.....................Sunny. A chance of showers and
+                            thunderstorms.
+High Temperature............In the lower 90s.
+Winds.......................Southwest winds around 5 mph, becoming
+                            southeast in the afternoon.
+Tides...
+   Daytona Beach............High 3.3 feet (MLLW) 08:08 AM EDT.
+                            Low 0.2 feet (MLLW) 02:10 PM EDT.
+   Port Canaveral...........High 2.4 feet (MLLW) 07:57 AM EDT.
+                            Low -0.1 feet (MLLW) 01:54 PM EDT.
+Sunrise.....................6:28 AM.
+Sunset......................8:27 PM.
+
+.TUESDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
+in the upper 80s. North winds around 5 mph.
+.WEDNESDAY...Sunny. A slight chance of showers and thunderstorms.
+Highs in the upper 80s. Northeast winds around 10 mph.
+.THURSDAY...Mostly sunny. A chance of showers and thunderstorms.
+Highs in the upper 80s. East winds around 5 mph.
+
+&&
+
+Rip Current Risk Category
+* Low Risk - The risk for rip currents is low, however,
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
+* Moderate Risk - Life-threatening rip currents are possible in the
+surf zone.
+* High Risk - Life-threatening rip currents are likely in the surf
+zone.
+
+** For thunderstorm, waterspout, and UV definitions see:
+https://www.weather.gov/beach/mlb
+
+$$
+
+FLZ154-647-747-282000-
+Coastal Indian River-Mainland Southern Brevard-
+Southern Brevard Barrier Islands-
+Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
+and Melbourne Beach
+1100 AM EDT Sun Jun 28 2026
+
+.REST OF TODAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 1 foot, building to around 2
+                            feet in the afternoon.
+Thunderstorm Potential**....Low.
+UV Index**..................Extreme.
+Water Temperature...........In the lower 80s.
+Weather.....................Sunny. A slight chance of showers and
+                            thunderstorms.
+High Temperature............In the upper 80s.
+Winds.......................Southeast winds 5 to 10 mph.
+Tides...
+   Port Canaveral...........Low -0.1 feet (MLLW) 01:12 PM EDT.
+   Sebastian Inlet..........Low -0.1 feet (MLLW) 01:41 PM EDT.
+Sunrise.....................6:28 AM.
+Sunset......................8:23 PM.
+
+.MONDAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 1 foot, building to around 2
+                            feet in the afternoon.
+Thunderstorm Potential**....Moderate.
+Weather.....................Sunny. A chance of showers and
+                            thunderstorms.
+High Temperature............In the lower 90s.
+Winds.......................Southwest winds around 5 mph, becoming
+                            southeast in the afternoon.
+Tides...
+   Port Canaveral...........High 2.4 feet (MLLW) 07:57 AM EDT.
+                            Low -0.1 feet (MLLW) 01:54 PM EDT.
+   Sebastian Inlet..........High 1.9 feet (MLLW) 08:01 AM EDT.
+                            Low -0.1 feet (MLLW) 02:20 PM EDT.
+Sunrise.....................6:29 AM.
+Sunset......................8:23 PM.
+
+.TUESDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
+in the upper 80s. Northwest winds around 5 mph.
+.WEDNESDAY...Mostly sunny. A chance of showers and thunderstorms.
+Highs in the upper 80s. Northeast winds around 5 mph.
+.THURSDAY...Mostly sunny. A chance of showers and thunderstorms.
+Highs in the upper 80s. East winds around 5 mph.
+
+&&
+
+Rip Current Risk Category
+* Low Risk - The risk for rip currents is low, however,
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
+* Moderate Risk - Life-threatening rip currents are possible in the
+surf zone.
+* High Risk - Life-threatening rip currents are likely in the surf
+zone.
+
+** For thunderstorm, waterspout, and UV definitions see:
+https://www.weather.gov/beach/mlb
+
+$$
+
+FLZ159-164-282000-
+Coastal Saint Lucie-Coastal Martin-
+Including the beaches of Fort Pierce Inlet, Jensen Beach,
+St Lucie Inlet, and Hobe Sound
+1100 AM EDT Sun Jun 28 2026
+
+.REST OF TODAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 1 foot.
+Thunderstorm Potential**....Moderate.
+UV Index**..................Extreme.
+Water Temperature...........In the lower 80s.
+Weather.....................Mostly sunny. A chance of showers and
+                            thunderstorms.
+High Temperature............Around 90.
+Winds.......................East winds 5 to 10 mph.
+Tides...
+   Fort Pierce Inlet........Low 0.1 feet (MLLW) 01:51 PM EDT.
+Sunrise.....................6:29 AM.
+Sunset......................8:20 PM.
+
+.MONDAY...
+Rip Current Risk*...........Moderate.
+Surf Height.................Around 1 foot.
+Thunderstorm Potential**....None.
+Weather.....................Sunny.
+High Temperature............In the lower 90s.
+Winds.......................Light and variable winds, becoming
+                            southeast around 10 mph in the
+                            afternoon.
+Tides...
+   Fort Pierce Inlet........High 1.7 feet (MLLW) 08:40 AM EDT.
+                            Low 0.1 feet (MLLW) 02:30 PM EDT.
+Sunrise.....................6:29 AM.
+Sunset......................8:21 PM.
+
+.TUESDAY...Sunny. A chance of showers and thunderstorms. Highs in the
+lower 90s. South winds around 5 mph.
+.WEDNESDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
+the upper 80s. East winds around 5 mph.
+.THURSDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
+the upper 80s. Southeast winds around 5 mph.
+
+&&
+
+Rip Current Risk Category
+* Low Risk - The risk for rip currents is low, however,
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
+* Moderate Risk - Life-threatening rip currents are possible in the
+surf zone.
+* High Risk - Life-threatening rip currents are likely in the surf
+zone.
+
+** For thunderstorm, waterspout, and UV definitions see:
+https://www.weather.gov/beach/mlb
+
+
+$$
 
 
