@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 2, 2026 • 11:00 AM
+Generated: Jul 2, 2026 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Slight Chance Showers And Thunderstorms. High: 89°F; Rain: 23% ; Wind: 5 to 15 mph NE
+• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 89°F; Rain: 23% ; Wind: 10 to 15 mph NE
 • Tonight:  Tonight — Mostly Clear. Low: 80°F; Rain: 10% ; Wind: 0 to 10 mph ENE
 • Tomorrow: Friday — High: 91°F; Low: 79°F; Rain: 39% ; Wind: 0 to 10 mph ENE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 70.1%
+Temp: 86°F (30°C) · Humidity: 66.2%
 
 🛥️ Marine Weather Statement:
 387
@@ -50,36 +50,33 @@ $$
 Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-205
-FZUS52 KMLB 021000
+017
+FZUS52 KMLB 021500
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-600 AM EDT Thu Jul 2 2026
+1100 AM EDT Thu Jul 2 2026
 
 FLZ141-347-447-022000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-600 AM EDT Thu Jul 2 2026
+1100 AM EDT Thu Jul 2 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 3 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Extreme.
 Water Temperature...........In the lower 80s.
-Weather.....................Mostly sunny. A slight chance of
-                            showers.
+Weather.....................Sunny.
 High Temperature............In the upper 80s.
-Winds.......................Northeast winds 5 to 10 mph.
+Winds.......................Northeast winds around 10 mph.
 Tides...
-   Daytona Beach............High 3.3 feet (MLLW) 10:13 AM EDT.
-                            Low 0.3 feet (MLLW) 04:04 PM EDT.
-   Port Canaveral...........High 2.5 feet (MLLW) 10:03 AM EDT.
-                            Low 0.0 feet (MLLW) 03:51 PM EDT.
+   Daytona Beach............Low 0.3 feet (MLLW) 04:04 PM EDT.
+   Port Canaveral...........Low 0.0 feet (MLLW) 03:51 PM EDT.
 Sunrise.....................6:29 AM.
 Sunset......................8:27 PM.
 
@@ -127,9 +124,9 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-600 AM EDT Thu Jul 2 2026
+1100 AM EDT Thu Jul 2 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................2 to 3 feet.
 Thunderstorm Potential**....Low.
@@ -138,12 +135,10 @@ Water Temperature...........Around 80.
 Weather.....................Mostly sunny. A slight chance of
                             showers and thunderstorms.
 High Temperature............In the upper 80s.
-Winds.......................Northeast winds 5 to 10 mph.
+Winds.......................Northeast winds around 10 mph.
 Tides...
-   Port Canaveral...........High 2.5 feet (MLLW) 10:03 AM EDT.
-                            Low 0.0 feet (MLLW) 03:51 PM EDT.
-   Sebastian Inlet..........High 2.0 feet (MLLW) 10:05 AM EDT.
-                            Low 0.0 feet (MLLW) 04:13 PM EDT.
+   Port Canaveral...........Low 0.0 feet (MLLW) 03:51 PM EDT.
+   Sebastian Inlet..........Low 0.0 feet (MLLW) 04:13 PM EDT.
 Sunrise.....................6:30 AM.
 Sunset......................8:23 PM.
 
@@ -154,7 +149,7 @@ Thunderstorm Potential**....Moderate.
 Weather.....................Mostly sunny. A chance of showers and
                             thunderstorms.
 High Temperature............In the upper 80s.
-Winds.......................East winds 5 to 10 mph.
+Winds.......................Northeast winds 5 to 10 mph.
 Tides...
    Port Canaveral...........High 2.6 feet (MLLW) 10:45 AM EDT.
                             Low 0.1 feet (MLLW) 04:33 PM EDT.
@@ -163,12 +158,12 @@ Tides...
 Sunrise.....................6:30 AM.
 Sunset......................8:23 PM.
 
-.INDEPENDENCE DAY...Mostly sunny. Showers and thunderstorms likely.
+.INDEPENDENCE DAY...Mostly sunny. Showers and thunderstorms. Highs in
+the upper 80s. South winds around 5 mph.
+.SUNDAY...Mostly sunny. Thunderstorms likely and a chance of showers.
 Highs in the upper 80s. South winds around 5 mph.
-.SUNDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
-the upper 80s. South winds around 10 mph.
-.MONDAY...Sunny. A chance of showers and thunderstorms. Highs in the
-upper 80s. Southeast winds around 5 mph.
+.MONDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
+in the upper 80s. South winds around 5 mph.
 
 &&
 
@@ -190,9 +185,9 @@ FLZ159-164-022000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-600 AM EDT Thu Jul 2 2026
+1100 AM EDT Thu Jul 2 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....Moderate.
@@ -203,8 +198,7 @@ Weather.....................Mostly sunny. A chance of showers and
 High Temperature............In the upper 80s.
 Winds.......................Northeast winds 5 to 10 mph.
 Tides...
-   Fort Pierce Inlet........High 1.8 feet (MLLW) 10:17 AM EDT.
-                            Low 0.2 feet (MLLW) 04:22 PM EDT.
+   Fort Pierce Inlet........Low 0.2 feet (MLLW) 04:22 PM EDT.
 Sunrise.....................6:30 AM.
 Sunset......................8:21 PM.
 
@@ -223,12 +217,12 @@ Tides...
 Sunrise.....................6:31 AM.
 Sunset......................8:21 PM.
 
-.INDEPENDENCE DAY...Mostly sunny. Showers and thunderstorms likely.
+.INDEPENDENCE DAY...Mostly sunny. Showers with thunderstorms likely.
 Highs in the upper 80s. South winds around 5 mph.
 .SUNDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
 the upper 80s. South winds around 5 mph.
-.MONDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
-in the upper 80s. Southeast winds around 5 mph.
+.MONDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
+the upper 80s. Southeast winds around 5 mph.
 
 &&
 
