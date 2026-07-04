@@ -1,44 +1,39 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 4, 2026 • 2:00 PM
+Generated: Jul 4, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Independence Day — Showers And Thunderstorms Likely. High: 91°F; Rain: 70% ; Wind: 10 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 51% ; Wind: 5 to 10 mph S
-• Tomorrow: Sunday — High: 91°F; Low: 79°F; Rain: 61% ; Wind: 5 to 10 mph SSW
+• Today:    Independence Day — Showers And Thunderstorms Likely. High: 91°F; Rain: 60% ; Wind: 10 mph SE
+• Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 79°F; Rain: 70% ; Wind: 5 to 10 mph SSW
+• Tomorrow: Sunday — High: 91°F; Low: 79°F; Rain: 53% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 89.6°F (32°C) · Humidity: 62.7%
 
 🛥️ Marine Weather Statement:
-354
-FZUS72 KMLB 032218
+005
+FZUS72 KMLB 041846
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-618 PM EDT Fri Jul 3 2026
+246 PM EDT Sat Jul 4 2026
 
-AMZ555-032300-
-618 PM EDT Fri Jul 3 2026
+AMZ555-041930-
+246 PM EDT Sat Jul 4 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 618 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 246 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Palm City. The thunderstorm was nearly stationary.
+over Vero Beach South, moving north at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
@@ -47,13 +42,12 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2705 8015 2711 8018 2715 8022 2713 8027
-      2719 8033 2723 8035 2728 8035 2729 8031
-      2724 8026 2735 8032 2734 8022 2704 8009
+LAT...LON 2739 8034 2746 8037 2765 8041 2782 8051
+      2785 8033 2734 8020
 
 $$
 
-Schaper
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 340
