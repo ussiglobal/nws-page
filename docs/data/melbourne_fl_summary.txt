@@ -1,36 +1,38 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 5, 2026 • 2:00 PM
+Generated: Jul 5, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 91°F; Rain: 69% ; Wind: 10 mph ESE
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 79°F; Rain: 70% ; Wind: 5 to 10 mph S
-• Tomorrow: Monday — High: 92°F; Low: 79°F; Rain: 44% ; Wind: 5 to 10 mph S
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 91°F; Rain: 70% ; Wind: 10 mph ESE
+• Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 79°F; Rain: 59% ; Wind: 5 to 10 mph SSW
+• Tomorrow: Monday — High: 92°F; Low: 79°F; Rain: 66% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 55.8%
+Temp: 84.2°F (29°C) · Humidity: 79.1%
 
 🛥️ Marine Weather Statement:
-442
-FZUS72 KMLB 042227
+564
+FZUS72 KMLB 051859
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-627 PM EDT Sat Jul 4 2026
+259 PM EDT Sun Jul 5 2026
 
-AMZ555-042330-
-627 PM EDT Sat Jul 4 2026
+AMZ550-052000-
+259 PM EDT Sun Jul 5 2026
 
-...STRONG THUNDERSTORMS APPROACHING THE WATERS...
+...STRONG THUNDERSTORMS APPROACHING THE INTRACOASTAL AND
+ATLANTIC WATERS FROM NEAR FLAGLER BEACH TO DAYTONA BEACH...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 627 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 259 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Palm City to near Riviera
-Beach, moving northeast at 5 knots.
+located along a line extending from 6 nm south of Palm Coast to 16 nm
+west of Ormond Beach to 15 nm southwest of Daytona Beach, moving
+northeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,20 +40,15 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until these storms pass.
 
-Frequent cloud to water lightning is occurring with these storms. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
-
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2718 8032 2723 8035 2728 8035 2729 8032
-      2724 8026 2746 8036 2752 8014 2697 7992
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8104
+      2948 8076 2948 8075 2912 8100 2938 8113
 
 $$
 
-Schaper
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 614
