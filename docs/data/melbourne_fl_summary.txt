@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 5, 2026 • 4:00 PM
+Generated: Jul 5, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,31 +8,31 @@ Generated: Jul 5, 2026 • 4:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely. Low: 79°F; Rain: 59% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Monday — High: 92°F; Low: 79°F; Rain: 66% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 70.5%
+Temp: 80.6°F (27°C) · Humidity: 78.8%
 
 🛥️ Marine Weather Statement:
-884
-FZUS72 KMLB 051912
+070
+FZUS72 KMLB 052027
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-312 PM EDT Sun Jul 5 2026
+427 PM EDT Sun Jul 5 2026
 
-AMZ550-052000-
-312 PM EDT Sun Jul 5 2026
+AMZ552-555-052130-
+427 PM EDT Sun Jul 5 2026
 
-...STRONG THUNDERSTORMS APPROACHING THE INTRACOASTAL AND ATLANTIC
-WATERS FROM NEAR DAYTONA BEACH TO PONCE INLET AND EDGEWATER...
+...STRONG THUNDERSTORMS OVER THE INTRACOASTAL AND ATLANTIC WATERS
+FROM NEAR MELBOURNE TO VERO BEACH...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 311 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 426 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 11 nm southwest of Daytona Beach
-to 7 nm northwest of Maytown to Edgewater, moving northeast at 15
-knots.
+located along a line extending from near Melbourne to Melbourne Beach
+to Vero Beach South, moving northeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,7 +42,9 @@ immediately until these storms pass.
 
 &&
 
-LAT...LON 2948 8076 2899 8064 2888 8088 2914 8101
+LAT...LON 2845 8070 2843 8069 2846 8068 2848 8062
+      2831 8031 2771 8009 2755 8039 2765 8041
+      2807 8065 2843 8078
 
 $$
 
