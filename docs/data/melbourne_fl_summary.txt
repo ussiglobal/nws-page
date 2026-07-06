@@ -1,43 +1,57 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 6, 2026 • 6:00 PM
+Generated: Jul 6, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Tuesday — Sunny then Chance Showers And Thunderstorms. High: 92°F; Rain: 36% ; Wind: 5 to 10 mph SSE
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 79°F; Rain: 68% ; Wind: 5 to 15 mph S
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 53% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Wednesday — High: 93°F; Low: 80°F; Rain: 29% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 78.8%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-729
-FZUS72 KMLB 062023
+283
+FZUS72 KMLB 062219
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-423 PM EDT Mon Jul 6 2026
+619 PM EDT Mon Jul 6 2026
 
-AMZ550-552-062130-
-423 PM EDT Mon Jul 6 2026
+AMZ552-062245-
+/O.CON.KMLB.MA.W.0152.000000T0000Z-260706T2245Z/
+619 PM EDT Mon Jul 6 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 645 PM EDT...
 
-At 423 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Oak Hill. The thunderstorm was nearly stationary.
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+
+At 619 PM EDT, a severe thunderstorm was located over Merritt Island
+Wildlife Refuge, or near Titusville, moving east at 5 knots.
+
+HAZARD...Wind gusts in excess of 50 knots and small hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 50 knots and suddenly higher
+         waves. Boats could sustain significant damage or capsize.
+         Make sure all on board are wearing life jackets. Return to
+         safe harbor if possible.
+
+Locations impacted include...
+Merritt Island Wildlife Refuge, Playalinda Beach, Titusville,
+Lagrange, and Titusville Airport.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
 
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
 
 Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
@@ -46,9 +60,13 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2902 8070 2866 8041 2862 8064 2867 8073
-      2866 8075 2863 8074 2862 8066 2860 8084
-      2880 8089 2883 8085 2892 8090
+LAT...LON 2884 8064 2884 8063 2847 8049 2845 8068
+      2855 8065 2856 8067 2851 8069 2845 8069
+      2844 8078 2864 8085 2874 8088
+TIME...MOT...LOC 2219Z 270DEG 7KT 2861 8074
+
+HAIL...<.75IN
+WIND...50KTS
 
 $$
 
