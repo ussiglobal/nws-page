@@ -1,26 +1,26 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 8, 2026 • 9:00 PM
+Generated: Jul 8, 2026 • 10:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Thursday — Sunny. High: 93°F; Rain: 4% ; Wind: 5 to 15 mph SSE
-• Tonight:  Tonight — Mostly Clear. Low: 80°F; Rain: 5% ; Wind: 10 to 15 mph S
+• Tonight:  Tonight — Mostly Clear. Low: 80°F; Rain: 4% ; Wind: 10 to 15 mph S
 • Tomorrow: Friday — High: 93°F; Low: 80°F; Rain: 7% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 79.2%
+Temp: 84.2°F (29°C) · Humidity: 74.5%
 
 🛥️ Marine Weather Statement:
-348
-FZUS72 KMLB 081906
+610
+FZUS72 KMLB 090134
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-306 PM EDT Wed Jul 8 2026
+934 PM EDT Wed Jul 8 2026
 
-AMZ550-552-082000-
-306 PM EDT Wed Jul 8 2026
+AMZ550-552-090230-
+934 PM EDT Wed Jul 8 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
@@ -28,9 +28,9 @@ The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 306 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 933 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Bethune Beach, or near Edgewater, moving southeast at 10 knots.
+over Apollo Beach, or over Oak Hill, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,14 +38,19 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
+
 &&
 
-LAT...LON 2909 8069 2877 8053 2876 8081 2902 8095
-      2906 8096
+LAT...LON 2911 8065 2871 8054 2870 8087 2881 8089
+      2884 8085 2899 8093
 
 $$
 
-Weitlich
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 250
