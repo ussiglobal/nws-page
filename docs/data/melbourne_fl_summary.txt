@@ -1,36 +1,33 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 10, 2026 • 4:00 PM
+Generated: Jul 10, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Sunny. High: 94°F; Rain: 6% ; Wind: 15 mph SE
+• Today:    This Afternoon — Sunny. High: 94°F; Rain: 6% ; Wind: 15 mph ESE
 • Tonight:  Tonight — Mostly Clear. Low: 80°F; Rain: 7% ; Wind: 5 to 15 mph S
 • Tomorrow: Saturday — High: 94°F; Low: 79°F; Rain: 30% ; Wind: 5 to 10 mph SE
 🌡️ Current Conditions:
 Temp: 89.6°F (32°C) · Humidity: 62.7%
 
 🛥️ Marine Weather Statement:
-610
-FZUS72 KMLB 090134
+295
+FZUS72 KMLB 102003
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-934 PM EDT Wed Jul 8 2026
+403 PM EDT Fri Jul 10 2026
 
-AMZ550-552-090230-
-934 PM EDT Wed Jul 8 2026
+AMZ555-102100-
+403 PM EDT Fri Jul 10 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-
-At 933 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 403 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Apollo Beach, or over Oak Hill, moving east at 10 knots.
+over Fort Pierce, moving northeast at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -45,12 +42,13 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2911 8065 2871 8054 2870 8087 2881 8089
-      2884 8085 2899 8093
+LAT...LON 2728 8032 2729 8032 2730 8030 2730 8029
+      2746 8037 2756 8037 2775 8004 2758 7998
+      2747 7992 2738 7989 2729 8028
 
 $$
 
-Tollefsen
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 903
