@@ -1,51 +1,71 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 12, 2026 • 2:00 PM
+Generated: Jul 12, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 95°F; Rain: 45% ; Wind: 5 to 10 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 45% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Monday — High: 96°F; Low: 79°F; Rain: 17% ; Wind: 5 to 10 mph SSW
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 95°F; Rain: 45% ; Wind: 5 mph E
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 45% ; Wind: 5 mph SSW
+• Tomorrow: Monday — High: 95°F; Low: 79°F; Rain: 51% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 91.4°F (33°C) · Humidity: 59.3%
 
 🛥️ Marine Weather Statement:
-995
-FZUS72 KMLB 121737
+285
+FZUS72 KMLB 121850
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-137 PM EDT Sun Jul 12 2026
+250 PM EDT Sun Jul 12 2026
 
-AMZ550-121830-
-137 PM EDT Sun Jul 12 2026
+AMZ552-121930-
+/O.CON.KMLB.MA.W.0156.000000T0000Z-260712T1930Z/
+250 PM EDT Sun Jul 12 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 330 PM EDT...
 
-At 137 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Ormond Beach, moving east at 10 knots.
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+
+At 248 PM EDT, a strong thunderstorm was located 7 nm south of
+Playalinda Beach, moving east at 10 knots.
+
+HAZARD...Wind gusts to nearly 50 knots and small hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Locations impacted include...
+Playalinda Beach, Port Canaveral, Jetty Park, Merritt Island Wildlife
+Refuge, and Cape Canaveral.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2945 8113 2946 8107
-      2948 8075 2925 8063 2886 8037 2883 8071
-      2880 8076 2882 8076 2882 8081 2880 8079
-      2879 8079 2879 8084 2880 8085 2878 8089
-      2881 8089 2884 8085 2938 8113
+LAT...LON 2865 8074 2863 8074 2862 8064 2865 8068
+      2867 8031 2834 8034 2833 8074 2864 8085
+TIME...MOT...LOC 1848Z 277DEG 12KT 2854 8061
+
+HAIL...<.75IN
+WIND...49KTS
 
 $$
 
-Watson
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 009
