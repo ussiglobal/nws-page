@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 12, 2026 • 1:00 PM
+Generated: Jul 12, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,23 +11,23 @@ Generated: Jul 12, 2026 • 1:00 PM
 Temp: 89.6°F (32°C) · Humidity: 62.7%
 
 🛥️ Marine Weather Statement:
-916
-FZUS72 KMLB 121630
+995
+FZUS72 KMLB 121737
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1230 PM EDT Sun Jul 12 2026
+137 PM EDT Sun Jul 12 2026
 
-AMZ550-121730-
-1230 PM EDT Sun Jul 12 2026
+AMZ550-121830-
+137 PM EDT Sun Jul 12 2026
 
 A Marine Weather Statement has been issued for the following areas...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 1230 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located over New Smyrna Beach, moving east at 10 knots.
+At 137 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Ormond Beach, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -35,16 +35,13 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
-
 &&
 
-LAT...LON 2933 8068 2886 8037 2883 8075 2881 8075
-      2881 8077 2882 8076 2882 8081 2881 8080
-      2879 8089 2884 8085 2924 8106
+LAT...LON 2942 8113 2943 8110 2945 8113 2946 8107
+      2948 8075 2925 8063 2886 8037 2883 8071
+      2880 8076 2882 8076 2882 8081 2880 8079
+      2879 8079 2879 8084 2880 8085 2878 8089
+      2881 8089 2884 8085 2938 8113
 
 $$
 
