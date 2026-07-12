@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 12, 2026 • 4:00 PM
+Generated: Jul 12, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,30 +8,32 @@ Generated: Jul 12, 2026 • 4:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 45% ; Wind: 5 mph SSW
 • Tomorrow: Monday — High: 95°F; Low: 79°F; Rain: 51% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 73.4°F (23°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-285
-FZUS72 KMLB 121850
+986
+FZUS72 KMLB 122029
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-250 PM EDT Sun Jul 12 2026
+429 PM EDT Sun Jul 12 2026
 
-AMZ552-121930-
-/O.CON.KMLB.MA.W.0156.000000T0000Z-260712T1930Z/
-250 PM EDT Sun Jul 12 2026
+AMZ552-572-122045-
+/O.CON.KMLB.MA.W.0157.000000T0000Z-260712T2045Z/
+429 PM EDT Sun Jul 12 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 330 PM EDT...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 445 PM EDT...
 
 For the following areas...
 Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 248 PM EDT, a strong thunderstorm was located 7 nm south of
-Playalinda Beach, moving east at 10 knots.
+At 429 PM EDT, strong thunderstorms were located along a line
+extending from 17 nm east of Melbourne Beach to near Palm Bay, moving
+southeast at 20 knots.
 
-HAZARD...Wind gusts to nearly 50 knots and small hail.
+HAZARD...Wind gusts to 40 knots and small hail.
 
 SOURCE...Radar indicated.
 
@@ -41,27 +43,26 @@ IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
          possible.
 
 Locations impacted include...
-Playalinda Beach, Port Canaveral, Jetty Park, Merritt Island Wildlife
-Refuge, and Cape Canaveral.
+Orchid, Floridana Beach, Vero Beach South, Barefoot Bay, and Gifford.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Move to safe harbor immediately as gusty winds and high waves are
 expected.
 
-Frequent cloud to water lightning is occurring with this storm. If
+Frequent cloud to water lightning is occurring with these storms. If
 caught on the open water stay below deck and, if possible, avoid
 ungrounded metal objects. Remember, lightning can strike beyond 10
 miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2865 8074 2863 8074 2862 8064 2865 8068
-      2867 8031 2834 8034 2833 8074 2864 8085
-TIME...MOT...LOC 1848Z 277DEG 12KT 2854 8061
+LAT...LON 2820 8003 2791 7997 2784 8047 2782 8051
+      2808 8065
+TIME...MOT...LOC 2029Z 318DEG 19KT 2808 8023 2790 8069
 
 HAIL...<.75IN
-WIND...49KTS
+WIND...40KTS
 
 $$
 
