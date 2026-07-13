@@ -1,65 +1,52 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 13, 2026 • 6:00 PM
+Generated: Jul 13, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 94°F; Rain: 35% ; Wind: 10 mph NE
+• Today:    Tuesday — Mostly Sunny then Showers And Thunderstorms Likely. High: 94°F; Rain: 58% ; Wind: 5 to 10 mph S
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 79°F; Rain: 64% ; Wind: 5 mph SW
-• Tomorrow: Tuesday — High: 94°F; Low: 79°F; Rain: 58% ; Wind: 5 to 10 mph S
+• Tomorrow: Wednesday — High: 95°F; Low: 79°F; Rain: 22% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 55.8%
+Temp: 75.2°F (24°C) · Humidity: 78.4%
 
 🛥️ Marine Weather Statement:
-840
-FZUS72 KMLB 132138
+404
+FZUS72 KMLB 132226
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-538 PM EDT Mon Jul 13 2026
+626 PM EDT Mon Jul 13 2026
 
-AMZ552-572-132245-
-/O.CON.KMLB.MA.W.0162.000000T0000Z-260713T2245Z/
-538 PM EDT Mon Jul 13 2026
+AMZ552-555-572-575-132330-
+626 PM EDT Mon Jul 13 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 645 PM EDT...
+...STRONG THUNDERSTORMS AND GUSTY OUTFLOW WINDS OVER THE WATERS...
 
-For the following areas...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 538 PM EDT, severe thunderstorms were located along a line
-extending from 18 nm northeast of Playalinda Beach to near Melbourne
-to 26 nm west of Palm Bay, moving east at 30 knots.
-
-HAZARD...Wind gusts in excess of 50 knots and small hail.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 50 knots and suddenly higher
-         waves. Boats could sustain significant damage or capsize.
-         Make sure all on board are wearing life jackets. Return to
-         safe harbor if possible.
-
-Locations impacted include...
-Eau Gallie, Indialantic, Floridana Beach, Melbourne Beach, and
-Sebastian Inlet State Park.
+At 625 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 31 nm east of Port Canaveral to
+13 nm northeast of Sebastian Inlet to 6 nm west of Vero Lake Estates
+to 15 nm southwest of Palm Bay, moving southeast at 35 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Move to safe harbor immediately as gusty winds and high waves are
-expected.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2885 8083 2882 8078 2886 8078 2883 8075
-      2892 7974 2821 8002 2787 8021 2784 8042
-      2786 8053 2808 8065 2881 8089
-TIME...MOT...LOC 2138Z 285DEG 30KT 2880 8031 2814 8071 2799 8116
-
-HAIL...<.75IN
-WIND...50KTS
+LAT...LON 2754 7959 2732 7999 2732 8030 2765 8041
+      2793 8057 2805 8035 2891 7978 2893 7964
+      2866 7955 2829 7954 2787 7937
 
 $$
 
