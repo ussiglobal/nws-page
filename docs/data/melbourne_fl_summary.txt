@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 13, 2026 • 5:00 PM
+Generated: Jul 13, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,52 +8,62 @@ Generated: Jul 13, 2026 • 5:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 79°F; Rain: 64% ; Wind: 5 mph SW
 • Tomorrow: Tuesday — High: 94°F; Low: 79°F; Rain: 58% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 52.5%
+Temp: 91.4°F (33°C) · Humidity: 55.8%
 
 🛥️ Marine Weather Statement:
-700
-FZUS72 KMLB 131932
+840
+FZUS72 KMLB 132138
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-332 PM EDT Mon Jul 13 2026
+538 PM EDT Mon Jul 13 2026
 
-AMZ550-132030-
-332 PM EDT Mon Jul 13 2026
+AMZ552-572-132245-
+/O.CON.KMLB.MA.W.0162.000000T0000Z-260713T2245Z/
+538 PM EDT Mon Jul 13 2026
 
-...STRONG THUNDERSTORMS APPROACHING THE WATERS...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 645 PM EDT...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 331 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Ormond-By-the-Sea to 10 nm
-southwest of Daytona Beach to 22 nm west of Maytown, moving east at
-10 knots.
+At 538 PM EDT, severe thunderstorms were located along a line
+extending from 18 nm northeast of Playalinda Beach to near Melbourne
+to 26 nm west of Palm Bay, moving east at 30 knots.
+
+HAZARD...Wind gusts in excess of 50 knots and small hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 50 knots and suddenly higher
+         waves. Boats could sustain significant damage or capsize.
+         Make sure all on board are wearing life jackets. Return to
+         safe harbor if possible.
+
+Locations impacted include...
+Eau Gallie, Indialantic, Floridana Beach, Melbourne Beach, and
+Sebastian Inlet State Park.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
-
-Frequent cloud to water lightning is occurring with these storms. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2946 8113 2947 8104
-      2948 8075 2925 8063 2886 8037 2882 8075
-      2880 8074 2881 8076 2882 8081 2880 8079
-      2879 8089 2884 8085 2938 8113
+LAT...LON 2885 8083 2882 8078 2886 8078 2883 8075
+      2892 7974 2821 8002 2787 8021 2784 8042
+      2786 8053 2808 8065 2881 8089
+TIME...MOT...LOC 2138Z 285DEG 30KT 2880 8031 2814 8071 2799 8116
+
+HAIL...<.75IN
+WIND...50KTS
 
 $$
 
-Watson
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 231
