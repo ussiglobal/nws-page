@@ -1,57 +1,59 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 13, 2026 • 3:00 PM
+Generated: Jul 13, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 94°F; Rain: 35% ; Wind: 5 to 10 mph ENE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 94°F; Rain: 35% ; Wind: 10 mph NE
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 79°F; Rain: 64% ; Wind: 5 mph SW
 • Tomorrow: Tuesday — High: 94°F; Low: 79°F; Rain: 58% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 55.8%
+Temp: 89.6°F (32°C) · Humidity: 59%
 
 🛥️ Marine Weather Statement:
-739
-FZUS72 KMLB 122315
+700
+FZUS72 KMLB 131932
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-715 PM EDT Sun Jul 12 2026
+332 PM EDT Mon Jul 13 2026
 
-AMZ555-575-130015-
-715 PM EDT Sun Jul 12 2026
+AMZ550-132030-
+332 PM EDT Mon Jul 13 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...STRONG THUNDERSTORMS APPROACHING THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 714 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-11 nm northeast of Hobe Sound Beach, or 11 nm northeast of Jupiter
-Island, moving east at 15 knots.
+At 331 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from near Ormond-By-the-Sea to 10 nm
+southwest of Daytona Beach to 22 nm west of Maytown, moving east at
+10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
 
-Frequent cloud to water lightning is occurring with this storm. If
+Frequent cloud to water lightning is occurring with these storms. If
 caught on the open water stay below deck and, if possible, avoid
 ungrounded metal objects. Remember, lightning can strike beyond 10
 miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2711 8007 2730 7997 2733 7960 2698 7946
-      2697 7997
+LAT...LON 2942 8113 2943 8110 2946 8113 2947 8104
+      2948 8075 2925 8063 2886 8037 2882 8075
+      2880 8074 2881 8076 2882 8081 2880 8079
+      2879 8089 2884 8085 2938 8113
 
 $$
 
-Schaper
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 231
