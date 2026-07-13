@@ -1,47 +1,43 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 12, 2026 • 7:00 PM
+Generated: Jul 12, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Monday — Sunny then Chance Showers And Thunderstorms. High: 95°F; Rain: 51% ; Wind: 5 to 10 mph SSE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 45% ; Wind: 5 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 36% ; Wind: 5 mph SSW
 • Tomorrow: Tuesday — High: 95°F; Low: 79°F; Rain: 22% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
 Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-100
-FZUS72 KMLB 122137
+739
+FZUS72 KMLB 122315
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-537 PM EDT Sun Jul 12 2026
+715 PM EDT Sun Jul 12 2026
 
-AMZ555-122230-
-537 PM EDT Sun Jul 12 2026
+AMZ555-575-130015-
+715 PM EDT Sun Jul 12 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 536 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 714 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Lakewood Park, or over Indrio, moving southeast at 10 knots.
+11 nm northeast of Hobe Sound Beach, or 11 nm northeast of Jupiter
+Island, moving east at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-This strong thunderstorm will likely produce winds to around 30
-knots, and could pose a serious hazard for boaters. A special marine
-warning may eventually be required when this strong thunderstorm
-reaches the nearshore waters. Boaters should consider heading for
-shore before this strong thunderstorm arrives.
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
 
 Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
@@ -50,9 +46,8 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2729 8032 2724 8026 2746 8037 2762 8040
-      2764 8013 2756 7996 2729 7984 2697 7973
+LAT...LON 2711 8007 2730 7997 2733 7960 2698 7946
+      2697 7997
 
 $$
 
