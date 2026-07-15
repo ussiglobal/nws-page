@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 14, 2026 • 9:00 PM
+Generated: Jul 14, 2026 • 10:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,24 +11,25 @@ Generated: Jul 14, 2026 • 9:00 PM
 Temp: 73.4°F (23°C) · Humidity: 88.5%
 
 🛥️ Marine Weather Statement:
-328
-FZUS72 KMLB 142148
+077
+FZUS72 KMLB 150119
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-548 PM EDT Tue Jul 14 2026
+919 PM EDT Tue Jul 14 2026
 
-AMZ552-572-142245-
-548 PM EDT Tue Jul 14 2026
+AMZ555-575-150215-
+919 PM EDT Tue Jul 14 2026
 
 A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 547 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 918 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-near Port Canaveral, moving southeast at 15 knots.
+near Sewall`s Point, or near Jensen Beach, moving southeast at 15
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,8 +39,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2887 8027 2830 7976 2796 8058 2807 8065
-      2852 8081
+LAT...LON 2697 8011 2710 8017 2751 8031 2735 7968
+      2697 7988
 
 $$
 
