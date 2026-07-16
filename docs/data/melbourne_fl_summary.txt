@@ -1,35 +1,33 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 16, 2026 • 3:00 PM
+Generated: Jul 16, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 94°F; Rain: 47% ; Wind: 5 to 10 mph ESE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 43% ; Wind: 5 mph SSW
-• Tomorrow: Friday — High: 92°F; Low: 79°F; Rain: 56% ; Wind: 5 to 10 mph SSW
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 94°F; Rain: 43% ; Wind: 5 to 10 mph SE
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 40% ; Wind: 5 mph SSW
+• Tomorrow: Friday — High: 92°F; Low: 79°F; Rain: 55% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 55.6%
+Temp: 89.6°F (32°C) · Humidity: 59%
 
 🛥️ Marine Weather Statement:
-077
-FZUS72 KMLB 150119
+101
+FZUS72 KMLB 161944
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-919 PM EDT Tue Jul 14 2026
+344 PM EDT Thu Jul 16 2026
 
-AMZ555-575-150215-
-919 PM EDT Tue Jul 14 2026
+AMZ552-162045-
+344 PM EDT Thu Jul 16 2026
 
 A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 918 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 343 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-near Sewall`s Point, or near Jensen Beach, moving southeast at 15
-knots.
+over Titusville. The thunderstorm was nearly stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,12 +37,12 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2697 8011 2710 8017 2751 8031 2735 7968
-      2697 7988
+LAT...LON 2874 8063 2846 8050 2809 8049 2815 8065
+      2824 8071 2864 8085 2876 8088
 
 $$
 
-Law
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 454
