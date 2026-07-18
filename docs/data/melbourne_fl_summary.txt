@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 18, 2026 • 1:00 PM
+Generated: Jul 18, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,35 +11,51 @@ Generated: Jul 18, 2026 • 1:00 PM
 Temp: 87.8°F (31°C) · Humidity: 66.4%
 
 🛥️ Marine Weather Statement:
-974
-FZUS72 KMLB 172157
+827
+FZUS72 KMLB 181740
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-557 PM EDT Fri Jul 17 2026
+140 PM EDT Sat Jul 18 2026
 
-AMZ552-555-172207-
-/O.CAN.KMLB.MA.W.0173.000000T0000Z-260717T2230Z/
-557 PM EDT Fri Jul 17 2026
+AMZ552-555-181845-
+140 PM EDT Sat Jul 18 2026
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM APPROACHING THE INTRACOASTAL WATERS FROM
+THE SOUTH...
 
-The affected areas were...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+At 138 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Winter Beach, moving north along the sea breeze boundary at 25
+knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+Frequent lightning is occurring with this storm. If caught on the
+open water stay below deck and, if possible, avoid ungrounded metal
+objects. Remember, lightning can strike beyond 10 miles away from a
+thunderstorm.
 
 &&
 
-LAT...LON 2780 8047 2796 8056 2810 8036 2783 8018
-TIME...MOT...LOC 2156Z 243DEG 5KT 2787 8040
+LAT...LON 2820 8038 2763 8035 2763 8040 2807 8065
+      2816 8068
 
 $$
 
-Law
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 133
