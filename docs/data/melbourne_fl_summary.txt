@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 19, 2026 • 4:00 PM
+Generated: Jul 19, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,54 +8,44 @@ Generated: Jul 19, 2026 • 4:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 80°F; Rain: 27% ; Wind: 15 mph SSE
 • Tomorrow: Monday — High: 93°F; Low: 80°F; Rain: 30% ; Wind: 15 mph SSE
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 70.5%
+Temp: 80.6°F (27°C) · Humidity: 83.7%
 
 🛥️ Marine Weather Statement:
-827
-FZUS72 KMLB 181740
+786
+FZUS72 KMLB 192025
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-140 PM EDT Sat Jul 18 2026
+425 PM EDT Sun Jul 19 2026
 
-AMZ552-555-181845-
-140 PM EDT Sat Jul 18 2026
+AMZ552-192130-
+425 PM EDT Sun Jul 19 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE INTRACOASTAL WATERS FROM
-THE SOUTH...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 138 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 424 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Winter Beach, moving north along the sea breeze boundary at 25
-knots.
+over Barefoot Bay, moving north at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
-Frequent lightning is occurring with this storm. If caught on the
-open water stay below deck and, if possible, avoid ungrounded metal
-objects. Remember, lightning can strike beyond 10 miles away from a
-thunderstorm.
+immediately until this storm passes. A special marine warning may
+eventually be required.
 
 &&
 
-LAT...LON 2820 8038 2763 8035 2763 8040 2807 8065
-      2816 8068
+LAT...LON 2842 8053 2785 8035 2784 8044 2783 8044
+      2783 8051 2807 8065 2826 8071
 
 $$
 
-Kelly
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 215
