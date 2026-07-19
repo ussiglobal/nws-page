@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 19, 2026 • 5:00 PM
+Generated: Jul 19, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,44 +8,46 @@ Generated: Jul 19, 2026 • 5:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 80°F; Rain: 27% ; Wind: 15 mph SSE
 • Tomorrow: Monday — High: 93°F; Low: 80°F; Rain: 30% ; Wind: 15 mph SSE
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 83.7%
+Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-786
-FZUS72 KMLB 192025
+048
+FZUS72 KMLB 192113
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-425 PM EDT Sun Jul 19 2026
+513 PM EDT Sun Jul 19 2026
 
-AMZ552-192130-
-425 PM EDT Sun Jul 19 2026
+AMZ550-192200-
+513 PM EDT Sun Jul 19 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A BAND OF STRONG THUNDERSTORMS APPROACHING THE VOLUSIA
+INTRACOASTAL AND NEARSHORE ATLANTIC WATERS FROM THE SOUTH...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 424 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 512 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Barefoot Bay, moving north at 10 knots.
+near New Smyrna Beach, moving north at 30 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes. A special marine warning may
-eventually be required.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2842 8053 2785 8035 2784 8044 2783 8044
-      2783 8051 2807 8065 2826 8071
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8112 2946 8113
+      2947 8104 2948 8077 2883 8074 2882 8075
+      2881 8075 2885 8086 2938 8113
 
 $$
 
-Sedlock
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 215
