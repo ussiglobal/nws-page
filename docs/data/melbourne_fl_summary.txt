@@ -1,36 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 20, 2026 • 12:00 PM
+Generated: Jul 20, 2026 • 1:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Mostly Sunny then Chance Showers And Thunderstorms. High: 93°F; Rain: 40% ; Wind: 15 mph SSE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 40% ; Wind: 15 mph SE
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 21% ; Wind: 15 mph SSE
-• Tomorrow: Tuesday — High: 93°F; Low: 80°F; Rain: 17% ; Wind: 15 mph SSE
+• Tomorrow: Tuesday — High: 93°F; Low: 80°F; Rain: 17% ; Wind: 15 to 20 mph SSE
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 59%
+Temp: 91.4°F (33°C) · Humidity: 55.8%
 
 🛥️ Marine Weather Statement:
-048
-FZUS72 KMLB 192113
+611
+FZUS72 KMLB 201645
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-513 PM EDT Sun Jul 19 2026
+1245 PM EDT Mon Jul 20 2026
 
-AMZ550-192200-
-513 PM EDT Sun Jul 19 2026
+AMZ555-201745-
+1245 PM EDT Mon Jul 20 2026
 
-...A BAND OF STRONG THUNDERSTORMS APPROACHING THE VOLUSIA
-INTRACOASTAL AND NEARSHORE ATLANTIC WATERS FROM THE SOUTH...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 512 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near New Smyrna Beach, moving north at 30 knots.
+At 1245 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located over Jensen Beach, moving north at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,14 +39,14 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8112 2946 8113
-      2947 8104 2948 8077 2883 8074 2882 8075
-      2881 8075 2885 8086 2938 8113
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2718 8032 2723 8035 2728 8035 2729 8032
+      2729 8031 2724 8026 2746 8037 2769 8043
+      2776 8008 2697 7983
 
 $$
 
-Kelly
+Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 842
