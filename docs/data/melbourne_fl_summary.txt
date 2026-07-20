@@ -1,35 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 20, 2026 • 2:00 PM
+Generated: Jul 20, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 40% ; Wind: 15 mph SE
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 21% ; Wind: 15 mph SSE
-• Tomorrow: Tuesday — High: 93°F; Low: 80°F; Rain: 17% ; Wind: 15 to 20 mph SSE
+• Tomorrow: Tuesday — High: 93°F; Low: 80°F; Rain: 7% ; Wind: 15 to 20 mph SSE
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 70.5%
+Temp: 86°F (30°C) · Humidity: 74.6%
 
 🛥️ Marine Weather Statement:
-144
-FZUS72 KMLB 201714
+034
+FZUS72 KMLB 201854
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-114 PM EDT Mon Jul 20 2026
+254 PM EDT Mon Jul 20 2026
 
-AMZ552-201815-
-114 PM EDT Mon Jul 20 2026
+AMZ550-202000-
+254 PM EDT Mon Jul 20 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 114 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 254 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Grant-Valkaria, or near Barefoot Bay, moving north at 15 knots.
+near South Daytona, moving north at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,8 +39,10 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2824 8029 2789 8012 2782 8051 2807 8065
-      2821 8070
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8112 2946 8113
+      2947 8104 2948 8077 2894 8053 2891 8089
+      2938 8113
 
 $$
 
