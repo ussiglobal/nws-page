@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 26, 2026 • 3:00 PM
+Generated: Jul 26, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,47 +8,58 @@ Generated: Jul 26, 2026 • 3:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 43% ; Wind: 10 mph SW
 • Tomorrow: Monday — High: 93°F; Low: 79°F; Rain: 52% ; Wind: 10 mph WSW
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 59.3%
+Temp: 91.4°F (33°C) · Humidity: 55.8%
 
 🛥️ Marine Weather Statement:
-680
-FZUS72 KMLB 261737
+297
+FZUS72 KMLB 261914
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-137 PM EDT Sun Jul 26 2026
+314 PM EDT Sun Jul 26 2026
 
-AMZ550-261830-
-137 PM EDT Sun Jul 26 2026
+AMZ550-261930-
+/O.CON.KMLB.MA.W.0185.000000T0000Z-260726T1930Z/
+314 PM EDT Sun Jul 26 2026
 
-...STRONG THUNDERSTORMS APPROACHING THE INTRACOASTAL AND
-ATLANTIC WATERS FROM NEAR FLAGLER BEACH TO DAYTONA BEACH...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 330 PM EDT...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+For the following areas...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 136 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Palm Coast to 7 nm west of
-Ormond-By-the-Sea, moving southeast at 15 knots.
+At 313 PM EDT, a strong thunderstorm was located near Edgewater,
+moving southeast at 15 knots.
+
+HAZARD...Wind gusts 34 knots or greater.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Locations impacted include...
+Oak Hill, Klondike Beach, Shiloh, Haulover Canal, and Eldora.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+Move to safe harbor until hazardous weather passes.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8112 2946 8113
-      2947 8106 2948 8084 2901 8077 2913 8100
-      2938 8113
+LAT...LON 2910 8057 2885 8047 2883 8075 2882 8077
+      2882 8085 2881 8089 2882 8088 2884 8085
+      2914 8100
+TIME...MOT...LOC 1913Z 305DEG 15KT 2891 8093
+
+HAIL...0.00IN
+WIND...>34KTS
 
 $$
 
-Haley
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 902
