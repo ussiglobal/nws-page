@@ -1,65 +1,52 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 26, 2026 • 5:00 PM
+Generated: Jul 26, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 54% ; Wind: 10 mph SE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 54% ; Wind: 10 mph SSE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 43% ; Wind: 10 mph SW
 • Tomorrow: Monday — High: 93°F; Low: 79°F; Rain: 52% ; Wind: 10 mph WSW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 62.5%
+Temp: 86°F (30°C) · Humidity: 66.2%
 
 🛥️ Marine Weather Statement:
-297
-FZUS72 KMLB 261914
+657
+FZUS72 KMLB 262144
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-314 PM EDT Sun Jul 26 2026
+544 PM EDT Sun Jul 26 2026
 
-AMZ550-261930-
-/O.CON.KMLB.MA.W.0185.000000T0000Z-260726T1930Z/
-314 PM EDT Sun Jul 26 2026
+AMZ552-555-262230-
+544 PM EDT Sun Jul 26 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 330 PM EDT...
+...A STRONG THUNDERSTORM AND GUSTY OUTFLOW WINDS APPROACHING THE
+WATERS...
 
-For the following areas...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 313 PM EDT, a strong thunderstorm was located near Edgewater,
-moving southeast at 15 knots.
-
-HAZARD...Wind gusts 34 knots or greater.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible.
-
-Locations impacted include...
-Oak Hill, Klondike Beach, Shiloh, Haulover Canal, and Eldora.
+At 543 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Malabar, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Move to safe harbor until hazardous weather passes.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2910 8057 2885 8047 2883 8075 2882 8077
-      2882 8085 2881 8089 2882 8088 2884 8085
-      2914 8100
-TIME...MOT...LOC 1913Z 305DEG 15KT 2891 8093
-
-HAIL...0.00IN
-WIND...>34KTS
+LAT...LON 2812 8020 2801 8015 2764 8000 2760 8040
+      2765 8041 2804 8063
 
 $$
 
-Heil
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 902
