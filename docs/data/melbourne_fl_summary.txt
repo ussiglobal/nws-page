@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 27, 2026 • 4:00 PM
+Generated: Jul 27, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,68 +8,44 @@ Generated: Jul 27, 2026 • 4:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 54% ; Wind: 10 mph WSW
 • Tomorrow: Tuesday — High: 94°F; Low: 79°F; Rain: 47% ; Wind: 10 mph SSW
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 55.8%
+Temp: 89.6°F (32°C) · Humidity: 59%
 
 🛥️ Marine Weather Statement:
-774
-FZUS72 KMLB 271942
+882
+FZUS72 KMLB 272025
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-342 PM EDT Mon Jul 27 2026
+425 PM EDT Mon Jul 27 2026
 
-AMZ550-552-272015-
-/O.CON.KMLB.MA.W.0188.000000T0000Z-260727T2015Z/
-342 PM EDT Mon Jul 27 2026
+AMZ552-272130-
+425 PM EDT Mon Jul 27 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 415 PM EDT...
+A Marine Weather Statement has been issued for the following areas...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-For the following areas...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-
-At 342 PM EDT, a severe thunderstorm capable of producing waterspouts
-was located near New Smyrna Beach, moving east at 10 knots.
-
-HAZARD...Waterspouts and wind gusts 34 knots or greater.
-
-SOURCE...Radar indicated.
-
-IMPACT...Waterspouts can can quickly form and capsize boats, damage
-         vessels and create locally hazardous seas. Make sure all on
-         board are wearing life jackets. Expect wind gusts in excess
-         of 34 knots, suddenly higher waves, lightning and heavy
-         downpours. Make sure all on board are wearing life jackets.
-         Return to safe harbor if possible.
-
-Locations impacted include...
-New Smyrna Beach Airport, Bethune Beach, New Smyrna Beach, Ponce
-Inlet, and Turtle Mound.
+At 424 PM EDT, Doppler radar indicated a gusty thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Merritt Island Wildlife Refuge, or over Playalinda Beach,
+moving east at 20 knots. Gusty outflow winds will push south toward
+Cape Canaveral.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Move to safe harbor immediately as gusty winds and high waves are
-expected.
-
-Thunderstorms can produce sudden waterspouts. Waterspouts can easily
-overturn boats and create locally hazardous seas. Seek safe harbor
-immediately.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2922 8099 2909 8053 2866 8064 2866 8070
-      2867 8073 2866 8075 2865 8085 2881 8089
-      2884 8085 2916 8102
-TIME...MOT...LOC 1942Z 292DEG 12KT 2905 8087
-
-WATERSPOUT...POSSIBLE
-HAIL...0.00IN
-WIND...>34KTS
+LAT...LON 2871 8085 2885 8037 2880 8032 2869 8026
+      2864 8025 2863 8024 2860 8023 2847 8022
+      2833 8074
 
 $$
 
-Heil
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 944
