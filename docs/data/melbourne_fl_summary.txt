@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 27, 2026 • 8:00 AM
+Generated: Jul 27, 2026 • 9:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,30 +8,30 @@ Generated: Jul 27, 2026 • 8:00 AM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 29% ; Wind: 5 to 10 mph WSW
 • Tomorrow: Tuesday — High: 94°F; Low: 80°F; Rain: 46% ; Wind: 10 mph SW
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 88.8%
+Temp: 82.4°F (28°C) · Humidity: 83.8%
 
 🛥️ Marine Weather Statement:
-727
-FZUS72 KMLB 271112
+451
+FZUS72 KMLB 271216
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-712 AM EDT Mon Jul 27 2026
+816 AM EDT Mon Jul 27 2026
 
-AMZ550-552-570-271215-
-712 AM EDT Mon Jul 27 2026
+AMZ550-552-570-271315-
+816 AM EDT Mon Jul 27 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 712 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 816 AM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-near New Smyrna Beach, moving southeast at 15 knots.
+near Haulover Canal, moving southeast at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,11 +39,15 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
 &&
 
-LAT...LON 2942 8113 2907 8028 2887 8032 2885 8037
-      2880 8033 2834 8041 2843 8078 2880 8089
-      2884 8085 2937 8113
+LAT...LON 2918 8077 2906 8018 2887 8025 2887 8033
+      2886 8032 2885 8037 2876 8030 2847 8041
+      2852 8066 2855 8065 2856 8067 2852 8069
+      2855 8082 2874 8088
 
 $$
 
