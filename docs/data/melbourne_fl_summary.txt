@@ -1,17 +1,52 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 27, 2026 • 1:04 PM
+Generated: Jul 27, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 58% ; Wind: 5 to 10 mph WSW
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 58% ; Wind: 10 mph WSW
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 29% ; Wind: 5 to 10 mph WSW
 • Tomorrow: Tuesday — High: 94°F; Low: 80°F; Rain: 46% ; Wind: 10 mph SW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 89.6°F (32°C) · Humidity: 62.7%
 
 🛥️ Marine Weather Statement:
+743
+FZUS72 KMLB 271733
+MWSMLB
 
+Marine Weather Statement
+National Weather Service Melbourne FL
+133 PM EDT Mon Jul 27 2026
+
+AMZ550-271830-
+133 PM EDT Mon Jul 27 2026
+
+...A STRONG THUNDERSTORM HUGGING THE NORTHERN VOLUSIA COAST...
+
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+
+At 132 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Ormond-By-the-Sea, moving southeast at 5 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+&&
+
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8112 2946 8113
+      2947 8105 2947 8097 2908 8077 2905 8096
+      2938 8113
+
+$$
+
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 944
