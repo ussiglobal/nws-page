@@ -1,51 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 28, 2026 • 1:00 PM
+Generated: Jul 28, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 94°F; Rain: 45% ; Wind: 5 to 10 mph SSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 39% ; Wind: 10 to 15 mph SW
-• Tomorrow: Wednesday — High: 96°F; Low: 80°F; Rain: 25% ; Wind: 15 mph SW
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 94°F; Rain: 48% ; Wind: 10 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 25% ; Wind: 10 to 15 mph SW
+• Tomorrow: Wednesday — High: 95°F; Low: 80°F; Rain: 25% ; Wind: 15 mph WSW
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 59.3%
+Temp: 91.4°F (33°C) · Humidity: 66.8%
 
 🛥️ Marine Weather Statement:
-882
-FZUS72 KMLB 272025
+285
+FZUS72 KMLB 281857
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-425 PM EDT Mon Jul 27 2026
+257 PM EDT Tue Jul 28 2026
 
-AMZ552-272130-
-425 PM EDT Mon Jul 27 2026
+AMZ552-281945-
+257 PM EDT Tue Jul 28 2026
 
 A Marine Weather Statement has been issued for the following areas...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 424 PM EDT, Doppler radar indicated a gusty thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Merritt Island Wildlife Refuge, or over Playalinda Beach,
-moving east at 20 knots. Gusty outflow winds will push south toward
-Cape Canaveral.
+At 252 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from near Port Canaveral to
+Indialantic to 12 nm west of Vero Lake Estates, moving northeast at
+15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2871 8085 2885 8037 2880 8032 2869 8026
-      2864 8025 2863 8024 2860 8023 2847 8022
-      2833 8074
+LAT...LON 2863 8071 2862 8064 2864 8067 2878 8030
+      2858 8022 2842 8020 2835 8021 2826 8027
+      2823 8026 2789 8009 2783 8051 2860 8080
 
 $$
 
-Kelly
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 541
