@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 30, 2026 • 10:00 AM
+Generated: Jul 30, 2026 • 11:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,29 +8,29 @@ Generated: Jul 30, 2026 • 10:00 AM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 30% ; Wind: 10 to 15 mph SW
 • Tomorrow: Friday — High: 92°F; Low: 78°F; Rain: 50% ; Wind: 10 to 15 mph WSW
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 79.1%
+Temp: 84.2°F (29°C) · Humidity: 83.9%
 
 🛥️ Marine Weather Statement:
-467
-FZUS72 KMLB 300302
+947
+FZUS72 KMLB 301404
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1102 PM EDT Wed Jul 29 2026
+1004 AM EDT Thu Jul 30 2026
 
-AMZ570-300400-
-1102 PM EDT Wed Jul 29 2026
+AMZ550-570-301500-
+1004 AM EDT Thu Jul 30 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 1102 PM EDT, Doppler radar indicated a strong thunderstorm,
+At 1004 AM EDT, Doppler radar indicated a strong thunderstorm,
 capable of producing winds to around 30 knots. This thunderstorm was
-located 24 nm northeast of Ormond-By-the-Sea, moving southeast at 15
-knots.
+located 7 nm east of Palm Coast, moving east at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,13 +40,14 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2948 8031 2937 8016 2919 8059 2921 8060
-      2924 8063 2929 8066 2939 8071 2942 8073
-      2948 8075
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8103
+      2948 8072 2948 8055 2947 8048 2903 8058
+      2912 8100 2938 8113
 
 $$
 
-Leahy
+Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 499
