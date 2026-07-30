@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 30, 2026 • 1:00 PM
+Generated: Jul 30, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,39 +8,39 @@ Generated: Jul 30, 2026 • 1:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 30% ; Wind: 10 to 15 mph SW
 • Tomorrow: Friday — High: 92°F; Low: 78°F; Rain: 50% ; Wind: 10 to 15 mph WSW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 70.5%
+Temp: 32°F (0°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-616
-FZUS72 KMLB 301601
+243
+FZUS72 KMLB 301751
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1201 PM EDT Thu Jul 30 2026
+151 PM EDT Thu Jul 30 2026
 
-AMZ555-301730-
-1201 PM EDT Thu Jul 30 2026
+AMZ555-575-301845-
+151 PM EDT Thu Jul 30 2026
 
-...STRONG THUNDERSTORMS APPROACHING THE WATERS...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 1201 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Wabasso to 11 nm west of Saint
-Lucie West, moving east at 20 knots.
+At 150 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+8 nm east of Jupiter Island, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2726 8026 2782 8047 2789 8008 2722 7986
+LAT...LON 2714 8004 2730 7952 2697 7954 2697 8005
 
 $$
 
