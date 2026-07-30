@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 30, 2026 • 4:00 PM
+Generated: Jul 30, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,25 +11,25 @@ Generated: Jul 30, 2026 • 4:00 PM
 Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-614
-FZUS72 KMLB 301844
+343
+FZUS72 KMLB 302000
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-244 PM EDT Thu Jul 30 2026
+400 PM EDT Thu Jul 30 2026
 
-AMZ575-301945-
-244 PM EDT Thu Jul 30 2026
+AMZ555-575-302100-
+400 PM EDT Thu Jul 30 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 244 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 359 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-32 nm east of Hobe Sound Beach, moving east at 20 knots.
+18 nm east of Nettles Island, or 18 nm east of Saint Lucie Nuclear
+Power Plant, moving east at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,12 +39,11 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2713 7963 2730 7962 2761 7926 2732 7914
-      2712 7908
+LAT...LON 2727 7997 2752 8005 2779 7953 2720 7929
 
 $$
 
-Weitlich
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 540
