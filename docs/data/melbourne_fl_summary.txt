@@ -1,49 +1,74 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 31, 2026 • 1:00 PM
+Generated: Jul 31, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 74% ; Wind: 10 mph WSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 78°F; Rain: 46% ; Wind: 5 to 10 mph SW
-• Tomorrow: Saturday — High: 91°F; Low: 78°F; Rain: 76% ; Wind: 5 to 10 mph SSW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 92°F; Rain: 74% ; Wind: 10 mph WSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 46% ; Wind: 5 to 10 mph SW
+• Tomorrow: Saturday — High: 91°F; Low: 78°F; Rain: 77% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 91.4°F (33°C) · Humidity: 59.3%
 
 🛥️ Marine Weather Statement:
-343
-FZUS72 KMLB 302000
+576
+FZUS72 KMLB 311746
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-400 PM EDT Thu Jul 30 2026
+146 PM EDT Fri Jul 31 2026
 
-AMZ555-575-302100-
-400 PM EDT Thu Jul 30 2026
+AMZ550-311915-
+/O.CON.KMLB.MA.W.0202.000000T0000Z-260731T1915Z/
+146 PM EDT Fri Jul 31 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 315 PM EDT...
 
-At 359 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-18 nm east of Nettles Island, or 18 nm east of Saint Lucie Nuclear
-Power Plant, moving east at 20 knots.
+For the following areas...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+
+At 145 PM EDT, strong thunderstorms were located along a line
+extending from 7 nm northeast of Ormond-By-the-Sea to near Daytona
+Beach Shores to near Edgewater, moving east at 15 knots.
+
+HAZARD...Wind gusts 34 knots or greater.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+Locations impacted include...
+New Smyrna Beach Airport, Ponce Inlet, Edgewater, New Smyrna Beach,
+and Wilbur By The Sea.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+Move to safe harbor until hazardous weather passes.
+
+Frequent cloud to water lightning is occurring with these storms. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2727 7997 2752 8005 2779 7953 2720 7929
+LAT...LON 2942 8113 2943 8110 2946 8113 2947 8104
+      2948 8075 2925 8063 2886 8037 2883 8075
+      2879 8073 2879 8075 2882 8076 2882 8081
+      2878 8078 2877 8081 2880 8085 2877 8085
+      2876 8088 2881 8089 2884 8085 2938 8113
+TIME...MOT...LOC 1745Z 270DEG 14KT 2942 8096 2924 8090 2901 8091
+
+HAIL...0.00IN
+WIND...>34KTS
 
 $$
 
-Watson
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 994
