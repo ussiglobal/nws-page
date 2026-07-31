@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 31, 2026 • 2:00 PM
+Generated: Jul 31, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,29 +8,28 @@ Generated: Jul 31, 2026 • 2:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 46% ; Wind: 5 to 10 mph SW
 • Tomorrow: Saturday — High: 91°F; Low: 78°F; Rain: 77% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 59.3%
+Temp: 89.6°F (32°C) · Humidity: 59%
 
 🛥️ Marine Weather Statement:
-576
-FZUS72 KMLB 311746
+675
+FZUS72 KMLB 311837
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-146 PM EDT Fri Jul 31 2026
+237 PM EDT Fri Jul 31 2026
 
 AMZ550-311915-
 /O.CON.KMLB.MA.W.0202.000000T0000Z-260731T1915Z/
-146 PM EDT Fri Jul 31 2026
+237 PM EDT Fri Jul 31 2026
 
 ...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 315 PM EDT...
 
 For the following areas...
 Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 145 PM EDT, strong thunderstorms were located along a line
-extending from 7 nm northeast of Ormond-By-the-Sea to near Daytona
-Beach Shores to near Edgewater, moving east at 15 knots.
+At 237 PM EDT, a cloud was located near Apollo Beach, or near Oak
+Hill, moving east at 15 knots.
 
 HAZARD...Wind gusts 34 knots or greater.
 
@@ -42,26 +41,25 @@ IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
          possible.
 
 Locations impacted include...
-New Smyrna Beach Airport, Ponce Inlet, Edgewater, New Smyrna Beach,
-and Wilbur By The Sea.
+Apollo Beach, Eldora, Oak Hill, Shiloh, and Klondike Beach.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Move to safe harbor until hazardous weather passes.
 
-Frequent cloud to water lightning is occurring with these storms. If
+Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
 ungrounded metal objects. Remember, lightning can strike beyond 10
 miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2946 8113 2947 8104
-      2948 8075 2925 8063 2886 8037 2883 8075
-      2879 8073 2879 8075 2882 8076 2882 8081
-      2878 8078 2877 8081 2880 8085 2877 8085
-      2876 8088 2881 8089 2884 8085 2938 8113
-TIME...MOT...LOC 1745Z 270DEG 14KT 2942 8096 2924 8090 2901 8091
+LAT...LON 2905 8065 2908 8052 2886 8037 2883 8075
+      2881 8074 2881 8075 2879 8073 2879 8075
+      2882 8076 2882 8081 2878 8078 2877 8080
+      2880 8085 2877 8085 2876 8088 2881 8089
+      2884 8085 2894 8090
+TIME...MOT...LOC 1837Z 285DEG 15KT 2887 8073
 
 HAIL...0.00IN
 WIND...>34KTS
