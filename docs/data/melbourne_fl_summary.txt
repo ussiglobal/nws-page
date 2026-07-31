@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 31, 2026 • 4:00 PM
+Generated: Jul 31, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,34 +8,42 @@ Generated: Jul 31, 2026 • 4:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 46% ; Wind: 5 to 10 mph SW
 • Tomorrow: Saturday — High: 91°F; Low: 78°F; Rain: 77% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 74.3%
+Temp: 82.4°F (28°C) · Humidity: 78.9%
 
 🛥️ Marine Weather Statement:
-547
-FZUS72 KMLB 311926
+812
+FZUS72 KMLB 312037
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-326 PM EDT Fri Jul 31 2026
+437 PM EDT Fri Jul 31 2026
 
-AMZ570-312030-
-326 PM EDT Fri Jul 31 2026
+AMZ555-575-312100-
+/O.CON.KMLB.MA.W.0205.000000T0000Z-260731T2100Z/
+437 PM EDT Fri Jul 31 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 500 PM EDT...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+For the following areas...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
+Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 325 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 33 knots. This thunderstorm was
-located 28 nm northeast of Playalinda Beach, moving east at 25 knots.
+At 437 PM EDT, a cloud was located 30 nm east of Fort Pierce Inlet,
+moving east at 25 knots.
+
+HAZARD...Wind gusts to 40 knots.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
+         waves, lightning and heavy downpours. Make sure all on
+         board are wearing life jackets. Return to safe harbor if
+         possible.
+
+The cloud will remain over mainly open waters.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 33 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
 
 Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
@@ -44,8 +52,14 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2892 7983 2889 8010 2887 8033 2886 8032
-      2885 8036 2890 8040 2899 8044 2919 8001
+LAT...LON 2728 8035 2729 8031 2724 8026 2746 8037
+      2765 8041 2777 8048 2784 8050 2783 8047
+      2784 8045 2785 8045 2785 8044 2784 8043
+      2797 7961 2723 7942 2721 8033
+TIME...MOT...LOC 2037Z 269DEG 24KT 2761 7974
+
+HAIL...0.00IN
+WIND...40KTS
 
 $$
 
