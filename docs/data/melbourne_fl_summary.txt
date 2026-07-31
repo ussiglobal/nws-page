@@ -1,51 +1,41 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Jul 31, 2026 • 3:00 PM
+Generated: Jul 31, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 92°F; Rain: 74% ; Wind: 10 mph WSW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 92°F; Rain: 74% ; Wind: 10 mph SW
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 46% ; Wind: 5 to 10 mph SW
 • Tomorrow: Saturday — High: 91°F; Low: 78°F; Rain: 77% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 59%
+Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-675
-FZUS72 KMLB 311837
+547
+FZUS72 KMLB 311926
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-237 PM EDT Fri Jul 31 2026
+326 PM EDT Fri Jul 31 2026
 
-AMZ550-311915-
-/O.CON.KMLB.MA.W.0202.000000T0000Z-260731T1915Z/
-237 PM EDT Fri Jul 31 2026
+AMZ570-312030-
+326 PM EDT Fri Jul 31 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 315 PM EDT...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
-For the following areas...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-At 237 PM EDT, a cloud was located near Apollo Beach, or near Oak
-Hill, moving east at 15 knots.
-
-HAZARD...Wind gusts 34 knots or greater.
-
-SOURCE...Radar indicated.
-
-IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher
-         waves, lightning and heavy downpours. Make sure all on
-         board are wearing life jackets. Return to safe harbor if
-         possible.
-
-Locations impacted include...
-Apollo Beach, Eldora, Oak Hill, Shiloh, and Klondike Beach.
+At 325 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 33 knots. This thunderstorm was
+located 28 nm northeast of Playalinda Beach, moving east at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Move to safe harbor until hazardous weather passes.
+Mariners can expect gusty winds to around 33 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
@@ -54,15 +44,8 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2905 8065 2908 8052 2886 8037 2883 8075
-      2881 8074 2881 8075 2879 8073 2879 8075
-      2882 8076 2882 8081 2878 8078 2877 8080
-      2880 8085 2877 8085 2876 8088 2881 8089
-      2884 8085 2894 8090
-TIME...MOT...LOC 1837Z 285DEG 15KT 2887 8073
-
-HAIL...0.00IN
-WIND...>34KTS
+LAT...LON 2892 7983 2889 8010 2887 8033 2886 8032
+      2885 8036 2890 8040 2899 8044 2919 8001
 
 $$
 
