@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 1, 2026 • 2:00 PM
+Generated: Aug 1, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,43 +11,51 @@ Generated: Aug 1, 2026 • 2:00 PM
 Temp: 91.4°F (33°C) · Humidity: 55.8%
 
 🛥️ Marine Weather Statement:
-168
-FZUS72 KMLB 011542
+887
+FZUS72 KMLB 011822
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1142 AM EDT Sat Aug 1 2026
+222 PM EDT Sat Aug 1 2026
 
-AMZ550-011745-
-1142 AM EDT Sat Aug 1 2026
+AMZ552-555-011915-
+222 PM EDT Sat Aug 1 2026
 
-...STRONG THUNDERSTORMS WILL APPROACH THE WATERS THIS AFTERNOON...
+...STRONG THUNDERSTORMS DEVELOPING OVER LAND AND APPROACHING THE
+WATERS THIS AFTERNOON...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 1140 AM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located over South Daytona, moving east at 10 knots. Scattered to
-numerous shower and lightning storm coverage will push off of the
-Volusia coast early through mid this afternoon.
+At 216 PM EDT, Doppler radar indicated developing thunderstorms,
+capable of producing winds to around 33 knots. These thunderstorms
+will push off of the coast through mid to late afternoon, and will
+move east or northeast at 10 to 15 knots. With the sea breeze pinned
+at the coast, storms will likely strengthen rapidly at the coast or
+just off of the coast creating hazardous conditions for boaters.
+Keep an eye to the sky westward for developing and approaching
+storms.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+Mariners can expect gusty winds to around 33 knots, locally higher
+waves, and lightning strikes. Waterspouts are possible with this
+activity near the coast this afternoon. Remain on the alert in case
+warnings are issued for waterspout development.
 
-A special marine warning may eventually be required when these
+Strong thunderstorms this afternoon will likely produce winds in
+excess of 34 knots, and are likely to pose a serious hazard for
+boaters. A special marine warning will likely be required when these
 strong thunderstorms reach the nearshore waters. Boaters should
 consider heading for shore before these strong thunderstorms arrive.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2946 8113 2948 8075
-      2925 8063 2887 8038 2881 8089 2884 8085
-      2938 8113
+LAT...LON 2723 8035 2728 8035 2729 8032 2724 8026
+      2746 8037 2765 8041 2805 8064 2836 8070
+      2843 8020 2822 8026 2722 7982 2721 8034
 
 $$
 
