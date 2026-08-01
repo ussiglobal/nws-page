@@ -1,61 +1,45 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 1, 2026 • 3:00 PM
+Generated: Aug 1, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 93°F; Rain: 63% ; Wind: 10 mph S
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 52% ; Wind: 10 mph SSW
-• Tomorrow: Sunday — High: 91°F; Low: 78°F; Rain: 63% ; Wind: 10 mph SSW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 92°F; Rain: 65% ; Wind: 10 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 53% ; Wind: 10 mph SW
+• Tomorrow: Sunday — High: 89°F; Low: 78°F; Rain: 63% ; Wind: 10 mph SSW
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 55.8%
+Temp: 80.6°F (27°C) · Humidity: 83.7%
 
 🛥️ Marine Weather Statement:
-887
-FZUS72 KMLB 011822
+038
+FZUS72 KMLB 011933
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-222 PM EDT Sat Aug 1 2026
+333 PM EDT Sat Aug 1 2026
 
-AMZ552-555-011915-
-222 PM EDT Sat Aug 1 2026
+AMZ552-012030-
+333 PM EDT Sat Aug 1 2026
 
-...STRONG THUNDERSTORMS DEVELOPING OVER LAND AND APPROACHING THE
-WATERS THIS AFTERNOON...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 216 PM EDT, Doppler radar indicated developing thunderstorms,
-capable of producing winds to around 33 knots. These thunderstorms
-will push off of the coast through mid to late afternoon, and will
-move east or northeast at 10 to 15 knots. With the sea breeze pinned
-at the coast, storms will likely strengthen rapidly at the coast or
-just off of the coast creating hazardous conditions for boaters.
-Keep an eye to the sky westward for developing and approaching
-storms.
+At 333 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+near Playalinda Beach, moving northeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 33 knots, locally higher
-waves, and lightning strikes. Waterspouts are possible with this
-activity near the coast this afternoon. Remain on the alert in case
-warnings are issued for waterspout development.
-
-Strong thunderstorms this afternoon will likely produce winds in
-excess of 34 knots, and are likely to pose a serious hazard for
-boaters. A special marine warning will likely be required when these
-strong thunderstorms reach the nearshore waters. Boaters should
-consider heading for shore before these strong thunderstorms arrive.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2723 8035 2728 8035 2729 8032 2724 8026
-      2746 8037 2765 8041 2805 8064 2836 8070
-      2843 8020 2822 8026 2722 7982 2721 8034
+LAT...LON 2885 8048 2843 8020 2835 8075 2862 8084
 
 $$
 
