@@ -1,45 +1,72 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 1, 2026 • 4:00 PM
+Generated: Aug 1, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 92°F; Rain: 65% ; Wind: 10 mph SSW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 92°F; Rain: 65% ; Wind: 10 mph WSW
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 78°F; Rain: 53% ; Wind: 10 mph SW
 • Tomorrow: Sunday — High: 89°F; Low: 78°F; Rain: 63% ; Wind: 10 mph SSW
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 83.7%
+Temp: 80.6°F (27°C) · Humidity: 78.8%
 
 🛥️ Marine Weather Statement:
-038
-FZUS72 KMLB 011933
+110
+FZUS72 KMLB 012001
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-333 PM EDT Sat Aug 1 2026
+401 PM EDT Sat Aug 1 2026
 
-AMZ552-012030-
-333 PM EDT Sat Aug 1 2026
+AMZ552-012115-
+/O.CON.KMLB.MA.W.0208.000000T0000Z-260801T2115Z/
+401 PM EDT Sat Aug 1 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 515 PM EDT...
 
-The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+For the following areas...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 333 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near Playalinda Beach, moving northeast at 20 knots.
+At 401 PM EDT, a severe thunderstorm capable of producing waterspouts
+was located over Jetty Park, or over Port Canaveral, moving northeast
+at 10 knots.
+
+HAZARD...Waterspouts and wind gusts to 40 knots.
+
+SOURCE...Radar indicated.
+
+IMPACT...Waterspouts can can quickly form and capsize boats, damage
+         vessels and create locally hazardous seas. Make sure all on
+         board are wearing life jackets. Expect wind gusts in excess
+         of 34 knots, suddenly higher waves, lightning and heavy
+         downpours. Make sure all on board are wearing life jackets.
+         Return to safe harbor if possible.
+
+Locations impacted include...
+Port Canaveral, Jetty Park, Cape Canaveral, Cocoa Beach, and Merritt
+Island.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
+
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2885 8048 2843 8020 2835 8075 2862 8084
+LAT...LON 2862 8065 2862 8064 2863 8065 2882 8035
+      2864 8024 2842 8021 2826 8072 2852 8081
+TIME...MOT...LOC 2001Z 244DEG 8KT 2842 8061
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...40KTS
 
 $$
 
