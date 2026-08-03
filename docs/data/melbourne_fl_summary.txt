@@ -1,57 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 3, 2026 • 12:00 PM
+Generated: Aug 3, 2026 • 1:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Mostly Sunny then Showers And Thunderstorms Likely. High: 92°F; Rain: 61% ; Wind: 10 mph SW
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 92°F; Rain: 61% ; Wind: 10 mph SW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 78°F; Rain: 56% ; Wind: 5 to 10 mph S
 • Tomorrow: Tuesday — High: 90°F; Low: 79°F; Rain: 49% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 89.6°F (32°C) · Humidity: 59%
 
 🛥️ Marine Weather Statement:
-140
-FZUS72 KMLB 022129
+828
+FZUS72 KMLB 031646
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-529 PM EDT Sun Aug 2 2026
+1246 PM EDT Mon Aug 3 2026
 
-AMZ550-552-570-572-022330-
-529 PM EDT Sun Aug 2 2026
+AMZ550-552-031745-
+1246 PM EDT Mon Aug 3 2026
 
-...GUSTY SHOWERS AND THUNDERSTORMS APPROACHING THE WATERS...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 526 PM EDT, Doppler radar indicated gusty showers and
-thunderstorms, capable of producing winds to around 30 knots. These
-thunderstorms were located along a line extending from 15 nm
-southwest of Daytona Beach to 27 nm southwest of Maytown, moving
-northeast at 30 knots. An additional storm offshore of the Cape will
-also have the potential to produce gusty winds to 30 knots.
+At 1246 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located over Scottsmoor, moving northeast at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2945 8113 2945 8111
-      2946 8113 2947 8090 2948 8031 2844 7988
-      2840 8073 2857 8080 2884 8085 2941 8113
+LAT...LON 2884 8085 2890 8089 2917 8058 2897 8045
+      2885 8036 2885 8037 2878 8031 2865 8069
+      2867 8073 2866 8075 2864 8074 2861 8084
+      2880 8089
 
 $$
 
-Weitlich
+Leahy
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 115
