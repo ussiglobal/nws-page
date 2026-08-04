@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 4, 2026 • 4:00 PM
+Generated: Aug 4, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,46 +8,38 @@ Generated: Aug 4, 2026 • 4:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 77°F; Rain: 56% ; Wind: 5 to 10 mph S
 • Tomorrow: Wednesday — High: 88°F; Low: 80°F; Rain: 31% ; Wind: 0 to 10 mph ESE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 70.1%
+Temp: 80.6°F (27°C) · Humidity: 74.1%
 
 🛥️ Marine Weather Statement:
-604
-FZUS72 KMLB 041945
+495
+FZUS72 KMLB 042058
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-345 PM EDT Tue Aug 4 2026
+458 PM EDT Tue Aug 4 2026
 
-AMZ555-042045-
-345 PM EDT Tue Aug 4 2026
+AMZ552-042108-
+/O.CAN.KMLB.MA.W.0216.000000T0000Z-260804T2130Z/
+458 PM EDT Tue Aug 4 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 345 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-8 nm east of Indian River Shores, moving northeast at 10 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+The thunderstorm has moved out of the area and no longer poses a
+significant threat to boaters.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2718 8032 2723 8035 2728 8035 2729 8032
-      2729 8031 2724 8026 2746 8037 2765 8041
-      2784 8052 2783 8047 2785 8045 2785 8046
-      2789 8009 2697 7973
+LAT...LON 2849 8039 2789 8012 2784 8052 2807 8065
+      2832 8074
+TIME...MOT...LOC 2057Z 240DEG 11KT 2823 8039
 
 $$
 
-Fehling
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 928
