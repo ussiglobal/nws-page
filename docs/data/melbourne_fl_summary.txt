@@ -1,41 +1,54 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 4, 2026 • 6:00 PM
+Generated: Aug 4, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 89°F; Rain: 60% ; Wind: 10 mph SE
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Mostly Cloudy. Low: 77°F; Rain: 56% ; Wind: 5 to 10 mph S
-• Tomorrow: Wednesday — High: 88°F; Low: 80°F; Rain: 31% ; Wind: 0 to 10 mph ESE
+• Today:    Wednesday — Partly Sunny then Chance Showers And Thunderstorms. High: 88°F; Rain: 31% ; Wind: 0 to 10 mph ESE
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 77°F; Rain: 53% ; Wind: 5 to 10 mph S
+• Tomorrow: Thursday — High: 88°F; Low: 80°F; Rain: 43% ; Wind: 5 to 15 mph E
 🌡️ Current Conditions:
 Temp: 80.6°F (27°C) · Humidity: 83.7%
 
 🛥️ Marine Weather Statement:
-495
-FZUS72 KMLB 042058
+077
+FZUS72 KMLB 042229
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-458 PM EDT Tue Aug 4 2026
+629 PM EDT Tue Aug 4 2026
 
-AMZ552-042108-
-/O.CAN.KMLB.MA.W.0216.000000T0000Z-260804T2130Z/
-458 PM EDT Tue Aug 4 2026
+AMZ550-570-050000-
+629 PM EDT Tue Aug 4 2026
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...STRONG THUNDERSTORMS OVER THE WATERS...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-The thunderstorm has moved out of the area and no longer poses a
-significant threat to boaters.
+At 629 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 21 nm east of Ormond-By-the-Sea
+to 21 nm northeast of South Daytona to 16 nm east of Daytona Beach
+Shores, moving northeast at 20 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+Frequent cloud to water lightning is occurring with these storms. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2849 8039 2789 8012 2784 8052 2807 8065
-      2832 8074
-TIME...MOT...LOC 2057Z 240DEG 11KT 2823 8039
+LAT...LON 2947 8002 2947 7998 2945 7997 2920 7992
+      2915 8081 2947 8084 2948 8070
 
 $$
 
