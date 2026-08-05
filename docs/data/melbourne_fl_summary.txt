@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 4, 2026 • 7:00 PM
+Generated: Aug 4, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,47 +8,33 @@ Generated: Aug 4, 2026 • 7:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 77°F; Rain: 53% ; Wind: 5 to 10 mph S
 • Tomorrow: Thursday — High: 88°F; Low: 80°F; Rain: 43% ; Wind: 5 to 15 mph E
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 83.7%
+Temp: 80.6°F (27°C) · Humidity: 69.7%
 
 🛥️ Marine Weather Statement:
-077
-FZUS72 KMLB 042229
+934
+FZUS72 KMLB 042320
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-629 PM EDT Tue Aug 4 2026
+720 PM EDT Tue Aug 4 2026
 
-AMZ550-570-050000-
-629 PM EDT Tue Aug 4 2026
+AMZ550-042330-
+/O.EXP.KMLB.MA.W.0220.000000T0000Z-260804T2330Z/
+720 PM EDT Tue Aug 4 2026
 
-...STRONG THUNDERSTORMS OVER THE WATERS...
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 730 PM EDT...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+The affected areas were...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 629 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 21 nm east of Ormond-By-the-Sea
-to 21 nm northeast of South Daytona to 16 nm east of Daytona Beach
-Shores, moving northeast at 20 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
-
-Frequent cloud to water lightning is occurring with these storms. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+The storms have weakened and no longer poses a significant threat to
+boaters.
 
 &&
 
-LAT...LON 2947 8002 2947 7998 2945 7997 2920 7992
-      2915 8081 2947 8084 2948 8070
+LAT...LON 2917 8061 2888 8057 2886 8086 2913 8100
+TIME...MOT...LOC 2320Z 189DEG 13KT 2929 8080
 
 $$
 
