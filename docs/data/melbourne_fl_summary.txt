@@ -1,40 +1,49 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 4, 2026 • 8:00 PM
+Generated: Aug 5, 2026 • 3:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Wednesday — Partly Sunny then Chance Showers And Thunderstorms. High: 88°F; Rain: 31% ; Wind: 0 to 10 mph ESE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 77°F; Rain: 53% ; Wind: 5 to 10 mph S
-• Tomorrow: Thursday — High: 88°F; Low: 80°F; Rain: 43% ; Wind: 5 to 15 mph E
+• Today:    Wednesday — Partly Sunny then Chance Showers And Thunderstorms. High: 89°F; Rain: 29% ; Wind: 0 to 10 mph SE
+• Tonight:  Overnight — Mostly Cloudy. Low: 78°F; Rain: 1% ; Wind: 5 mph S
+• Tomorrow: Thursday — High: 89°F; Low: 80°F; Rain: 55% ; Wind: 5 to 15 mph E
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 69.7%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-934
-FZUS72 KMLB 042320
+261
+FZUS72 KMLB 050017
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-720 PM EDT Tue Aug 4 2026
+817 PM EDT Tue Aug 4 2026
 
-AMZ550-042330-
-/O.EXP.KMLB.MA.W.0220.000000T0000Z-260804T2330Z/
-720 PM EDT Tue Aug 4 2026
+AMZ570-572-050215-
+817 PM EDT Tue Aug 4 2026
 
-...THE SPECIAL MARINE WARNING WILL EXPIRE AT 730 PM EDT...
+...STRONG THUNDERSTORMS OVER THE WATERS...
 
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-The storms have weakened and no longer poses a significant threat to
-boaters.
+At 817 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 48 nm northeast of Apollo Beach
+to 38 nm east of Port Canaveral to 40 nm northeast of Sebastian
+Inlet, moving northeast at 15 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2917 8061 2888 8057 2886 8086 2913 8100
-TIME...MOT...LOC 2320Z 189DEG 13KT 2929 8080
+LAT...LON 2947 7998 2901 7967 2866 7955 2829 7954
+      2817 7948 2805 8001 2945 8017 2948 8012
 
 $$
 
