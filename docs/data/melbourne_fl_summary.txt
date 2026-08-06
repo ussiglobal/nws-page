@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 6, 2026 • 4:00 PM
+Generated: Aug 6, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,31 +8,30 @@ Generated: Aug 6, 2026 • 4:00 PM
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms. Low: 81°F; Rain: 21% ; Wind: 10 to 15 mph ENE
 • Tomorrow: Friday — High: 89°F; Low: 80°F; Rain: 59% ; Wind: 15 mph E
 🌡️ Current Conditions:
-Temp: 82.9°F (28.3°C) · Humidity: 82.3%
+Temp: 84.2°F (29°C) · Humidity: 74.5%
 
 🛥️ Marine Weather Statement:
-718
-FZUS72 KMLB 061930
+115
+FZUS72 KMLB 062040
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-330 PM EDT Thu Aug 6 2026
+440 PM EDT Thu Aug 6 2026
 
-AMZ552-555-572-575-062030-
-330 PM EDT Thu Aug 6 2026
+AMZ550-552-570-572-062145-
+440 PM EDT Thu Aug 6 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
-
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 330 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 440 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-12 nm northeast of Indian River Shores, moving west at 20 knots.
+14 nm east of Apollo Beach, or 16 nm east of Oak Hill, moving west at
+35 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,8 +41,9 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2799 7989 2752 7985 2758 8039 2765 8041
-      2809 8065
+LAT...LON 2942 8113 2943 8110 2946 8113 2948 8072
+      2947 8016 2805 8011 2824 8071 2880 8089
+      2884 8085 2938 8113
 
 $$
 
