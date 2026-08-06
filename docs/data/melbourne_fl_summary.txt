@@ -1,53 +1,55 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 5, 2026 • 9:00 PM
+Generated: Aug 5, 2026 • 10:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Thursday — Chance Showers And Thunderstorms. High: 89°F; Rain: 44% ; Wind: 5 to 15 mph E
-• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 18% ; Wind: 5 to 10 mph ESE
+• Tonight:  Tonight — Partly Cloudy. Low: 80°F; Rain: 12% ; Wind: 5 to 10 mph ESE
 • Tomorrow: Friday — High: 89°F; Low: 81°F; Rain: 67% ; Wind: 15 mph E
 🌡️ Current Conditions:
 Temp: 80.6°F (27°C) · Humidity: 78.8%
 
 🛥️ Marine Weather Statement:
-261
-FZUS72 KMLB 050017
+033
+FZUS72 KMLB 060155
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-817 PM EDT Tue Aug 4 2026
+955 PM EDT Wed Aug 5 2026
 
-AMZ570-572-050215-
-817 PM EDT Tue Aug 4 2026
+AMZ555-575-060300-
+955 PM EDT Wed Aug 5 2026
 
-...STRONG THUNDERSTORMS OVER THE WATERS...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 817 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 48 nm northeast of Apollo Beach
-to 38 nm east of Port Canaveral to 40 nm northeast of Sebastian
-Inlet, moving northeast at 15 knots.
+At 955 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+32 nm northeast of Saint Lucie Nuclear Power Plant, moving west at 10
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2947 7998 2901 7967 2866 7955 2829 7954
-      2817 7948 2805 8001 2945 8017 2948 8012
+LAT...LON 2728 8035 2729 8032 2727 8029 2728 8028
+      2746 8037 2765 8041 2785 8052 2785 8049
+      2783 8047 2784 8044 2786 8046 2786 8045
+      2785 8037 2796 7968 2728 7947 2726 8027
+      2725 8028 2725 8035
 
 $$
 
-Sedlock
+Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 698
