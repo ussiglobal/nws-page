@@ -1,46 +1,57 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 6, 2026 • 10:00 PM
+Generated: Aug 7, 2026 • 3:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Friday — Chance Showers And Thunderstorms then Showers And Thunderstorms Likely. High: 89°F; Rain: 59% ; Wind: 15 mph E
-• Tonight:  Tonight — Slight Chance Showers And Thunderstorms. Low: 81°F; Rain: 22% ; Wind: 10 to 15 mph ENE
+• Today:    Friday — Chance Showers And Thunderstorms then Showers And Thunderstorms Likely. High: 89°F; Rain: 69% ; Wind: 15 mph E
+• Tonight:  Overnight — Chance Showers And Thunderstorms. Low: 81°F; Rain: 43% ; Wind: 15 mph ENE
 • Tomorrow: Saturday — High: 90°F; Low: 80°F; Rain: 47% ; Wind: 5 to 15 mph SE
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 88.6%
+Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-247
-FZUS72 KMLB 062323
+119
+FZUS72 KMLB 070653
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-723 PM EDT Thu Aug 6 2026
+253 AM EDT Fri Aug 7 2026
 
-AMZ552-062333-
-/O.EXP.KMLB.MA.W.0222.000000T0000Z-260806T2330Z/
-723 PM EDT Thu Aug 6 2026
+AMZ555-575-070800-
+253 AM EDT Fri Aug 7 2026
 
-...THE SPECIAL MARINE WARNING WILL EXPIRE AT 730 PM EDT...
+A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+At 252 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+7 nm northeast of Hobe Sound Beach, or 8 nm northeast of Jupiter
+Island, moving west to northwest at 15 knots.
 
-The thunderstorm has moved out of the area and no longer poses a
-significant threat to boaters.
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2883 8085 2887 8087 2885 8083 2882 8081
-      2883 8077 2869 8044 2818 8052 2822 8070
-      2869 8086 2880 8089
-TIME...MOT...LOC 2323Z 113DEG 26KT 2876 8114
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2718 8032 2723 8035 2728 8035 2729 8032
+      2724 8026 2731 8029 2731 8012 2729 7960
+      2698 7943
 
 $$
 
-Fehling
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 351
