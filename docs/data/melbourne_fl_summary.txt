@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 7, 2026 • 9:00 PM
+Generated: Aug 7, 2026 • 10:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,19 +8,19 @@ Generated: Aug 7, 2026 • 9:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 80°F; Rain: 33% ; Wind: 10 to 15 mph ESE
 • Tomorrow: Sunday — High: 91°F; Low: 80°F; Rain: 30% ; Wind: 5 to 10 mph SE
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 88.9%
+Temp: 80.6°F (27°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-574
-FZUS72 KMLB 080001
+902
+FZUS72 KMLB 080110
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-801 PM EDT Fri Aug 7 2026
+910 PM EDT Fri Aug 7 2026
 
-AMZ550-552-570-572-080100-
-801 PM EDT Fri Aug 7 2026
+AMZ550-552-570-572-080215-
+910 PM EDT Fri Aug 7 2026
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
@@ -30,9 +30,9 @@ The areas affected include...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 801 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 910 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-near Haulover Canal, moving west at 10 knots.
+near Playalinda Beach, moving northwest at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,9 +42,9 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2942 8113 2920 7979 2901 7967 2866 7955
-      2829 7954 2821 7951 2844 8069 2856 8067
-      2845 8069 2846 8079 2880 8089 2884 8085
+LAT...LON 2943 8110 2946 8113 2947 7998 2893 7964
+      2866 7955 2829 7954 2808 7945 2834 8074
+      2880 8089 2884 8085 2938 8113
 
 $$
 
