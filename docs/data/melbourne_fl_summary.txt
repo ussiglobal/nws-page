@@ -1,38 +1,34 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 7, 2026 • 10:00 PM
+Generated: Aug 7, 2026 • 11:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Saturday — Chance Showers And Thunderstorms. High: 90°F; Rain: 37% ; Wind: 5 to 15 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 80°F; Rain: 33% ; Wind: 10 to 15 mph ESE
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 80°F; Rain: 33% ; Wind: 10 mph ESE
 • Tomorrow: Sunday — High: 91°F; Low: 80°F; Rain: 30% ; Wind: 5 to 10 mph SE
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 88.8%
+Temp: 82.4°F (28°C) · Humidity: 88.9%
 
 🛥️ Marine Weather Statement:
-902
-FZUS72 KMLB 080110
+641
+FZUS72 KMLB 080211
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-910 PM EDT Fri Aug 7 2026
+1011 PM EDT Fri Aug 7 2026
 
-AMZ550-552-570-572-080215-
-910 PM EDT Fri Aug 7 2026
+AMZ552-572-080315-
+1011 PM EDT Fri Aug 7 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
-
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+A Marine Weather Statement has been issued for the following areas...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 910 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near Playalinda Beach, moving northwest at 10 knots.
+At 1011 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located over Titusville Airport, moving northwest at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -40,15 +36,19 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
+
 &&
 
-LAT...LON 2943 8110 2946 8113 2947 7998 2893 7964
-      2866 7955 2829 7954 2808 7945 2834 8074
-      2880 8089 2884 8085 2938 8113
+LAT...LON 2893 7964 2861 7954 2827 7953 2833 8073
+      2880 8089
 
 $$
 
-Fehling
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 466
