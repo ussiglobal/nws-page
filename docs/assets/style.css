@@ -37,7 +37,7 @@ section {
   padding: 1.2rem;
   margin: 0;
   box-sizing: border-box;
-  overflow: auto;
+  /* overflow: auto; -omitted*/
 }
 
 /* Caption styling (used on all pages with #data-caption) */
@@ -71,6 +71,7 @@ section {
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   color: #fff;
   margin: 0;
+  overflow: visible; /*added*/
 }
 #weather-summary h2 {
   font-size: 1.8rem;
@@ -86,7 +87,7 @@ section {
 }
 .weather-card {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px,1fr));
+  grid-template-columns: repeat(auto-fit, minmax(120px,1fr)); /*add*/
   gap: .8rem;
   margin-top: .5rem;
 }
@@ -116,7 +117,8 @@ section {
   margin-top: .25rem;
 }
 .sparkline {
-  width: 100px;
+  width: 40 px auto; /*changed value and added auto*/
+  max-width: 60px; /*added*/
   height: 30px;
   margin: .3rem auto;
 }
@@ -128,7 +130,8 @@ section {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   text-align: left;
   color: #333;
-  margin: 0;
+  margin: 0; 
+  overflow: visible; /*added*/
 }
 #surf-forecast h2 {
   font-size: 1.8rem;
@@ -142,7 +145,7 @@ section {
   margin: .1rem 0 1rem;
 }
 .surf-container {
-  display: flex;
+  display: flex auto; /*added auto*/
   gap: .5rem;
 }
 .surf-list { flex: 1; }
