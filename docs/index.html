@@ -56,7 +56,7 @@
     }
     .weather-card {
       display: grid;
-      grid-template-columns: repeat(5,1fr);
+      grid-template-columns: repeat(auto-fit,minmax(120px,1fr)); /* changed repeat value 5,1fr */
       gap: 1rem;
       margin-top: 1rem;
     }
@@ -185,6 +185,7 @@
   display: flex;
   align-items: flex-start;
   gap: 1rem;
+  flex-wrap:wrap; /*added*/
 }
 
 /* left side takes remaining space */
