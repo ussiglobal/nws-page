@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 12, 2026 • 5:00 PM
+Generated: Aug 12, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,26 +8,28 @@ Generated: Aug 12, 2026 • 5:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 31% ; Wind: 5 mph SSW
 • Tomorrow: Thursday — High: 93°F; Low: 80°F; Rain: 28% ; Wind: 5 to 10 mph WNW
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 62.9%
+Temp: 89.6°F (32°C) · Humidity: 62.7%
 
 🛥️ Marine Weather Statement:
-448
-FZUS72 KMLB 121920
+053
+FZUS72 KMLB 122138
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-320 PM EDT Wed Aug 12 2026
+538 PM EDT Wed Aug 12 2026
 
-AMZ555-122015-
-320 PM EDT Wed Aug 12 2026
+AMZ550-122245-
+538 PM EDT Wed Aug 12 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+...A GUST FRONT ALONG THE SOUTHERN VOLUSIA COAST...
 
-At 319 PM EDT, Doppler radar indicated a cluster of thunderstorms,
-capable of producing winds to around 30 knots. These thunderstorms
-were located over Fort Pierce South, moving southeast at 5 knots.
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+
+At 537 PM EDT, Doppler radar indicated a front, capable of producing
+winds to around 30 knots. This front was located over New Smyrna
+Beach, moving south at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,12 +39,13 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2715 8025 2728 8035 2729 8032 2724 8026
-      2746 8037 2750 8038 2753 8029 2725 8002
+LAT...LON 2933 8073 2885 8053 2883 8072 2882 8075
+      2882 8077 2883 8078 2882 8081 2881 8080
+      2880 8089 2881 8089 2884 8085 2923 8105
 
 $$
 
-Kelly
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 322
