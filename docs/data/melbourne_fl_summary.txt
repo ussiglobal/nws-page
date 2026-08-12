@@ -1,35 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 12, 2026 • 6:00 PM
+Generated: Aug 12, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 94°F; Rain: 19% ; Wind: 5 mph ENE
+• Today:    Thursday — Sunny then Chance Showers And Thunderstorms. High: 93°F; Rain: 28% ; Wind: 5 to 10 mph WNW
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 31% ; Wind: 5 mph SSW
-• Tomorrow: Thursday — High: 93°F; Low: 80°F; Rain: 28% ; Wind: 5 to 10 mph WNW
+• Tomorrow: Friday — High: 92°F; Low: 80°F; Rain: 18% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 84.2°F (29°C) · Humidity: 70.1%
 
 🛥️ Marine Weather Statement:
-053
-FZUS72 KMLB 122138
+134
+FZUS72 KMLB 122243
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-538 PM EDT Wed Aug 12 2026
+643 PM EDT Wed Aug 12 2026
 
-AMZ550-122245-
-538 PM EDT Wed Aug 12 2026
+AMZ550-552-122345-
+643 PM EDT Wed Aug 12 2026
 
-...A GUST FRONT ALONG THE SOUTHERN VOLUSIA COAST...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS NORTH OF CAPE
+CANAVERAL...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 537 PM EDT, Doppler radar indicated a front, capable of producing
-winds to around 30 knots. This front was located over New Smyrna
-Beach, moving south at 15 knots.
+At 643 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Scottsmoor, moving southeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,9 +41,10 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2933 8073 2885 8053 2883 8072 2882 8075
-      2882 8077 2883 8078 2882 8081 2881 8080
-      2880 8089 2881 8089 2884 8085 2923 8105
+LAT...LON 2883 8085 2890 8088 2899 8084 2886 8037
+      2876 8030 2838 8048 2846 8068 2856 8065
+      2856 8067 2851 8069 2847 8070 2851 8081
+      2880 8089
 
 $$
 
