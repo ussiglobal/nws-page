@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 14, 2026 • 3:00 PM
+Generated: Aug 14, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,28 +8,29 @@ Generated: Aug 14, 2026 • 3:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Clear. Low: 80°F; Rain: 26% ; Wind: 5 to 10 mph SSE
 • Tomorrow: Saturday — High: 93°F; Low: 80°F; Rain: 11% ; Wind: 0 to 10 mph SE
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 55.8%
+Temp: 93.2°F (34°C) · Humidity: 52.8%
 
 🛥️ Marine Weather Statement:
-160
-FZUS72 KMLB 141439
+982
+FZUS72 KMLB 141940
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1039 AM EDT Fri Aug 14 2026
+340 PM EDT Fri Aug 14 2026
 
-AMZ572-575-141530-
-1039 AM EDT Fri Aug 14 2026
+AMZ552-142015-
+340 PM EDT Fri Aug 14 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+...A STRONG THUNDERSTORM OVER THE INTRACOASTAL WATERS NEAR
+TITUSVILLE...
 
-At 1037 AM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located 45 nm east of Indian River Shores, moving northwest at 10
-knots.
+The areas affected include...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+
+At 340 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Titusville. The thunderstorm was nearly stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,14 +38,21 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
+
 &&
 
-LAT...LON 2773 7960 2791 7985 2827 7953 2819 7949
-      2812 7947 2806 7943 2795 7940
+LAT...LON 2883 8085 2886 8087 2888 8081 2887 8081
+      2886 8083 2885 8083 2886 8081 2882 8081
+      2883 8077 2886 8078 2883 8076 2883 8074
+      2863 8060 2844 8078 2864 8085 2880 8089
 
 $$
 
-Law
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 174
