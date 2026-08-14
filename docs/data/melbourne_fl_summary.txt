@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 14, 2026 • 10:00 AM
+Generated: Aug 14, 2026 • 11:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,38 +8,43 @@ Generated: Aug 14, 2026 • 10:00 AM
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Mostly Clear. Low: 80°F; Rain: 18% ; Wind: 5 to 10 mph S
 • Tomorrow: Saturday — High: 93°F; Low: 80°F; Rain: 17% ; Wind: 0 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 70.3%
+Temp: 87.8°F (31°C) · Humidity: 66.4%
 
 🛥️ Marine Weather Statement:
-921
-FZUS72 KMLB 130006
+160
+FZUS72 KMLB 141439
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-806 PM EDT Wed Aug 12 2026
+1039 AM EDT Fri Aug 14 2026
 
-AMZ552-130016-
-/O.EXP.KMLB.MA.W.0226.000000T0000Z-260813T0015Z/
-806 PM EDT Wed Aug 12 2026
+AMZ572-575-141530-
+1039 AM EDT Fri Aug 14 2026
 
-...THE SPECIAL MARINE WARNING WILL EXPIRE AT 815 PM EDT...
+A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+At 1037 AM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located 45 nm east of Indian River Shores, moving northwest at 10
+knots.
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2870 8083 2882 8076 2885 8038 2823 8038
-      2825 8071 2864 8085
-TIME...MOT...LOC 0006Z 317DEG 16KT 2840 8054
+LAT...LON 2773 7960 2791 7985 2827 7953 2819 7949
+      2812 7947 2806 7943 2795 7940
 
 $$
 
-Heil
+Law
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 412
