@@ -1,58 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 15, 2026 • 3:00 PM
+Generated: Aug 15, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 93°F; Rain: 16% ; Wind: 10 mph ESE
-• Tonight:  Tonight — Mostly Clear. Low: 80°F; Rain: 8% ; Wind: 5 to 10 mph S
-• Tomorrow: Sunday — High: 94°F; Low: 80°F; Rain: 12% ; Wind: 5 to 10 mph SSW
+• Today:    This Afternoon — Mostly Sunny. High: 93°F; Rain: 11% ; Wind: 10 mph ESE
+• Tonight:  Tonight — Mostly Clear. Low: 80°F; Rain: 6% ; Wind: 5 to 10 mph SSE
+• Tomorrow: Sunday — High: 94°F; Low: 80°F; Rain: 13% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 0%
+Temp: 84.2°F (29°C) · Humidity: 70.1%
 
 🛥️ Marine Weather Statement:
-982
-FZUS72 KMLB 141940
+573
+FZUS72 KMLB 151938
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-340 PM EDT Fri Aug 14 2026
+338 PM EDT Sat Aug 15 2026
 
-AMZ552-142015-
-340 PM EDT Fri Aug 14 2026
+AMZ555-152045-
+338 PM EDT Sat Aug 15 2026
 
-...A STRONG THUNDERSTORM OVER THE INTRACOASTAL WATERS NEAR
-TITUSVILLE...
+...STRONG THUNDERSTORMS APPROACHING THE TREASURE COAST...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 340 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Titusville. The thunderstorm was nearly stationary.
+At 337 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from Gifford to Walton to 6 nm west of
+Hobe Sound, moving northeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2883 8085 2886 8087 2888 8081 2887 8081
-      2886 8083 2885 8083 2886 8081 2882 8081
-      2883 8077 2886 8078 2883 8076 2883 8074
-      2863 8060 2844 8078 2864 8085 2880 8089
+LAT...LON 2711 8018 2715 8022 2713 8027 2716 8030
+      2723 8030 2729 8032 2724 8026 2746 8037
+      2765 8041 2777 8048 2786 8024 2744 8007
+      2706 7998 2700 8012
 
 $$
 
-Haley
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 368
