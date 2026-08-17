@@ -1,68 +1,41 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 17, 2026 • 6:00 PM
+Generated: Aug 17, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Sunny. High: 97°F; Rain: 9% ; Wind: 5 mph SE
+• Today:    Tuesday — Sunny then Chance Showers And Thunderstorms. High: 96°F; Rain: 53% ; Wind: 5 to 10 mph WSW
 • Tonight:  Tonight — Mostly Clear. Low: 81°F; Rain: 13% ; Wind: 5 to 10 mph SW
-• Tomorrow: Tuesday — High: 96°F; Low: 81°F; Rain: 53% ; Wind: 5 to 10 mph WSW
+• Tomorrow: Wednesday — High: 95°F; Low: 81°F; Rain: 59% ; Wind: 5 to 10 mph SW
 🌡️ Current Conditions:
-Temp: 96.8°F (36°C) · Humidity: 44.4%
+Temp: 96.8°F (36°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-296
-FZUS72 KMLB 172131
+499
+FZUS72 KMLB 172229
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-531 PM EDT Mon Aug 17 2026
+629 PM EDT Mon Aug 17 2026
 
-AMZ550-172145-
-/O.CON.KMLB.MA.W.0228.000000T0000Z-260817T2145Z/
-531 PM EDT Mon Aug 17 2026
+AMZ550-172238-
+/O.CAN.KMLB.MA.W.0229.000000T0000Z-260817T2245Z/
+629 PM EDT Mon Aug 17 2026
 
-...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 545 PM EDT...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-For the following areas...
+The affected areas were...
 Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 531 PM EDT, a severe thunderstorm capable of producing waterspouts
-was located near New Smyrna Beach, moving southeast at 15 knots.
-
-HAZARD...Waterspouts and wind gusts to 40 knots.
-
-SOURCE...Radar indicated.
-
-IMPACT...Waterspouts can can quickly form and capsize boats, damage
-         vessels and create locally hazardous seas. Make sure all on
-         board are wearing life jackets. Expect wind gusts in excess
-         of 34 knots, suddenly higher waves, lightning and heavy
-         downpours. Make sure all on board are wearing life jackets.
-         Return to safe harbor if possible.
-
-Locations impacted include...
-Ponce Inlet, New Smyrna Beach Airport, Wilbur By The Sea, Harbor
-Oaks, and Bethune Beach.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Move to safe harbor immediately as gusty winds and high waves are
-expected.
-
-Thunderstorms can produce sudden waterspouts. Waterspouts can easily
-overturn boats and create locally hazardous seas. Seek safe harbor
-immediately.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2924 8080 2899 8065 2896 8092 2918 8102
-TIME...MOT...LOC 2131Z 309DEG 14KT 2910 8087
-
-WATERSPOUT...POSSIBLE
-HAIL...0.00IN
-WIND...40KTS
+LAT...LON 2912 8091 2923 8067 2888 8045 2883 8084
+      2906 8095
+TIME...MOT...LOC 2227Z 317DEG 17KT 2892 8056
 
 $$
 
