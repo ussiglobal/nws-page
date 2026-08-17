@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 17, 2026 • 5:00 PM
+Generated: Aug 17, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,46 +8,65 @@ Generated: Aug 17, 2026 • 5:00 PM
 • Tonight:  Tonight — Mostly Clear. Low: 81°F; Rain: 13% ; Wind: 5 to 10 mph SW
 • Tomorrow: Tuesday — High: 96°F; Low: 81°F; Rain: 53% ; Wind: 5 to 10 mph WSW
 🌡️ Current Conditions:
-Temp: 96.8°F (36°C) · Humidity: 0%
+Temp: 96.8°F (36°C) · Humidity: 44.4%
 
 🛥️ Marine Weather Statement:
-573
-FZUS72 KMLB 151938
+296
+FZUS72 KMLB 172131
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-338 PM EDT Sat Aug 15 2026
+531 PM EDT Mon Aug 17 2026
 
-AMZ555-152045-
-338 PM EDT Sat Aug 15 2026
+AMZ550-172145-
+/O.CON.KMLB.MA.W.0228.000000T0000Z-260817T2145Z/
+531 PM EDT Mon Aug 17 2026
 
-...STRONG THUNDERSTORMS APPROACHING THE TREASURE COAST...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 545 PM EDT...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+For the following areas...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 337 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Gifford to Walton to 6 nm west of
-Hobe Sound, moving northeast at 5 knots.
+At 531 PM EDT, a severe thunderstorm capable of producing waterspouts
+was located near New Smyrna Beach, moving southeast at 15 knots.
+
+HAZARD...Waterspouts and wind gusts to 40 knots.
+
+SOURCE...Radar indicated.
+
+IMPACT...Waterspouts can can quickly form and capsize boats, damage
+         vessels and create locally hazardous seas. Make sure all on
+         board are wearing life jackets. Expect wind gusts in excess
+         of 34 knots, suddenly higher waves, lightning and heavy
+         downpours. Make sure all on board are wearing life jackets.
+         Return to safe harbor if possible.
+
+Locations impacted include...
+Ponce Inlet, New Smyrna Beach Airport, Wilbur By The Sea, Harbor
+Oaks, and Bethune Beach.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
 
 &&
 
-LAT...LON 2711 8018 2715 8022 2713 8027 2716 8030
-      2723 8030 2729 8032 2724 8026 2746 8037
-      2765 8041 2777 8048 2786 8024 2744 8007
-      2706 7998 2700 8012
+LAT...LON 2924 8080 2899 8065 2896 8092 2918 8102
+TIME...MOT...LOC 2131Z 309DEG 14KT 2910 8087
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...40KTS
 
 $$
 
-Heil
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 521
