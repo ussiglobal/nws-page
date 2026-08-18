@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 18, 2026 • 4:00 PM
+Generated: Aug 18, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,49 +8,38 @@ Generated: Aug 18, 2026 • 4:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 81°F; Rain: 33% ; Wind: 5 to 10 mph SW
 • Tomorrow: Wednesday — High: 94°F; Low: 80°F; Rain: 54% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 70.5%
+Temp: 87.8°F (31°C) · Humidity: 62.5%
 
 🛥️ Marine Weather Statement:
-760
-FZUS72 KMLB 181953
+474
+FZUS72 KMLB 182032
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-353 PM EDT Tue Aug 18 2026
+432 PM EDT Tue Aug 18 2026
 
-AMZ552-572-182100-
-353 PM EDT Tue Aug 18 2026
+AMZ572-182042-
+/O.CAN.KMLB.MA.W.0233.000000T0000Z-260818T2100Z/
+432 PM EDT Tue Aug 18 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-At 353 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 13 nm east of Port Canaveral to
-18 nm east of Satellite Beach to Roseland, moving southeast at 20
-knots.
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
-
-Frequent cloud to water lightning is occurring with these storms. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2782 8051 2797 8059 2837 8041 2850 7954
-      2829 7954 2800 7942
+LAT...LON 2792 7994 2818 8025 2823 8026 2827 8026
+      2831 8023 2831 7968
+TIME...MOT...LOC 2029Z 294DEG 21KT 2814 8003
 
 $$
 
-Watson
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 327
