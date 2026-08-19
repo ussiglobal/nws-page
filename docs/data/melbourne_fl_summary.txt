@@ -1,53 +1,45 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 19, 2026 • 6:00 PM
+Generated: Aug 19, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 95°F; Rain: 54% ; Wind: 10 mph SSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 42% ; Wind: 5 to 10 mph SW
-• Tomorrow: Thursday — High: 92°F; Low: 79°F; Rain: 47% ; Wind: 5 to 10 mph ENE
+• Today:    Thursday — Mostly Sunny then Chance Showers And Thunderstorms. High: 92°F; Rain: 47% ; Wind: 5 to 10 mph ENE
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 30% ; Wind: 5 to 10 mph SW
+• Tomorrow: Friday — High: 92°F; Low: 79°F; Rain: 51% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 0%
+Temp: 87.8°F (31°C) · Humidity: 62.5%
 
 🛥️ Marine Weather Statement:
-913
-FZUS72 KMLB 192144
+342
+FZUS72 KMLB 192218
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-544 PM EDT Wed Aug 19 2026
+618 PM EDT Wed Aug 19 2026
 
-AMZ552-192245-
-544 PM EDT Wed Aug 19 2026
+AMZ555-192228-
+/O.CAN.KMLB.MA.W.0235.000000T0000Z-260819T2315Z/
+618 PM EDT Wed Aug 19 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-At 543 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Sharpes, moving north at 15 knots.
+The affected areas were...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+The thunderstorms have weakened and no longer pose a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2884 8055 2825 8039 2819 8069 2860 8084
-      2881 8089
+LAT...LON 2697 8011 2714 8020 2750 8037 2762 8010
+      2697 7984
+TIME...MOT...LOC 2216Z 223DEG 8KT 2742 8033 2703 8023
 
 $$
 
-Watson
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 438
