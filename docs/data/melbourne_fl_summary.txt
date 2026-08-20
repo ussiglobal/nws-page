@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 20, 2026 • 1:00 PM
+Generated: Aug 20, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,38 +8,46 @@ Generated: Aug 20, 2026 • 1:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 32% ; Wind: 5 to 10 mph S
 • Tomorrow: Friday — High: 93°F; Low: 79°F; Rain: 54% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 93.2°F (34°C) · Humidity: 59.5%
+Temp: 87.8°F (31°C) · Humidity: 70.5%
 
 🛥️ Marine Weather Statement:
-342
-FZUS72 KMLB 192218
+074
+FZUS72 KMLB 201757
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-618 PM EDT Wed Aug 19 2026
+157 PM EDT Thu Aug 20 2026
 
-AMZ555-192228-
-/O.CAN.KMLB.MA.W.0235.000000T0000Z-260819T2315Z/
-618 PM EDT Wed Aug 19 2026
+AMZ552-201900-
+157 PM EDT Thu Aug 20 2026
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+A Marine Weather Statement has been issued for the following areas...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The affected areas were...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
+At 157 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Titusville Airport. The thunderstorm was nearly stationary.
 
-The thunderstorms have weakened and no longer pose a significant
-threat to boaters.
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2697 8011 2714 8020 2750 8037 2762 8010
-      2697 7984
-TIME...MOT...LOC 2216Z 223DEG 8KT 2742 8033 2703 8023
+LAT...LON 2877 8057 2787 8025 2783 8051 2807 8065
+      2872 8087
 
 $$
 
-Weitlich
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 644
