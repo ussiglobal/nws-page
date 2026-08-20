@@ -1,33 +1,33 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 20, 2026 • 2:00 PM
+Generated: Aug 20, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 41% ; Wind: 5 to 10 mph ESE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 41% ; Wind: 10 mph ESE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 32% ; Wind: 5 to 10 mph S
 • Tomorrow: Friday — High: 93°F; Low: 79°F; Rain: 54% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 70.5%
+Temp: 82.4°F (28°C) · Humidity: 78.9%
 
 🛥️ Marine Weather Statement:
-074
-FZUS72 KMLB 201757
+318
+FZUS72 KMLB 201856
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-157 PM EDT Thu Aug 20 2026
+256 PM EDT Thu Aug 20 2026
 
-AMZ552-201900-
-157 PM EDT Thu Aug 20 2026
+AMZ550-202000-
+256 PM EDT Thu Aug 20 2026
 
 A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 157 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 256 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Titusville Airport. The thunderstorm was nearly stationary.
+over Ormond-By-the-Sea. The thunderstorm was nearly stationary.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,8 +42,9 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2877 8057 2787 8025 2783 8051 2807 8065
-      2872 8087
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8103
+      2947 8094 2919 8081 2915 8101 2938 8113
 
 $$
 
