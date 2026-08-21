@@ -1,35 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 21, 2026 • 6:00 PM
+Generated: Aug 21, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 93°F; Rain: 31% ; Wind: 10 mph ESE
+• Today:    Saturday — Mostly Sunny then Slight Chance Showers And Thunderstorms. High: 95°F; Rain: 19% ; Wind: 5 to 10 mph S
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 36% ; Wind: 10 mph S
-• Tomorrow: Saturday — High: 95°F; Low: 79°F; Rain: 19% ; Wind: 5 to 10 mph S
+• Tomorrow: Sunday — High: 94°F; Low: 79°F; Rain: 53% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 87.8°F (31°C) · Humidity: 70.5%
 
 🛥️ Marine Weather Statement:
-283
-FZUS72 KMLB 212020
+854
+FZUS72 KMLB 212232
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-420 PM EDT Fri Aug 21 2026
+632 PM EDT Fri Aug 21 2026
 
-AMZ555-212115-
-420 PM EDT Fri Aug 21 2026
+AMZ552-555-212330-
+632 PM EDT Fri Aug 21 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 420 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 632 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Hobe Sound. The thunderstorm was nearly stationary.
+over Palm Bay, moving northeast at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,9 +40,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
-      2718 8032 2723 8035 2728 8035 2729 8032
-      2724 8026 2733 8030 2736 8004 2697 7992
+LAT...LON 2840 8037 2738 8007 2736 8032 2746 8037
+      2765 8041 2807 8065 2837 8076
 
 $$
 
