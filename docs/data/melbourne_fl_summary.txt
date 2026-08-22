@@ -1,35 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 22, 2026 • 5:00 PM
+Generated: Aug 22, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 94°F; Rain: 39% ; Wind: 10 mph ESE
+• Today:    Sunday — Mostly Sunny then Slight Chance Showers And Thunderstorms. High: 95°F; Rain: 18% ; Wind: 5 to 10 mph SSE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 41% ; Wind: 5 to 10 mph S
-• Tomorrow: Sunday — High: 95°F; Low: 79°F; Rain: 18% ; Wind: 5 to 10 mph SSE
+• Tomorrow: Monday — High: 94°F; Low: 79°F; Rain: 13% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 70.5%
+Temp: 84.2°F (29°C) · Humidity: 70.1%
 
 🛥️ Marine Weather Statement:
-238
-FZUS72 KMLB 222059
+660
+FZUS72 KMLB 222101
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-459 PM EDT Sat Aug 22 2026
+501 PM EDT Sat Aug 22 2026
 
-AMZ552-222200-
-459 PM EDT Sat Aug 22 2026
+AMZ550-222200-
+501 PM EDT Sat Aug 22 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 459 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 501 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-near Titusville Airport, moving northeast at 10 knots.
+near Ormond-By-the-Sea, moving northeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,8 +39,10 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2882 8088 2884 8054 2843 8036 2837 8075
-      2860 8084 2881 8089
+LAT...LON 2942 8113 2942 8111 2943 8110 2943 8112
+      2944 8111 2945 8111 2945 8112 2946 8112
+      2946 8113 2947 8092 2936 8088 2934 8111
+      2938 8113
 
 $$
 
