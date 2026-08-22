@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 22, 2026 • 6:00 PM
+Generated: Aug 22, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,38 +11,31 @@ Generated: Aug 22, 2026 • 6:00 PM
 Temp: 84.2°F (29°C) · Humidity: 70.1%
 
 🛥️ Marine Weather Statement:
-660
-FZUS72 KMLB 222101
+382
+FZUS72 KMLB 222251
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-501 PM EDT Sat Aug 22 2026
+651 PM EDT Sat Aug 22 2026
 
-AMZ550-222200-
-501 PM EDT Sat Aug 22 2026
+AMZ552-222301-
+/O.CAN.KMLB.MA.W.0249.000000T0000Z-260822T2315Z/
+651 PM EDT Sat Aug 22 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING IS CANCELLED...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The affected areas were...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 501 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near Ormond-By-the-Sea, moving northeast at 10 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+The thunderstorm has moved out of the area and no longer poses a
+significant threat to boaters.
 
 &&
 
-LAT...LON 2942 8113 2942 8111 2943 8110 2943 8112
-      2944 8111 2945 8111 2945 8112 2946 8112
-      2946 8113 2947 8092 2936 8088 2934 8111
-      2938 8113
+LAT...LON 2873 8042 2856 8021 2852 8020 2851 8020
+      2839 8076 2868 8086
+TIME...MOT...LOC 2248Z 225DEG 18KT 2876 8048
 
 $$
 
