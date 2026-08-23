@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 23, 2026 • 4:00 AM
+Generated: Aug 23, 2026 • 5:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,28 +8,28 @@ Generated: Aug 23, 2026 • 4:00 AM
 • Tonight:  Overnight — Partly Cloudy. Low: 80°F; Rain: 2% ; Wind: 5 mph SW
 • Tomorrow: Monday — High: 93°F; Low: 79°F; Rain: 18% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 83.6%
+Temp: 77°F (25°C) · Humidity: 88.7%
 
 🛥️ Marine Weather Statement:
-016
-FZUS72 KMLB 230459
+680
+FZUS72 KMLB 230826
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1259 AM EDT Sun Aug 23 2026
+426 AM EDT Sun Aug 23 2026
 
-AMZ570-230545-
-1259 AM EDT Sun Aug 23 2026
+AMZ575-230930-
+426 AM EDT Sun Aug 23 2026
 
-...A STRONG THUNDERSTORM IN THE GULF STREAM OFF VOLUSIA COUNTY...
+...A STRONG THUNDERSTORM OFF THE TREASURE COAST...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 1258 AM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located 48 nm northeast of Playalinda Beach, moving northeast at 25
+At 426 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+39 nm east of Saint Lucie Nuclear Power Plant, moving northeast at 20
 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
@@ -40,8 +40,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2923 7982 2916 7975 2898 7966 2892 7972
-      2892 7980 2909 8011 2940 7993
+LAT...LON 2712 7973 2740 7968 2759 7984 2800 7942
+      2738 7917 2697 7967
 
 $$
 
