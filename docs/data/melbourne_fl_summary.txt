@@ -1,36 +1,34 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 23, 2026 • 3:00 PM
+Generated: Aug 23, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 95°F; Rain: 35% ; Wind: 10 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 31% ; Wind: 5 to 10 mph S
-• Tomorrow: Monday — High: 93°F; Low: 80°F; Rain: 18% ; Wind: 5 to 15 mph S
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 95°F; Rain: 50% ; Wind: 5 to 10 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 44% ; Wind: 5 mph S
+• Tomorrow: Monday — High: 93°F; Low: 80°F; Rain: 17% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
-Temp: 91.4°F (33°C) · Humidity: 52.5%
+Temp: 93.2°F (34°C) · Humidity: 46.7%
 
 🛥️ Marine Weather Statement:
 680
-FZUS72 KMLB 230826
+FZUS72 KMLB 231907
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-426 AM EDT Sun Aug 23 2026
+307 PM EDT Sun Aug 23 2026
 
-AMZ575-230930-
-426 AM EDT Sun Aug 23 2026
+AMZ550-552-231945-
+307 PM EDT Sun Aug 23 2026
 
-...A STRONG THUNDERSTORM OFF THE TREASURE COAST...
+A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
-
-At 426 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 307 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-39 nm east of Saint Lucie Nuclear Power Plant, moving northeast at 20
-knots.
+over Oak Hill, moving east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,14 +36,20 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
+
 &&
 
-LAT...LON 2712 7973 2740 7968 2759 7984 2800 7942
-      2738 7917 2697 7967
+LAT...LON 2884 8085 2889 8088 2900 8047 2870 8027
+      2866 8070 2867 8073 2865 8075 2864 8085
+      2880 8089
 
 $$
 
-Heil
+Watson
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 693
