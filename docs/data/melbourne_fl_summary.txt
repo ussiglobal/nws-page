@@ -1,47 +1,51 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 22, 2026 • 11:00 PM
+Generated: Aug 23, 2026 • 3:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Sunday — Mostly Sunny then Slight Chance Showers And Thunderstorms. High: 95°F; Rain: 18% ; Wind: 5 to 10 mph SSE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 29% ; Wind: 5 to 10 mph SSW
-• Tomorrow: Monday — High: 94°F; Low: 79°F; Rain: 13% ; Wind: 5 to 15 mph S
+• Today:    Sunday — Mostly Sunny then Chance Showers And Thunderstorms. High: 95°F; Rain: 35% ; Wind: 5 to 10 mph S
+• Tonight:  Overnight — Partly Cloudy. Low: 80°F; Rain: 2% ; Wind: 5 mph SW
+• Tomorrow: Monday — High: 93°F; Low: 79°F; Rain: 18% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 69.9%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-148
-FZUS72 KMLB 222355
+016
+FZUS72 KMLB 230459
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-755 PM EDT Sat Aug 22 2026
+1259 AM EDT Sun Aug 23 2026
 
-AMZ550-230005-
-/O.CAN.KMLB.MA.W.0252.000000T0000Z-260823T0015Z/
-755 PM EDT Sat Aug 22 2026
+AMZ570-230545-
+1259 AM EDT Sun Aug 23 2026
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM IN THE GULF STREAM OFF VOLUSIA COUNTY...
 
-The affected areas were...
-Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+At 1258 AM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located 48 nm northeast of Playalinda Beach, moving northeast at 25
+knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
-      2945 8111 2945 8112 2946 8112 2946 8113
-      2947 8103 2947 8093 2891 8064 2885 8086
-      2938 8113
-TIME...MOT...LOC 2353Z 256DEG 8KT 2920 8084
+LAT...LON 2923 7982 2916 7975 2898 7966 2892 7972
+      2892 7980 2909 8011 2940 7993
 
 $$
 
-Fehling
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 855
