@@ -1,41 +1,47 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 23, 2026 • 5:00 PM
+Generated: Aug 23, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 95°F; Rain: 40% ; Wind: 5 mph ESE
+• Today:    Monday — Sunny then Slight Chance Showers And Thunderstorms. High: 93°F; Rain: 17% ; Wind: 5 to 15 mph S
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 44% ; Wind: 5 mph S
-• Tomorrow: Monday — High: 93°F; Low: 80°F; Rain: 17% ; Wind: 5 to 15 mph S
+• Tomorrow: Tuesday — High: 93°F; Low: 80°F; Rain: 32% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 59%
+Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-775
-FZUS72 KMLB 232051
+348
+FZUS72 KMLB 232144
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-451 PM EDT Sun Aug 23 2026
+544 PM EDT Sun Aug 23 2026
 
-AMZ552-232100-
-/O.EXP.KMLB.MA.W.0254.000000T0000Z-260823T2100Z/
-451 PM EDT Sun Aug 23 2026
+AMZ555-232245-
+544 PM EDT Sun Aug 23 2026
 
-...THE SPECIAL MARINE WARNING WILL EXPIRE AT 500 PM EDT...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
-The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-The thunderstorm has weakened and no longer poses a significant
-threat to boaters.
+At 544 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Saint Lucie Nuclear Power Plant, moving east at 5 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2852 8030 2826 8026 2825 8027 2819 8025
-      2814 8067 2841 8077
-TIME...MOT...LOC 2050Z 251DEG 10KT 2834 8042
+LAT...LON 2714 8026 2729 8032 2724 8026 2746 8037
+      2750 8038 2754 7999 2715 7988 2714 8021
+      2715 8022
 
 $$
 
