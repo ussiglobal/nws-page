@@ -1,41 +1,43 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 22, 2026 • 7:00 PM
+Generated: Aug 22, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Mostly Sunny then Slight Chance Showers And Thunderstorms. High: 95°F; Rain: 18% ; Wind: 5 to 10 mph SSE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 41% ; Wind: 5 to 10 mph S
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 33% ; Wind: 5 to 10 mph S
 • Tomorrow: Monday — High: 94°F; Low: 79°F; Rain: 13% ; Wind: 5 to 15 mph S
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 70.1%
+Temp: 82.4°F (28°C) · Humidity: 65.8%
 
 🛥️ Marine Weather Statement:
-382
-FZUS72 KMLB 222251
+148
+FZUS72 KMLB 222355
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-651 PM EDT Sat Aug 22 2026
+755 PM EDT Sat Aug 22 2026
 
-AMZ552-222301-
-/O.CAN.KMLB.MA.W.0249.000000T0000Z-260822T2315Z/
-651 PM EDT Sat Aug 22 2026
+AMZ550-230005-
+/O.CAN.KMLB.MA.W.0252.000000T0000Z-260823T0015Z/
+755 PM EDT Sat Aug 22 2026
 
 ...THE SPECIAL MARINE WARNING IS CANCELLED...
 
 The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-The thunderstorm has moved out of the area and no longer poses a
-significant threat to boaters.
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
 
 &&
 
-LAT...LON 2873 8042 2856 8021 2852 8020 2851 8020
-      2839 8076 2868 8086
-TIME...MOT...LOC 2248Z 225DEG 18KT 2876 8048
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8112 2946 8113
+      2947 8103 2947 8093 2891 8064 2885 8086
+      2938 8113
+TIME...MOT...LOC 2353Z 256DEG 8KT 2920 8084
 
 $$
 
