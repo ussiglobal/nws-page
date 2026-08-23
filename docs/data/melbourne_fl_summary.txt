@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 23, 2026 • 6:00 PM
+Generated: Aug 23, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,37 +11,30 @@ Generated: Aug 23, 2026 • 6:00 PM
 Temp: 82.4°F (28°C) · Humidity: 74.3%
 
 🛥️ Marine Weather Statement:
-348
-FZUS72 KMLB 232144
+978
+FZUS72 KMLB 232259
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-544 PM EDT Sun Aug 23 2026
+659 PM EDT Sun Aug 23 2026
 
-AMZ555-232245-
-544 PM EDT Sun Aug 23 2026
+AMZ555-232309-
+/O.EXP.KMLB.MA.W.0257.000000T0000Z-260823T2300Z/
+659 PM EDT Sun Aug 23 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 700 PM EDT...
 
-The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The affected areas were...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 544 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Saint Lucie Nuclear Power Plant, moving east at 5 knots.
-
-PRECAUTIONARY/PREPAREDNESS ACTIONS...
-
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+The thunderstorm has moved out of the area and no longer poses a
+significant threat to boaters.
 
 &&
 
-LAT...LON 2714 8026 2729 8032 2724 8026 2746 8037
-      2750 8038 2754 7999 2715 7988 2714 8021
-      2715 8022
+LAT...LON 2708 8003 2708 7980 2697 7979 2697 8001
+TIME...MOT...LOC 2259Z 263DEG 7KT 2700 7984
 
 $$
 
