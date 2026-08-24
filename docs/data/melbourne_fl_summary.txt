@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 24, 2026 • 11:00 AM
+Generated: Aug 24, 2026 • 12:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Mostly Sunny then Slight Chance Showers And Thunderstorms. High: 93°F; Rain: 22% ; Wind: 5 to 15 mph SSE
+• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 93°F; Rain: 22% ; Wind: 5 to 15 mph SE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 26% ; Wind: 5 to 15 mph S
 • Tomorrow: Tuesday — High: 93°F; Low: 80°F; Rain: 36% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 66%
+Temp: 86°F (30°C) · Humidity: 62.3%
 
 🛥️ Marine Weather Statement:
 579
@@ -47,29 +47,28 @@ $$
 Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-957
-FZUS52 KMLB 240700
+315
+FZUS52 KMLB 241500
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-300 AM EDT Mon Aug 24 2026
+1100 AM EDT Mon Aug 24 2026
 
 FLZ141-347-447-242000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-300 AM EDT Mon Aug 24 2026
+1100 AM EDT Mon Aug 24 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Low.
 Surf Height.................Around 1 foot.
-Thunderstorm Potential**....Low.
+Thunderstorm Potential**....None.
 UV Index**..................Very High.
 Water Temperature...........In the lower 80s.
-Weather.....................Sunny. A slight chance of showers and
-                            thunderstorms.
+Weather.....................Sunny.
 High Temperature............Around 90.
 Winds.......................Southwest winds around 5 mph, becoming
                             southeast in the afternoon.
@@ -96,8 +95,8 @@ Tides...
 Sunrise.....................6:58 AM.
 Sunset......................7:55 PM.
 
-.WEDNESDAY...Mostly sunny. A chance of showers and thunderstorms.
-Highs in the upper 80s. South winds around 5 mph.
+.WEDNESDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
+the upper 80s. South winds around 5 mph.
 .THURSDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
 the upper 80s. South winds around 5 mph.
 .FRIDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
@@ -124,18 +123,18 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-300 AM EDT Mon Aug 24 2026
+1100 AM EDT Mon Aug 24 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Low.
 Surf Height.................Around 1 foot.
 Thunderstorm Potential**....Low.
 UV Index**..................Very High.
 Water Temperature...........In the lower 80s.
-Weather.....................Mostly sunny. A slight chance of
-                            showers and thunderstorms.
+Weather.....................Sunny. A slight chance of showers and
+                            thunderstorms.
 High Temperature............Around 90.
-Winds.......................Southwest winds around 5 mph, becoming
+Winds.......................South winds around 5 mph, becoming
                             southeast in the afternoon.
 Tides...
    Port Canaveral...........Low 0.5 feet (MLLW) 11:32 AM EDT.
@@ -161,8 +160,8 @@ Tides...
 Sunrise.....................6:58 AM.
 Sunset......................7:52 PM.
 
-.WEDNESDAY...Mostly sunny. A chance of showers and thunderstorms.
-Highs in the upper 80s. Southeast winds around 5 mph.
+.WEDNESDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
+the upper 80s. Southeast winds around 5 mph.
 .THURSDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
 the upper 80s. Southeast winds around 5 mph.
 .FRIDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
@@ -188,9 +187,9 @@ FLZ159-164-242000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-300 AM EDT Mon Aug 24 2026
+1100 AM EDT Mon Aug 24 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Low.
 Surf Height.................Around 1 foot.
 Thunderstorm Potential**....Moderate.
@@ -199,19 +198,17 @@ Water Temperature...........In the mid 80s.
 Weather.....................Mostly sunny. A chance of showers and
                             thunderstorms.
 High Temperature............In the lower 90s.
-Winds.......................Southwest winds around 5 mph, becoming
-                            southeast in the afternoon.
+Winds.......................South winds 5 to 10 mph.
 Tides...
-   Fort Pierce Inlet........High 1.8 feet (MLLW) 06:26 AM EDT.
-                            Low 0.2 feet (MLLW) 12:13 PM EDT.
+   Fort Pierce Inlet........Low 0.2 feet (MLLW) 12:13 PM EDT.
 Sunrise.....................6:56 AM.
 Sunset......................7:51 PM.
 
 .TUESDAY...
 Rip Current Risk*...........Low.
 Surf Height.................Around 1 foot.
-Thunderstorm Potential**....Low.
-Weather.....................Sunny. A slight chance of showers and
+Thunderstorm Potential**....Moderate.
+Weather.....................Mostly sunny. A chance of showers and
                             thunderstorms.
 High Temperature............In the lower 90s.
 Winds.......................South winds around 5 mph, becoming
