@@ -1,35 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 24, 2026 • 2:00 PM
+Generated: Aug 24, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 93°F; Rain: 22% ; Wind: 5 to 15 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 26% ; Wind: 5 to 15 mph S
-• Tomorrow: Tuesday — High: 93°F; Low: 80°F; Rain: 36% ; Wind: 5 to 10 mph S
+• Today:    This Afternoon — Slight Chance Showers And Thunderstorms. High: 93°F; Rain: 17% ; Wind: 10 to 15 mph ESE
+• Tonight:  Tonight — Partly Cloudy. Low: 80°F; Rain: 9% ; Wind: 5 to 15 mph S
+• Tomorrow: Tuesday — High: 93°F; Low: 80°F; Rain: 39% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 58.8%
+Temp: 87.8°F (31°C) · Humidity: 62.5%
 
 🛥️ Marine Weather Statement:
-579
-FZUS72 KMLB 240048
+192
+FZUS72 KMLB 241846
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-848 PM EDT Sun Aug 23 2026
+246 PM EDT Mon Aug 24 2026
 
-AMZ572-240145-
-848 PM EDT Sun Aug 23 2026
+AMZ552-555-241930-
+246 PM EDT Mon Aug 24 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...A STRONG THUNDERSTORM OVER THE INTRACOASTAL AND ATLANTIC WATERS
+FROM NEAR SEBASTIAN INLET TO FORT PIERCE INLET...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 848 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 246 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-37 nm northeast of Sebastian Inlet, moving northeast at 10 knots.
+over Gifford, moving northeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,12 +41,12 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2795 7979 2815 8002 2853 7954 2829 7954
-      2819 7949 2812 7947
+LAT...LON 2746 8037 2765 8041 2797 8059 2809 8036
+      2737 8001 2737 8033
 
 $$
 
-Fehling
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 315
