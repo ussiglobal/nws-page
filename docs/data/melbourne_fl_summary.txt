@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2026 • 2:00 PM
+Generated: Aug 25, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,46 +8,50 @@ Generated: Aug 25, 2026 • 2:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 37% ; Wind: 5 to 10 mph SSE
 • Tomorrow: Wednesday — High: 91°F; Low: 79°F; Rain: 51% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 93.2°F (34°C) · Humidity: 49.7%
+Temp: 95°F (35°C) · Humidity: 47%
 
 🛥️ Marine Weather Statement:
-708
-FZUS72 KMLB 251452
+979
+FZUS72 KMLB 251815
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1052 AM EDT Tue Aug 25 2026
+215 PM EDT Tue Aug 25 2026
 
-AMZ550-251545-
-1052 AM EDT Tue Aug 25 2026
+AMZ550-251915-
+215 PM EDT Tue Aug 25 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 1051 AM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located over Daytona Beach Shores, or near South Daytona, moving east
-at 10 knots.
+At 215 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Ormond-By-the-Sea, moving northeast at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-This strong thunderstorm will likely produce winds to around 30
-knots, locally higher waves, and lightning strikes. A special marine
-warning may eventually be required. Boaters should consider heading
-for shore before this strong thunderstorm arrives.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+Frequent cloud to water lightning is occurring with this storm. If
+caught on the open water stay below deck and, if possible, avoid
+ungrounded metal objects. Remember, lightning can strike beyond 10
+miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2925 8063 2886 8037 2883 8075 2881 8077
-      2882 8077 2882 8081 2881 8080 2880 8089
-      2884 8085 2932 8110 2946 8075
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8113 2947 8104
+      2948 8075 2929 8066 2919 8059 2909 8098
+      2938 8113
 
 $$
 
-Sedlock
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 859
