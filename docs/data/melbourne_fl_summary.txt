@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2026 • 10:00 AM
+Generated: Aug 25, 2026 • 11:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,44 +8,46 @@ Generated: Aug 25, 2026 • 10:00 AM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 37% ; Wind: 5 to 10 mph SSE
 • Tomorrow: Wednesday — High: 91°F; Low: 79°F; Rain: 51% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 70.1%
+Temp: 87.8°F (31°C) · Humidity: 62.5%
 
 🛥️ Marine Weather Statement:
-192
-FZUS72 KMLB 250017
+708
+FZUS72 KMLB 251452
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-817 PM EDT Mon Aug 24 2026
+1052 AM EDT Tue Aug 25 2026
 
-AMZ555-250115-
-817 PM EDT Mon Aug 24 2026
+AMZ550-251545-
+1052 AM EDT Tue Aug 25 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 817 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Fort Pierce South, or over White City, moving northeast at 5
-knots.
+At 1051 AM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located over Daytona Beach Shores, or near South Daytona, moving east
+at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+This strong thunderstorm will likely produce winds to around 30
+knots, locally higher waves, and lightning strikes. A special marine
+warning may eventually be required. Boaters should consider heading
+for shore before this strong thunderstorm arrives.
 
 &&
 
-LAT...LON 2746 8037 2753 8038 2760 8021 2735 8009
-      2731 8029
+LAT...LON 2925 8063 2886 8037 2883 8075 2881 8077
+      2882 8077 2882 8081 2881 8080 2880 8089
+      2884 8085 2932 8110 2946 8075
 
 $$
 
-Fehling
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 706
