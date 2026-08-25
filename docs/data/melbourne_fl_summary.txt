@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2026 • 3:00 AM
+Generated: Aug 25, 2026 • 4:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,7 +8,7 @@ Generated: Aug 25, 2026 • 3:00 AM
 • Tonight:  Overnight — Partly Cloudy. Low: 80°F; Rain: 2% ; Wind: 5 mph SW
 • Tomorrow: Wednesday — High: 91°F; Low: 79°F; Rain: 51% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 77°F (25°C) · Humidity: 88.7%
+Temp: 77°F (25°C) · Humidity: 83.5%
 
 🛥️ Marine Weather Statement:
 192
@@ -48,29 +48,29 @@ $$
 Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-390
-FZUS52 KMLB 250525
+706
+FZUS52 KMLB 250700
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-125 AM EDT Tue Aug 25 2026
+300 AM EDT Tue Aug 25 2026
 
-FLZ141-347-447-252330-
+FLZ141-347-447-252000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-125 AM EDT Tue Aug 25 2026
+300 AM EDT Tue Aug 25 2026
 
 .TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 1 foot.
+Thunderstorm Potential**....Moderate.
 UV Index**..................Very High.
 Water Temperature...........In the lower 80s.
-Weather.....................Partly cloudy until 12 PM, then mostly
-                            sunny until 1 PM, then partly cloudy. A
-                            chance of showers and thunderstorms.
+Weather.....................Mostly sunny. A chance of showers and
+                            thunderstorms.
 High Temperature............Around 90.
 Winds.......................Southwest winds around 5 mph, becoming
                             southeast in the afternoon.
@@ -85,9 +85,9 @@ Sunset......................7:55 PM.
 .WEDNESDAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 1 foot.
-Weather.....................Partly cloudy until 7 AM, then mostly
-                            sunny until 2 PM, then partly cloudy. A
-                            chance of showers and thunderstorms.
+Thunderstorm Potential**....Moderate.
+Weather.....................Sunny. A chance of showers and
+                            thunderstorms.
 High Temperature............In the upper 80s.
 Winds.......................South winds around 5 mph, becoming
                             southeast in the afternoon.
@@ -99,19 +99,19 @@ Tides...
 Sunrise.....................6:58 AM.
 Sunset......................7:54 PM.
 
-.THURSDAY...Partly cloudy. Showers and thunderstorms likely. Highs in
+.THURSDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
 the upper 80s. South winds around 5 mph.
-.FRIDAY...Partly cloudy. A chance of showers and thunderstorms. Highs
+.FRIDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
 in the upper 80s. South winds around 5 mph.
-.SATURDAY...Partly cloudy. A chance of showers and thunderstorms.
+.SATURDAY...Mostly sunny. A chance of showers and thunderstorms.
 Highs in the upper 80s. Southeast winds around 5 mph.
 
 &&
 
 Rip Current Risk Category
 * Low Risk - The risk for rip currents is low, however,
-life-threatening rip currents often occur in the vicinity of jetties
-and piers.
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
 * Moderate Risk - Life-threatening rip currents are possible in the
 surf zone.
 * High Risk - Life-threatening rip currents are likely in the surf
@@ -122,24 +122,21 @@ https://www.weather.gov/beach/mlb
 
 $$
 
-FLZ154-647-747-252330-
+FLZ154-647-747-252000-
 Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-125 AM EDT Tue Aug 25 2026
+300 AM EDT Tue Aug 25 2026
 
 .TODAY...
 Rip Current Risk*...........Low.
-Surf Height.................Around 1 foot, building to around 2
-                            feet in the afternoon.
+Surf Height.................Around 1 foot.
+Thunderstorm Potential**....Moderate.
 UV Index**..................Very High.
 Water Temperature...........In the lower 80s.
-Weather.....................Partly cloudy until 7 AM, then mostly
-                            sunny until 8 AM, then partly cloudy
-                            until 9 AM, then mostly sunny until 1
-                            PM, then partly cloudy. A chance of
-                            showers and thunderstorms.
+Weather.....................Mostly sunny. A chance of showers and
+                            thunderstorms.
 High Temperature............Around 90.
 Winds.......................Southwest winds around 5 mph, becoming
                             southeast in the afternoon.
@@ -155,9 +152,9 @@ Sunset......................7:52 PM.
 Rip Current Risk*...........Low.
 Surf Height.................Around 1 foot, building to around 2
                             feet in the afternoon.
-Weather.....................Partly cloudy until 7 AM, then mostly
-                            sunny until 2 PM, then partly cloudy. A
-                            chance of showers and thunderstorms.
+Thunderstorm Potential**....Moderate.
+Weather.....................Mostly sunny. A chance of showers and
+                            thunderstorms.
 High Temperature............In the upper 80s.
 Winds.......................South winds around 5 mph, becoming
                             southeast in the afternoon.
@@ -169,19 +166,19 @@ Tides...
 Sunrise.....................6:58 AM.
 Sunset......................7:51 PM.
 
-.THURSDAY...Partly cloudy. Showers and thunderstorms likely. Highs in
+.THURSDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
 the upper 80s. Southeast winds around 5 mph.
-.FRIDAY...Partly cloudy. A chance of showers and thunderstorms. Highs
+.FRIDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
 in the upper 80s. Southeast winds around 5 mph.
-.SATURDAY...Partly cloudy. A chance of showers and thunderstorms.
+.SATURDAY...Mostly sunny. A chance of showers and thunderstorms.
 Highs in the upper 80s. East winds around 5 mph.
 
 &&
 
 Rip Current Risk Category
 * Low Risk - The risk for rip currents is low, however,
-life-threatening rip currents often occur in the vicinity of jetties
-and piers.
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
 * Moderate Risk - Life-threatening rip currents are possible in the
 surf zone.
 * High Risk - Life-threatening rip currents are likely in the surf
@@ -192,21 +189,20 @@ https://www.weather.gov/beach/mlb
 
 $$
 
-FLZ159-164-252330-
+FLZ159-164-252000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-125 AM EDT Tue Aug 25 2026
+300 AM EDT Tue Aug 25 2026
 
 .TODAY...
 Rip Current Risk*...........Low.
 Surf Height.................Around 1 foot.
+Thunderstorm Potential**....Low.
 UV Index**..................Extreme.
 Water Temperature...........In the mid 80s.
-Weather.....................Partly cloudy until 8 AM, then mostly
-                            sunny until 1 PM, then partly cloudy. A
-                            slight chance of showers and
-                            thunderstorms.
+Weather.....................Mostly sunny. A slight chance of
+                            showers and thunderstorms.
 High Temperature............In the lower 90s.
 Winds.......................South winds around 5 mph, becoming
                             southeast in the afternoon.
@@ -219,10 +215,9 @@ Sunset......................7:50 PM.
 .WEDNESDAY...
 Rip Current Risk*...........Low.
 Surf Height.................Around 1 foot.
-Weather.....................Mostly sunny until 9 AM, then partly
-                            cloudy until 10 AM, then mostly sunny
-                            until 12 PM, then partly cloudy. A
-                            chance of showers and thunderstorms.
+Thunderstorm Potential**....Moderate.
+Weather.....................Mostly sunny. A chance of showers and
+                            thunderstorms.
 High Temperature............Around 90.
 Winds.......................Southeast winds 5 to 10 mph.
 Tides...
@@ -231,19 +226,19 @@ Tides...
 Sunrise.....................6:57 AM.
 Sunset......................7:49 PM.
 
-.THURSDAY...Partly cloudy. Showers and thunderstorms likely. Highs in
+.THURSDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
 the upper 80s. Southeast winds around 5 mph.
-.FRIDAY...Partly cloudy. A chance of showers and thunderstorms. Highs
+.FRIDAY...Mostly sunny. A chance of showers and thunderstorms. Highs
 in the upper 80s. Southeast winds around 5 mph.
-.SATURDAY...Partly cloudy. Showers and thunderstorms likely. Highs in
+.SATURDAY...Mostly sunny. Showers and thunderstorms likely. Highs in
 the upper 80s. East winds around 5 mph.
 
 &&
 
 Rip Current Risk Category
 * Low Risk - The risk for rip currents is low, however,
-life-threatening rip currents often occur in the vicinity of jetties
-and piers.
+life-threatening rip currents often occur in the vicinity of groins,
+jetties, reefs, and piers.
 * Moderate Risk - Life-threatening rip currents are possible in the
 surf zone.
 * High Risk - Life-threatening rip currents are likely in the surf
