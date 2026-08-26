@@ -1,53 +1,53 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2026 • 11:00 PM
+Generated: Aug 26, 2026 • 1:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Wednesday — Sunny then Chance Showers And Thunderstorms. High: 92°F; Rain: 42% ; Wind: 5 to 15 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 79°F; Rain: 35% ; Wind: 5 to 10 mph S
-• Tomorrow: Thursday — High: 92°F; Low: 79°F; Rain: 67% ; Wind: 5 to 15 mph SSE
+• Today:    Wednesday — Sunny then Chance Showers And Thunderstorms. High: 92°F; Rain: 46% ; Wind: 5 to 15 mph SSE
+• Tonight:  Overnight — Partly Cloudy. Low: 79°F; Rain: 10% ; Wind: 5 mph S
+• Tomorrow: Thursday — High: 91°F; Low: 78°F; Rain: 53% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
 Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-522
-FZUS72 KMLB 260135
+734
+FZUS72 KMLB 260353
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-935 PM EDT Tue Aug 25 2026
+1153 PM EDT Tue Aug 25 2026
 
-AMZ550-552-570-572-260230-
-935 PM EDT Tue Aug 25 2026
+AMZ552-572-260500-
+1153 PM EDT Tue Aug 25 2026
 
-...STRONG THUNDERSTORMS OVER THE WATERS...
+...STRONG THUNDERSTORMS OVER THE BREVARD ATLANTIC WATERS...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 935 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 15 nm northeast of Playalinda
-Beach to 16 nm east of Port Canaveral, moving east at 15 knots.
+At 1152 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located 7 nm northeast of Melbourne Beach, or 7 nm east of
+Indialantic, moving north at 5 knots. Additional storms were further
+offshore.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2898 8001 2843 7985 2840 8034 2891 8052
+LAT...LON 2806 7997 2797 8050 2823 8064 2844 8060
+      2851 8004
 
 $$
 
-Weitlich
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 859
