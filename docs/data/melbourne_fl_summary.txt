@@ -1,41 +1,41 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 26, 2026 • 4:00 PM
+Generated: Aug 26, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 40% ; Wind: 15 mph SE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 92°F; Rain: 30% ; Wind: 15 mph ESE
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 35% ; Wind: 5 to 15 mph S
 • Tomorrow: Thursday — High: 92°F; Low: 79°F; Rain: 60% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 70.3%
+Temp: 73.4°F (23°C) · Humidity: 88.5%
 
 🛥️ Marine Weather Statement:
-319
-FZUS72 KMLB 261945
+479
+FZUS72 KMLB 262056
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-345 PM EDT Wed Aug 26 2026
+456 PM EDT Wed Aug 26 2026
 
-AMZ555-262045-
-345 PM EDT Wed Aug 26 2026
+AMZ552-262200-
+456 PM EDT Wed Aug 26 2026
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 344 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 456 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-near South Beach, or near Vero Beach, moving north at 10 knots.
+near Satellite Beach, moving north at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 Frequent cloud to water lightning is occurring with this storm. If
 caught on the open water stay below deck and, if possible, avoid
@@ -44,12 +44,12 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2746 8037 2765 8041 2783 8051 2788 8016
-      2747 8000 2744 8036
+LAT...LON 2838 8061 2838 8043 2810 8050 2812 8067
+      2832 8074
 
 $$
 
-Sedlock
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 783
