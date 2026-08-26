@@ -1,49 +1,47 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 25, 2026 • 7:00 PM
+Generated: Aug 25, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Sunny then Chance Showers And Thunderstorms. High: 92°F; Rain: 42% ; Wind: 5 to 15 mph SE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 49% ; Wind: 5 to 10 mph SSE
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 79°F; Rain: 49% ; Wind: 5 to 10 mph S
 • Tomorrow: Thursday — High: 92°F; Low: 79°F; Rain: 67% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 66.4%
+Temp: 86°F (30°C) · Humidity: 66.2%
 
 🛥️ Marine Weather Statement:
-434
-FZUS72 KMLB 252235
+649
+FZUS72 KMLB 252325
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-635 PM EDT Tue Aug 25 2026
+725 PM EDT Tue Aug 25 2026
 
-AMZ552-252330-
-635 PM EDT Tue Aug 25 2026
+AMZ552-260030-
+725 PM EDT Tue Aug 25 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...STRONG THUNDERSTORMS APPROACHING THE WATERS...
 
 The areas affected include...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 634 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Titusville. The thunderstorm was nearly stationary.
+At 725 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from near Mims to 7 nm west of South
+Patrick Shores, moving northeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2875 8086 2877 8072 2865 8069 2867 8073
-      2866 8075 2863 8074 2863 8068 2856 8067
-      2849 8069 2848 8067 2852 8066 2846 8064
-      2845 8068 2847 8068 2848 8069 2845 8070
-      2844 8077 2858 8083
+LAT...LON 2882 8063 2815 8044 2809 8065 2846 8079
+      2874 8087
 
 $$
 
