@@ -1,51 +1,52 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 26, 2026 • 2:00 AM
+Generated: Aug 26, 2026 • 3:00 AM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Sunny then Chance Showers And Thunderstorms. High: 92°F; Rain: 46% ; Wind: 5 to 15 mph SSE
-• Tonight:  Overnight — Partly Cloudy. Low: 79°F; Rain: 10% ; Wind: 5 mph S
+• Tonight:  Overnight — Chance Showers And Thunderstorms. Low: 79°F; Rain: 29% ; Wind: 5 mph S
 • Tomorrow: Thursday — High: 91°F; Low: 78°F; Rain: 53% ; Wind: 5 to 15 mph SSE
 🌡️ Current Conditions:
 Temp: 77°F (25°C) · Humidity: 88.7%
 
 🛥️ Marine Weather Statement:
-882
-FZUS72 KMLB 260501
+241
+FZUS72 KMLB 260622
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-101 AM EDT Wed Aug 26 2026
+222 AM EDT Wed Aug 26 2026
 
-AMZ552-572-260545-
-101 AM EDT Wed Aug 26 2026
+AMZ570-572-260715-
+222 AM EDT Wed Aug 26 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...STRONG THUNDERSTORMS 30 MILES EAST OF CAPE CANAVERAL..
+
+The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 100 AM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Satellite Beach, moving north at 5 knots. Other storms will
-lift north along and just offshore the Brevard coast.
+At 221 AM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 49 nm northeast of Playalinda
+Beach to 32 nm east of Port Canaveral, moving east at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2857 8081 2863 8068 2862 8064 2864 8066
-      2867 8058 2855 8012 2807 7998 2808 8065
-      2834 8075
+LAT...LON 2893 7964 2866 7955 2838 7954 2831 8003
+      2870 8009 2903 8004 2912 7974
 
 $$
 
-Kelly
+Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 859
