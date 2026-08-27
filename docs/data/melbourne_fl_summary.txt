@@ -1,36 +1,33 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 26, 2026 • 10:00 PM
+Generated: Aug 26, 2026 • 11:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Thursday — Mostly Sunny then Showers And Thunderstorms Likely. High: 92°F; Rain: 60% ; Wind: 5 to 10 mph SSE
-• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 24% ; Wind: 5 to 10 mph S
+• Tonight:  Tonight — Partly Cloudy. Low: 79°F; Rain: 11% ; Wind: 5 to 10 mph SSW
 • Tomorrow: Friday — High: 92°F; Low: 79°F; Rain: 40% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 94.1%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-153
-FZUS72 KMLB 262141
+912
+FZUS72 KMLB 270211
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-541 PM EDT Wed Aug 26 2026
+1011 PM EDT Wed Aug 26 2026
 
-AMZ550-552-262245-
-541 PM EDT Wed Aug 26 2026
+AMZ555-270300-
+1011 PM EDT Wed Aug 26 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-
-At 540 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-near Apollo Beach, or near Oak Hill, moving east at 10 knots.
+At 1011 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located just offshore Fort Pierce Inlet, moving north at 15 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -45,12 +42,11 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2908 8058 2863 8043 2860 8084 2880 8089
-      2884 8085 2899 8093
+LAT...LON 2739 8008 2739 8028 2773 8033 2774 8004
 
 $$
 
-Tollefsen
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 783
