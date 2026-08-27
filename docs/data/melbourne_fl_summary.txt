@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 27, 2026 • 5:00 AM
+Generated: Aug 27, 2026 • 6:00 AM
 ===============================
 
 📅 Forecast:
@@ -11,27 +11,25 @@ Generated: Aug 27, 2026 • 5:00 AM
 Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-575
-FZUS72 KMLB 270344
+730
+FZUS72 KMLB 270954
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1144 PM EDT Wed Aug 26 2026
+554 AM EDT Thu Aug 27 2026
 
-AMZ572-575-270445-
-1144 PM EDT Wed Aug 26 2026
+AMZ572-271100-
+554 AM EDT Thu Aug 27 2026
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1144 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located 29 nm northeast of Sebastian Inlet, moving northeast at 10
-knots.
+At 554 AM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+49 nm east of Playalinda Beach, moving northeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -41,8 +39,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2748 7965 2837 7994 2845 7953 2829 7954
-      2755 7923
+LAT...LON 2835 7954 2830 7974 2887 7995 2892 7964
+      2866 7955
 
 $$
 
