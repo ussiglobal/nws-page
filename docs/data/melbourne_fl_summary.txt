@@ -1,33 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 26, 2026 • 11:00 PM
+Generated: Aug 27, 2026 • 3:00 AM
 ===============================
 
 📅 Forecast:
 • Today:    Thursday — Mostly Sunny then Showers And Thunderstorms Likely. High: 92°F; Rain: 60% ; Wind: 5 to 10 mph SSE
-• Tonight:  Tonight — Partly Cloudy. Low: 79°F; Rain: 11% ; Wind: 5 to 10 mph SSW
+• Tonight:  Overnight — Mostly Clear. Low: 79°F; Rain: 6% ; Wind: 5 mph SSW
 • Tomorrow: Friday — High: 92°F; Low: 79°F; Rain: 40% ; Wind: 5 to 10 mph SSE
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 88.6%
+Temp: 75.2°F (24°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-912
-FZUS72 KMLB 270211
+575
+FZUS72 KMLB 270344
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1011 PM EDT Wed Aug 26 2026
+1144 PM EDT Wed Aug 26 2026
 
-AMZ555-270300-
-1011 PM EDT Wed Aug 26 2026
+AMZ572-575-270445-
+1144 PM EDT Wed Aug 26 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
-At 1011 PM EDT, Doppler radar indicated a strong thunderstorm,
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+
+At 1144 PM EDT, Doppler radar indicated a strong thunderstorm,
 capable of producing winds to around 30 knots. This thunderstorm was
-located just offshore Fort Pierce Inlet, moving north at 15 knots.
+located 29 nm northeast of Sebastian Inlet, moving northeast at 10
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -35,18 +39,14 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
-
 &&
 
-LAT...LON 2739 8008 2739 8028 2773 8033 2774 8004
+LAT...LON 2748 7965 2837 7994 2845 7953 2829 7954
+      2755 7923
 
 $$
 
-Kelly
+Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 783
