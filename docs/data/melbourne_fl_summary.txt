@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 27, 2026 • 2:00 PM
+Generated: Aug 27, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,28 +8,29 @@ Generated: Aug 27, 2026 • 2:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 54% ; Wind: 5 to 10 mph S
 • Tomorrow: Friday — High: 91°F; Low: 80°F; Rain: 33% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 66.6%
+Temp: 87.8°F (31°C) · Humidity: 66.4%
 
 🛥️ Marine Weather Statement:
-125
-FZUS72 KMLB 271725
+887
+FZUS72 KMLB 271828
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-125 PM EDT Thu Aug 27 2026
+228 PM EDT Thu Aug 27 2026
 
-AMZ555-271900-
-125 PM EDT Thu Aug 27 2026
+AMZ550-272000-
+228 PM EDT Thu Aug 27 2026
 
 ...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
 
-At 125 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 228 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Fort Pierce Inlet, moving northeast at 10 knots.
+near Daytona Beach Shores, or near Port Orange, moving northeast at
+10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,9 +40,10 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2728 8035 2729 8032 2728 8030 2729 8028
-      2746 8037 2765 8041 2783 8051 2789 8009
-      2758 7998 2744 7991 2725 8035
+LAT...LON 2942 8113 2943 8110 2944 8111 2943 8112
+      2945 8111 2945 8112 2946 8112 2946 8113
+      2947 8104 2948 8075 2932 8067 2914 8057
+      2892 8090 2938 8113
 
 $$
 
