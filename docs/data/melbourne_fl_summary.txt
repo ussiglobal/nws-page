@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 28, 2026 • 5:00 PM
+Generated: Aug 28, 2026 • 6:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,27 +8,28 @@ Generated: Aug 28, 2026 • 5:00 PM
 • Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 80°F; Rain: 19% ; Wind: 5 to 10 mph SE
 • Tomorrow: Saturday — High: 91°F; Low: 81°F; Rain: 39% ; Wind: 5 to 15 mph ENE
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 62.7%
+Temp: 87.8°F (31°C) · Humidity: 70.5%
 
 🛥️ Marine Weather Statement:
-326
-FZUS72 KMLB 280247
+589
+FZUS72 KMLB 282148
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1047 PM EDT Thu Aug 27 2026
+548 PM EDT Fri Aug 28 2026
 
-AMZ575-280330-
-1047 PM EDT Thu Aug 27 2026
+AMZ552-282245-
+548 PM EDT Fri Aug 28 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+...A STRONG THUNDERSTORM APPROACHING THE WATERS...
 
-At 1047 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located 39 nm northeast of Hobe Sound Beach, moving north at 10
-knots.
+The areas affected include...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+
+At 547 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Titusville, moving east at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -43,12 +44,12 @@ miles away from a thunderstorm.
 
 &&
 
-LAT...LON 2735 7960 2797 7957 2800 7942 2795 7940
-      2791 7938 2785 7936 2778 7933 2722 7942
+LAT...LON 2876 8057 2837 8046 2836 8075 2864 8085
+      2875 8088
 
 $$
 
-Kelly
+Tollefsen
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 877
