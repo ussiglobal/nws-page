@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Aug 29, 2026 • 2:00 PM
+Generated: Aug 29, 2026 • 3:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,38 +8,38 @@ Generated: Aug 29, 2026 • 2:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 81°F; Rain: 25% ; Wind: 5 to 10 mph ESE
 • Tomorrow: Sunday — High: 90°F; Low: 81°F; Rain: 52% ; Wind: 5 to 10 mph ESE
 🌡️ Current Conditions:
-Temp: 89.6°F (32°C) · Humidity: 70.7%
+Temp: 89.6°F (32°C) · Humidity: 66.6%
 
 🛥️ Marine Weather Statement:
-845
-FZUS72 KMLB 290018
+386
+FZUS72 KMLB 291807
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-818 PM EDT Fri Aug 28 2026
+207 PM EDT Sat Aug 29 2026
 
-AMZ552-290027-
-/O.CAN.KMLB.MA.W.0282.000000T0000Z-260829T0045Z/
-818 PM EDT Fri Aug 28 2026
+AMZ555-575-291817-
+/O.CAN.KMLB.MA.W.0283.000000T0000Z-260829T1830Z/
+207 PM EDT Sat Aug 29 2026
 
 ...THE SPECIAL MARINE WARNING IS CANCELLED...
 
 The affected areas were...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+Sebastian Inlet to Jupiter Inlet 0-20 nm...
+Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
 The thunderstorm has weakened and no longer poses a significant
 threat to boaters.
 
 &&
 
-LAT...LON 2849 8070 2843 8069 2850 8067 2855 8046
-      2837 8043 2822 8042 2821 8070 2847 8079
-TIME...MOT...LOC 0016Z 251DEG 12KT 2835 8056
+LAT...LON 2705 8008 2728 7973 2698 7945 2697 7998
+TIME...MOT...LOC 1805Z 135DEG 10KT 2708 7982
 
 $$
 
-Tollefsen
+Wishard
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 613
