@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 10, 2026 • 10:00 AM
+Generated: Sep 10, 2026 • 11:00 AM
 ===============================
 
 📅 Forecast:
@@ -8,28 +8,32 @@ Generated: Sep 10, 2026 • 10:00 AM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Mostly Cloudy. Low: 80°F; Rain: 25% ; Wind: 5 to 10 mph SSE
 • Tomorrow: Friday — High: 91°F; Low: 80°F; Rain: 51% ; Wind: 5 to 10 mph S
 🌡️ Current Conditions:
-Temp: 86°F (30°C) · Humidity: 79.2%
+Temp: 84.2°F (29°C) · Humidity: 79.1%
 
 🛥️ Marine Weather Statement:
-222
-FZUS72 KMLB 080120
+185
+FZUS72 KMLB 101419
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-920 PM EDT Mon Sep 7 2026
+1019 AM EDT Thu Sep 10 2026
 
-AMZ572-080200-
-920 PM EDT Mon Sep 7 2026
+AMZ550-552-570-572-101515-
+1019 AM EDT Thu Sep 10 2026
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 918 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-46 nm northeast of Sebastian Inlet, moving east at 10 knots.
+At 1019 AM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located 25 nm northeast of Klondike Beach, moving northwest at 15
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,12 +46,12 @@ case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2811 7975 2829 7973 2829 7954 2819 7949
-      2812 7947 2805 7943
+LAT...LON 2947 7998 2893 7964 2866 7955 2829 7954
+      2800 7942 2787 8022 2947 8089
 
 $$
 
-Wishard
+Fehling
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 582
