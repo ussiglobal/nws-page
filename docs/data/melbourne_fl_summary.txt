@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 12, 2026 • 7:00 PM
+Generated: Sep 12, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,52 +8,48 @@ Generated: Sep 12, 2026 • 7:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 43% ; Wind: 5 to 10 mph S
 • Tomorrow: Monday — High: 91°F; Low: 79°F; Rain: 34% ; Wind: 5 to 10 mph N
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 88.9%
+Temp: 75.2°F (24°C) · Humidity: 88.6%
 
 🛥️ Marine Weather Statement:
-666
-FZUS72 KMLB 121024
+089
+FZUS72 KMLB 122301
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-624 AM EDT Sat Sep 12 2026
+701 PM EDT Sat Sep 12 2026
 
-AMZ570-572-121130-
-624 AM EDT Sat Sep 12 2026
+AMZ552-555-130000-
+701 PM EDT Sat Sep 12 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...GUST FRONT AND STRONG THUNDERSTORMS APPROACHING THE ATLANTIC AND
+INTRACOASTAL WATERS FROM NEAR TITUSVILLE TO VERO BEACH...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 624 AM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-38 nm east of Playalinda Beach, moving northeast at 10 knots.
+At 659 PM EDT, Doppler radar indicated a gust front and strong
+thunderstorms, capable of producing winds to around 30 knots. These
+winds and thunderstorms were located along a line extending from 9
+nm southwest of Maytown to 6 nm west of South Patrick Shores to near
+Palm Bay to 15 nm west of Vero Lake Estates, moving east at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
-
-Waterspouts are possible with this activity. Remain on the alert in
-case warnings are issued for waterspout development.
-
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2901 7967 2896 7965 2893 7964 2888 7962
-      2869 7987 2881 8010 2916 7995
+LAT...LON 2882 8087 2884 8058 2830 8024 2822 8026
+      2792 8010 2783 8009 2746 8027 2749 8038
+      2765 8041 2807 8065 2860 8084 2880 8089
 
 $$
 
-Wishard
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 132
