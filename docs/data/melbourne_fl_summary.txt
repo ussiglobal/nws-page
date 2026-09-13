@@ -1,51 +1,48 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 12, 2026 • 8:00 PM
+Generated: Sep 12, 2026 • 9:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Mostly Sunny then Chance Showers And Thunderstorms. High: 91°F; Rain: 36% ; Wind: 5 to 10 mph WSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 43% ; Wind: 5 to 10 mph S
+• Tonight:  Tonight — Slight Chance Showers And Thunderstorms then Partly Cloudy. Low: 79°F; Rain: 16% ; Wind: 5 to 10 mph S
 • Tomorrow: Monday — High: 91°F; Low: 79°F; Rain: 34% ; Wind: 5 to 10 mph N
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 88.6%
+Temp: 73.4°F (23°C) · Humidity: 94.1%
 
 🛥️ Marine Weather Statement:
-089
-FZUS72 KMLB 122301
+700
+FZUS72 KMLB 130031
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-701 PM EDT Sat Sep 12 2026
+831 PM EDT Sat Sep 12 2026
 
-AMZ552-555-130000-
-701 PM EDT Sat Sep 12 2026
+AMZ550-552-130130-
+831 PM EDT Sat Sep 12 2026
 
-...GUST FRONT AND STRONG THUNDERSTORMS APPROACHING THE ATLANTIC AND
-INTRACOASTAL WATERS FROM NEAR TITUSVILLE TO VERO BEACH...
+...A STRONG THUNDERSTORM OVER THE INTRACOASTAL AND ATLANTIC WATERS
+NEAR TITUSVILLE AND CAPE CANAVERAL...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 659 PM EDT, Doppler radar indicated a gust front and strong
-thunderstorms, capable of producing winds to around 30 knots. These
-winds and thunderstorms were located along a line extending from 9
-nm southwest of Maytown to 6 nm west of South Patrick Shores to near
-Palm Bay to 15 nm west of Vero Lake Estates, moving east at 25 knots.
+At 831 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Merritt Island Wildlife Refuge, or near Playalinda Beach, moving
+east at 10 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2882 8087 2884 8058 2830 8024 2822 8026
-      2792 8010 2783 8009 2746 8027 2749 8038
-      2765 8041 2807 8065 2860 8084 2880 8089
+LAT...LON 2899 8053 2841 8029 2839 8076 2871 8087
 
 $$
 
