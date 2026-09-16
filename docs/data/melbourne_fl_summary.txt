@@ -1,35 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 15, 2026 • 11:00 PM
+Generated: Sep 16, 2026 • 3:00 AM
 ===============================
 
 📅 Forecast:
 • Today:    Wednesday — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. High: 89°F; Rain: 67% ; Wind: 15 to 25 mph ENE
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 81°F; Rain: 63% ; Wind: 15 mph ENE
+• Tonight:  Overnight — Chance Showers And Thunderstorms. Low: 81°F; Rain: 63% ; Wind: 15 mph ENE
 • Tomorrow: Thursday — High: 89°F; Low: 81°F; Rain: 62% ; Wind: 15 to 25 mph NE
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 78.9%
+Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-612
-FZUS72 KMLB 160104
+192
+FZUS72 KMLB 160615
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-904 PM EDT Tue Sep 15 2026
+215 AM EDT Wed Sep 16 2026
 
-AMZ552-160130-
-904 PM EDT Tue Sep 15 2026
+AMZ552-160700-
+215 AM EDT Wed Sep 16 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
-
-The areas affected include...
+A Marine Weather Statement has been issued for the following areas...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 904 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Cape Canaveral, moving west at 15 knots.
+At 213 AM EDT, Doppler radar indicated gusty showers and possibly a
+thunderstorm, capable of producing winds to around 30 knots. This
+convection was located offshore Brevard county, in particular 10 nm
+east of Indialantic, moving west at 20 knots. These showers will
+produce brief downpours and gusty winds as they push onshore and
+across the intracoastal waters. Occasional lightning strikes are also
+possible.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -39,12 +41,12 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2863 8070 2862 8064 2864 8067 2872 8045
-      2826 8031 2817 8069 2858 8083
+LAT...LON 2846 8038 2807 8026 2796 8059 2807 8065
+      2838 8076
 
 $$
 
-Schaper
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 874
