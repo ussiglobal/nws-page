@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Sep 15, 2026 • 9:00 PM
+Generated: Sep 15, 2026 • 10:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,40 +8,43 @@ Generated: Sep 15, 2026 • 9:00 PM
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 81°F; Rain: 63% ; Wind: 15 mph ENE
 • Tomorrow: Thursday — High: 89°F; Low: 81°F; Rain: 62% ; Wind: 15 to 25 mph NE
 🌡️ Current Conditions:
-Temp: 84.2°F (29°C) · Humidity: 79.1%
+Temp: 82.4°F (28°C) · Humidity: 78.9%
 
 🛥️ Marine Weather Statement:
-659
-FZUS72 KMLB 132145
+612
+FZUS72 KMLB 160104
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-545 PM EDT Sun Sep 13 2026
+904 PM EDT Tue Sep 15 2026
 
-AMZ555-132152-
-/O.CAN.KMLB.MA.W.0300.000000T0000Z-260913T2200Z/
-545 PM EDT Sun Sep 13 2026
+AMZ552-160130-
+904 PM EDT Tue Sep 15 2026
 
-...THE SPECIAL MARINE WARNING IS CANCELLED...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
-The affected areas were...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
+The areas affected include...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-The thunderstorms and associated outflows have weakened and no
-longer poses a significant threat to boaters. However, gusty winds
-and cloud to water lightning will be possible through 630pm over
-the intracoastal waters of the Treasure coast.
+At 904 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Cape Canaveral, moving west at 15 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2746 8037 2762 8040 2775 8022 2752 8005
-      2740 8034
-TIME...MOT...LOC 2139Z 237DEG 16KT 2757 8029
+LAT...LON 2863 8070 2862 8064 2864 8067 2872 8045
+      2826 8031 2817 8069 2858 8083
 
 $$
 
-Kelly
+Schaper
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 874
