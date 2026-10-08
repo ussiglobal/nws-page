@@ -1,34 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 8, 2026 • 5:00 PM
+Generated: Oct 8, 2026 • 6:01 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 85°F; Rain: 74% ; Wind: 10 mph ENE
+• Today:    Friday — Mostly Sunny then Chance Showers And Thunderstorms. High: 88°F; Rain: 36% ; Wind: 5 to 15 mph ESE
 • Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 76°F; Rain: 85% ; Wind: 5 to 10 mph ENE
-• Tomorrow: Friday — High: 88°F; Low: 79°F; Rain: 36% ; Wind: 5 to 15 mph ESE
+• Tomorrow: Saturday — High: 89°F; Low: 79°F; Rain: 84% ; Wind: 15 to 20 mph SE
 🌡️ Current Conditions:
 Temp: 80.6°F (27°C) · Humidity: 83.7%
 
 🛥️ Marine Weather Statement:
-201
-FZUS72 KMLB 082050
+903
+FZUS72 KMLB 082131
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-450 PM EDT Thu Oct 8 2026
+531 PM EDT Thu Oct 8 2026
 
-AMZ555-082215-
-450 PM EDT Thu Oct 8 2026
+AMZ552-082300-
+531 PM EDT Thu Oct 8 2026
 
 A Marine Weather Statement has been issued for the following areas...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 450 PM EDT, Doppler radar indicated strong thunderstorms, capable
+At 530 PM EDT, Doppler radar indicated strong thunderstorms, capable
 of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from Vero Lake Estates to near Nettles
-Island to Port Salerno, moving northeast at 10 knots.
+located along a line extending from near Patrick Space Force Base to
+near Melbourne to 8 nm west of Vero Lake Estates, moving east at 5
+knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -38,10 +39,10 @@ immediately until these storms pass.
 
 &&
 
-LAT...LON 2715 8022 2714 8028 2721 8034 2728 8035
-      2729 8032 2724 8026 2746 8037 2765 8041
-      2783 8051 2789 8009 2758 7998 2717 7980
-      2707 8016
+LAT...LON 2868 8026 2852 8020 2843 8020 2835 8021
+      2826 8027 2818 8024 2816 8023 2789 8009
+      2784 8047 2782 8047 2782 8051 2807 8065
+      2857 8083
 
 $$
 
