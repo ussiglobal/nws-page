@@ -1,48 +1,45 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 8, 2026 • 7:00 PM
+Generated: Oct 8, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Friday — Mostly Sunny then Chance Showers And Thunderstorms. High: 88°F; Rain: 36% ; Wind: 5 to 15 mph ESE
-• Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 76°F; Rain: 85% ; Wind: 5 to 10 mph ENE
+• Tonight:  Tonight — Showers And Thunderstorms then Chance Showers And Thunderstorms. Low: 76°F; Rain: 81% ; Wind: 5 to 10 mph E
 • Tomorrow: Saturday — High: 89°F; Low: 79°F; Rain: 84% ; Wind: 15 to 20 mph SE
 🌡️ Current Conditions:
-Temp: 75.9°F (24.4°C) · Humidity: 93.6%
+Temp: 32°F (0°C) · Humidity: 0%
 
 🛥️ Marine Weather Statement:
-903
-FZUS72 KMLB 082131
+886
+FZUS72 KMLB 082352
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-531 PM EDT Thu Oct 8 2026
+752 PM EDT Thu Oct 8 2026
 
-AMZ552-082300-
-531 PM EDT Thu Oct 8 2026
+AMZ550-552-090100-
+752 PM EDT Thu Oct 8 2026
 
 A Marine Weather Statement has been issued for the following areas...
+  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 530 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from near Patrick Space Force Base to
-near Melbourne to 8 nm west of Vero Lake Estates, moving east at 5
-knots.
+At 752 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Haulover Canal, moving northeast at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2868 8026 2852 8020 2843 8020 2835 8021
-      2826 8027 2818 8024 2816 8023 2789 8009
-      2784 8047 2782 8047 2782 8051 2807 8065
-      2857 8083
+LAT...LON 2910 8053 2901 8047 2897 8045 2879 8032
+      2872 8078 2884 8082
 
 $$
 
