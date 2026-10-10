@@ -1,38 +1,36 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 10, 2026 • 6:00 PM
+Generated: Oct 10, 2026 • 7:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 91°F; Rain: 62% ; Wind: 15 mph SSE
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 78°F; Rain: 56% ; Wind: 10 to 15 mph S
-• Tomorrow: Sunday — High: 89°F; Low: 75°F; Rain: 74% ; Wind: 5 to 10 mph SSW
+• Today:    Sunday — Chance Showers And Thunderstorms. High: 89°F; Rain: 74% ; Wind: 5 to 10 mph SSW
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 48% ; Wind: 10 to 15 mph S
+• Tomorrow: Columbus Day — High: 86°F; Low: 75°F; Rain: 1% ; Wind: 5 to 15 mph NNW
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 83.7%
+Temp: 80.6°F (27°C) · Humidity: 94.3%
 
 🛥️ Marine Weather Statement:
-603
-FZUS72 KMLB 102158
+538
+FZUS72 KMLB 102213
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-558 PM EDT Sat Oct 10 2026
+613 PM EDT Sat Oct 10 2026
 
 AMZ552-102300-
-558 PM EDT Sat Oct 10 2026
+613 PM EDT Sat Oct 10 2026
 
-...THUNDERSTORMS, HEAVY SHOWERS, AND OUTFLOW WINDS OVER THE ATLANTIC
-AND INTRACOASTAL WATERS FROM NEAR PATRICK SPACE FORCE BASE TO CAPE
-CANAVERAL...
+...A STRONG THUNDERSTORM OVER THE ATLANTIC AND INTRACOASTAL WATERS
+NEAR SEBASTIAN INLET...
 
 The areas affected include...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 
-At 556 PM EDT, Doppler radar indicated thunderstorms, heavy showers,
-and outflow, capable of producing winds to around 30 knots. This
-activity was located near Patrick Space Force Base, moving north at
-25 knots.
+At 612 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Micco, or over Barefoot Bay, moving north at 30 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,11 +40,8 @@ immediately until this storm passes.
 
 &&
 
-LAT...LON 2883 8085 2886 8086 2886 8081 2885 8083
-      2882 8081 2883 8077 2886 8078 2883 8076
-      2885 8036 2873 8027 2852 8020 2835 8021
-      2826 8027 2818 8024 2816 8025 2820 8070
-      2869 8086 2881 8089
+LAT...LON 2822 8070 2818 8025 2815 8022 2786 8029
+      2783 8051 2807 8065
 
 $$
 
