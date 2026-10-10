@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 10, 2026 • 4:00 PM
+Generated: Oct 10, 2026 • 5:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,42 +8,67 @@ Generated: Oct 10, 2026 • 4:00 PM
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Chance Showers And Thunderstorms. Low: 78°F; Rain: 56% ; Wind: 10 to 15 mph S
 • Tomorrow: Sunday — High: 89°F; Low: 75°F; Rain: 74% ; Wind: 5 to 10 mph SSW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 74.8%
+Temp: 86°F (30°C) · Humidity: 70.3%
 
 🛥️ Marine Weather Statement:
-886
-FZUS72 KMLB 082352
+722
+FZUS72 KMLB 102055
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-752 PM EDT Thu Oct 8 2026
+455 PM EDT Sat Oct 10 2026
 
-AMZ550-552-090100-
-752 PM EDT Thu Oct 8 2026
+AMZ550-102130-
+/O.CON.KMLB.MA.W.0321.000000T0000Z-261010T2130Z/
+455 PM EDT Sat Oct 10 2026
 
-A Marine Weather Statement has been issued for the following areas...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 530 PM EDT...
 
-At 752 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-over Haulover Canal, moving northeast at 5 knots.
+For the following areas...
+Flagler Beach to Volusia-Brevard County Line 0-20 nm...
+
+At 455 PM EDT, severe thunderstorms capable of producing waterspouts
+were located along a line extending from 6 nm northeast of Daytona
+Beach Shores to Maytown, moving north at 10 knots.
+
+HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+SOURCE...Radar indicated.
+
+IMPACT...Waterspouts can can quickly form and capsize boats, damage
+         vessels and create locally hazardous seas. Make sure all on
+         board are wearing life jackets. Expect wind gusts in excess
+         of 34 knots, suddenly higher waves, lightning and heavy
+         downpours. Make sure all on board are wearing life jackets.
+         Return to safe harbor if possible.
+
+Locations impacted include...
+Edgewater, New Smyrna Beach Airport, New Smyrna Beach, Maytown, and
+Ponce Inlet.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+Move to safe harbor until hazardous weather passes.
+
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
 
 &&
 
-LAT...LON 2910 8053 2901 8047 2897 8045 2879 8032
-      2872 8078 2884 8082
+LAT...LON 2943 8110 2946 8112 2948 8075 2925 8063
+      2886 8037 2881 8088 2884 8085 2938 8113
+      2942 8113
+TIME...MOT...LOC 2055Z 197DEG 11KT 2926 8091 2879 8098
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
 
 $$
 
-Watson
+Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 253
