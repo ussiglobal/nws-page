@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 10, 2026 • 9:00 PM
+Generated: Oct 10, 2026 • 10:00 PM
 ===============================
 
 📅 Forecast:
@@ -11,37 +11,41 @@ Generated: Oct 10, 2026 • 9:00 PM
 Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-886
-FZUS72 KMLB 110045
+405
+FZUS72 KMLB 110112
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-845 PM EDT Sat Oct 10 2026
+912 PM EDT Sat Oct 10 2026
 
-AMZ570-110115-
-845 PM EDT Sat Oct 10 2026
+AMZ552-570-572-110315-
+912 PM EDT Sat Oct 10 2026
 
-...A STRONG THUNDERSTORM OVER THE ATLANTIC WATERS OFFSHORE OF
-DAYTONA BEACH...
+...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF CAPE
+CANAVERAL TO DAYTONA BEACH...
 
 The areas affected include...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 845 PM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-28 nm northeast of Playalinda Beach, moving north at 30 knots.
+At 911 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 36 nm northeast of Klondike Beach
+to 16 nm east of Port Canaveral, moving northeast at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2932 7988 2916 7975 2901 7967 2892 7969
-      2891 7984 2908 8052 2918 8059 2947 8050
+LAT...LON 2947 7998 2916 7975 2899 7966 2824 8018
+      2836 8049 2885 8044 2886 8037 2894 8043
+      2948 8038
 
 $$
 
