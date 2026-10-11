@@ -1,53 +1,47 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 10, 2026 • 8:00 PM
+Generated: Oct 10, 2026 • 9:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Chance Showers And Thunderstorms. High: 89°F; Rain: 74% ; Wind: 5 to 10 mph SSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 48% ; Wind: 10 to 15 mph S
+• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 40% ; Wind: 10 to 15 mph S
 • Tomorrow: Columbus Day — High: 86°F; Low: 75°F; Rain: 1% ; Wind: 5 to 15 mph NNW
 🌡️ Current Conditions:
 Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-166
-FZUS72 KMLB 102347
+886
+FZUS72 KMLB 110045
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-747 PM EDT Sat Oct 10 2026
+845 PM EDT Sat Oct 10 2026
 
-AMZ550-552-555-570-572-110115-
-747 PM EDT Sat Oct 10 2026
+AMZ570-110115-
+845 PM EDT Sat Oct 10 2026
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC AND INTRACOASTAL WATERS
-FROM NEAR SEBASTIAN INLET TO CAPE CANAVERAL...
+...A STRONG THUNDERSTORM OVER THE ATLANTIC WATERS OFFSHORE OF
+DAYTONA BEACH...
 
 The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 0-20 nm...
   Flagler Beach to Volusia-Brevard County Line 20-60 nm...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 746 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 15 nm northeast of Port Canaveral
-to near Barefoot Bay, moving north at 30 knots.
+At 845 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+28 nm northeast of Playalinda Beach, moving north at 30 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2864 8073 2862 8064 2867 8072 2911 8058
-      2891 7971 2768 8031 2766 8042 2807 8065
-      2846 8079
+LAT...LON 2932 7988 2916 7975 2901 7967 2892 7969
+      2891 7984 2908 8052 2918 8059 2947 8050
 
 $$
 
