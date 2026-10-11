@@ -1,57 +1,49 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 11, 2026 • 3:00 PM
+Generated: Oct 11, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms. High: 89°F; Rain: 78% ; Wind: 10 mph SSW
-• Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 74°F; Rain: 58% ; Wind: 5 to 10 mph W
-• Tomorrow: Columbus Day — High: 85°F; Low: 73°F; Rain: 3% ; Wind: 10 to 15 mph NNW
+• Today:    This Afternoon — Showers And Thunderstorms. High: 89°F; Rain: 78% ; Wind: 5 to 10 mph SW
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 74°F; Rain: 42% ; Wind: 5 to 10 mph WSW
+• Tomorrow: Columbus Day — High: 86°F; Low: 72°F; Rain: 4% ; Wind: 10 mph N
 🌡️ Current Conditions:
-Temp: 82.4°F (28°C) · Humidity: 78.9%
+Temp: 84.2°F (29°C) · Humidity: 74.5%
 
 🛥️ Marine Weather Statement:
-532
-FZUS72 KMLB 111642
+461
+FZUS72 KMLB 111922
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1242 PM EDT Sun Oct 11 2026
+322 PM EDT Sun Oct 11 2026
 
-AMZ552-555-572-575-111845-
-1242 PM EDT Sun Oct 11 2026
+AMZ570-572-112030-
+322 PM EDT Sun Oct 11 2026
 
-...LINE OF SHOWERS AND ISOLATED THUNDERSTORMS APPROACHING THE
-WATERS...
+...STRONG THUNDERSTORMS OVER THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
-  Sebastian Inlet to Jupiter Inlet 20-60 nm...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1239 PM EDT, Doppler radar indicated a line of showers and
-isolated thunderstorms, capable of producing winds to around 30
-knots. These thunderstorms were located along a line extending from
-8 nm west of Titusville to 11 nm southwest of Canaveral Groves to 21
-nm southwest of Palm Bay, moving northeast at 25 knots. Additional
-showers and storms will move off of the Brevard and Treasure Coasts
-through this afternoon and early evening.
+At 322 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 56 nm northeast of Apollo Beach
+to 44 nm northeast of Klondike Beach to 31 nm east of Playalinda
+Beach, moving east at 25 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. A special marine warning may
-eventually be required. Boaters should seek safe harbor immediately
-until these showers and storms pass.
-
-
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
 
 &&
 
-LAT...LON 2881 8089 2889 8008 2756 7956 2755 8039
-      2765 8041 2807 8065
+LAT...LON 2947 7998 2916 7975 2901 7967 2875 7957
+      2869 8025 2945 8015 2947 8005
 
 $$
 
