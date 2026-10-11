@@ -1,28 +1,29 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 11, 2026 • 12:00 PM
+Generated: Oct 11, 2026 • 1:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Chance Showers And Thunderstorms. High: 89°F; Rain: 78% ; Wind: 10 mph SSW
+• Today:    Today — Partly Sunny then Chance Showers And Thunderstorms. High: 89°F; Rain: 78% ; Wind: 10 mph SSW
 • Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 74°F; Rain: 58% ; Wind: 5 to 10 mph W
 • Tomorrow: Columbus Day — High: 85°F; Low: 73°F; Rain: 3% ; Wind: 10 to 15 mph NNW
 🌡️ Current Conditions:
-Temp: 87.8°F (31°C) · Humidity: 70.5%
+Temp: 87.8°F (31°C) · Humidity: 66.4%
 
 🛥️ Marine Weather Statement:
-297
-FZUS72 KMLB 111216
+532
+FZUS72 KMLB 111642
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-816 AM EDT Sun Oct 11 2026
+1242 PM EDT Sun Oct 11 2026
 
-AMZ552-555-572-575-111315-
-816 AM EDT Sun Oct 11 2026
+AMZ552-555-572-575-111845-
+1242 PM EDT Sun Oct 11 2026
 
-...A STRONG THUNDERSTORM OVER THE WATERS...
+...LINE OF SHOWERS AND ISOLATED THUNDERSTORMS APPROACHING THE
+WATERS...
 
 The areas affected include...
   Sebastian Inlet to Jupiter Inlet 0-20 nm...
@@ -30,24 +31,31 @@ The areas affected include...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 816 AM EDT, Doppler radar indicated a strong thunderstorm, capable
-of producing winds to around 30 knots. This thunderstorm was located
-41 nm northeast of Sebastian Inlet, moving northeast at 25 knots.
+At 1239 PM EDT, Doppler radar indicated a line of showers and
+isolated thunderstorms, capable of producing winds to around 30
+knots. These thunderstorms were located along a line extending from
+8 nm west of Titusville to 11 nm southwest of Canaveral Groves to 21
+nm southwest of Palm Bay, moving northeast at 25 knots. Additional
+showers and storms will move off of the Brevard and Treasure Coasts
+through this afternoon and early evening.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
-waves, and lightning strikes. Boaters should seek safe harbor
-immediately until this storm passes.
+waves, and lightning strikes. A special marine warning may
+eventually be required. Boaters should seek safe harbor immediately
+until these showers and storms pass.
+
+
 
 &&
 
-LAT...LON 2749 7978 2788 8041 2893 7967 2893 7964
-      2866 7955 2829 7954 2800 7941
+LAT...LON 2881 8089 2889 8008 2756 7956 2755 8039
+      2765 8041 2807 8065
 
 $$
 
-Fehling
+Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 260
