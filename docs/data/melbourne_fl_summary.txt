@@ -1,34 +1,37 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 11, 2026 • 6:00 AM
+Generated: Oct 11, 2026 • 7:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Sunday — Chance Showers And Thunderstorms. High: 89°F; Rain: 78% ; Wind: 10 mph SSW
-• Tonight:  Overnight — Slight Chance Showers And Thunderstorms. Low: 78°F; Rain: 22% ; Wind: 10 mph S
-• Tomorrow: Columbus Day — High: 85°F; Low: 74°F; Rain: 3% ; Wind: 10 to 15 mph NNW
+• Today:    Today — Chance Showers And Thunderstorms. High: 89°F; Rain: 78% ; Wind: 10 mph SSW
+• Tonight:  Tonight — Showers And Thunderstorms Likely then Partly Cloudy. Low: 74°F; Rain: 58% ; Wind: 5 to 10 mph W
+• Tomorrow: Columbus Day — High: 85°F; Low: 73°F; Rain: 3% ; Wind: 10 to 15 mph NNW
 🌡️ Current Conditions:
 Temp: 78.8°F (26°C) · Humidity: 94.2%
 
 🛥️ Marine Weather Statement:
-865
-FZUS72 KMLB 110320
+923
+FZUS72 KMLB 111032
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1120 PM EDT Sat Oct 10 2026
+632 AM EDT Sun Oct 11 2026
 
-AMZ552-572-110415-
-1120 PM EDT Sat Oct 10 2026
+AMZ552-555-572-575-111130-
+632 AM EDT Sun Oct 11 2026
 
 A Marine Weather Statement has been issued for the following areas...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 1119 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located 21 nm east of Port Canaveral, moving north at 20 knots.
+At 629 AM EDT, Doppler radar indicated a band of strong
+thunderstorms, capable of producing winds to around 30 knots,
+extending from just offshore the Treasure coast northward to well
+offshore the Brevard coast. Cell motion was north at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -36,9 +39,17 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
+Frequent cloud to water lightning is occurring with some of these
+storme. If caught on the open water stay below deck and, if
+possible, avoid ungrounded metal objects. Remember, lightning can
+strike beyond 10 miles away from a thunderstorm.
+
 &&
 
-LAT...LON 2825 8015 2827 8026 2879 8025 2874 7995
+LAT...LON 2716 8010 2739 8024 2813 8019 2856 8007
+      2890 7993 2892 7977 2893 7964 2879 7959
+      2877 7958 2873 7957 2865 7956 2799 7976
+      2728 7993
 
 $$
 
