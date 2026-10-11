@@ -1,55 +1,48 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 10, 2026 • 11:00 PM
+Generated: Oct 11, 2026 • 3:00 AM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Chance Showers And Thunderstorms. High: 89°F; Rain: 74% ; Wind: 5 to 10 mph SSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 78°F; Rain: 40% ; Wind: 10 to 15 mph S
+• Tonight:  Overnight — Slight Chance Showers And Thunderstorms. Low: 78°F; Rain: 15% ; Wind: 10 to 15 mph S
 • Tomorrow: Columbus Day — High: 86°F; Low: 75°F; Rain: 1% ; Wind: 5 to 15 mph NNW
 🌡️ Current Conditions:
 Temp: 78.8°F (26°C) · Humidity: 88.8%
 
 🛥️ Marine Weather Statement:
-405
-FZUS72 KMLB 110112
+865
+FZUS72 KMLB 110320
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-912 PM EDT Sat Oct 10 2026
+1120 PM EDT Sat Oct 10 2026
 
-AMZ552-570-572-110315-
-912 PM EDT Sat Oct 10 2026
+AMZ552-572-110415-
+1120 PM EDT Sat Oct 10 2026
 
-...STRONG THUNDERSTORMS OVER THE ATLANTIC WATERS OFFSHORE OF CAPE
-CANAVERAL TO DAYTONA BEACH...
-
-The areas affected include...
-  Flagler Beach to Volusia-Brevard County Line 20-60 nm...
+A Marine Weather Statement has been issued for the following areas...
   Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
   Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-At 911 PM EDT, Doppler radar indicated strong thunderstorms, capable
-of producing winds to around 30 knots. These thunderstorms were
-located along a line extending from 36 nm northeast of Klondike Beach
-to 16 nm east of Port Canaveral, moving northeast at 25 knots.
+At 1119 PM EDT, Doppler radar indicated a strong thunderstorm,
+capable of producing winds to around 30 knots. This thunderstorm was
+located 21 nm east of Port Canaveral, moving north at 20 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
-immediately until these storms pass.
+immediately until this storm passes.
 
 &&
 
-LAT...LON 2947 7998 2916 7975 2899 7966 2824 8018
-      2836 8049 2885 8044 2886 8037 2894 8043
-      2948 8038
+LAT...LON 2825 8015 2827 8026 2879 8025 2874 7995
 
 $$
 
-Haley
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 253
