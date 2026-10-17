@@ -1,35 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 17, 2026 • 3:00 PM
+Generated: Oct 17, 2026 • 4:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 83°F; Rain: 64% ; Wind: 15 to 25 mph N
-• Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 73°F; Rain: 43% ; Wind: 25 mph N
-• Tomorrow: Sunday — High: 82°F; Low: 73°F; Rain: 35% ; Wind: 25 to 30 mph NNE
+• Today:    This Afternoon — Chance Showers And Thunderstorms. High: 82°F; Rain: 53% ; Wind: 20 to 25 mph N
+• Tonight:  Tonight — Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms. Low: 72°F; Rain: 44% ; Wind: 25 to 30 mph NNE
+• Tomorrow: Sunday — High: 81°F; Low: 73°F; Rain: 36% ; Wind: 25 mph NNE
 🌡️ Current Conditions:
-Temp: 78.8°F (26°C) · Humidity: 74%
+Temp: 75.2°F (24°C) · Humidity: 83.3%
 
 🛥️ Marine Weather Statement:
-655
-FZUS72 KMLB 161653
+822
+FZUS72 KMLB 171913
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1253 PM EDT Fri Oct 16 2026
+313 PM EDT Sat Oct 17 2026
 
-AMZ552-161800-
-1253 PM EDT Fri Oct 16 2026
+AMZ555-172015-
+313 PM EDT Sat Oct 17 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE WATERS...
+...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
-  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
 
-At 1252 PM EDT, Doppler radar indicated a strong thunderstorm,
-capable of producing winds to around 30 knots. This thunderstorm was
-located over Malabar, moving north at 5 knots.
+At 313 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Jupiter Inlet, moving north at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -37,19 +37,17 @@ Mariners can expect gusty winds to around 30 knots, locally higher
 waves, and lightning strikes. Boaters should seek safe harbor
 immediately until this storm passes.
 
-Frequent cloud to water lightning is occurring with this storm. If
-caught on the open water stay below deck and, if possible, avoid
-ungrounded metal objects. Remember, lightning can strike beyond 10
-miles away from a thunderstorm.
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2822 8046 2790 8046 2787 8054 2807 8065
-      2821 8070
+LAT...LON 2697 8011 2710 8017 2712 8019 2714 7986
+      2697 7989
 
 $$
 
-Tollefsen
+Wishard
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 362
