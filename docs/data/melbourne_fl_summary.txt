@@ -1,35 +1,35 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 17, 2026 • 7:00 PM
+Generated: Oct 17, 2026 • 8:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Chance Rain Showers. High: 81°F; Rain: 36% ; Wind: 25 mph NNE
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Slight Chance Showers And Thunderstorms. Low: 72°F; Rain: 44% ; Wind: 25 to 30 mph NNE
+• Tonight:  Tonight — Slight Chance Rain Showers then Mostly Cloudy. Low: 72°F; Rain: 16% ; Wind: 25 to 30 mph NNE
 • Tomorrow: Monday — High: 82°F; Low: 73°F; Rain: 30% ; Wind: 20 to 25 mph NNE
 🌡️ Current Conditions:
-Temp: 71.6°F (22°C) · Humidity: 73.3%
+Temp: 71.6°F (22°C) · Humidity: 68.8%
 
 🛥️ Marine Weather Statement:
-822
-FZUS72 KMLB 171913
+887
+FZUS72 KMLB 172352
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-313 PM EDT Sat Oct 17 2026
+752 PM EDT Sat Oct 17 2026
 
-AMZ555-172015-
-313 PM EDT Sat Oct 17 2026
+AMZ575-180045-
+752 PM EDT Sat Oct 17 2026
 
 ...A STRONG THUNDERSTORM OVER THE WATERS...
 
 The areas affected include...
-  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 313 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+At 751 PM EDT, Doppler radar indicated a strong thunderstorm, capable
 of producing winds to around 30 knots. This thunderstorm was located
-over Jupiter Inlet, moving north at 5 knots.
+42 nm east of Hobe Sound Beach, moving south at 5 knots.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -42,8 +42,7 @@ case warnings are issued for waterspout development.
 
 &&
 
-LAT...LON 2697 8011 2710 8017 2712 8019 2714 7986
-      2697 7989
+LAT...LON 2732 7947 2739 7925 2713 7909 2705 7943
 
 $$
 
