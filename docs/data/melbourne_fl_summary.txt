@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 26, 2026 • 11:00 AM
+Generated: Oct 26, 2026 • 12:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,7 +8,7 @@ Generated: Oct 26, 2026 • 11:00 AM
 • Tonight:  Tonight — Chance Rain Showers then Partly Cloudy. Low: 74°F; Rain: 26% ; Wind: 25 mph NE
 • Tomorrow: Tuesday — High: 82°F; Low: 74°F; Rain: 28% ; Wind: 25 mph NE
 🌡️ Current Conditions:
-Temp: 80.6°F (27°C) · Humidity: 61.6%
+Temp: 82.4°F (28°C) · Humidity: 58.1%
 
 🛥️ Marine Weather Statement:
 575
@@ -57,38 +57,36 @@ $$
 Sedlock
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-002
-FZUS52 KMLB 260700
+394
+FZUS52 KMLB 261500
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-300 AM EDT Mon Oct 26 2026
+1100 AM EDT Mon Oct 26 2026
 
 FLZ141-347-447-262000-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-300 AM EDT Mon Oct 26 2026
+1100 AM EDT Mon Oct 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 2 AM EDT THURSDAY...
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE WEDNESDAY NIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
-Surf Height.................9 to 12 feet.
+Surf Height.................7 to 11 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........In the mid 70s.
 Weather.....................Mostly sunny. A chance of showers.
 High Temperature............Around 80.
-Winds.......................Breezy. Northeast winds around 25 mph.
+Winds.......................Breezy. Northeast winds 20 to 25 mph.
 Tides...
-   Daytona Beach............High 5.0 feet (MLLW) 08:25 AM EDT.
-                            Low 0.3 feet (MLLW) 02:48 PM EDT.
-   Port Canaveral...........High 5.0 feet (MLLW) 08:16 AM EDT.
-                            Low 0.6 feet (MLLW) 02:33 PM EDT.
+   Daytona Beach............Low 0.3 feet (MLLW) 02:48 PM EDT.
+   Port Canaveral...........Low 0.6 feet (MLLW) 02:33 PM EDT.
 Sunrise.....................7:32 AM.
 Sunset......................6:44 PM.
 
@@ -99,7 +97,7 @@ Thunderstorm Potential**....None.
 Weather.....................Mostly sunny. A slight chance of
                             showers.
 High Temperature............Around 80.
-Winds.......................Northeast winds around 20 mph.
+Winds.......................Breezy. Northeast winds 20 to 25 mph.
 Tides...
    Daytona Beach............High 5.1 feet (MLLW) 09:14 AM EDT.
                             Low 0.3 feet (MLLW) 03:37 PM EDT.
@@ -108,11 +106,11 @@ Tides...
 Sunrise.....................7:33 AM.
 Sunset......................6:43 PM.
 
-.WEDNESDAY...Mostly sunny. Showers likely and a slight chance of
-thunderstorms. Highs in the upper 70s. Northeast winds around 20 mph.
+.WEDNESDAY...Partly sunny. A chance of showers and a slight chance of
+thunderstorms. Highs around 80. Northeast winds around 20 mph.
 .THURSDAY...Mostly sunny. A chance of showers and a slight chance of
 thunderstorms. Highs around 80. Northeast winds around 15 mph.
-.FRIDAY...Mostly sunny. A slight chance of showers. Highs around 80.
+.FRIDAY...Sunny. A slight chance of showers. Highs around 80.
 Northeast winds around 15 mph.
 
 &&
@@ -136,12 +134,12 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-300 AM EDT Mon Oct 26 2026
+1100 AM EDT Mon Oct 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 2 AM EDT THURSDAY...
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE WEDNESDAY NIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................9 to 11 feet.
 Thunderstorm Potential**....None.
@@ -151,10 +149,8 @@ Weather.....................Mostly sunny. A chance of showers.
 High Temperature............In the lower 80s.
 Winds.......................Breezy. Northeast winds around 25 mph.
 Tides...
-   Port Canaveral...........High 5.0 feet (MLLW) 08:16 AM EDT.
-                            Low 0.6 feet (MLLW) 02:33 PM EDT.
-   Sebastian Inlet..........High 3.1 feet (MLLW) 08:31 AM EDT.
-                            Low 0.5 feet (MLLW) 02:35 PM EDT.
+   Port Canaveral...........Low 0.6 feet (MLLW) 02:33 PM EDT.
+   Sebastian Inlet..........Low 0.5 feet (MLLW) 02:35 PM EDT.
 Sunrise.....................7:30 AM.
 Sunset......................6:44 PM.
 
@@ -162,9 +158,10 @@ Sunset......................6:44 PM.
 Rip Current Risk*...........High.
 Surf Height.................8 to 11 feet.
 Thunderstorm Potential**....None.
-Weather.....................Mostly sunny. A chance of showers.
+Weather.....................Mostly sunny. A slight chance of
+                            showers.
 High Temperature............In the lower 80s.
-Winds.......................Breezy. Northeast winds 20 to 25 mph.
+Winds.......................Breezy. Northeast winds around 25 mph.
 Tides...
    Port Canaveral...........High 5.2 feet (MLLW) 09:04 AM EDT.
                             Low 0.6 feet (MLLW) 03:22 PM EDT.
@@ -173,13 +170,12 @@ Tides...
 Sunrise.....................7:30 AM.
 Sunset......................6:43 PM.
 
-.WEDNESDAY...Partly sunny. Showers likely and a slight chance of
-thunderstorms. Highs in the lower 80s. Breezy. Northeast winds around
-25 mph.
-.THURSDAY...Mostly sunny. Showers likely and a slight chance of
-thunderstorms. Highs in the lower 80s. Northeast winds around 15 mph.
-.FRIDAY...Mostly sunny. A chance of showers and a slight chance of
-thunderstorms. Highs in the lower 80s. Northeast winds around 15 mph.
+.WEDNESDAY...Partly sunny. Showers and a chance of thunderstorms.
+Highs in the lower 80s. Breezy. Northeast winds around 25 mph.
+.THURSDAY...Mostly sunny. A chance of showers and thunderstorms.
+Highs in the lower 80s. Northeast winds around 15 mph.
+.FRIDAY...Sunny. A slight chance of showers and thunderstorms. Highs
+in the lower 80s. Northeast winds around 15 mph.
 
 &&
 
@@ -201,12 +197,12 @@ FLZ159-164-262000-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-300 AM EDT Mon Oct 26 2026
+1100 AM EDT Mon Oct 26 2026
 
 ...HIGH SURF ADVISORY IN EFFECT UNTIL 2 AM EDT THURSDAY...
 ...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE WEDNESDAY NIGHT...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................9 to 12 feet.
 Thunderstorm Potential**....None.
@@ -216,17 +212,15 @@ Weather.....................Mostly sunny. A chance of showers.
 High Temperature............In the lower 80s.
 Winds.......................Breezy. Northeast winds around 25 mph.
 Tides...
-   Fort Pierce Inlet........High 2.7 feet (MLLW) 08:52 AM EDT.
-                            Low 0.2 feet (MLLW) 03:07 PM EDT.
+   Fort Pierce Inlet........Low 0.2 feet (MLLW) 03:07 PM EDT.
 Sunrise.....................7:28 AM.
 Sunset......................6:43 PM.
 
 .TUESDAY...
 Rip Current Risk*...........High.
 Surf Height.................9 to 12 feet.
-Thunderstorm Potential**....Low.
-Weather.....................Partly sunny. Showers likely and a
-                            slight chance of thunderstorms.
+Thunderstorm Potential**....None.
+Weather.....................Partly sunny. Showers likely.
 High Temperature............In the lower 80s.
 Winds.......................Breezy. Northeast winds around 25 mph.
 Tides...
@@ -235,10 +229,10 @@ Tides...
 Sunrise.....................7:28 AM.
 Sunset......................6:42 PM.
 
-.WEDNESDAY...Partly sunny. Showers and a slight chance of
+.WEDNESDAY...Partly sunny. Showers likely and a chance of
 thunderstorms. Highs in the lower 80s. Northeast winds around 20 mph.
-.THURSDAY...Partly sunny. Showers likely and a chance of
-thunderstorms. Highs in the lower 80s. Northeast winds around 15 mph.
+.THURSDAY...Mostly sunny. A chance of showers and thunderstorms.
+Highs in the lower 80s. Northeast winds around 10 mph.
 .FRIDAY...Mostly sunny. A chance of showers and a slight chance of
 thunderstorms. Highs in the lower 80s. Northeast winds around 10 mph.
 
