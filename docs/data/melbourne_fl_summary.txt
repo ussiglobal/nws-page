@@ -1,43 +1,40 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Oct 28, 2026 • 12:00 PM
+Generated: Oct 28, 2026 • 1:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Showers And Thunderstorms Likely. High: 82°F; Rain: 71% ; Wind: 20 mph NE
+• Today:    This Afternoon — Showers And Thunderstorms Likely. High: 82°F; Rain: 71% ; Wind: 20 mph NE
 • Tonight:  Tonight — Chance Showers And Thunderstorms. Low: 75°F; Rain: 54% ; Wind: 10 to 20 mph ENE
 • Tomorrow: Thursday — High: 84°F; Low: 75°F; Rain: 41% ; Wind: 10 to 20 mph NE
 🌡️ Current Conditions:
-Temp: 75.2°F (24°C) · Humidity: 88.6%
+Temp: 78.8°F (26°C) · Humidity: 83.6%
 
 🛥️ Marine Weather Statement:
-575
-FZUS72 KMLB 250426
+461
+FZUS72 KMLB 281626
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-1226 AM EDT Sun Oct 25 2026
+1226 PM EDT Wed Oct 28 2026
 
-AMZ555-575-250630-
-1226 AM EDT Sun Oct 25 2026
+AMZ552-555-281700-
+1226 PM EDT Wed Oct 28 2026
 
 The areas affected include...
+Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
 Sebastian Inlet to Jupiter Inlet 0-20 nm...
-Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-* At 1226 AM EDT, Doppler radar indicated a strong thunderstorm,
-  capable of producing winds to around 30 knots. This strong
-  thunderstorm was located 45 NM east of Fort Pierce Inlet, moving
-  west at 20 knots.
+* At 1226 PM EDT, Doppler radar indicated a cluster of heavy showers,
+  capable of producing winds to around 30 knots. This shower was
+  approaching Sebastian Inlet, moving west at 20 knots.
 
 Locations impacted include...
-  Waveland, Nettles Island, Saint Lucie Nuclear Power Plant,
-  Hutchinson Island South, Sewall`s Point, Hobe Sound Wildlife
-  Refuge, Ocean Breeze Park, Frederick Douglass Park, Hobe Sound
-  Beach, Walton, Jensen Beach, Port Salerno, Surfside Park, Fort
-  Pierce Ocean Park, Hobe Sound, Witham Field, Jupiter Island, Rio,
-  Fort Pierce Inlet and Pepper Beach Park.
+ Sebastian Inlet State Park, Orchid, Sebastian Inlet, Wabasso Beach,
+ Wabasso, Sebastian, Roseland, Indian River Shores, Winter Beach,
+ Micco, Barefoot Bay, Gifford, Floridana Beach, Jaycee Beach,
+ Melbourne Shores, Vero Beach and Grant-Valkaria.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
@@ -47,14 +44,12 @@ safe harbor immediately until this storm passes.
 
 &&
 
-LAT...LON 2782 8050 2800 7941 2731 7913 2698 7905
-      2697 8012 2712 8018 2715 8022 2713 8027
-      2721 8033 2727 8035 2729 8033 2724 8025
-      2746 8036 2765 8040
-TIME...MOT...LOC 0425Z 74DEG 20KT 2773 7949
+LAT...LON 2798 8059 2799 8034 2766 8024 2762 8040
+      2765 8040 2782 8050
+TIME...MOT...LOC 1624Z 82DEG 20KT 2790 8039
 
 $$
-Sedlock
+Kelly
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 269
