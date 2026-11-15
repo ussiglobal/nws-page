@@ -1,6 +1,6 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Nov 15, 2026 • 11:00 AM
+Generated: Nov 15, 2026 • 12:00 PM
 ===============================
 
 📅 Forecast:
@@ -8,7 +8,7 @@ Generated: Nov 15, 2026 • 11:00 AM
 • Tonight:  Tonight — Mostly Clear. Low: 68°F; Rain: 13% ; Wind: 15 mph NE
 • Tomorrow: Monday — High: 77°F; Low: 69°F; Rain: 44% ; Wind: 15 to 20 mph NE
 🌡️ Current Conditions:
-Temp: 69.8°F (21°C) · Humidity: 56.4%
+Temp: 71.6°F (22°C) · Humidity: 56.7%
 
 🛥️ Marine Weather Statement:
 769
@@ -50,22 +50,22 @@ $$
 Haley
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-073
-FZUS52 KMLB 150800
+177
+FZUS52 KMLB 151600
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-300 AM EST Sun Nov 15 2026
+1100 AM EST Sun Nov 15 2026
 
 FLZ141-347-447-152100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-300 AM EST Sun Nov 15 2026
+1100 AM EST Sun Nov 15 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................2 to 4 feet.
 Thunderstorm Potential**....None.
@@ -95,11 +95,11 @@ Sunrise.....................6:48 AM.
 Sunset......................5:30 PM.
 
 .TUESDAY...Mostly cloudy. Showers likely. Highs in the mid 70s.
-Northeast winds around 15 mph.
-.WEDNESDAY...Partly sunny. Showers likely and a slight chance of
-thunderstorms. Highs in the mid 70s. Northeast winds around 20 mph.
-.THURSDAY...Mostly sunny. A chance of showers and a slight chance of
-thunderstorms. Highs in the upper 70s. Northeast winds around 20 mph.
+Northeast winds around 20 mph.
+.WEDNESDAY...Mostly sunny. A chance of showers. Highs in the upper
+70s. Northeast winds around 20 mph.
+.THURSDAY...Mostly sunny. A chance of showers. Highs in the upper
+70s. Northeast winds around 20 mph.
 
 &&
 
@@ -122,9 +122,9 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-300 AM EST Sun Nov 15 2026
+1100 AM EST Sun Nov 15 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
@@ -144,7 +144,8 @@ Sunset......................5:30 PM.
 Rip Current Risk*...........Moderate.
 Surf Height.................4 to 6 feet.
 Thunderstorm Potential**....None.
-Weather.....................Partly sunny. A chance of showers.
+Weather.....................Partly sunny. A slight chance of
+                            showers.
 High Temperature............In the mid 70s.
 Winds.......................Northeast winds 15 to 20 mph.
 Tides...
@@ -154,11 +155,12 @@ Tides...
 Sunrise.....................6:44 AM.
 Sunset......................5:30 PM.
 
-.TUESDAY...Mostly cloudy. A chance of showers. Highs in the mid 70s.
+.TUESDAY...Partly sunny. A chance of showers. Highs in the mid 70s.
 Northeast winds around 20 mph.
-.WEDNESDAY...Partly sunny. Showers likely and a chance of
-thunderstorms. Highs in the upper 70s. Northeast winds around 20 mph.
-.THURSDAY...Mostly sunny. Showers likely and a slight chance of
+.WEDNESDAY...Partly sunny. Showers likely and a slight chance of
+thunderstorms. Highs in the upper 70s. Breezy. Northeast winds around
+25 mph.
+.THURSDAY...Partly sunny. Showers likely and a slight chance of
 thunderstorms. Highs in the upper 70s. Breezy. Northeast winds around
 25 mph.
 
@@ -182,9 +184,9 @@ FLZ159-164-152100-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-300 AM EST Sun Nov 15 2026
+1100 AM EST Sun Nov 15 2026
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........Moderate.
 Surf Height.................Around 2 feet.
 Thunderstorm Potential**....None.
@@ -192,7 +194,7 @@ UV Index**..................Moderate.
 Water Temperature...........In the upper 70s.
 Weather.....................Sunny.
 High Temperature............In the mid 70s.
-Winds.......................North winds around 10 mph.
+Winds.......................Northeast winds around 10 mph.
 Tides...
    Fort Pierce Inlet........High 2.1 feet (MLLW) 12:11 PM EST.
 Sunrise.....................6:41 AM.
@@ -202,22 +204,22 @@ Sunset......................5:30 PM.
 Rip Current Risk*...........Moderate.
 Surf Height.................3 to 5 feet.
 Thunderstorm Potential**....None.
-Weather.....................Mostly sunny until 1 PM, then mostly
-                            cloudy. A chance of showers.
+Weather.....................Mostly sunny. A chance of showers.
 High Temperature............In the upper 70s.
-Winds.......................Northeast winds 15 to 20 mph.
+Winds.......................Northeast winds 10 to 15 mph.
 Tides...
    Fort Pierce Inlet........Low 0.4 feet (MLLW) 06:25 AM EST.
                             High 2.1 feet (MLLW) 01:00 PM EST.
 Sunrise.....................6:42 AM.
 Sunset......................5:30 PM.
 
-.TUESDAY...Mostly cloudy. A chance of showers. Highs in the upper
-70s. Northeast winds around 20 mph.
-.WEDNESDAY...Partly sunny. Showers likely and a chance of
-thunderstorms. Highs in the upper 70s. Northeast winds around 20 mph.
-.THURSDAY...Partly sunny. Showers likely and a slight chance of
-thunderstorms. Highs in the upper 70s. Northeast winds around 20 mph.
+.TUESDAY...Mostly cloudy. Showers likely. Highs in the upper 70s.
+Northeast winds around 20 mph.
+.WEDNESDAY...Partly sunny. Showers and a chance of thunderstorms.
+Highs in the upper 70s. Northeast winds around 20 mph.
+.THURSDAY...Partly sunny. Showers and a slight chance of
+thunderstorms. Highs in the upper 70s. Breezy. Northeast winds around
+25 mph.
 
 &&
 
