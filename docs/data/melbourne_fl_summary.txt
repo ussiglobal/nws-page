@@ -1,60 +1,58 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Nov 21, 2026 • 10:00 PM
+Generated: Nov 22, 2026 • 3:00 AM
 ===============================
 
 📅 Forecast:
-• Today:    Sunday — Mostly Sunny. High: 80°F; Rain: 4% ; Wind: 10 to 15 mph WSW
-• Tonight:  Tonight — Slight Chance Rain Showers then Partly Cloudy. Low: 67°F; Rain: 22% ; Wind: 10 mph SSW
-• Tomorrow: Monday — High: 76°F; Low: 62°F; Rain: 0% ; Wind: 5 to 10 mph NNW
+• Today:    Sunday — Sunny. High: 79°F; Rain: 1% ; Wind: 10 to 15 mph W
+• Tonight:  Overnight — Partly Cloudy. Low: 67°F; Rain: 4% ; Wind: 10 to 15 mph WSW
+• Tomorrow: Monday — High: 75°F; Low: 61°F; Rain: 0% ; Wind: 5 to 10 mph NNW
 🌡️ Current Conditions:
-Temp: 73.4°F (23°C) · Humidity: 88.5%
+Temp: 69.8°F (21°C) · Humidity: 83%
 
 🛥️ Marine Weather Statement:
-626
-FZUS72 KMLB 220256
+403
+FZUS72 KMLB 220427
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-956 PM EST Sat Nov 21 2026
+1127 PM EST Sat Nov 21 2026
 
-AMZ555-220400-
-956 PM EST Sat Nov 21 2026
+AMZ572-220500-
+1127 PM EST Sat Nov 21 2026
 
-...A STRONG THUNDERSTORM APPROACHING THE TREASURE COAST WATERS...
+...STRONG THUNDERSTORMS OVER THE WATERS...
 
 A Marine Weather Statement has been issued for the following areas...
-Sebastian Inlet to Jupiter Inlet 0-20 nm...
+Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
 
-* At 956 PM EST, Doppler radar indicated a strong thunderstorm,
-  capable of producing winds to around 30 knots. This a strong
-  thunderstorm was located over Port Saint Lucie, moving northeast at
-  20 knots.
+* At 1127 PM EST, Doppler radar indicated strong thunderstorms,
+  capable of producing winds to around 30 knots. These strong
+  thunderstorms were located along a line from 46 NM east of
+  Playalinda Beach to 45 NM northeast of Sebastian Inlet, moving
+  northeast at 35 knots.
 
 Locations impacted include...
-  Frederick Douglass Park, Surfside Park, Saint Lucie Nuclear Power
-  Plant, Fort Pierce Ocean Park, Fort Pierce Inlet, Hutchinson Island
-  South, Pepper Beach Park, Indian River Estates, Nettles Island,
-  Fort Pierce, Queens Cove, Walton, Waveland, Saint Lucie Village,
-  Saint Lucie, Fort Pierce North, Indrio and Ocean Breeze Park.
+  Mainly open waters of Volusia-Brevard County Line to Sebastian
+  Inlet 20-60 nm.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
 Mariners can expect gusty winds to around 30 knots, locally higher
 waves, lightning strikes, and heavy downpours. Boaters should seek
-safe harbor immediately until this storm passes.
+safe harbor immediately until these storms pass.
 
 &&
 
-LAT...LON 2768 8042 2772 8003 2758 7998 2729 7984
-      2715 8028 2723 8035 2726 8036 2729 8034
-      2729 8031 2724 8025 2738 8032 2744 8034
-      2746 8036 2765 8040
-TIME...MOT...LOC 0255Z 236DEG 20KT 2724 8035
+LAT...LON 2814 7981 2875 7986 2877 7958 2874 7957
+      2872 7957 2866 7955 2862 7954 2857 7954
+      2853 7953 2850 7954 2847 7953 2846 7953
+      2843 7954 2832 7954 2829 7955 2828 7954
+TIME...MOT...LOC 0427Z 205DEG 32KT 2882 7978 2852 7973 2828 7975
 
 $$
-Heil
+Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
 056
