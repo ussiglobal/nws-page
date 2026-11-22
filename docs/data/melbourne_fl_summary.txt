@@ -1,14 +1,14 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Nov 22, 2026 • 11:00 AM
+Generated: Nov 22, 2026 • 2:00 PM
 ===============================
 
 📅 Forecast:
-• Today:    Today — Sunny. High: 79°F; Rain: 1% ; Wind: 10 to 15 mph W
-• Tonight:  Tonight — Partly Cloudy. Low: 61°F; Rain: 0% ; Wind: 5 to 10 mph WNW
-• Tomorrow: Monday — High: 75°F; Low: 66°F; Rain: 0% ; Wind: 5 to 10 mph NNW
+• Today:    This Afternoon — Slight Chance Rain Showers. High: 79°F; Rain: 10% ; Wind: 10 to 15 mph W
+• Tonight:  Tonight — Slight Chance Rain Showers. Low: 60°F; Rain: 10% ; Wind: 10 mph WNW
+• Tomorrow: Monday — High: 74°F; Low: 65°F; Rain: 10% ; Wind: 5 to 10 mph NW
 🌡️ Current Conditions:
-Temp: 71.6°F (22°C) · Humidity: 83.1%
+Temp: 78.8°F (26°C) · Humidity: 65.4%
 
 🛥️ Marine Weather Statement:
 403
@@ -55,26 +55,26 @@ $$
 Weitlich
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
-270
-FZUS52 KMLB 220800
+964
+FZUS52 KMLB 221600
 SRFMLB
 
 Surf Zone Forecast
 National Weather Service Melbourne FL
-300 AM EST Sun Nov 22 2026
+1100 AM EST Sun Nov 22 2026
 
 FLZ141-347-447-222100-
 Coastal Volusia-Mainland Northern Brevard-
 Northern Brevard Barrier Islands-
 Including the beaches of Ormond Beach, Daytona Beach,
 New Smyrna Beach, and Canaveral National Seashore
-300 AM EST Sun Nov 22 2026
+1100 AM EST Sun Nov 22 2026
 
-...HIGH RIP CURRENT RISK IN EFFECT THROUGH THIS EVENING...
+...HIGH RIP CURRENT RISK IN EFFECT UNTIL 7 PM EST THIS EVENING...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
-Surf Height.................3 to 5 feet.
+Surf Height.................3 to 4 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........In the lower 70s.
@@ -106,10 +106,10 @@ Sunset......................5:27 PM.
 
 .TUESDAY...Mostly cloudy. A slight chance of showers. Highs in the
 mid 70s. North winds around 10 mph.
-.WEDNESDAY...Mostly cloudy. Showers likely and a slight chance of
-thunderstorms. Highs in the mid 70s. Northeast winds around 10 mph.
-.THANKSGIVING DAY...Mostly sunny. Highs in the lower 70s. Northwest
-winds around 10 mph.
+.WEDNESDAY...Mostly cloudy. A chance of showers. Highs in the lower
+70s. Northeast winds around 10 mph.
+.THANKSGIVING DAY...Mostly sunny. Highs in the lower 70s. West winds
+around 10 mph.
 
 &&
 
@@ -132,11 +132,11 @@ Coastal Indian River-Mainland Southern Brevard-
 Southern Brevard Barrier Islands-
 Including the beaches of Vero Beach, Cocoa Beach, Satellite Beach,
 and Melbourne Beach
-300 AM EST Sun Nov 22 2026
+1100 AM EST Sun Nov 22 2026
 
-...HIGH RIP CURRENT RISK IN EFFECT THROUGH THIS EVENING...
+...HIGH RIP CURRENT RISK IN EFFECT UNTIL 7 PM EST THIS EVENING...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................Around 4 feet.
 Thunderstorm Potential**....None.
@@ -170,10 +170,10 @@ Sunset......................5:28 PM.
 
 .TUESDAY...Mostly cloudy. Highs in the upper 70s. North winds around
 10 mph.
-.WEDNESDAY...Mostly cloudy. Showers likely and a slight chance of
-thunderstorms. Highs in the mid 70s. Northeast winds around 10 mph.
-.THANKSGIVING DAY...Mostly sunny. Highs in the mid 70s. Northwest
-winds around 10 mph.
+.WEDNESDAY...Mostly cloudy. A chance of showers. Highs in the mid
+70s. Northeast winds around 10 mph.
+.THANKSGIVING DAY...Mostly sunny. Highs in the mid 70s. West winds
+around 10 mph.
 
 &&
 
@@ -195,22 +195,21 @@ FLZ159-164-222100-
 Coastal Saint Lucie-Coastal Martin-
 Including the beaches of Fort Pierce Inlet, Jensen Beach,
 St Lucie Inlet, and Hobe Sound
-300 AM EST Sun Nov 22 2026
+1100 AM EST Sun Nov 22 2026
 
-...HIGH RIP CURRENT RISK IN EFFECT THROUGH THIS EVENING...
+...HIGH RIP CURRENT RISK IN EFFECT UNTIL 7 PM EST THIS EVENING...
 
-.TODAY...
+.REST OF TODAY...
 Rip Current Risk*...........High.
 Surf Height.................3 to 4 feet.
 Thunderstorm Potential**....None.
 UV Index**..................Moderate.
 Water Temperature...........In the upper 70s.
-Weather.....................Sunny.
+Weather.....................Mostly sunny.
 High Temperature............Around 80.
 Winds.......................West winds around 10 mph.
 Tides...
-   Fort Pierce Inlet........High 2.6 feet (MLLW) 06:02 AM EST.
-                            Low 0.3 feet (MLLW) 12:12 PM EST.
+   Fort Pierce Inlet........Low 0.3 feet (MLLW) 12:12 PM EST.
                             High 1.9 feet (MLLW) 05:52 PM EST.
 Sunrise.....................6:46 AM.
 Sunset......................5:28 PM.
@@ -220,7 +219,7 @@ Rip Current Risk*...........Moderate.
 Surf Height.................Around 3 feet.
 Thunderstorm Potential**....None.
 Weather.....................Partly sunny.
-High Temperature............In the upper 70s.
+High Temperature............In the mid 70s.
 Winds.......................Northwest winds around 5 mph.
 Tides...
    Fort Pierce Inlet........High 2.7 feet (MLLW) 06:49 AM EST.
@@ -229,11 +228,11 @@ Sunrise.....................6:47 AM.
 Sunset......................5:28 PM.
 
 .TUESDAY...Mostly cloudy. A slight chance of showers. Highs in the
-upper 70s. North winds around 10 mph.
-.WEDNESDAY...Mostly cloudy. Showers likely and a slight chance of
+upper 70s. Northeast winds around 10 mph.
+.WEDNESDAY...Mostly cloudy. Showers and a slight chance of
 thunderstorms. Highs in the upper 70s. Northeast winds around 5 mph.
-.THANKSGIVING DAY...Mostly sunny. Highs in the mid 70s. Northwest
-winds around 10 mph.
+.THANKSGIVING DAY...Mostly sunny. Highs in the upper 70s. West winds
+around 10 mph.
 
 &&
 
