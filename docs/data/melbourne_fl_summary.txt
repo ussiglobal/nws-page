@@ -1,70 +1,59 @@
 ===============================
 🌤 Melbourne, FL WEATHER SUMMARY
-Generated: Nov 21, 2026 • 9:00 PM
+Generated: Nov 21, 2026 • 10:00 PM
 ===============================
 
 📅 Forecast:
 • Today:    Sunday — Mostly Sunny. High: 80°F; Rain: 4% ; Wind: 10 to 15 mph WSW
-• Tonight:  Tonight — Chance Showers And Thunderstorms then Partly Cloudy. Low: 67°F; Rain: 34% ; Wind: 10 mph SSW
+• Tonight:  Tonight — Slight Chance Rain Showers then Partly Cloudy. Low: 67°F; Rain: 22% ; Wind: 10 mph SSW
 • Tomorrow: Monday — High: 76°F; Low: 62°F; Rain: 0% ; Wind: 5 to 10 mph NNW
 🌡️ Current Conditions:
-Temp: 73.4°F (23°C) · Humidity: 94.1%
+Temp: 73.4°F (23°C) · Humidity: 88.5%
 
 🛥️ Marine Weather Statement:
-947
-FZUS72 KMLB 220154
+626
+FZUS72 KMLB 220256
 MWSMLB
 
 Marine Weather Statement
 National Weather Service Melbourne FL
-854 PM EST Sat Nov 21 2026
+956 PM EST Sat Nov 21 2026
 
-AMZ552-555-575-220230-
-/O.CON.KMLB.MA.W.0355.000000T0000Z-261122T0230Z/
-854 PM EST Sat Nov 21 2026
+AMZ555-220400-
+956 PM EST Sat Nov 21 2026
 
-...SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 930 PM EST...
+...A STRONG THUNDERSTORM APPROACHING THE TREASURE COAST WATERS...
 
-For the following areas...
-Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+A Marine Weather Statement has been issued for the following areas...
 Sebastian Inlet to Jupiter Inlet 0-20 nm...
-Sebastian Inlet to Jupiter Inlet 20-60 nm...
 
-At 854 PM EST, a severe thunderstorm capable of producing waterspouts
-was located over Vero Beach South, moving northeast at 20 knots.
-
-HAZARD...Waterspouts and wind gusts to 40 knots.
-
-SOURCE...Radar indicated.
-
-IMPACT...Waterspouts can easily overturn boats and create locally
-         hazardous seas. Small craft could be damaged in briefly
-         higher winds and suddenly higher waves.
+* At 956 PM EST, Doppler radar indicated a strong thunderstorm,
+  capable of producing winds to around 30 knots. This a strong
+  thunderstorm was located over Port Saint Lucie, moving northeast at
+  20 knots.
 
 Locations impacted include...
-  Jaycee Beach, Floralton Beach, Moorings Of Vero Beach, Indian River
-  Shores, South Beach, Vero Beach, Disneys Vero Beach Resort, Wabasso
-  Beach, Gifford, Winter Beach, Florida Ridge, Orchid, Queens Cove,
-  Vero Beach South, Pepper Beach Park, Wabasso, Indrio, North Beach,
-  Lakewood Park and Saint Lucie Village.
+  Frederick Douglass Park, Surfside Park, Saint Lucie Nuclear Power
+  Plant, Fort Pierce Ocean Park, Fort Pierce Inlet, Hutchinson Island
+  South, Pepper Beach Park, Indian River Estates, Nettles Island,
+  Fort Pierce, Queens Cove, Walton, Waveland, Saint Lucie Village,
+  Saint Lucie, Fort Pierce North, Indrio and Ocean Breeze Park.
 
 PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-Move to safe harbor until hazardous weather passes.
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, lightning strikes, and heavy downpours. Boaters should seek
+safe harbor immediately until this storm passes.
 
 &&
 
-LAT...LON 2788 8054 2797 8012 2789 8009 2790 8006
-      2756 7988 2743 8034 2744 8034 2746 8036
-      2765 8040
-TIME...MOT...LOC 0128Z 237DEG 18KT 2757 8055
-
-WATERSPOUT...POSSIBLE
-MAX HAIL SIZE...0.00 IN
-MAX WIND GUST...40 KTS
+LAT...LON 2768 8042 2772 8003 2758 7998 2729 7984
+      2715 8028 2723 8035 2726 8036 2729 8034
+      2729 8031 2724 8025 2738 8032 2744 8034
+      2746 8036 2765 8040
+TIME...MOT...LOC 0255Z 236DEG 20KT 2724 8035
 
 $$
-
 Heil
 
 🌊 Surf Forecast (rip-current, surf height, UV, etc.):
